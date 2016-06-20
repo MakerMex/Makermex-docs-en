@@ -1,0 +1,158 @@
+**********************
+Impresora 3D Prusa i3
+**********************
+
+General
+==================
++-------------------------+
+|ESPECIFICACIONES TÉCNICAS|
++-------------------------+
+
+
+    * Área de Impresión: 20 x 20 x 20 cm
+    * Volumen de Impresora (Aproximado): 46 x 47 x 43 cm
+    * Peso Aproximado: 12 Kg
+    * Voltaje: 12 V
+    * Tarjeta controladora: RAMPS V1.4
+    * Boquilla extrusora J-Head de 0.4 mm.
+    * Material de Impresión: Filamento plástico fundido.
+    * Resolución: 0.1mm a 0.3mm  • Resolución Recomendada: 0.2 mm
+    * 5 Motores Nema 17
+
+
++----------------------------------------+
+|En la compra de tu impresora se incluye:|
++----------------------------------------+
+
+
+    * Fuente de Alimentación 500 W.
+    * Cable USB A – B.
+    * Desarmador de cerámica.
+    * Todos nuestros manuales, tutoriales y software Cura y Pronterface (Disponibles en la Wiki Oficial de MakerMex).
+    * 2 horas de asesoría por video-llamada o presencial.
+    * Soporte y reemplazo de piezas fácilmente accesible.
+
+
+
+Unboxig
+==================
+
+
+
+.. raw:: html
+
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/_w0Xr8k1GZM" frameborder="0" allowfullscreen></iframe>
+
+
+Primera Impresión
+==================
+
+
+
+Descarga de Software
+--------------------
+
+
+ .. list-table::
+
+    * - .. figure:: /imagenes/cu.png
+                             :width: 150px
+
+
+      - .. figure:: /imagenes/pronterface.png
+                             :width: 150px
+
+
+      - .. figure:: /imagenes/Blender_logo.png
+                             :width: 150px
+
+
+
+CALIBRAR LA IMPRESORA
+-----------------------
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/y3hO5fFnZTY" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+Gurdar como perfil mis parámetros de cura
+-------------------------------------------
+
+
+  En cura podemos utilizar herramientas muy interesantes una de ellas es guardar como un backup los parámetros
+  que usamos en nuestras impresiones.
+  Por ejemplo:
+  podemos utilizar la misma plataforma de parámetros, para muchos materiales, solo cambian la temperatura
+  impresión, en ocasiones confundimos la temperatura de algunos materiales para evitar esto podemos guardar en
+  un archivo .ini los parámetros adecuados para cada material o como un archivo de respaldo en caso de cambiar
+  de versiones de cura.
+
+  Veamos como se lleva acabo este proceso.
+
+
+* Paso1
+
+
+Dentro de cura seleccionamos la pestaña de file como se ve en la imagen.
+Una vez seleccionada la pestaña da clic en ella.
+
+
+.. figure:: /imagenes/1.png
+
+
+* Paso 2
+
+
+Selecciona la pestaña de Save Profile,
+se abrirá una ventana, donde puedes seleccionar el lugar
+donde quieres que se guarde el archivo.
+
+
+.. figure:: /imagenes/2.png
+
+
+Una vez seleccionado el lugar, escribes el nombre de tu archivo
+y le das a Guardar.
+Y así quedaran guardados todos los parámetros de cura
+
+
+.. figure:: /imagenes/3.png
+
+
+
+Cargar el perfil con los parámetros de cura
+---------------------------------------------
+
+
+* Paso 1
+
+
+Dentro de cura seleccionamos la pestaña de file como se ve
+en la imagen
+Una vez seleccionada la pestaña da clic en ella.
+
+
+.. figure:: /imagenes/4.png
+
+
+* Paso 2
+
+
+Seleccionamos la pestaña de Open Profile, y se abrirá una
+ventana donde buscara los archivos .ini que hayamos guardado
+anteriormente.
+Seleccionamos nuestro archivo y le damos a abrir y en
+automático cargara los parámetros que contiene.
+
+
+.. figure:: /imagenes/5.png
+
+
+Espero sea de ayuda este Tip Makeramigos.
+
+
+Problemas Frecuentes
+======================
