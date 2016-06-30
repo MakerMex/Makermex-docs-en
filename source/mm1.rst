@@ -30,18 +30,27 @@ General
 +------------------------+
 
 1.- Cable USB
+
 2.- Cable de fuente
+
 3.- Tarjeta SD
+
 4.- Z mecánico
+
 5.- Seguro doble extrusor
+
 6.- Soporte filamento
+
 7.- Kit cable Rep Rap
+
 8.- Desarmador cerámico
+
 9.- Kit refacciones de boquilla Hexagón
     a) Opresores
     b) Llave Allen
     c) Llave española
     d) Placa de aluminio
+
 10.- Kit refacciones generales
     a) Lector tarjeta SD
     b) Juego de termistores
@@ -98,7 +107,7 @@ Hola Maker Amigo para proceder a desempacar tu MM1 deberás utilizar dos herrami
 
 .. Note::
 
-          NOTA : en caso de contar con un destornillador, puedes usar un desrmador de cruz para retirar las pijas.
+  En caso de contar con un destornillador, puedes usar un desrmador de cruz para retirar las pijas.
 
 
 Paso 1
