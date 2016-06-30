@@ -88,7 +88,7 @@ video-llamada o presencial ( Se agenda con un día de anticipación).
 - Soporte personalizado.
 
 
-Unboxig
+Unboxing
 ===========
 
 Hola Maker Amigo para proceder a desempacar tu MM1 deberás utilizar dos herramientas
