@@ -1344,6 +1344,8 @@ a la boquilla
   pinzas de corte.
   
   
+  
+  
  .. list-table::
 
     * - .. figure:: /imagenes/pri10.jpg
@@ -1358,7 +1360,7 @@ a la boquilla
                              :width: 320px 
 
 
- .. list-table::
+.. list-table::
  
     * - .. figure:: /imagenes/pri13.jpg
                              :width: 320px
@@ -1376,7 +1378,11 @@ a la boquilla
                              :width: 320px
   
   
-  Paso 3 encendemos la impresora y calentamos la boquilla para PLA 204°C o ABS 230°C
+  
+  Paso 3 
+  
+  
+  encendemos la impresora y calentamos la boquilla para PLA 204°C o ABS 230°C
   
  
   .. list-table::
