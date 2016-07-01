@@ -1341,7 +1341,7 @@ a la boquilla
   la punta que le sacaremos al filamento es para
   que sea una guía al momento de introducirlo en el tubo, lo
   hacemos de dos maneras: saca puntas de metal y con
-  pinzas de corte.
+  pinzas de corte
   
   
   
@@ -1362,56 +1362,56 @@ a la boquilla
 
 .. list-table::
  
-    * - .. figure:: /imagenes/pri13.jpg
+   * - .. figure:: /imagenes/pri13.jpg
                              :width: 320px
 
 
-      - .. figure:: /imagenes/pri14.jpg
+     - .. figure:: /imagenes/pri14.jpg
                              :width: 320px
 
 
-    * - .. figure:: /imagenes/pri15.jpg
+   * - .. figure:: /imagenes/pri15.jpg
                              :width: 320px
 
 
-      - .. figure:: /imagenes/pri16.jpg
+     - .. figure:: /imagenes/pri16.jpg
                              :width: 320px
   
   
   
-  Paso 3 
+Paso 3 
   
   
-  encendemos la impresora y calentamos la boquilla para PLA 204°C o ABS 230°C
-  
- 
-  .. list-table::
+encendemos la impresora y calentamos la boquilla para PLA 204°C o ABS 230°C
 
-     * - .. figure:: /imagenes/pri17.jpg
+
+.. list-table::
+
+   * - .. figure:: /imagenes/pri17.jpg
                              :width: 320px
 
 
-       - .. figure:: /imagenes/pri18.jpg
+     - .. figure:: /imagenes/pri18.jpg
                              :width: 320px
 
 
-     * - .. figure:: /imagenes/pri19.jpg
+   * - .. figure:: /imagenes/pri19.jpg
                              :width: 320px
 
 
-       - .. figure:: /imagenes/pri20.jpg
+     - .. figure:: /imagenes/pri20.jpg
                              :width: 320px
 
 
-     * - .. figure:: /imagenes/pri21.jpg
+   * - .. figure:: /imagenes/pri21.jpg
                              :width: 320px
 
 
-       - .. figure:: /imagenes/pri22.jpg
+     - .. figure:: /imagenes/pri22.jpg
                              :width: 320px 
-  
-  
-  Paso 4 
+
+
+Paso 4 
   
   
 una vez que ya subió la temperatura daremos un poco mas de vueltas al engrane Grande, hasta
