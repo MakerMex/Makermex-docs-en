@@ -1301,12 +1301,258 @@ el clip, y conectar sus cables.
       - .. figure:: /imagenes/pri6.jpg
                              :width: 320px
 
+    * - .. figure:: /imagenes/pri3.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri4.jpg
+                             :width: 320px
+
+
+    * - .. figure:: /imagenes/pri5.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri6.jpg
+                             :width: 320px
+
 
     * - .. figure:: /imagenes/pri7.jpg
                              :width: 320px
 
 
       - .. figure:: /imagenes/pri8.jpg
+                             :width: 320px
+
+
+Paso 2
+
+
+Colocar el Tubo Bowden en el conector del sistema
+extrusor, sacar punta al filamento e introducir el filamento
+a la boquilla
+
+
+ .. figure:: /imagenes/pri9.jpg
+ 
+ 
+.. note:: 
+  la punta que le sacaremos al filamento es para
+  que sea una guía al momento de introducirlo en el tubo, lo
+  hacemos de dos maneras: saca puntas de metal y con
+  pinzas de corte.
+  
+  
+ .. list-table::
+
+    * - .. figure:: /imagenes/pri10.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri11.jpg
+                             :width: 320px  
+  
+  
+      - .. figure:: /imagenes/pri12.jpg
+                             :width: 320px 
+
+
+    * - .. figure:: /imagenes/pri13.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri14.jpg
+                             :width: 320px
+
+
+    * - .. figure:: /imagenes/pri15.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri16.jpg
+                             :width: 320px
+  
+  
+  Paso 3 encendemos la impresora y calentamos la boquilla para PLA 204°C o ABS 230°C
+  
+ 
+  .. list-table::
+
+    * - .. figure:: /imagenes/pri17.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri18.jpg
+                             :width: 320px
+
+
+    * - .. figure:: /imagenes/pri19.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri20.jpg
+                             :width: 320px
+
+
+    * - .. figure:: /imagenes/pri21.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri22.jpg
+                             :width: 320px 
+  
+  
+  Paso 4 
+  
+  
+una vez que ya subió la temperatura daremos un poco mas de vueltas al engrane Grande, hasta
+que comience a salir material de la boquilla como se ve en las imágenes una vez que el material ya
+salio por la punta de la boquilla, esta colocado el material correctamente.
+Nota :este proceso es el mismo para poder retirar el material, se calienta la boquilla y se retira el
+filamento girando los engranes en sentido normal a las manecillas del reloj.
+Este paso se hace para cambiar el filamento o retirar un sobrante y colocar un carrete nuevo.
+
+
+.. list-table::
+
+    * - .. figure:: /imagenes/pri23.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri24.jpg
+                             :width: 320px
+
+
+Paso 5
+
+
+mandamos a imprimir desde la tarjeta SD se hace lo siguiente, la tarjeta llevará un código G, puedes
+usar este código o puedes cargar un código de una pieza que tu desees, no olvides que para esto deberás
+realizar tu código G como se muestra de la siguiente forma.
+
+
+1 abres cura y das clic en Load, se abrirá una ventana en la cual vas a buscar y seleccionar el archivo
+STL que previamente has modelado.
+
+
+Ya seleccionado le das abrir.
+Así como se muestra en las imágenes 1 y 2
+Inmediatamente en cuanto des clic en abrir el archivo STL se cargara en cura (imagen 3)
+
+
+.. figure:: /imagenes/pri25.png
+
+
+.. figure:: /imagenes/pri26.png
+
+
+.. figure:: /imagenes/pri27.png
+
+
+2 retira la memoria SD de la impresora, e inserta en tu computadora y observa bien los iconos como
+cambian cuando insertas la memoria, en automático puedes guardar tu código en la tarjeta SD dando
+clic sobre el icono de SD.
+
+
+.. list-table::
+
+    * - .. figure:: /imagenes/pri28.png
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri29.png
+                             :width: 320px
+
+
+Una vez que das clic en el icono SD se ha guardado tu código en la tarjeta y deberás sacarla hasta que
+te aparezca la leyenda de que se guardo en la SD.
+
+
+.. figure:: /imagenes/pri30.png
+
+
+Paso 6
+
+
+Listo puedes sacar tu SD y volverla a colocar en la impresora encender la impresora y mandar a
+imprimir.
+
+
+.. list-table::
+
+    * - .. figure:: /imagenes/pri31.png
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri32.png
+                             :width: 320px
+
+
+Listo la impresora comenzará a calentar la cama caliente y después la boquilla, o solo comenzará a
+calentar ambas partes, esto se debe a la versión de cura que hayas descargado.
+
+
+.. list-table::
+
+    * - .. figure:: /imagenes/pri33.png
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri34.png
+                             :width: 320px
+
+
+En cuanto la temperatura que colocamos en el Código G llegue en la pantalla comenzará a imprimir, lo
+primero que hará es irse a su origen de los ejes X,Y y Z. Y sacara un poco de material y se va a hacia
+el centro, para comenzar a imprimir.
+
+
+La primer capa siempre es la mas importante debe de quedar así como se muestra en las imágenes.
+Ya después de esto la impresora hará su trabajo imprimir.
+
+
+.. list-table::
+
+    * - .. figure:: /imagenes/pri35.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri36.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri37.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri38.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri39.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri40.jpg
+                             :width: 320px
+
+
+Ya que termino la impresión solo retiramos la pieza con ayuda de un cutter o una espátula tratamos de
+levantar la pieza por una esquina y hacemos una palanca para que comience a desprenderse, también
+podemos apoyarnos con las manos para despegarla.
+
+
+.. list-table::
+
+    * - .. figure:: /imagenes/pri41.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri42.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri43.jpg
                              :width: 320px
 
 
