@@ -1358,6 +1358,8 @@ a la boquilla
                              :width: 320px 
 
 
+ .. list-table::
+ 
     * - .. figure:: /imagenes/pri13.jpg
                              :width: 320px
 
@@ -1379,27 +1381,27 @@ a la boquilla
  
   .. list-table::
 
-    * - .. figure:: /imagenes/pri17.jpg
+     * - .. figure:: /imagenes/pri17.jpg
                              :width: 320px
 
 
-      - .. figure:: /imagenes/pri18.jpg
+       - .. figure:: /imagenes/pri18.jpg
                              :width: 320px
 
 
-    * - .. figure:: /imagenes/pri19.jpg
+     * - .. figure:: /imagenes/pri19.jpg
                              :width: 320px
 
 
-      - .. figure:: /imagenes/pri20.jpg
+       - .. figure:: /imagenes/pri20.jpg
                              :width: 320px
 
 
-    * - .. figure:: /imagenes/pri21.jpg
+     * - .. figure:: /imagenes/pri21.jpg
                              :width: 320px
 
 
-      - .. figure:: /imagenes/pri22.jpg
+       - .. figure:: /imagenes/pri22.jpg
                              :width: 320px 
   
   
