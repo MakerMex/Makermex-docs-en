@@ -1263,5 +1263,14 @@ Repetimos los mismos pasos para el otro extremo.
 Y listo ya tienes tu cama calibrada y tu impresora lista para imprimir tus diseños.
 
 
+
+¡ Ya desempacaste tu impresora ahora vamos a ponerla a imprimir !
+
+Si tu módulo esta suelto se coloca de la siguiente manera, lo deberás colocar en la cruz y sujetarlo con
+
+el clip, y conectar su cables.
+
+
+
 Problemas Frecuentes
 ======================
