@@ -1480,11 +1480,11 @@ imprimir.
 
 .. list-table::
 
-    * - .. figure:: /imagenes/pri31.png
+    * - .. figure:: /imagenes/pri31.jpg
                              :width: 320px
 
 
-      - .. figure:: /imagenes/pri32.png
+      - .. figure:: /imagenes/pri32.jpg
                              :width: 320px
 
 
@@ -1494,11 +1494,11 @@ calentar ambas partes, esto se debe a la versión de cura que hayas descargado.
 
 .. list-table::
 
-    * - .. figure:: /imagenes/pri33.png
+    * - .. figure:: /imagenes/pri33.jpg
                              :width: 320px
 
 
-      - .. figure:: /imagenes/pri34.png
+      - .. figure:: /imagenes/pri34.jpg
                              :width: 320px
 
 
