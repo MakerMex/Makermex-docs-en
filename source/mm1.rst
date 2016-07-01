@@ -1301,6 +1301,7 @@ el clip, y conectar sus cables.
       - .. figure:: /imagenes/pri6.jpg
                              :width: 320px
 
+
     * - .. figure:: /imagenes/pri3.jpg
                              :width: 320px
 
@@ -1408,9 +1409,12 @@ a la boquilla
 una vez que ya subió la temperatura daremos un poco mas de vueltas al engrane Grande, hasta
 que comience a salir material de la boquilla como se ve en las imágenes una vez que el material ya
 salio por la punta de la boquilla, esta colocado el material correctamente.
-Nota :este proceso es el mismo para poder retirar el material, se calienta la boquilla y se retira el
-filamento girando los engranes en sentido normal a las manecillas del reloj.
-Este paso se hace para cambiar el filamento o retirar un sobrante y colocar un carrete nuevo.
+
+
+.. note::
+   este proceso es el mismo para poder retirar el material, se calienta la boquilla y se retira el
+   filamento girando los engranes en sentido normal a las manecillas del reloj.
+   Este paso se hace para cambiar el filamento o retirar un sobrante y colocar un carrete nuevo.
 
 
 .. list-table::
