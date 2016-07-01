@@ -1266,6 +1266,7 @@ Y listo ya tienes tu cama calibrada y tu impresora lista para imprimir tus dise�
 
 ¡ Ya desempacaste tu impresora ahora vamos a ponerla a imprimir !
 
+
 Paso 1 
 
 
@@ -1273,6 +1274,40 @@ Si tu módulo esta suelto se coloca de la siguiente manera, lo deberás colocar 
 
 el clip, y conectar sus cables.
 
+
+
+ .. list-table::
+
+    * - .. figure:: /imagenes/pri1.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri2.jpg
+                             :width: 320px
+
+
+    * - .. figure:: /imagenes/pri3.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri4.jpg
+                             :width: 320px
+
+
+    * - .. figure:: /imagenes/pri5.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri6.jpg
+                             :width: 320px
+
+
+    * - .. figure:: /imagenes/pri7.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/pri8.jpg
+                             :width: 320px
 
 
 
