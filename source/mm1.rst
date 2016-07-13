@@ -1276,22 +1276,6 @@ el clip, y conectar sus cables.
 
 
 
- .. list-table::
-
-    * - .. figure:: /imagenes/pri1.jpg
-                             :width: 320px
-
-
-      - .. figure:: /imagenes/pri2.jpg
-                             :width: 320px
-
-
-    * - .. figure:: /imagenes/pri3.jpg
-                             :width: 320px
-
-
-      - .. figure:: /imagenes/pri4.jpg
-                             :width: 320px
 
 
     * - .. figure:: /imagenes/pri5.jpg
@@ -1385,30 +1369,6 @@ Paso 3
 encendemos la impresora y calentamos la boquilla para PLA 204°C o ABS 230°C
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/pri17.jpg
-                             :width: 320px
-
-
-     - .. figure:: /imagenes/pri18.jpg
-                             :width: 320px
-
-
-   * - .. figure:: /imagenes/pri19.jpg
-                             :width: 320px
-
-
-     - .. figure:: /imagenes/pri20.jpg
-                             :width: 320px
-
-
-   * - .. figure:: /imagenes/pri21.jpg
-                             :width: 320px
-
-
-     - .. figure:: /imagenes/pri22.jpg
-                             :width: 320px 
 
 
 Paso 4 
@@ -1554,19 +1514,142 @@ levantar la pieza por una esquina y hacemos una palanca para que comience a desp
 podemos apoyarnos con las manos para despegarla.
 
 
+
+Módulos 
+=========
+
+
+Módulo Flexy 
+--------------
+
+
+Este modulo te sirve para poder imprimir con materiales flexibles, como el Ninjaflex, el TPE, PLA Soft entre  otros más.
+
+Te invitamos a que revises este pequeño manual para que puedas hacer un buen uso de tu Módulo Flexy.
+
+
+Hola Maker-Amigos en este manual vamos a colocar nuestro módulo Flexy e imprimir con el. 
+
+bien identifiquemos sus componentes de este Módulo
+
+
+.. figure:: /imagenes/fle1.jpg
+
+
+* 1 Módulo inferior  (boquilla )
+
+
+* 2 Módulo superior (Extrusor)
+
+
+* 3 Guía de filamento 
+
+
+* 4 cable de Motor para extrusor 
+
+
+* 5 3 tornillos M3x16mm
+
+.. ojo:: 
+   Estas piezas son indispensables y únicas para poder montar y usar tu Módulo Flexyble.
+
+
++------+
+|Paso 1|
++------+
+
+
+colocaremos el Módulo 1 por debajo de la cruz hasta que tope como se ven en las imágenes.
+
 .. list-table::
 
-    * - .. figure:: /imagenes/pri41.jpg
+    * - .. figure:: /imagenes/fle2.jpg
+                             :width: 500px
+
+
+      - .. figure:: /imagenes/fle3.jpg
+                             :width: 500px
+
+
+Paso 2
+
+Ahora colocamos nuestro clip de sujeción 
+
+
+.. list-table::
+
+    * - .. figure:: /imagenes/fle3.jpg
+                             :width: 500px
+
+
+      - .. figure:: /imagenes/fle4.jpg
+                             :width: 500px
+
+
+      - .. figure:: /imagenes/fle5.jpg
+                             :width: 500px
+
+
+hasta este punto el módulo 1 esta anclado a la cruz central.
+
+
+Paso 3  
+
+
+colocamos el módulo 2 en la parte superior del módulo 1 como se ve en la imagen
+
+
+.. figure:: /imagenes/fle6.jpg
+
+
+El Módulo 2  debe de embonar bien con el Módulo 1
+
+
+Paso 4 
+
+
+ahora colocaremos los tornillos M3x16mm para unir y fijar ambas parte del Módulo Flexy.
+
+
+.. figure:: /imagenes/fle7.jpg
+
+
+..nota::
+  para poder atornillar usamos una llave allen de 2.5mm 
+  
+  
+  
+  Gira un poco el engrane para poder colocar los dos tornillos que van en la parte que señala la flecha.
+
+
+.. list-table::
+
+    * - .. figure:: /imagenes/fle8.jpg
                              :width: 320px
 
 
-      - .. figure:: /imagenes/pri42.jpg
+      - .. figure:: /imagenes/fle9.jpg
                              :width: 320px
 
 
-      - .. figure:: /imagenes/pri43.jpg
+      - .. figure:: /imagenes/fle10.jpg
                              :width: 320px
 
+
+Paso 5
+
+
+colocamos la guiá de filamento en el perfil superior trasero como se ve en las imágenes.
+
+
+.. list-figure::
+
+    * - .. figure:: /imagenes/fle11.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/fle12.jpg
+                             :width: 320px
 
 
 
