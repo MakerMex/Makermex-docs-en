@@ -1523,7 +1523,7 @@ Módulo Flexy
 --------------
 
 
-Este modulo te sirve para poder imprimir con materiales flexibles, como el Ninjaflex, el TPE, PLA Soft entre  otros más.
+Este módulo te sirve para poder imprimir con materiales flexibles, como el Ninjaflex, el TPE, PLA Soft entre  otros más.
 
 Te invitamos a que revises este pequeño manual para que puedas hacer un buen uso de tu Módulo Flexy.
 
@@ -1536,19 +1536,19 @@ bien identifiquemos sus componentes de este Módulo
 .. figure:: /imagenes/fle1.jpg
 
 
-* 1 Módulo inferior  (boquilla )
+* 1  Módulo inferior  (boquilla )
 
 
-* 2 Módulo superior (Extrusor)
+* 2  Módulo superior (Extrusor)
 
 
-* 3 Guía de filamento 
+* 3  Guía de filamento 
 
 
-* 4 cable de Motor para extrusor 
+* 4  cable de motor para extrusor 
 
 
-* 5 3 tornillos M3x16mm
+* 5  tres tornillos M3x16mm
 
 .. note:: 
    Estas piezas son indispensables y únicas para poder montar y usar tu Módulo Flexyble.
@@ -1613,31 +1613,31 @@ El Módulo 2  debe de embonar bien con el Módulo 1
 +------+
 
 
-ahora colocaremos los tornillos M3x16mm para unir y fijar ambas parte del Módulo Flexy.
+ahora colocaremos los tornillos M3x16mm para unir y fijar ambas partes del Módulo Flexy.
 
 
 .. figure:: /imagenes/fle8.jpg
 
 
 .. note::
-   para poder atornillar usamos una llave allen de 2.5mm 
+   para poder atornillar usamos una llave allen ¨L¨ de 2.5mm 
   
   
   
-  Gira un poco el engrane para poder colocar los dos tornillos que van en la parte que señala la flecha.
+  Gira un poco el engrane grande  para poder colocar los dos tornillos que van en la parte que señala la flecha.
 
 
 .. list-table::
 
-    * - .. figure:: /imagenes/fle10.jpg
+    * - .. figure:: /imagenes/fle9.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/fle10.jpg
                              :width: 320px
 
 
       - .. figure:: /imagenes/fle11.jpg
-                             :width: 320px
-
-
-      - .. figure:: /imagenes/fle12.jpg
                              :width: 320px
 
 +------+
@@ -1645,16 +1645,16 @@ ahora colocaremos los tornillos M3x16mm para unir y fijar ambas parte del Módul
 +------+
 
 
-colocamos la guiá de filamento en el perfil superior trasero como se ve en las imágenes.
+colocamos la guía de filamento en el perfil superior trasero como se ve en las imágenes.
 
 
 .. list-table::
 
-    * - .. figure:: /imagenes/fle13.jpg
+    * - .. figure:: /imagenes/fle12.jpg
                              :width: 320px
 
 
-      - .. figure:: /imagenes/fle14.jpg
+      - .. figure:: /imagenes/fle13.jpg
                              :width: 320px
 
 +------+
@@ -1665,10 +1665,10 @@ colocamos la guiá de filamento en el perfil superior trasero como se ve en las 
 vamos a conectar los cables del módulo, pasamos los cables por encima del perfil superior izquierdo y  conectamos los cables.
 
 
+.. figure:: /imagenes/fle14.jpg
+
+
 .. figure:: /imagenes/fle15.jpg
-
-
-.. figure:: /imagenes/fle16.jpg
 
 +------+
 |Paso 7|
@@ -1686,14 +1686,14 @@ Ya que conectaste todos los conectores pasamos a conectar el motor con su cable.
 Primero conectamos el motor
 
 
-.. figure:: /imagenes/fle17.jpg
+.. figure:: /imagenes/fle16.jpg
 
 
 Después conectamos este cable en la parte que dice M1 de la parte  
 trasera de la impresora
 
 
-.. figure:: /imagenes/fle18.jpg
+.. figure:: /imagenes/fle17.jpg
 
 +------+
 |Paso 8| 
@@ -1704,33 +1704,31 @@ Por último vamos a colocar el filamento y sacar un código G, de cura para pode
 para poder meter el filamento a la boquilla usamos los siguientes pasos 
 
 
-* 1 enciende la impresora
+* 1  enciende la impresora
 
 
-* 2 da un clic a la perilla, gira la perilla y selecciona control da clic
+* 2  da un clic a la perilla, gira la perilla y selecciona control da clic
 
 
-* 3 una vez dentro del menú de control selecciona temperature y da clic 
+* 3  una vez dentro del menú de control selecciona temperature y da clic 
 
 
-* 4 selecciona Nozzle y da clic 
+* 4  selecciona Nozzle y da clic 
 
 
-* 5 sebe la temperatura según el material que vayas a usar  y da clic para que comience a calentar.
+* 5  sebe la temperatura según el material que vayas a usar  y da clic para que comience a calentar.
 
 
+.. tip::
+    a) ninjaflex y TPE  225°C
 
-
-a) ninjaflex y TPE  225°C
-
-
-b) PLA soft 208°C 
+    b) PLA soft 208°C 
   
   
   
 
-Una vez que este caliente la boquilla metemos el filamento por la guiá como se muestra en las imágenes  y lo llevamos hasta el
-orificio que esta en el modulo 2 y giramos el engrane grande en sentido normal a las manecillas del reloj, para que el filamento
+Una vez que este caliente la boquilla metemos el filamento por la guía como se muestra en las imágenes y lo llevamos hasta el
+orificio que esta en el módulo 2 y giramos el engrane grande en sentido normal a las manecillas del reloj, para que el filamento
 llegue hasta la boquilla.
 Cuando esto pase se vera que sale como un hilo pequeño de la boquilla y el filamento estará listo para usarse.
 
@@ -1743,11 +1741,11 @@ puede ocasionarnos un atasco,porque el calor se irradiaría en todo su cuerpo.
 
 .. list-table::
 
-    * - .. figure:: /imagenes/fle19.jpg
+    * - .. figure:: /imagenes/fle18.jpg
                              :width: 320px
 
 
-      - .. figure:: /imagenes/fle20.jpg
+      - .. figure:: /imagenes/fle19.jpg
                              :width: 320px
 
 
@@ -1775,11 +1773,11 @@ Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
 
 .. list-table::
 
-    * - .. figure:: /imagenes/fle21.png
+    * - .. figure:: /imagenes/fle20.png
                              :width: 320px
 
 
-      - .. figure:: /imagenes/fle22.png
+      - .. figure:: /imagenes/fle21.png
                              :width: 320px
 
 
@@ -1788,11 +1786,11 @@ Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
    
  .. list-table::
 
-    * - .. figure:: /imagenes/fle23.png
+    * - .. figure:: /imagenes/fle22.png
                              :width: 320px
 
 
-      - .. figure:: /imagenes/fle24.png
+      - .. figure:: /imagenes/fle23.png
                              :width: 320px  
 
 
@@ -1800,15 +1798,16 @@ Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
 
 .. list-table::
 
-    * - .. figure:: /imagenes/fle25.png
+    * - .. figure:: /imagenes/fle24.png
                              :width: 320px
 
 
-      - .. figure:: /imagenes/fle26.png
+      - .. figure:: /imagenes/fle25.png
                              :width: 320px
 
 
 Listo amigos una vez que tenemos estos parámetros en nuestro cura podemos sacar nuestro código G en la tarjeta SD y mandar a imprimir
+como lo hemos hevho en la primera impresión.
 
 
 
