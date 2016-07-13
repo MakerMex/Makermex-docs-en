@@ -1670,8 +1670,11 @@ vamos a conectar los cables del módulo, pasamos los cables por encima del perfi
 
 .. figure:: /imagenes/fle16.jpg
 
++------+
+|Paso 7|
++------+
 
-Paso 7
+
 Ya que conectaste todos los conectores pasamos a conectar el motor con su cable.
 
 
@@ -1693,7 +1696,7 @@ trasera de la impresora
 .. figure:: /imagenes/fle18.jpg
 
 +------+
-|paso 8| 
+|Paso 8| 
 +------+
 
 
@@ -1722,6 +1725,8 @@ a) ninjaflex y TPE  225°C
 
 
 b) PLA soft 208°C 
+  
+  
   
 
 Una vez que este caliente la boquilla metemos el filamento por la guiá como se muestra en las imágenes  y lo llevamos hasta el
