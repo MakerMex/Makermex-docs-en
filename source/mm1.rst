@@ -1550,7 +1550,7 @@ bien identifiquemos sus componentes de este Módulo
 
 * 5 3 tornillos M3x16mm
 
-.. ojo:: 
+.. note:: 
    Estas piezas son indispensables y únicas para poder montar y usar tu Módulo Flexyble.
 
 
@@ -1570,19 +1570,17 @@ colocaremos el Módulo 1 por debajo de la cruz hasta que tope como se ven en las
       - .. figure:: /imagenes/fle3.jpg
                              :width: 500px
 
++------+
+|Paso 2|
++------+
 
-Paso 2
 
 Ahora colocamos nuestro clip de sujeción 
 
 
 .. list-table::
 
-    * - .. figure:: /imagenes/fle3.jpg
-                             :width: 500px
-
-
-      - .. figure:: /imagenes/fle4.jpg
+    * - .. figure:: /imagenes/fle4.jpg
                              :width: 500px
 
 
@@ -1590,32 +1588,39 @@ Ahora colocamos nuestro clip de sujeción
                              :width: 500px
 
 
+      - .. figure:: /imagenes/fle6.jpg
+                             :width: 500px
+
+
 hasta este punto el módulo 1 esta anclado a la cruz central.
 
 
-Paso 3  
++------+
+|Paso 3| 
++------+
 
 
 colocamos el módulo 2 en la parte superior del módulo 1 como se ve en la imagen
 
 
-.. figure:: /imagenes/fle6.jpg
+.. figure:: /imagenes/fle7.jpg
 
 
 El Módulo 2  debe de embonar bien con el Módulo 1
 
-
-Paso 4 
++------+
+|Paso 4| 
++------+
 
 
 ahora colocaremos los tornillos M3x16mm para unir y fijar ambas parte del Módulo Flexy.
 
 
-.. figure:: /imagenes/fle7.jpg
+.. figure:: /imagenes/fle8.jpg
 
 
-..nota::
-  para poder atornillar usamos una llave allen de 2.5mm 
+.. note::
+   para poder atornillar usamos una llave allen de 2.5mm 
   
   
   
@@ -1624,32 +1629,190 @@ ahora colocaremos los tornillos M3x16mm para unir y fijar ambas parte del Módul
 
 .. list-table::
 
-    * - .. figure:: /imagenes/fle8.jpg
+    * - .. figure:: /imagenes/fle10.jpg
                              :width: 320px
 
 
-      - .. figure:: /imagenes/fle9.jpg
-                             :width: 320px
-
-
-      - .. figure:: /imagenes/fle10.jpg
-                             :width: 320px
-
-
-Paso 5
-
-
-colocamos la guiá de filamento en el perfil superior trasero como se ve en las imágenes.
-
-
-.. list-figure::
-
-    * - .. figure:: /imagenes/fle11.jpg
+      - .. figure:: /imagenes/fle11.jpg
                              :width: 320px
 
 
       - .. figure:: /imagenes/fle12.jpg
                              :width: 320px
+
++------+
+|Paso 5|
++------+
+
+
+colocamos la guiá de filamento en el perfil superior trasero como se ve en las imágenes.
+
+
+.. list-table::
+
+    * - .. figure:: /imagenes/fle13.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/fle14.jpg
+                             :width: 320px
+
++------+
+|Paso 6| 
++------+
+
+
+vamos a conectar los cables del módulo, pasamos los cables por encima del perfil superior izquierdo y  conectamos los cables.
+
+
+.. figure:: /imagenes/fle15.jpg
+
+
+.. figure:: /imagenes/fle16.jpg
+
+
+Paso 7
+Ya que conectaste todos los conectores pasamos a conectar el motor con su cable.
+
+
+.. note:: 
+   recuerda que este cable es diferente al que ya tienes conectado es igual de sus conectores pero tiene algo exclusivo para el motor
+   del flexy.
+   
+   
+Primero conectamos el motor
+
+
+.. figure:: /imagenes/fle17.jpg
+
+
+Después conectamos este cable en la parte que dice M1 de la parte  
+trasera de la impresora
+
+
+.. figure:: /imagenes/fle18.jpg
+
++------+
+|paso 8| 
++------+
+
+
+Por último vamos a colocar el filamento y sacar un código G, de cura para poder imprimir, 
+para poder meter el filamento a la boquilla usamos los siguientes pasos 
+
+
+* 1 enciende la impresora
+
+
+* 2 da un clic a la perilla, gira la perilla y selecciona control da clic
+
+
+* 3 una vez dentro del menú de control selecciona temperature y da clic 
+
+
+* 4 selecciona Nozzle y da clic 
+
+
+* 5 sebe la temperatura según el material que vayas a usar  y da clic para que comience a calentar.
+
+
+
+
+a) ninjaflex y TPE  225°C
+
+
+b) PLA soft 208°C 
+  
+
+Una vez que este caliente la boquilla metemos el filamento por la guiá como se muestra en las imágenes  y lo llevamos hasta el
+orificio que esta en el modulo 2 y giramos el engrane grande en sentido normal a las manecillas del reloj, para que el filamento
+llegue hasta la boquilla.
+Cuando esto pase se vera que sale como un hilo pequeño de la boquilla y el filamento estará listo para usarse.
+
+
+
+Ahora apagamos la impresora y la volvemos a encender, esto se hace para que de un rest la tarjeta madre y deje de calentar el
+volverla a encender nos ayuda a que la boquilla se enfrié con ayuda del ventilador pequeño ya que es de metal y si se deja apagada
+puede ocasionarnos un atasco,porque el calor se irradiaría en todo su cuerpo.
+
+
+.. list-table::
+
+    * - .. figure:: /imagenes/fle19.jpg
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/fle20.jpg
+                             :width: 320px
+
+
++------+
+|Paso 9| 
++------+
+
+
+Colocar los parámetros para poder imprimir 
+en esta parte es muy importante que coloquemos la temperatura segun el material que vayamos a usar.
+
+
+
+
+Para Ninjaflex y TPE te recomendamos usar la temperatura de impresión de 228°C
+
+
+Para el PLA soft te recomendamos usar la temperatura de impresión de 208°C 
+
+
+
+
+Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
+
+
+.. list-table::
+
+    * - .. figure:: /imagenes/fle21.png
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/fle22.png
+                             :width: 320px
+
+
+.. note:: 
+   solo para el filamento PLA soft se usaran los siguientes parámetros
+   
+ .. list-table::
+
+    * - .. figure:: /imagenes/fle23.png
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/fle24.png
+                             :width: 320px  
+
+
+
+
+.. list-table::
+
+    * - .. figure:: /imagenes/fle25.png
+                             :width: 320px
+
+
+      - .. figure:: /imagenes/fle26.png
+                             :width: 320px
+
+
+Listo amigos una vez que tenemos estos parámetros en nuestro cura podemos sacar nuestro código G en la tarjeta SD y mandar a imprimir
+
+
+
+
+  
+
+
+
+
 
 
 
