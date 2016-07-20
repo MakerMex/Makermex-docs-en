@@ -56,6 +56,7 @@ MANUAL DE ENSAMBLADO Mi3
 +-----------+
 |Tornilleria|
 +-----------+
+
 * 37 tornillos M3x10mm
 * 21 tornillos M3x16mm
 * 13 tornillos M3x20mm
@@ -608,9 +609,9 @@ superiores deben de quedar orientadas hacia la parte posterior de la impresora.
 
 
 .. NOTE::
-Los perfiles M1 y M4 deben estar orientados con el mayor número de
-perforaciones hacia los laterales derecha e izquierda basándose al sistema de
-referencia.
+   Los perfiles M1 y M4 deben estar orientados con el mayor número de
+   perforaciones hacia los laterales derecha e izquierda basándose al sistema de
+   referencia.
 
 
 
