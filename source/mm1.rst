@@ -1265,6 +1265,7 @@ Y listo ya tienes tu cama calibrada y tu impresora lista para imprimir tus diseÃ
 
 
 Â¡ Ya desempacaste tu impresora ahora vamos a ponerla a imprimir !
+------------------------------------------------------------------
 
 
 Paso 1 
