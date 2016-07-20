@@ -1773,11 +1773,6 @@ Para el PLA soft te recomendamos usar la temperatura de impresión de 208°C
 Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
 
 
-.. list-table::
-
-    * - .. figure:: /imagenes/fle2h: 320px
-
-
 .. note::
    solo para el filamento PLA soft se usaran los siguientes parámetros
 
