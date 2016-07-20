@@ -837,13 +837,12 @@ pieza D apuntando hacia el motor como se muestra en la imagen.
 
 
 .. Note::
-
-TIP: Mida con una regla cada
-extremo a los lados de ambas
-partes del carro Y, esto con el fin
-de centrar las poleas donde pasa
-la banda.
-La distancia debe ser la misma.
+    TIP: Mida con una regla cada
+    extremo a los lados de ambas
+    partes del carro Y, esto con el fin
+    de centrar las poleas donde pasa
+    la banda.
+    La distancia debe ser la misma.
 
 
 Paso 28
@@ -3890,7 +3889,7 @@ Conectamos el cable del motor del Eje Y, lo pasamos por el orificio del acrílic
               :width: 320px
 
 
-   * - .. figure:: /imagenes/pru422.png
+     - .. figure:: /imagenes/pru422.png
               :width: 320px
 
 
@@ -3907,7 +3906,7 @@ Para la conexión de los motores de “Z” conectamos cada motor con su cable.
               :width: 300px
 
 
-   * - .. figure:: /imagenes/pru425.png
+     - .. figure:: /imagenes/pru425.png
               :width: 300px
 
 
@@ -3954,7 +3953,7 @@ Tomamos los disipadores de calor, y los pegamos en los pololus.
               :width: 300px
 
 
-   * - .. figure:: /imagenes/pru432.png
+     - .. figure:: /imagenes/pru432.png
               :width: 300px
 
 

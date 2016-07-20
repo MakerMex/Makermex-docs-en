@@ -617,12 +617,12 @@ despegara, así como se ve en las imágenes.
 
 .. list-table::
 
-* - .. figure:: /imagenes/un61.png
-       :width: 300px
+    * - .. figure:: /imagenes/un61.png
+           :width: 300px
 
 
-  - .. figure:: /imagenes/un72.png
-       :width: 300px
+      - .. figure:: /imagenes/un72.png
+           :width: 300px
 
 
 Paso 18
@@ -808,9 +808,8 @@ Para poder imprimir con modulo sencillo(modulo que viene de fabrica), es
 necesario conectarlo de esta forma.
 
 .. Note::
-
-Cuando imprimimos con este modulo es muy importante tener conectado
-el seguro de doble extrusora, si este seguro no se conecta es imposible realizar la impresión
+    Cuando imprimimos con este modulo es muy importante tener conectado
+    el seguro de doble extrusora, si este seguro no se conecta es imposible realizar la impresión
 
 .. figure:: /imagenes/mm5.png
 
@@ -859,6 +858,7 @@ adecuadas cuando se desea tener lista la boquilla para imprimir o cambiar el fil
 En esta imagen se muestran todas las opciones que están dentro de Preheat PLA
 
 .. figure:: /imagenes/p6.png
+
 A  Al activarlo enciende la primer boquilla y cama caliente.
 
 B  Al activarlo encienden las dos boquillas y cama caliente.
@@ -1140,6 +1140,7 @@ quedo ligeramente separado de la cama al igual que la boquilla.
 
 
 * Paso 5:
+
 Después de dar autohome vas a realizar movimientos de los ejes X,Y con la pantalla,el primero es en Y
 
 
@@ -1268,7 +1269,7 @@ Y listo ya tienes tu cama calibrada y tu impresora lista para imprimir tus dise�
 ------------------------------------------------------------------
 
 
-Paso 1 
+Paso 1
 
 
 Si tu módulo esta suelto se coloca de la siguiente manera, lo deberás colocar en la cruz y sujetarlo con
@@ -1320,17 +1321,17 @@ a la boquilla
 
 
  .. figure:: /imagenes/pri9.jpg
- 
- 
-.. note:: 
+
+
+.. note::
   la punta que le sacaremos al filamento es para
   que sea una guía al momento de introducirlo en el tubo, lo
   hacemos de dos maneras: saca puntas de metal y con
   pinzas de corte
-  
-  
-  
-  
+
+
+
+
  .. list-table::
 
     * - .. figure:: /imagenes/pri10.jpg
@@ -1338,15 +1339,15 @@ a la boquilla
 
 
       - .. figure:: /imagenes/pri11.jpg
-                             :width: 320px  
-  
-  
+                             :width: 320px
+
+
       - .. figure:: /imagenes/pri12.jpg
-                             :width: 320px 
+                             :width: 320px
 
 
 .. list-table::
- 
+
    * - .. figure:: /imagenes/pri13.jpg
                              :width: 320px
 
@@ -1361,20 +1362,20 @@ a la boquilla
 
      - .. figure:: /imagenes/pri16.jpg
                              :width: 320px
-  
-  
-  
-Paso 3 
-  
-  
+
+
+
+Paso 3
+
+
 encendemos la impresora y calentamos la boquilla para PLA 204°C o ABS 230°C
 
 
 
 
-Paso 4 
-  
-  
+Paso 4
+
+
 una vez que ya subió la temperatura daremos un poco mas de vueltas al engrane Grande, hasta
 que comience a salir material de la boquilla como se ve en las imágenes una vez que el material ya
 salio por la punta de la boquilla, esta colocado el material correctamente.
@@ -1516,12 +1517,12 @@ podemos apoyarnos con las manos para despegarla.
 
 
 
-Módulos 
+Módulos
 =========
 
 
-Módulo Flexy 
---------------
+Módulo Flexy
+-------------
 
 
 Este módulo te sirve para poder imprimir con materiales flexibles, como el Ninjaflex, el TPE, PLA Soft entre  otros más.
@@ -1529,7 +1530,7 @@ Este módulo te sirve para poder imprimir con materiales flexibles, como el Ninj
 Te invitamos a que revises este pequeño manual para que puedas hacer un buen uso de tu Módulo Flexy.
 
 
-Hola Maker-Amigos en este manual vamos a colocar nuestro módulo Flexy e imprimir con el. 
+Hola Maker-Amigos en este manual vamos a colocar nuestro módulo Flexy e imprimir con el.
 
 bien identifiquemos sus componentes de este Módulo
 
@@ -1543,15 +1544,15 @@ bien identifiquemos sus componentes de este Módulo
 * 2  Módulo superior (Extrusor)
 
 
-* 3  Guía de filamento 
+* 3  Guía de filamento
 
 
-* 4  cable de motor para extrusor 
+* 4  cable de motor para extrusor
 
 
 * 5  tres tornillos M3x16mm
 
-.. note:: 
+.. note::
    Estas piezas son indispensables y únicas para poder montar y usar tu Módulo Flexyble.
 
 
@@ -1576,7 +1577,7 @@ colocaremos el Módulo 1 por debajo de la cruz hasta que tope como se ven en las
 +------+
 
 
-Ahora colocamos nuestro clip de sujeción 
+Ahora colocamos nuestro clip de sujeción
 
 
 .. list-table::
@@ -1597,7 +1598,7 @@ hasta este punto el módulo 1 esta anclado a la cruz central.
 
 
 +------+
-|Paso 3| 
+|Paso 3|
 +------+
 
 
@@ -1610,7 +1611,7 @@ colocamos el módulo 2 en la parte superior del módulo 1 como se ve en la image
 El Módulo 2  debe de embonar bien con el Módulo 1
 
 +------+
-|Paso 4| 
+|Paso 4|
 +------+
 
 
@@ -1621,10 +1622,10 @@ ahora colocaremos los tornillos M3x16mm para unir y fijar ambas partes del Módu
 
 
 .. note::
-   para poder atornillar usamos una llave allen ¨L¨ de 2.5mm 
-  
-  
-  
+   para poder atornillar usamos una llave allen ¨L¨ de 2.5mm
+
+
+
   Gira un poco el engrane grande  para poder colocar los dos tornillos que van en la parte que señala la flecha.
 
 
@@ -1659,7 +1660,7 @@ colocamos la guía de filamento en el perfil superior trasero como se ve en las 
                              :width: 320px
 
 +------+
-|Paso 6| 
+|Paso 6|
 +------+
 
 
@@ -1679,30 +1680,30 @@ vamos a conectar los cables del módulo, pasamos los cables por encima del perfi
 Ya que conectaste todos los conectores pasamos a conectar el motor con su cable.
 
 
-.. note:: 
+.. note::
    recuerda que este cable es diferente al que ya tienes conectado es igual de sus conectores pero tiene algo exclusivo para el motor
    del flexy.
-   
-   
+
+
 Primero conectamos el motor
 
 
 .. figure:: /imagenes/fle16.jpg
 
 
-Después conectamos este cable en la parte que dice M1 de la parte  
+Después conectamos este cable en la parte que dice M1 de la parte
 trasera de la impresora
 
 
 .. figure:: /imagenes/fle17.jpg
 
 +------+
-|Paso 8| 
+|Paso 8|
 +------+
 
 
-Por último vamos a colocar el filamento y sacar un código G, de cura para poder imprimir, 
-para poder meter el filamento a la boquilla usamos los siguientes pasos 
+Por último vamos a colocar el filamento y sacar un código G, de cura para poder imprimir,
+para poder meter el filamento a la boquilla usamos los siguientes pasos
 
 
 * 1  enciende la impresora
@@ -1711,10 +1712,10 @@ para poder meter el filamento a la boquilla usamos los siguientes pasos
 * 2  da un clic a la perilla, gira la perilla y selecciona control da clic
 
 
-* 3  una vez dentro del menú de control selecciona temperature y da clic 
+* 3  una vez dentro del menú de control selecciona temperature y da clic
 
 
-* 4  selecciona Nozzle y da clic 
+* 4  selecciona Nozzle y da clic
 
 
 * 5  sebe la temperatura según el material que vayas a usar  y da clic para que comience a calentar.
@@ -1723,10 +1724,10 @@ para poder meter el filamento a la boquilla usamos los siguientes pasos
 .. tip::
     a) ninjaflex y TPE  225°C
 
-    b) PLA soft 208°C 
-  
-  
-  
+    b) PLA soft 208°C
+
+
+
 
 Una vez que este caliente la boquilla metemos el filamento por la guía como se muestra en las imágenes y lo llevamos hasta el
 orificio que esta en el módulo 2 y giramos el engrane grande en sentido normal a las manecillas del reloj, para que el filamento
@@ -1751,11 +1752,11 @@ puede ocasionarnos un atasco,porque el calor se irradiaría en todo su cuerpo.
 
 
 +------+
-|Paso 9| 
+|Paso 9|
 +------+
 
 
-Colocar los parámetros para poder imprimir 
+Colocar los parámetros para poder imprimir
 en esta parte es muy importante que coloquemos la temperatura segun el material que vayamos a usar.
 
 
@@ -1764,7 +1765,7 @@ en esta parte es muy importante que coloquemos la temperatura segun el material 
 Para Ninjaflex y TPE te recomendamos usar la temperatura de impresión de 228°C
 
 
-Para el PLA soft te recomendamos usar la temperatura de impresión de 208°C 
+Para el PLA soft te recomendamos usar la temperatura de impresión de 208°C
 
 
 
@@ -1774,17 +1775,12 @@ Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
 
 .. list-table::
 
-    * - .. figure:: /imagenes/fle20.png
-                             :width: 320px
+    * - .. figure:: /imagenes/fle2h: 320px
 
 
-      - .. figure:: /imagenes/fle21.png
-                             :width: 320px
-
-
-.. note:: 
+.. note::
    solo para el filamento PLA soft se usaran los siguientes parámetros
-   
+
  .. list-table::
 
     * - .. figure:: /imagenes/fle22.png
@@ -1792,7 +1788,7 @@ Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
 
 
       - .. figure:: /imagenes/fle23.png
-                             :width: 320px  
+                             :width: 320px
 
 
 
@@ -1813,7 +1809,7 @@ como lo hemos hevho en la primera impresión.
 
 
 
-  
+
 
 
 
