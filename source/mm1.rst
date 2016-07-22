@@ -1803,6 +1803,224 @@ como lo hemos hevho en la primera impresión.
 
 
 
+Módulo Doble
+-------------
+
++-------+
+|GENERAL|    
++-------+
+
+
+Características técnicas:
+
+
+*  Dimensiones físicas:  80mm x 74mm x  96mm
+
+
+*  Temperatura máxima: 300°C
+
+
+*  Materiales en filamentos:  Nailon(618,645), Policarbonato (PC), ABS, PLA, Filamento flexible (TPE, PLA Soft), Lay Wood, PVA, en sí
+es compatible con la mayoría de los filamentos que existen en el mercado.
+
+
+Características generales:
+
+
+Este módulo incluye 
+
+
+*  dos boquillas Hexagon de 0.4mm que permite extruir 2 materiales distintos o colores diferentes:
+
+
+*  Se puede utilizar una boquilla para material de soporte, para lograr mejores acabados superficiales.
+
+
+*  Cada boquilla extrusora cuenta con su ducto de ventilación para el material depositado propio, por lo que pueden manejarse de
+manera independiente ambos ventiladores, en caso de que alguno de los materiales usados no requiere ventilación.
+
+
++----------------------+
+|INSTALACIÓN DEL MÓDULO|
++----------------------+
+
+
+Con el fin de empezar a imprimir de una manera doble material debe poner el módulo en el apoyo universal transversal de los módulos
+por su MM1.
+
+
+.. figure:: /imagenes/md3.jpg
+colcas el modulo por la parte inferior de la cruz
+
+
+
+.. figure:: /imagenes/md4.jpg
+colocamos el clip de sujecion
+
+
+Vamos a colocra nustro segundo extrusor como colocamos el primero solo que este va colocado en la parte derecha como se ve en 
+la imagen.
+
+
+.. figure:: /imagenes/md5.jpg
+
+
+Debe conectar el segundo extrusor en el cable de 6 pines con la etiqueta "2". La primera máquina de extrusión y el sensor inductivo
+se conectan de la misma manera del módulo individual.
+
+
+.. figure:: /imagenes/md6.jpg
+
+
++---------------------+
+|CONFIGURACIÓN DE CURA|
++---------------------+
+
+
+Usted tendrá que ajustar los parámetros de Cura para el módulo de doble extrusión. Usted puede hacer esto mediante la modificación de
+la configuración del equipo de su MM1 como se ve en las imágenes siguientes:
+
+
+*  1. Diríjase a la etiqueta machine 
+
+
+.. figure:: /imagenes/md7.jpg
+
+
+*  2. Una ves en machine diríjase a machine settings y de click.
+
+
+.. figure:: /imagenes/md8.png
+
+
+*  3. Diríjase a Extruder count, damos clic en la pestaña de un lado y selecciona el número 2 y seleccionamos OK. 
+
+
+.. figure:: /imagenes/md9.png
+
+
+
+*  4. misma página a entAhora volvemos a la rar a machine > machine settings > y ahora verificamos que los offset se encuentren en
+cero tal como se muestra en la imagen 
+
+
+.. figure:: /imagenes/md10.png
+
+
+*  5. Ahora modificaremos lo datos de impresión según el material utilizado y los parámetros del filamento.
+
+
+.. figure:: /imagenes/md11.png
+
+
+5.1. Ahora se modificaran los parámetros de cura con los datos de filamento las capas las paredes el leyendo y la retracción que se
+desea hacer así como la velocidad de impresión.
+
+
+*  En layer height  se selecciona la altura de cada capa y con Shell thickness el grosor de cada capa
+
+
+*  En fill Density se selecciona la densidad de relleno de la figura que está en % normal mente se utiliza un relleno de 40 para
+   piezas funcionales y un 20 o 15% si la pieza es para muestra.
+
+
+*  Ahora   en print Speed seleccionamos la velocidad de impresión en mm/s.
+
+
+*  Y seleccionamos la temperatura con la que trabajara cada boquilla o nozzle esto de acuerdo almaterial de impresión así como de la
+   cama nosotros nos enfocaremos en el poner la temperatura de 2nd temperatura 
+
+
+*  Ahora se definirá si la figura necesita algún soporte este soporte por primera impresión lo aremos con la segunda boquilla  así
+   que moveremos en support type para el tipo de soporte.
+
+
+*  Si se pondrá unas capas en las cuales se adherirá el material y en lo que nos enfocaremos nosotros será en Support dual extrusion
+   en esa parte utilizaremos el second extruder.
+
+
+*  Ahora bien por primera impresión ocuparemos ponerle una palomita en wipe & prime tower que es una torre que generara con cada capa
+   para verificar que no tenga desfase la máquina. 
+
+
+*  Ahora bien para el diámetro del filamento se modifica el diameter2 (mm) utilizaremos el mismo que para diameter (mm).que por lo
+   regular se encuentra entre 2.89 y 3 mm.
+
+
+5.2. ahora en advanced modificaremos la retracción del material que por lo común se modificara solo “speed (mm/s)” que normalmente es
+de 15 a 20 Y en “distance (mm)” por lo regular se utilizan parámetros de 5 hasta 8 mm.
+
+
+.. figure:: /imagenes/md12.png
+
+
++------------------------------------+
+|stableciendo el perfil de materiales|
++------------------------------------+
+
+
+Usted necesitará un modelo que se corta en dos partes, dejando Cura para saber qué parte va a asignar a cada extrusora. Hay varios
+ejemplos ya preparados, o usted puede cortar los modelos por sí mismo con un software de modelado 3D como Blender.
+
+
+En Cura debe importar la primera parte del modelo que se va a imprimir con la primera extrusora:
+
+
+.. figure:: /imagenes/md13.png
+
+
+Él debe importar la parte del modelo que se va a imprimir con la segunda extrusora:
+
+
+.. figure:: /imagenes/md14.png
+
+
+Por último, debe unirlos haciendo clic derecho en el espacio de trabajo en Cura y seleccionando la opción "Dual fusión de extrusión":
+
+
+.. figure:: /imagenes/md15.png
+
+
+Así queda la figura. la segunda extrusora imprimirá las partes en rojo 
+
+
+
+.. figure:: /imagenes/md16.png
+
+
+Ya que esta unida la pieza para poder mandar a imprimir, es necesario sacar nustro código en la Tarjeta SD, así como lo hemos hecho
+en la primera impresión, guardamos el código en la terjeta SD la introducimos en la impresora,encendemos la impresora selccionamos el
+código y  se pondra a imprimir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
