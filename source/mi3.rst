@@ -2382,5 +2382,243 @@ Unboxing
 Primera Impresión
 ==================
 
+
+instalar cura y sus parámetros
+---------------------------------
+
+Vamos a instalar cura y sus parámetros  para la M i3
+
+vamos a descargar cura les recomiendo mucho que descarguen la versión 14.12, una vez descargado el software vamos instalar una
+plataforma para poder usar con nuestra impresora M i3.
+
+
+Paso 1
+
+
+cuando estés en esta ventana da clic en next
+
+
+.. figure:: /imagenes/cui2.png
+
+
+paso 2 
+
+
+te aparecerá una ventana nueva, selecciona la casilla de OTHER  y da clic en next
+
+
+.. figure:: /imagenes/cui3.png
+
+
+paso 3
+
+
+te aparcera esta ventana selecciona Custom y da clic en next
+
+
+.. figure:: /imagenes/cui4.png
+
+
+Paso 4 
+
+
+una vez que ya hayas llegado hasta esta ventana, coloca la información como se muestra en cada una de las casillas, una vez que hayas
+colocado la información da clic en FINISH 
+
+
+.. figure:: /imagenes/cui5.png
+
+
+paso 5
+
+
+coloca todos los parámetros de Basic,Advanced  y star/endgcode  como se muestra en las imágenes 
+
+
+BASIC
+
+.. figure:: /imagenes/cui6.png
+
+
+ADVANCED 
+
+
+.. figure:: /imagenes/cui7.png
+
+
+..note::
+  observa bien la imagen de START, vamos a borrar el numero 3 que aparece en automático y colocar  8 como se muestra en la imagen. 
+
+
+.. figure:: /imagenes/cui8.png
+
+
+
+..note::
+  en la parte de END vamos a comentar el código G90 es muy sencillo solo tienes que escribir un punto y coma antes d la G como se ve
+  en la imagen para hacerlo utilizas shift+coma de tu teclado. O puedes copiar y pegar el punto y como de la parte de abajo de G90
+
+
+
+.. figure:: /imagenes/cui9.png
+
+
+
+
+A continuación se muestran impresiones de pantalla de los parámetros con los que realizamos nuestras piezas en MakerMex, y más
+adelante una explicación de cada parámetro, y como este puede variar.
+
+
+ BASIC.
+ 
+ 
+ QUALITY. 
+ 
+ 
+*   Layer Height. Se refiere a la altura que tiene cada capa. Es un ajuste importante para determinar la calidad de la pieza.  
+    Un buen   parámetro en relación de calidad/tiempo es 2.0, es lo que nosotros recomendamos y utilizamos en nuestras piezas.
+    El parámetro      máximo recomendado es 0.1 mm, aunque el tiempo de impresión se eleva al doble.
+
+*   Shell Thickness. Es el grosor de la capa externa en dirección horizontal, es decir, se incrementar para realizar piezas con un
+cascarón más resistente en su exterior. Se recomienda dejar los valores predefinidos (0.6 mm) y hasta 1 mm. Este parámetro también
+puede variar según el material con el que se imprime, ya que ciertos materiales requieren sus propios parámetros de impresión. 
+
+* Enable Retraction. Se recomienda ampliamente marcar esta casilla. Este ajuste retrae el filamento, es decir, gira los engranes en
+sentido contrario cuando la boquilla se mueve sobre una superficie que no requiere impresión. Esto previene de hilos y rebaba
+excesiva en la pieza final. En ajustes avanzados ajustaremos los parámetros de la retracción. 
+
+FILL. 
+* Bottom/Top Thickness. Ajusta el grosor de la base y el tope del modelo. Debe ser un valor cercano al Shell Thinckess para que se
+forme una pieza fuerte uniforme en el exterior. Se recomienda dejar los valores predefinidos: 0.6 mm, 0.8 mm y hasta 1 mm.
+ 
+* Fill Density: Este parámetro es importante para el producto final. Controla el relleno que tendrá la pieza, lo que definirá que tan
+fuerte resulta. Para piezas visuales sin requerimientos de esfuerzo mecánico se puede probar desde 5% o 10% de relleno; para piezas
+mecánicas o que requieren mas resistencia se recomienda entre 20% a 40%, aunque pudiera usarse hasta 60% como máximo recomendado. No
+se recomienda más del 60% ya que sería mucho desperdicio de material y de tiempo de impresión. Es importante recalcar que esto no
+afecta en nada la calidad externa del modelo. Para un punto de referencia: 40% manejan nuestras piezas que reciben uso mecánico.
+
+
+ SPEED AND TEMPERATURE. 
+
+* Print Speed. Es la velocidad de impresión. Esta velocidad va a depender de varios factores, como calidad y tiempo. 50/60 mm/s es la
+velocidad que utilizamos y recomendamos. Se puede reducir para obtener una mayor calidad de impresión, aunque a mayor tiempo. De
+igual forma se puede aumentar si se busca optimizar tiempo, y la resolución no resulta de mucha importancia. 
+
+
+* Printing Temperature. Es la temperatura a la que se extruye el material. La temperatura depende en gran medida del material a
+utilizar. Los principales son: o PLA. 190°C-210°C según el color del filamento, temperatura ambiente, etc. Ej. El color negor se
+imprime a menor temperatura. Un parámetro promedio recomendado es 207°C. o ABS. 220°C-230°C Al igual que el PLA, algunos factores
+influyen. Un parámetro recomendado para ABS es 220°C. 
+
+
+* Bed Temperature. Esta opción sólo aparece en caso de utilizar cama caliente, y haberla activado a la hora de configurar el Cura. 
+Es la temperatura a la que se calentará la cama caliente. Es necesario revisar las especificaciones de impresión de cada material
+para definir esta temperatura. En el caso de ABS la temperatura de cama caliente es entre 90-100 °C. 
+
+SUPPORT. 
+
+* Support Type. Se especifica la estructura en la que se construirá el soporte. Estas estructuras son: o None: No deposita material
+de soporte en absoluto. o Touching Buildplate: Deposita material de soporte únicamente en los volados que lo requieran a partir de la
+plataforma de impresión. o Everywhere: Además del "Touching Buildplate", también depositará material incluso sobre las partes del
+modelo impreso, en caso de tener volados que lo requieran.
+
+
+ * Platform Adhesion Type. Las plataformas de adhesión, son una capa primaria que crean un perímetro del área de impresión de la
+ pieza y facilitan el despegue de ésta. Además funcionan como prevención de que las esquinas se levanten debido al fenómeno "Warping"
+ (Contracción al enfriarse el material extruido). Se recomienda el uso de Raft. 
+ 
+
+FILAMENT. 
+
+
+* Diameter. Se refiere al diámetro del filamento que se utilizará como materia prima. Como medidas estándar se manejan 2: 1.75 mm y 
+3.0 mm. Las impresoras MakerMex comúnmente se manejan con material de 3.0 mm. 
+
+
+* Flow. Se deja el valor predefinido: 100.0 %. 
+
+
+ADVANCED. 
+
+MACHINE. 
+
+* Nozzle Size. Se refiere al diámetro de la boquilla extrusora. Las dimensión de las boquillas utilizadas en las impresoras MakerMex
+es comúnmente 0.4 mm. Es importante ajustar el valor correcto, ya que sirve para determinar las líneas de relleno, así como las
+líneas de grosor en la parte externa de la pieza.
+
+
+ RETRACTION.
+
+ * Speed. Es la velocidad a la que se hace la retracción de filamento.
+  
+  
+* Distance. Es la distancia que se retraerá el filamento. Ajusta en 0 si quieres ignorar este parámetro. 
+
+
+ QUALITY. 
+ 
+
+* Initial Layer Thickness. Ajusta el grosor de la primera capa de la pieza. Una capa inicial más gruesa permite una mejor adherencia
+a la plataforma. Ajusta en 0 para ignorar este parámetro y la capa inicial tenga el mismo grosor que las demás capas. 
+
+
+
+Cut Off Object Bottom. Sumerge el objeto en la plataforma a la distancia que se le indique. Esto funciona para objetos que tengan
+errores en el diseño y/o no tengan una cara plana en la base.
+
+* Dual Extrusion Overlap. Añade una cantidad de material sobrepuesta en las impresiones que se hagan con doble extrusora, esto con el
+fin de unir los diferentes colores o materiales en una sola pieza. 
+
+
+SPEED. 
+
+* Travel Speed. Es la velocidad a la que se mueve la extrusora cuando no está depositando material. El valor predefinido es muy
+recomendable. 
+
+* Bottom Layer Speed. Esto controla la velocidad a la que se hace la primera capa. al imprimirse más despacio, se adhiere de mejor
+forma sobre la superficie. El valor predefinido es muy recomendable. 
+
+
+* Infill Speed. Es la velocidad a la que se imprime el relleno de la pieza. Se recomienda situar este valor en 0, con esto el relleno
+se deposita a la misma velocidad predefinida en "Print speed".
+
+
+ * Outer Shell Speed. Controla la velocidad a la que se imprimen la capa exterior de la pieza. Imprimir esta parte a una menor
+ velocidad, mejorará el resultado final en cuanto resolución. Al situar este valor en 0, la velocidad a la que se hace es la misma
+ que se definió en "Print speed", esto genera buenos resultados. 
+
+* Inner Shell speed. Controla la velocidad a la que se imprimen la capa interna de la pieza. Al situar este valor en 0, la velocidad
+a la que se hace es la misma que se definió en "Print speed". Es importante que este parámetro y el “Outter Shell Speed” no tengan un
+amplio rango de diferencia. 
+
+
+COOL. 
+
+* Minimal Layer Time. Es el tiempo mínimo que tardará en realizarse una capa, sin importar que la dimensión de ésta sea muy pequeño.
+Esto permitirá que se enfríe lo suficiente antes de depositar la siguiente capa. El parámetro predefinido (5 seg.) funciona de gran
+forma. 
+
+* Enable Cooling Fan. A menos que el material que se está imprimiendo, es importante que esta casilla se encuentre marcada
+permanentemente, ya que activa la ventilación durante la impresión. 
+
+
+Es importante recalcar que los parámetros que nosotros especificamos en este documento pueden servir como base, pero cada usuario
+debe experimentar y definir los parámetros que mejor le acomoden a lo que busca en sus piezas, por lo que los exhortamos a realizar
+sus propias impresiones y buscar los valores perfectos para sus modelos. De igual forma hacer notar que cada nueva versión del
+software Cura normalmente contiene nuevos parámetros, por lo que es importante revisar dichos parámetros, y su función, aunado a que
+los parámetros mostrados en este documento son los más importantes. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Problemas Frecuentes
 ======================
