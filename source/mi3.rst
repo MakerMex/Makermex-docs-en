@@ -2379,6 +2379,78 @@ Quedando la banda lista para mover el carro X.
 Unboxing
 ==================
 
+
+calibración de impresora
+--------------------------
+
+
+Calibremos nuestra impresora Mi3
+
+Lo importante de este proceso es dejar la boquilla ligeramente separada de la plataforma de impresión, y que el eje X quede bien nivelado.
+
+
+Lo importante de tener una buena calibración, es que podemos mandar a imprimir y asegurar que la boquilla cuando llegue al centro no raspara con la cama ya que si lo hace podemos dañar nuestra impresora.
+Ademas el tener tu impresora calibrada te ayuda que tu pieza tenga mejor presentación, desde que comience a imprimir la base. Uniforme y firme.
+
+
+Paso 1
+
+
+debemos alinear el eje X, tomamos un Flexómetro y y medimos haya una misma distancia entre el motor del eje Z y la pieza que sostiene las varillas del eje X, pueden tomar colocar cualquier distancia, lo importante es que en cada lado sea la misma distancia veamos con atención las imágenes.
+
+
+.. figure:: /imagenes/mi3/cai1.jpg
+
+
+.. figure:: /imagenes/mi3/cai2.jpg
+
+
+Paso 2
+
+
+Mandar un auto-home, esta indicación la vamos a realizar desde la pantalla.
+Enciendes la impresora, Das clic en la perilla de la impresora, y veras que cambia la pantalla, gira la perilla y selecciona prepare y da clic te abrirá una pantalla nueva y aparecerá un menú, gira la perilla y selecciona auto-home y da clic.
+
+
+Enseguida de dar clic veras que la impresora se mueve. La boquilla deberá quedar como se muestra en  la imagen 3.
+
+
+.. figure:: /imagenes/mi3/cai3.jpg
+
+
+.. figure:: /imagenes/mi3/cai4.jpg
+
+
+.. figure:: /imagenes/mi3/cai5.jpg
+
+
+paso 3
+
+
+si su boquilla queda muy alta o separada de la cama de impresión necesitamos aflojar el sensor inductivo y girarlo ajustando su altura, para que la boquilla baje mas es importante que el sensor lo giremos como si lo fueras a sacar para que pueda bajar la boquilla mas.
+
+
+.. Note::
+   la boquilla nunca debe de chocar con la cama debe de quedar ligeramente separada
+
+
+Entonces con unas pinzas mecánicas aflojamos la tuerca inferior del sensor inductivo.
+Y lo ajustamos ya sea hacia arriba o hacia abajo.
+
+
+.. figure:: /imagenes/mi3/cai6.jpg
+
+La boquilla debe de quedar separada de la cama mas o menos el grosor de una tarjeta de presentación.
+
+
+Ya que se ajusto el sensor repetimos la operación de mandar auto-home para revisar la distancia con la tarjeta
+
+
+
+
+
+
+
 Primera Impresión
 ==================
 
@@ -2607,6 +2679,12 @@ debe experimentar y definir los parámetros que mejor le acomoden a lo que busca
 sus propias impresiones y buscar los valores perfectos para sus modelos. De igual forma hacer notar que cada nueva versión del
 software Cura normalmente contiene nuevos parámetros, por lo que es importante revisar dichos parámetros, y su función, aunado a que
 los parámetros mostrados en este documento son los más importantes.
+
+
+
+Como usar Cura
+----------------
+
 
 
 
