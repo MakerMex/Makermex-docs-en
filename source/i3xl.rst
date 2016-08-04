@@ -56,31 +56,29 @@ Impresora 3D PRUSA i3 & i3 XL
 MAKERMEX
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru1.png
+.. figure:: /imagenes/prusa/pru1.png
           :width: 320px
 
 
-     - .. figure:: /imagenes/prusa/pru2.png
+.. figure:: /imagenes/prusa/pru2.png
           :width: 320px
 
 .. note::
+   Se le hizo una actualizacion de mejora a la impresora
+   en relación al armado, cambiamos las tuercas M3 normales
+   por tuercas M3 de seguridad a excepción de las tuercas
+   que van incrustadas en las piezas plásticas.
+   En cada paso se te indicara que tuerca usar.
+   Antes de comenzar con el ensamblado de tu
+   impresora te invitamos a que revises la materia prima con el
+   check list para piezas plásticas y el resto de componentes
+   de la impresora esto para que veas que esta completo tu
+   kit.
 
-          Se le hizo una actualizacion de mejora a la impresora
-          en relación al armado, cambiamos las tuercas M3 normales
-          por tuercas M3 de seguridad a excepción de las tuercas
-          que van incrustadas en las piezas plásticas.
-          En cada paso se te indicara que tuerca usar.
-          Antes de comenzar con el ensamblado de tu
-          impresora te invitamos a que revises la materia prima con el
-          check list para piezas plásticas y el resto de componentes
-          de la impresora esto para que veas que esta completo tu
-          kit.
 
-          Cualquier duda o en caso de faltar algún componente no
-          dudes en mandar un correo reportando a
-          soporte.makermex@gmail.com
+Cualquier duda o en caso de faltar algún componente no
+dudes en mandar un correo reportando a
+soporte.makermex@gmail.com
 
 
 Herramientas
@@ -111,16 +109,14 @@ Herramientas
 
 .. figure:: /imagenes/prusa/pru3.png
 
-.. note::
 
-           Durante la lectura del manual ud. notará que algunas partes
-           tienen referencia a letras como XY & Z (por ejemplo: Carro de eje
-           Y ) esto es así para ubicar en el movimiento de que eje está
-           involucrado dicho ensamble.
+.. note::
+ Durante la lectura del manual ud. notará que algunas partes
+ tienen referencia a letras como XY & Z (por ejemplo: Carro de eje Y ) esto es así para ubicar en el movimiento de que eje está
+ involucrado dicho ensamble.
 
 
 .. figure:: /imagenes/prusa/pru4.png
-
 
 
 1. ENSAMBLE EJE Y
