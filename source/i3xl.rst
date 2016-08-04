@@ -58,11 +58,11 @@ MAKERMEX
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru1.png
+   * - .. figure:: /imagenes/prusa/pru1.png
           :width: 320px
 
 
-     - .. figure:: /imagenes/pru2.png
+     - .. figure:: /imagenes/prusa/pru2.png
           :width: 320px
 
 .. note::
@@ -109,7 +109,7 @@ Herramientas
 * Cinta masking de poca adherencia
 
 
-.. figure:: /imagenes/pru3.png
+.. figure:: /imagenes/prusa/pru3.png
 
 .. note::
 
@@ -119,7 +119,7 @@ Herramientas
            involucrado dicho ensamble.
 
 
-.. figure:: /imagenes/pru4.png
+.. figure:: /imagenes/prusa/pru4.png
 
 
 
@@ -136,7 +136,7 @@ Paso 1
 Introducir una de las piezas E, la parecida a una pinza, en la varilla 5/16”x 210mm.
 
 
-.. figure:: /imagenes/pru5.png
+.. figure:: /imagenes/prusa/pru5.png
 
 
 Paso 2
@@ -145,7 +145,7 @@ Tomar 2 rondanas 5/16” (las que tienen un diámetro mayor de 1,1/4“), un bal
 un perno 5/16” x 50mm.
 
 
-.. figure:: /imagenes/pru6.png
+.. figure:: /imagenes/prusa/pru6.png
 
 
 Paso 3
@@ -156,7 +156,7 @@ perno 5/16” x 50mm. A todo lo previamente ensamblado le llamaremos la parte A 
 carro Y.
 
 
-.. figure:: /imagenes/pru7.png
+.. figure:: /imagenes/prusa/pru7.png
 
 
 Paso 4
@@ -165,7 +165,7 @@ Colocar 4 rondanas 5/16” seguidas por 4 tuercas 5/16” (sin apretar aún) en 
 varillas roscadas de la parte A del carro Y como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru8.png
+.. figure:: /imagenes/prusa/pru8.png
 
 
 Paso 5
@@ -174,7 +174,7 @@ Introducir otras 2 tuercas 5/16” seguidas por 2 rondanas 5/16” por cada extr
 varilla roscada 5/16” x 210mm.
 
 
-.. figure:: /imagenes/pru9.png
+.. figure:: /imagenes/prusa/pru9.png
 
 
 Por el momento su parte A de carro Y debería verse como en la imagen de arriba.
@@ -186,7 +186,7 @@ Para ensamblar la parte B del carro Y, tome una varilla roscada 5/16” x 370mm 
 de 5/16” x 210mm y la pieza restante E.
 
 
-.. figure:: /imagenes/pru10.png
+.. figure:: /imagenes/prusa/pru10.png
 
 
 Paso 7
@@ -194,7 +194,7 @@ Introducir ambas varillas en los orificios de la pieza E como se muestra en la i
 La de 370mm arriba y la de 210mm abajo.
 
 
-.. figure:: /imagenes/pru11.png
+.. figure:: /imagenes/prusa/pru11.png
 
 
 Paso 8
@@ -204,7 +204,7 @@ imagen.
 Esto para fijar (sin apretar) la segunda pieza E en medio de ambas varillas.
 
 
-.. figure:: /imagenes/pru12.png
+.. figure:: /imagenes/prusa/pru12.png
 
 
 Paso 9
@@ -214,7 +214,7 @@ se muestra en la imagen.
 A este ensamble le llamaremos parte B del carro Y.
 
 
-.. figure:: /imagenes/pru13.png
+.. figure:: /imagenes/prusa/pru13.png
 
 
 Paso 10
@@ -224,7 +224,7 @@ tuercas 5/16” en el orden que se muestra en la imagen.
 Para la impresora XL son las varillas de 620mm.
 
 
-.. figure:: /imagenes/pru14.png
+.. figure:: /imagenes/prusa/pru14.png
 
 
 Paso 11
@@ -242,7 +242,7 @@ que haya dentro.
 (Tenga cuidado de no dañar la varilla).
 
 
-.. figure:: /imagenes/pru15.png
+.. figure:: /imagenes/prusa/pru15.png
 
 
 Paso 12
@@ -254,16 +254,16 @@ la ranura superior apunte hacia afuera de la varilla.
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru16.png
+   * - .. figure:: /imagenes/prusa/pru16.png
                           :width: 320px
 
-     - .. figure:: /imagenes/pru17.png
+     - .. figure:: /imagenes/prusa/pru17.png
                           :width: 320px
 
 Al final ambas varillas deberían verse como en la siguiente imagen.
 
 
-.. figure:: /imagenes/pru18.png
+.. figure:: /imagenes/prusa/pru18.png
 
 
 Paso 13
@@ -271,11 +271,11 @@ Asegure todas las piezas N con una rondana y una tuerca 5/16” como se muestra 
 las imágenes.
 
 
-.. figure:: /imagenes/pru19.png
+.. figure:: /imagenes/prusa/pru19.png
 
 Sus varillas deberían verse como en la siguiente imagen.
 
-.. figure:: /imagenes/pru20.png
+.. figure:: /imagenes/prusa/pru20.png
 
 
 Paso 14
@@ -284,17 +284,17 @@ Lo siguiente es insertar la parte A del carro Y a cualquier pieza N como se mues
 la imagen.
 
 
-.. figure:: /imagenes/pru21.png
+.. figure:: /imagenes/prusa/pru21.png
 
 
 Después inserte el otro extremo de la parte A a otra pieza N como se muestra en la
 imagen.
 
 
-.. figure:: /imagenes/pru22.png
+.. figure:: /imagenes/prusa/pru22.png
 
 
-.. figure:: /imagenes/pru23.png
+.. figure:: /imagenes/prusa/pru23.png
 
 
 Paso 15
@@ -303,7 +303,7 @@ Tomar una varilla de 5/16” x 210 mm e insertarle una tuerca y una rondana 5/16
 cada extremo como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru24.png
+.. figure:: /imagenes/prusa/pru24.png
 
 
 Paso 16
@@ -311,14 +311,14 @@ Paso 16
 Después inserte el extremo de la varilla en el orificio lateral de una de las piezas N.
 
 
-.. figure:: /imagenes/pru25.png
+.. figure:: /imagenes/prusa/pru25.png
 
 
 Después en esa misma pieza N inserte la parte A del carro Y como se muestra en la
 imagen.
 
 
-.. figure:: /imagenes/pru26.png
+.. figure:: /imagenes/prusa/pru26.png
 
 
 Paso 17
@@ -327,7 +327,7 @@ Cierre el carro Y introduciendo los otros extremos de estas dos varillas en la �
 pieza N, como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru27.png
+.. figure:: /imagenes/prusa/pru27.png
 
 
 Paso 18
@@ -343,14 +343,14 @@ muestra en las imágenes.
           antes, solo pondremos las tuercas para fijar por lo pronto.
 
 
-.. figure:: /imagenes/pru28.png
+.. figure:: /imagenes/prusa/pru28.png
 
 
 El carro Y debería verse como la siguiente imagen (en la imagen se muestra una
 impresora i3 XL, la única variación a la i3 son 20 cm menos en lo largo).
 
 
-.. figure:: /imagenes/pru29.png
+.. figure:: /imagenes/prusa/pru29.png
 
 
 Paso 19
@@ -359,9 +359,9 @@ Insertar 2 tuercas y 2 rondanas 5/16” (tuerca/rondana/rondana/tuerca) a cada e
 de la varilla superior de la parte B del carro Y.
 
 
-.. figure:: /imagenes/pru30.png
+.. figure:: /imagenes/prusa/pru30.png
                   :width: 320px
-.. figure:: /imagenes/pru31.png
+.. figure:: /imagenes/prusa/pru31.png
                   :width: 320px
 
 
@@ -378,7 +378,7 @@ Paso 1
 Ubicar las 4 piezas H y 4 baleros LM8UU.
 
 
-.. figure:: /imagenes/pru32.png
+.. figure:: /imagenes/prusa/pru32.png
 
 
 Paso 2
@@ -388,39 +388,39 @@ Inserte cada balero LM8UU en cada pieza H, mediante los siguientes pasos:
 1. Primero posicionamos el balero sobre las paredes curvas de la pieza H.
 
 
-.. figure:: /imagenes/pru33.png
+.. figure:: /imagenes/prusa/pru33.png
 
 
 2. Después atraviese el balero LM8UU con una varilla lisa 5/16”
 
 
-.. figure:: /imagenes/pru34.png
+.. figure:: /imagenes/prusa/pru34.png
 
 
 3. Con ambas manos presione hacia abajo la varilla para que el balero entre en la pieza H,
 procure mantener el balero centrado con sus pulgares.
 
 
-.. figure:: /imagenes/pru35.png
+.. figure:: /imagenes/prusa/pru35.png
 
 
 4. Al momento de que el balero entre a la pieza H, verifique que este haya entrado
 exactamente entre las dos pequeñas paredes que están en la pieza H.
 
 
-.. figure:: /imagenes/pru36.png
+.. figure:: /imagenes/prusa/pru36.png
 
 
 5. Si el balero no entró entre estas paredes, deberá ajustarlo con unas piezas mecánicas.
 
 
-.. figure:: /imagenes/pru37.png
+.. figure:: /imagenes/prusa/pru37.png
 
 
 6. Un balero bien insertado deberá verse como en la siguiente imagen.
 
 
-.. figure:: /imagenes/pru38.png
+.. figure:: /imagenes/prusa/pru38.png
 
 
 Paso 3
@@ -429,7 +429,7 @@ Ubicar el soporte de la cama (rectángulo de acrílico), 6 tornillos M3x20mm, 6 
 seguridad y 6 rondanas M3. En la XL se usara el rectángulo pequeño
 
 
-.. figure:: /imagenes/pru39.png
+.. figure:: /imagenes/prusa/pru39.png
 
 
 Paso 4
@@ -438,7 +438,7 @@ A las siguientes piezas de acrílico con que trabajemos retire la calcomanía pr
 ambos lados
 
 
-.. figure:: /imagenes/pru40.png
+.. figure:: /imagenes/prusa/pru40.png
 
 
 Paso 5
@@ -447,7 +447,7 @@ A cada pieza H hay que lijarla bien por su parte trasera para que se acomode sin
 en una de las caras del acrílico.
 
 
-.. figure:: /imagenes/pru41.png
+.. figure:: /imagenes/prusa/pru41.png
 
 
 Paso 6
@@ -455,7 +455,7 @@ Paso 6
 Después de lijarlas, ubicamos las piezas H en el acrílico como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru42.png
+.. figure:: /imagenes/prusa/pru42.png
 
 
 Paso 7
@@ -464,7 +464,7 @@ A cada uno de los tornillos previamente tomados inserte una rondana M3 procurand
 parte lisa vaya a ver hacia el acrílico y, por lo tanto, no lo raye.
 
 
-.. figure:: /imagenes/pru43.png
+.. figure:: /imagenes/prusa/pru43.png
 
 
 Paso 8
@@ -473,7 +473,7 @@ Inserte cada tornillo a través del acrílico y después a través de la pieza H
 en la imagen.
 
 
-.. figure:: /imagenes/pru44.png
+.. figure:: /imagenes/prusa/pru44.png
 
 
 Paso 9
@@ -488,7 +488,7 @@ Después inserte tuercas en cada uno de los tornillos que atraviesan la pieza H.
 El ensamble debe verse como en la imagen inferior.
 
 
-.. figure:: /imagenes/pru45.png
+.. figure:: /imagenes/prusa/pru45.png
 
 
 Paso 10
@@ -498,7 +498,7 @@ una varilla lisa 5/16”. Es importante no forzar la alineación ya que los bale
 balines la varilla debe entra suave en los dos baleros.
 
 
-.. figure:: /imagenes/pru46.png
+.. figure:: /imagenes/prusa/pru46.png
 
 
 Paso 11
@@ -514,10 +514,10 @@ que las tuercas son de seguridad nunca se aflojaran.
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru47.png
+   * - .. figure:: /imagenes/prusa/pru47.png
                           :width: 320px
 
-     - .. figure:: /imagenes/pru48.png
+     - .. figure:: /imagenes/prusa/pru48.png
                           :width: 320px
 
 
@@ -528,7 +528,7 @@ Después ubique la pieza D así también como las 2 piezas B, además tome 2 tor
 M3x30mm, 2 tornillos M3x40mm, 4 tuercas M3 de seguridad y 4 rondanas M3.
 
 
-.. figure:: /imagenes/pru49.png
+.. figure:: /imagenes/prusa/pru49.png
 
 
 SOLAMENTE PARA LA IMPRESORA i3 XL
@@ -541,19 +541,19 @@ muestra en las imágenes. Es recomendable ayudarte de unas pinzas mecánicas.
 
    .. list-table::
 
-      * - .. figure:: /imagenes/pru50.png
+      * - .. figure:: /imagenes/prusa/pru50.png
                  :width: 320px
 
 
-        - .. figure:: /imagenes/pru51.png
+        - .. figure:: /imagenes/prusa/pru51.png
                  :width: 320px
 
 
-      * - .. figure:: /imagenes/pru52.png
+      * - .. figure:: /imagenes/prusa/pru52.png
                  :width: 320px
 
 
-        - .. figure:: /imagenes/pru53.png
+        - .. figure:: /imagenes/prusa/pru53.png
                   :width: 320px
 
 
@@ -563,7 +563,7 @@ Paso 14
 Inserte en cada tornillo 2 rondanas M3.
 
 
-.. figure:: /imagenes/pru54.png
+.. figure:: /imagenes/prusa/pru54.png
 
 
 Paso 15
@@ -572,7 +572,7 @@ En los 4 orificios centrales de la cama de acrílico inserte los 4 tornillos, de
 40mm y del otro los dos de 30 mm
 
 
-.. figure:: /imagenes/pru55.png
+.. figure:: /imagenes/prusa/pru55.png
 
 
 Paso 16
@@ -585,12 +585,12 @@ la pieza y los de 40mm en la parte mas
 alta de la pieza.
 
 
-.. figure:: /imagenes/pru56.png
+.. figure:: /imagenes/prusa/pru56.png
 
 
 El soporte de la cama debe verse como en la imagen inferior
 
-.. figure:: /imagenes/pru57.png
+.. figure:: /imagenes/prusa/pru57.png
 
 
 Paso 17
@@ -601,11 +601,11 @@ puestos.
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru58.png
+   * - .. figure:: /imagenes/prusa/pru58.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/pru59.png
+     - .. figure:: /imagenes/prusa/pru59.png
               :width: 320px
 
 
@@ -614,13 +614,13 @@ Paso 18
 Fije sin apretar las piezas B usando las tuercas M3de seguridad.
 
 
-.. figure:: /imagenes/pru60.png
+.. figure:: /imagenes/prusa/pru60.png
 
 
 El soporte de la cama debería verse como en la imagen inferior.
 
 
-.. figure:: /imagenes/pru61.png
+.. figure:: /imagenes/prusa/pru61.png
 
 
 Paso 19
@@ -638,13 +638,13 @@ poner el soporte de la cama de tal manera que la parte alta de la pieza D esté 
 la parte B del carro Y.
 
 
-.. figure:: /imagenes/pru62.png
+.. figure:: /imagenes/prusa/pru62.png
 
 Las varillas entran hasta el tope como
 se aprecia en la imagen.
 
 
-.. figure:: /imagenes/pru63.png
+.. figure:: /imagenes/prusa/pru63.png
 
 
 Su impresora debe verse como en las imágenes debajo.
@@ -652,15 +652,15 @@ Su impresora debe verse como en las imágenes debajo.
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru64.png
+   * - .. figure:: /imagenes/prusa/pru64.png
           :width: 320px
 
 
-     - .. figure:: /imagenes/pru65.png
+     - .. figure:: /imagenes/prusa/pru65.png
           :width: 320px
 
 
-     - .. figure:: /imagenes/pru66.png
+     - .. figure:: /imagenes/prusa/pru66.png
                :width: 320px
 
 
@@ -681,7 +681,7 @@ sujeta y al situar el carro Y sobre alguna superficie plana las 4 piezas N deben
 asentadas.
 
 
-.. figure:: /imagenes/pru67.png
+.. figure:: /imagenes/prusa/pru67.png
 
 
 .. note::
@@ -706,14 +706,14 @@ Paso 21
 
       .. list-table::
 
-         * - .. figure:: /imagenes/pru68.png
+         * - .. figure:: /imagenes/prusa/pru68.png
                     :width: 320px
 
 
-           - .. figure:: /imagenes/pru69.png
+           - .. figure:: /imagenes/prusa/pru69.png
                     :width: 320px
 
-           - .. figure:: /imagenes/pru70.png
+           - .. figure:: /imagenes/prusa/pru70.png
                     :width: 320px
 
 .. note::
@@ -740,11 +740,11 @@ cuidado de no hacerlo tan fuerte.
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru71.png
+   * - .. figure:: /imagenes/prusa/pru71.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/pru72.png
+     - .. figure:: /imagenes/prusa/pru72.png
               :width: 320px
 
 Repita este procedimiento con cada una de las 4 esquinas del carro Y.
@@ -774,7 +774,7 @@ Ahora ubique un motor y 2 tornillos
 M3x10mm.
 
 
-.. figure:: /imagenes/pru73.png
+.. figure:: /imagenes/prusa/pru73.png
            :width: 400px
 
 
@@ -784,7 +784,7 @@ Paso 24
 Con los 2 tornillos fije el motor como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru74.png
+.. figure:: /imagenes/prusa/pru74.png
            :width: 400px
 
 
@@ -794,7 +794,7 @@ Paso 25
 Introduzca a través de la flecha del motor una polea de paso.
 
 
-.. figure:: /imagenes/pru75.png
+.. figure:: /imagenes/prusa/pru75.png
 
 
 Paso 26
@@ -807,11 +807,11 @@ orificios enroscados que están a lo largo de la circunferencia de la polea
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru76.png
+   * - .. figure:: /imagenes/prusa/pru76.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/pru77.png
+     - .. figure:: /imagenes/prusa/pru77.png
               :width: 320px
 
 
@@ -830,10 +830,10 @@ Otra cosa que es muy importante verificar es que si hayamos puesto la parte alta
 pieza D apuntando hacia el motor como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru78.png
+.. figure:: /imagenes/prusa/pru78.png
 
 
-.. figure:: /imagenes/pru79.png
+.. figure:: /imagenes/prusa/pru79.png
 
 
 .. Note::
@@ -852,11 +852,11 @@ debajo de esta la banda como se muestra en las imágenes.
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru80.png
+   * - .. figure:: /imagenes/prusa/pru80.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/pru81.png
+     - .. figure:: /imagenes/prusa/pru81.png
               :width: 320px
 
 
@@ -869,7 +869,7 @@ como se muestra en la imagen. Procure que la pieza B no deje salir la banda aunq
 tensada.
 
 
-.. figure:: /imagenes/pru82.png
+.. figure:: /imagenes/prusa/pru82.png
 
 
 Paso 30
@@ -882,15 +882,15 @@ imagen.
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru83.png
+   * - .. figure:: /imagenes/prusa/pru83.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/pru84.png
+     - .. figure:: /imagenes/prusa/pru84.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/pru85.png
+     - .. figure:: /imagenes/prusa/pru85.png
               :width: 320px
 
 
@@ -900,7 +900,7 @@ Paso 31
 Después llevamos la banda hacia la polea del motor y la pasamos alrededor de ella.
 
 
-.. figure:: /imagenes/pru86.png
+.. figure:: /imagenes/prusa/pru86.png
 
 
 Paso 32
@@ -913,7 +913,7 @@ Reténgala con a mano mientras que con la otra jala la banda con ayuda de unas p
 punta.
 
 
-.. figure:: /imagenes/pru87.png
+.. figure:: /imagenes/prusa/pru87.png
 
 
 
@@ -932,22 +932,22 @@ atornillar los tornillos allen que fijan las piezas B mientras que alguien sosti
 arriba.
 
 
-.. figure:: /imagenes/pru88.png
+.. figure:: /imagenes/prusa/pru88.png
 
 
-.. figure:: /imagenes/pru89.png
+.. figure:: /imagenes/prusa/pru89.png
 
 
 Su carro Y terminado debería verse como en las siguientes imágenes.
 
 
-.. figure:: /imagenes/pru90.png
+.. figure:: /imagenes/prusa/pru90.png
 
 
-.. figure:: /imagenes/pru91.png
+.. figure:: /imagenes/prusa/pru91.png
 
 
-.. figure:: /imagenes/pru92.png
+.. figure:: /imagenes/prusa/pru92.png
 
 
 
@@ -964,7 +964,7 @@ Piezas O(esta pieza se mejoro), 3 baleros lineales LM8UU, 2 varillas lisas M8x41
 mm, 4 tornillos M3x16mm y 4 tuercas M3.
 
 
-.. figure:: /imagenes/pru93.png
+.. figure:: /imagenes/prusa/pru93.png
 
 
 Paso 2
@@ -976,7 +976,7 @@ entrar sin ningún tipo de
 juego.
 
 
-.. figure:: /imagenes/pru94.png
+.. figure:: /imagenes/prusa/pru94.png
 
 
 TIP: Remueva el exceso de
@@ -993,13 +993,13 @@ Inserte a presión los tres baleros lineales dentro de la pieza O como se muestr
 las imágenes, procure insertarlos dentro de las pequeñas barreras delimitantes.
 
 
-.. figure:: /imagenes/pru95.png
+.. figure:: /imagenes/prusa/pru95.png
 
 
-.. figure:: /imagenes/pru96.png
+.. figure:: /imagenes/prusa/pru96.png
 
 
-.. figure:: /imagenes/pru97.png
+.. figure:: /imagenes/prusa/pru97.png
 
 
 Paso 4
@@ -1010,7 +1010,7 @@ imagen, esto deberá forzar a los baleros a rectificarse y volverse colineales.
 Recordando no forzar la entrada de la varilla a los baleros.
 
 
-.. figure:: /imagenes/pru98.png
+.. figure:: /imagenes/prusa/pru98.png
 
 
 Paso 5
@@ -1020,7 +1020,7 @@ Para comprobar que los baleros ya están correctamente alineados ponga lubricant
 base silicón a la varilla lisa, después deslícelos baleros através de toda la varilla.
 
 
-.. figure:: /imagenes/pru99.png
+.. figure:: /imagenes/prusa/pru99.png
 
 
 Paso 6
@@ -1030,10 +1030,10 @@ Para hacer la prueba solo deje caer la varilla através de los dos baleros linea
 esta debe deslizarse libremente hasta llegar a su mano.
 
 
-.. figure:: /imagenes/pru100.png
+.. figure:: /imagenes/prusa/pru100.png
 
 
-.. figure:: /imagenes/pru101.png
+.. figure:: /imagenes/prusa/pru101.png
 
 
 
@@ -1045,7 +1045,7 @@ ranuras rectangulares. Es recomendable ayudarse con un cutter.
 Posteriormente introduzca en estas ranuras 2 tuercas M3
 
 
-.. figure:: /imagenes/pru102.png
+.. figure:: /imagenes/prusa/pru102.png
 
 
 Al igual colocaremos las de la parte trasera en la misma
@@ -1061,15 +1061,15 @@ posición.
 .. list-table::
 
 
-             * - .. figure:: /imagenes/pru103.png
+             * - .. figure:: /imagenes/prusa/pru103.png
                         :width: 320px
 
 
-               - .. figure:: /imagenes/pru104.png
+               - .. figure:: /imagenes/prusa/pru104.png
                         :width: 320px
 
 
-               - .. figure:: /imagenes/pru105.png
+               - .. figure:: /imagenes/prusa/pru105.png
                         :width: 320px
 
 
@@ -1082,7 +1082,7 @@ Para comprobar que ya están bien; un tornillo M3 debería poder pasar librement
 necesidad de enroscarse por este orificio.
 
 
-.. figure:: /imagenes/pru106.png
+.. figure:: /imagenes/prusa/pru106.png
 
 
 Paso 9
@@ -1093,7 +1093,7 @@ M3x16mm a cada pieza O
 chica.Cada una lleva 2.
 
 
-.. figure:: /imagenes/pru107.png
+.. figure:: /imagenes/prusa/pru107.png
 
 
 Paso 10
@@ -1103,10 +1103,10 @@ Atornille cada pieza O chica a la pieza O mayor. Hágalo solo hasta que el torni
 enrosque en la tuerca, deje un espacio de separación entre las piezas.
 
 
-.. figure:: /imagenes/pru108.png
+.. figure:: /imagenes/prusa/pru108.png
 
 
-.. figure:: /imagenes/pru109.png
+.. figure:: /imagenes/prusa/pru109.png
 
 
 Paso 11
@@ -1116,7 +1116,7 @@ Ubique las piezas M, 4 baleros lineales LM8UU, 2 tuercas M4, 1 tornillo 5/16”x
 1 balero 688, 1 tuerca 5/16” y 1 rondana 5/16”.
 
 
-.. figure:: /imagenes/pru110.png
+.. figure:: /imagenes/prusa/pru110.png
 
 
 Paso 12
@@ -1126,10 +1126,10 @@ Inserte 2 baleros lineales a cada pieza M como se muestra en la imagen, después
 rectifíquelos con alguna varilla lisa M8
 
 
-.. figure:: /imagenes/pru111.png
+.. figure:: /imagenes/prusa/pru111.png
 
 
-.. figure:: /imagenes/pru112.png
+.. figure:: /imagenes/prusa/pru112.png
 
 
 Si sus baleros no están entrando adecuadamente seguramente es por rebaba plástica
@@ -1137,14 +1137,14 @@ que obstruye que se introduzca adecuadamente. Esto podemos solucionarlo puliendo
 con cutter o con mototool y una broca delgada.
 
 
-.. figure:: /imagenes/pru113.png
+.. figure:: /imagenes/prusa/pru113.png
 
 
 Al terminar de insertarlos una varilla lisa debería poder pasar através de ellos sin
 ninguna dificultad.
 
 
-.. figure:: /imagenes/pru114.png
+.. figure:: /imagenes/prusa/pru114.png
 
 
 Paso 13
@@ -1157,19 +1157,19 @@ TIP: Con ayuda de unas pinzas de punta un poco abiertas presione la tuerca en el
 interior de la ranura.
 
 
-.. figure:: /imagenes/pru115.png
+.. figure:: /imagenes/prusa/pru115.png
 
 
-.. figure:: /imagenes/pru116.png
+.. figure:: /imagenes/prusa/pru116.png
 
 
-.. figure:: /imagenes/pru117.png
+.. figure:: /imagenes/prusa/pru117.png
 
 
 Procure que el orificio de la tuerca coincida con los orificios que están en la ranura.
 
 
-.. figure:: /imagenes/pru118.png
+.. figure:: /imagenes/prusa/pru118.png
 
 
 Paso 14
@@ -1179,16 +1179,16 @@ A continuación inserte dentro de la pieza M el balero 688 atravesándolo con un
 5/16”x25mm como se muestra en las imágenes.
 
 
-.. figure:: /imagenes/pru119.png
+.. figure:: /imagenes/prusa/pru119.png
 
 
 Tip: para que la banda corra mejor sobre el balero 688 podemos colocar dos rondanas
 5/16 en los extremos del balero 688.
 
 
-.. figure:: /imagenes/pru120.png
+.. figure:: /imagenes/prusa/pru120.png
 
-.. figure:: /imagenes/pru121.png
+.. figure:: /imagenes/prusa/pru121.png
 
 Ambas piezas M deberían verse como en la imagen de arriba.
 
@@ -1199,7 +1199,7 @@ Paso 15
 Ahora tome las piezas M como la pieza O además de las dos varillas lisas
 M8x410mm.
 
-.. figure:: /imagenes/pru122.png
+.. figure:: /imagenes/prusa/pru122.png
 
 
 Paso 16
@@ -1210,10 +1210,10 @@ en la imagen.
 Debamos insertar ambas varillas hasta el fondo en esta pieza.
 
 
-.. figure:: /imagenes/pru123.png
+.. figure:: /imagenes/prusa/pru123.png
 
 
-.. figure:: /imagenes/pru124.png
+.. figure:: /imagenes/prusa/pru124.png
 
 
 Paso 17
@@ -1222,7 +1222,7 @@ Paso 17
 Después introduzca la pieza O dentro de ambas varillas lisas.
 
 
-.. figure:: /imagenes/pru125.png
+.. figure:: /imagenes/prusa/pru125.png
 
 
 Paso 18
@@ -1231,16 +1231,16 @@ Paso 18
 Introduzca las varillas en la otra pieza M pero no hasta el tope.
 
 
-.. figure:: /imagenes/pru126.png
+.. figure:: /imagenes/prusa/pru126.png
 
 
-.. figure:: /imagenes/pru127.png
+.. figure:: /imagenes/prusa/pru127.png
 
 
 Su carro XZ debe terminar viéndose como en la imagen de abajo.
 
 
-.. figure:: /imagenes/pru128.png
+.. figure:: /imagenes/prusa/pru128.png
 
 
 
@@ -1261,7 +1261,7 @@ M4, 1 opresor M3x8mm, 2 resortes 6.5x15mm, un perno liso de 5/16”x20mm, un
 tornillo hobbed bolt, un motor y dos rondanas M4.
 
 
-.. figure:: /imagenes/pru129.png
+.. figure:: /imagenes/prusa/pru129.png
 
 
 
@@ -1271,7 +1271,7 @@ Paso 2
 Tome la pieza G junto con el perno liso y un balero 608.
 
 
-.. figure:: /imagenes/pru130.png
+.. figure:: /imagenes/prusa/pru130.png
 
 
 Paso 3
@@ -1280,7 +1280,7 @@ Paso 3
 Introduzca el perno lisa a través del balero 608.
 
 
-.. figure:: /imagenes/pru131.png
+.. figure:: /imagenes/prusa/pru131.png
 
 
 Paso 4
@@ -1291,29 +1291,29 @@ hacer que entre hasta el tope ayúdese de unas pinzas mecánicas como se muestra
 en las imágenes.
 
 
-.. figure:: /imagenes/pru132.png
+.. figure:: /imagenes/prusa/pru132.png
 
 
-.. figure:: /imagenes/pru133.png
+.. figure:: /imagenes/prusa/pru133.png
 
 
 Después inserte la pieza G en la pieza I como se muestra abajo.
 
 
-.. figure:: /imagenes/pru134.png
+.. figure:: /imagenes/prusa/pru134.png
 
 
-.. figure:: /imagenes/pru135.png
+.. figure:: /imagenes/prusa/pru135.png
 
 
 Atraviese un tornillo M3x30mm por pieza I y pieza G como se muestra en la figura y
 asegúrelo con una tuerca M3 de seguridad como se muestra en las imágenes.
 
 
-.. figure:: /imagenes/pru136.png
+.. figure:: /imagenes/prusa/pru136.png
 
 
-.. figure:: /imagenes/pru137.png
+.. figure:: /imagenes/prusa/pru137.png
 
 
 Paso 5
@@ -1323,11 +1323,11 @@ Lo siguiente es tomar otros dos baleros 608 e introducirlos en la pieza I como s
 muestra en las imágenes.
 
 
-.. figure:: /imagenes/pru138.png
+.. figure:: /imagenes/prusa/pru138.png
 
-.. figure:: /imagenes/pru139.png
+.. figure:: /imagenes/prusa/pru139.png
 
-.. figure:: /imagenes/pru140.png
+.. figure:: /imagenes/prusa/pru140.png
 
 
 Paso 6
@@ -1336,7 +1336,7 @@ Paso 6
 El siguiente paso sera tomar el tornillo hobbed bolt e insertarle una rondana 5/16”.
 
 
-.. figure:: /imagenes/pru141.png
+.. figure:: /imagenes/prusa/pru141.png
 
 
 Paso 7
@@ -1345,7 +1345,7 @@ Paso 7
 Después introduzca dicho tornillo a través de ambos baleros 608.
 
 
-.. figure:: /imagenes/pru142.png
+.. figure:: /imagenes/prusa/pru142.png
 
 
 Paso 8
@@ -1354,10 +1354,10 @@ Paso 8
 Al extremo sobresaliente del tornillo introduzca 3 rondanas 5/16”.
 
 
-.. figure:: /imagenes/pru143.png
+.. figure:: /imagenes/prusa/pru143.png
 
 
-.. figure:: /imagenes/pru144.png
+.. figure:: /imagenes/prusa/pru144.png
 
 
 Paso 9
@@ -1366,10 +1366,10 @@ Paso 9
 Introduzca una tuerca 5/16” de seguridad dentro del engrane A. (esta parte fue mejorada utilizando una turca de seguridad 5/16)
 
 
-.. figure:: /imagenes/pru145.png
+.. figure:: /imagenes/prusa/pru145.png
 
 
-.. figure:: /imagenes/pru146.png
+.. figure:: /imagenes/prusa/pru146.png
 
 
 Paso 10
@@ -1380,13 +1380,13 @@ del engrane como la cabeza del tornillo.
 TIP: Sostenga el engrane y su tuerca de tal modo que no se separen
 
 
-.. figure:: /imagenes/pru147.png
+.. figure:: /imagenes/prusa/pru147.png
 
 
-.. figure:: /imagenes/pru148.png
+.. figure:: /imagenes/prusa/pru148.png
 
 
-.. figure:: /imagenes/pru149.png
+.. figure:: /imagenes/prusa/pru149.png
 
 
 Paso 11
@@ -1397,7 +1397,7 @@ Después cuando sienta que el engrane este lo mas atras posible y que aun siga
 girando libremente, inserte otra tuerca para generar un seguro de contratuerca.
 
 
-.. figure:: /imagenes/pru150.png
+.. figure:: /imagenes/prusa/pru150.png
 
 
 Paso 12
@@ -1406,7 +1406,7 @@ Paso 12
 La extrusora debería verse como en la foto de abajo
 
 
-.. figure:: /imagenes/pru151.png
+.. figure:: /imagenes/prusa/pru151.png
 
 
 Paso 13
@@ -1416,7 +1416,7 @@ Para reforzar el seguro tome dos llaves de media y apriete la cabeza del tornill
 hobbed bolt y la última tuerca.
 
 
-.. figure:: /imagenes/pru152.png
+.. figure:: /imagenes/prusa/pru152.png
 
 .. Note::
 
@@ -1430,7 +1430,7 @@ Paso 14
 A continuación inserte 2 tuercas M4 en las ranuras superiores de la pieza I.
 
 
-.. figure:: /imagenes/pru153.png
+.. figure:: /imagenes/prusa/pru153.png
 
 
 TIP: Asegurese de insertar las tueras
@@ -1439,7 +1439,7 @@ la tuerca entre paralelamente a las
 paredes de la ranura.
 
 
-.. figure:: /imagenes/pru154.png
+.. figure:: /imagenes/prusa/pru154.png
 
 
 
@@ -1449,7 +1449,7 @@ Paso 15
 Tome los 2 tornillos M4x50mm e inserte dentro de ellas rondanas M4.
 
 
-.. figure:: /imagenes/pru155.png
+.. figure:: /imagenes/prusa/pru155.png
 
 
 
@@ -1461,7 +1461,7 @@ después puede colocar una rondana mas en cada tornillo
 para que el resorte quede atrapado entre dos rondanas.
 
 
-.. figure:: /imagenes/pru156.png
+.. figure:: /imagenes/prusa/pru156.png
 
 
 
@@ -1478,7 +1478,7 @@ En este paso es importante no apretar los tornillos solo llegarlos en las primer
 cuerdas de la tuerca.
 
 
-.. figure:: /imagenes/pru157.png
+.. figure:: /imagenes/prusa/pru157.png
 
 
 
@@ -1488,10 +1488,10 @@ Paso 18
 Después iguale el otro tornillo como se muestra en la imagen debajo.
 
 
-.. figure:: /imagenes/pru158.png
+.. figure:: /imagenes/prusa/pru158.png
 
 
-.. figure:: /imagenes/pru159.png
+.. figure:: /imagenes/prusa/pru159.png
 
 
 
@@ -1503,7 +1503,7 @@ M3x8mm.
 
 
 
-.. figure:: /imagenes/pru160.png
+.. figure:: /imagenes/prusa/pru160.png
 
 
 
@@ -1513,7 +1513,7 @@ Paso 20
 Inserte dentro del engrane la tuerca M3 como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru161.png
+.. figure:: /imagenes/prusa/pru161.png
 
 
 Paso 21
@@ -1522,7 +1522,7 @@ Paso 21
 Inserte el engrane en la flecha del motor.
 
 
-.. figure:: /imagenes/pru162.png
+.. figure:: /imagenes/prusa/pru162.png
 
 
 Paso 22
@@ -1532,10 +1532,10 @@ Introduzca el opresor en el orificio de la pieza L, através de la tuerca M3 par
 presionar contra la flecha del motor y mantener fijo el engrane.
 
 
-.. figure:: /imagenes/pru163.png
+.. figure:: /imagenes/prusa/pru163.png
 
 
-.. figure:: /imagenes/pru164.png
+.. figure:: /imagenes/prusa/pru164.png
 
 
 Paso 23
@@ -1544,7 +1544,7 @@ Paso 23
 Tome 3 tornillos mas M3x10mm
 
 
-.. figure:: /imagenes/pru165.png
+.. figure:: /imagenes/prusa/pru165.png
 
 
 
@@ -1554,10 +1554,10 @@ Paso 24
 Fije el motor a la extrusora como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru166.png
+.. figure:: /imagenes/prusa/pru166.png
 
 
-.. figure:: /imagenes/pru167.png
+.. figure:: /imagenes/prusa/pru167.png
 
 
 
@@ -1573,7 +1573,7 @@ Para la instalación de la boquilla J-Head ubique 2 tornillos M4x20mm, 2 rondana
 tuercas M4, una boquilla J-Head y una placa de madera.
 
 
-.. figure:: /imagenes/pru168.png
+.. figure:: /imagenes/prusa/pru168.png
 
 
 
@@ -1583,7 +1583,7 @@ Paso 2
 Introduzca la boquilla a la placa de madera como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru169.png
+.. figure:: /imagenes/prusa/pru169.png
 
 
 
@@ -1595,10 +1595,10 @@ masking o de aislar y péguelos como se muestra en la imagen, esto generará mas
 grosor en la placa y consecuentemente que la boquilla se fije.
 
 
-.. figure:: /imagenes/pru170.png
+.. figure:: /imagenes/prusa/pru170.png
 
 
-.. figure:: /imagenes/pru171.png
+.. figure:: /imagenes/prusa/pru171.png
 
 
 
@@ -1610,7 +1610,7 @@ parte excedente de la boquilla
 dentro del orificio de la pieza I.
 
 
-.. figure:: /imagenes/pru172.png
+.. figure:: /imagenes/prusa/pru172.png
 
 
 
@@ -1621,10 +1621,10 @@ Mientras sostiene la placa con una mano, con la otra coloque tuercas M4 en cada 
 de las 2 ranuras en la parte superior de la pieza I.
 
 
-.. figure:: /imagenes/pru173.png
+.. figure:: /imagenes/prusa/pru173.png
 
 
-.. figure:: /imagenes/pru174.png
+.. figure:: /imagenes/prusa/pru174.png
 
 
 
@@ -1635,7 +1635,7 @@ Después introduzca 2 tornillos M4x20mm con sus respectivas rondanas a través d
 las ranuras de la placa.
 
 
-.. figure:: /imagenes/pru175.png
+.. figure:: /imagenes/prusa/pru175.png
 
 
 
@@ -1645,7 +1645,7 @@ Paso 7
 Introduzca los tornillos a través de la tuerca que recién coloco.
 
 
-.. figure:: /imagenes/pru176.png
+.. figure:: /imagenes/prusa/pru176.png
 
 
 
@@ -1656,7 +1656,7 @@ Para la instalación del ventilador tome la pieza P, un ventilador de 4x4 cm, 2 
 M3x20mm,2 M3x16mm, 4 tuercas M3 y 2 turcas M3 de seguridad y dos rondanas M3
 
 
-.. figure:: /imagenes/pru177.png
+.. figure:: /imagenes/prusa/pru177.png
 
 
 
@@ -1666,7 +1666,7 @@ Paso 9
 Recorte el pequeño enchufe que sale del ventilador
 
 
-.. figure:: /imagenes/pru178.png
+.. figure:: /imagenes/prusa/pru178.png
 
 
 Paso 10
@@ -1678,13 +1678,13 @@ terminal, corte este cable a 7cm de su terminal como se muestra en la foto.
 ATENCION: Guarde la terminal del cable THERM pues se usará mas adelante.
 
 
-.. figure:: /imagenes/pru179.png
+.. figure:: /imagenes/prusa/pru179.png
 
 
-.. figure:: /imagenes/pru180.png
+.. figure:: /imagenes/prusa/pru180.png
 
 
-.. figure:: /imagenes/pru181.png
+.. figure:: /imagenes/prusa/pru181.png
 
 
 Paso 11
@@ -1694,10 +1694,10 @@ Una los cables del ventilador con los cables rojo y negro que recién corto, tre
 estáñelos.
 
 
-.. figure:: /imagenes/pru182.png
+.. figure:: /imagenes/prusa/pru182.png
 
 
-.. figure:: /imagenes/pru183.png
+.. figure:: /imagenes/prusa/pru183.png
 
 
 Paso 12
@@ -1707,7 +1707,7 @@ Introduzca a los extremos sueltos de los cables un tramo pequeño de thermofit y
 ubíquelos sobre la unión que recién realizó.
 
 
-.. figure:: /imagenes/pru184.png
+.. figure:: /imagenes/prusa/pru184.png
 
 
 Paso 13
@@ -1717,10 +1717,10 @@ Caliente el thermofit con un encendedor como se muestra en la imagen para que es
 se contraiga y proteja la unión.
 
 
-.. figure:: /imagenes/pru185.png
+.. figure:: /imagenes/prusa/pru185.png
 
 
-.. figure:: /imagenes/pru186.png
+.. figure:: /imagenes/prusa/pru186.png
 
 
 Paso 14
@@ -1729,16 +1729,16 @@ Paso 14
 Estañe las terminales de ambos cables del ventilador.
 
 
-.. figure:: /imagenes/pru187.png
+.. figure:: /imagenes/prusa/pru187.png
 
 
-.. figure:: /imagenes/pru188.png
+.. figure:: /imagenes/prusa/pru188.png
 
 
 El ventilador debe verse como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru189.png
+.. figure:: /imagenes/prusa/pru189.png
 
 
 Paso 15
@@ -1748,7 +1748,7 @@ Junte el ventilador con la pieza P , procurando que los cables queden pegados a 
 pieza P y salgan por la parte superior.
 
 
-.. figure:: /imagenes/pru190.png
+.. figure:: /imagenes/prusa/pru190.png
 
 
 
@@ -1759,13 +1759,13 @@ Fije el ventilador a la pieza P con 2 tornillos M3x16mm y 2 tuercas M3 procurand
 que el tornillo esté en la pieza P , como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru191.png
+.. figure:: /imagenes/prusa/pru191.png
 
 
 El ensamble del ventilador deberá verse así.
 
 
-.. figure:: /imagenes/pru192.png
+.. figure:: /imagenes/prusa/pru192.png
 
 
 
@@ -1776,7 +1776,7 @@ Ubique el ensamble del ventilador debajo del motor de la extrusora como se muest
 en la imagen.
 
 
-.. figure:: /imagenes/pru193.png
+.. figure:: /imagenes/prusa/pru193.png
 
 
 
@@ -1786,7 +1786,7 @@ Paso 18
 Tome 2 tornillos M3x20mm e introduzca en ellos 2 rondanas M3.
 
 
-.. figure:: /imagenes/pru194.png
+.. figure:: /imagenes/prusa/pru194.png
 
 
 Paso 19
@@ -1796,7 +1796,7 @@ Antes de ensamblar rectifique los agujeros tanto como de la pieza I como de la p
 P con alguna broca de 3mm o menor para quitar rebabas de plástico.
 
 
-.. figure:: /imagenes/pru195.png
+.. figure:: /imagenes/prusa/pru195.png
 
 
 
@@ -1807,7 +1807,7 @@ Introduzca en la pieza I, 2 tornillos M3x20mm y asegúrelos con 2 tuercas M3 cad
 uno como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru196.png
+.. figure:: /imagenes/prusa/pru196.png
 
 
 
@@ -1817,7 +1817,7 @@ Paso 21
 Introduzca en los extremos sobrantes de los tornillos la pieza P.
 
 
-.. figure:: /imagenes/pru197.png
+.. figure:: /imagenes/prusa/pru197.png
 
 
 .. Note::
@@ -1840,7 +1840,7 @@ Por último asegure el ventilador con 2 tuercas M3 de seguridad de igual manera
 tener cuidado de no apretar con fuerza, como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru198.png
+.. figure:: /imagenes/prusa/pru198.png
 
 
 
@@ -1854,7 +1854,7 @@ Paso 1
 Despegue las calcomanias de todas las piezas de acrílico.
 
 
-.. figure:: /imagenes/pru199.png
+.. figure:: /imagenes/prusa/pru199.png
 
 
 
@@ -1865,7 +1865,7 @@ Ubicar el marco principal, y el refuerzo inferior tanto como los tornillos (4) M
 (4)tuercas M3 y (4) rondanas M3.
 
 
-.. figure:: /imagenes/pru200.png
+.. figure:: /imagenes/prusa/pru200.png
 
 
 
@@ -1875,7 +1875,7 @@ Paso 3
 Introduzca en cada tornillo una rondana M3 como se muestra en la figura.
 
 
-.. figure:: /imagenes/pru201.png
+.. figure:: /imagenes/prusa/pru201.png
 
 
 
@@ -1886,10 +1886,10 @@ Introduzca cada uno de los cuatro tornillos y fíjelos con Tuerca M3 de
 seguridad como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru202.png
+.. figure:: /imagenes/prusa/pru202.png
 
 
-.. figure:: /imagenes/pru203.png
+.. figure:: /imagenes/prusa/pru203.png
 
 
 
@@ -1900,7 +1900,7 @@ Localice los 2 triángulos y los (6) tornillos M5X25, (6) rondanas M5 y (6) tuer
 
 
 
-.. figure:: /imagenes/pru204.png
+.. figure:: /imagenes/prusa/pru204.png
 
 
 
@@ -1911,7 +1911,7 @@ Ensamble los dos triángulos con el marco principal, insertando los dientes de l
 triángulos en el marco como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru205.png
+.. figure:: /imagenes/prusa/pru205.png
 
 
 
@@ -1921,7 +1921,7 @@ Paso 7
 Introduzca las rondanas en cada tornillo como se muestra la imagen.
 
 
-.. figure:: /imagenes/pru206.png
+.. figure:: /imagenes/prusa/pru206.png
 
 
 
@@ -1933,7 +1933,7 @@ Una vez insertados los dientes en el marco principal, tomar los tornillos M5X25 
 introducirlos como se muestra en la imagen
 
 
-.. figure:: /imagenes/pru207.png
+.. figure:: /imagenes/prusa/pru207.png
 
 
 
@@ -1943,7 +1943,7 @@ Paso 9
 introducir los tornillos como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru208.png
+.. figure:: /imagenes/prusa/pru208.png
 
 
 
@@ -1954,10 +1954,10 @@ Una vez que tenga los 6 tornillos ensamblados con el marco, colocar las tuercas 
 como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru209.png
+.. figure:: /imagenes/prusa/pru209.png
 
 
-.. figure:: /imagenes/pru210.png
+.. figure:: /imagenes/prusa/pru210.png
 
 
 
@@ -1968,7 +1968,7 @@ Ubicar el refuerzo superior y (5) tornillos M5X25 mm, junto con las (5) tuercas 
 las (5) rondanas M5.
 
 
-.. figure:: /imagenes/pru211.png
+.. figure:: /imagenes/prusa/pru211.png
 
 
 
@@ -1978,7 +1978,7 @@ Paso 12
 Colocar el refuerzo superior como se muestra en la imagen siguiente.
 
 
-.. figure:: /imagenes/pru212.png
+.. figure:: /imagenes/prusa/pru212.png
 
 
 
@@ -1994,7 +1994,7 @@ tornillos, 2 tornillos en cada parte lateral del soporte y 3 al frente.
 
 
 
-.. figure:: /imagenes/pru213.png
+.. figure:: /imagenes/prusa/pru213.png
 
 
 
@@ -2005,7 +2005,7 @@ Ubicar las piezas K con (6) tornillos M3 x 16 mm con (6) tuercas M3 de seguridad
 (6) rondanas M3.
 
 
-.. figure:: /imagenes/pru214.png
+.. figure:: /imagenes/prusa/pru214.png
 
 
 
@@ -2016,7 +2016,7 @@ Rectifique los orificios de las piezas K con un mototool hasta ver que la varill
 entre firmemente.
 
 
-.. figure:: /imagenes/pru215.png
+.. figure:: /imagenes/prusa/pru215.png
 
 
 
@@ -2026,10 +2026,10 @@ Paso 16
 Colocar las piezas K con 3 tornillos M3 x16 mm.
 
 
-.. figure:: /imagenes/pru216.png
+.. figure:: /imagenes/prusa/pru216.png
 
 
-.. figure:: /imagenes/pru217.png
+.. figure:: /imagenes/prusa/pru217.png
 
 
 
@@ -2040,10 +2040,10 @@ Una vez atravesados los tornillos colocar las rondanas y tuercas de seguridad
 M3.
 
 
-.. figure:: /imagenes/pru218.png
+.. figure:: /imagenes/prusa/pru218.png
 
 
-.. figure:: /imagenes/pru219.png
+.. figure:: /imagenes/prusa/pru219.png
 
 
 
@@ -2060,7 +2060,7 @@ manguera neumática.
 
 
 
-.. figure:: /imagenes/pru220.png
+.. figure:: /imagenes/prusa/pru220.png
 
 
 
@@ -2071,7 +2071,7 @@ Colocar las manguera neumáticas en cada uno de las flechas de los motores como 
 muestra en la figura.
 
 
-.. figure:: /imagenes/pru221.png
+.. figure:: /imagenes/prusa/pru221.png
 
 
 Paso 3
@@ -2083,20 +2083,20 @@ superficie rígida hasta que la flecha del motor se logre introducir 1.5 cm.
 
 
 
-.. figure:: /imagenes/pru222.png
+.. figure:: /imagenes/prusa/pru222.png
 
 
 La manguera neumática deberá quedar como se muestra en las imagen.
 
 
-.. figure:: /imagenes/pru223.png
+.. figure:: /imagenes/prusa/pru223.png
 
 
 En su kit pueden aparecer dos tipos de motores, el de enchufe rápido y el de cables
 sueltos.
 
 
-.. figure:: /imagenes/pru224.png
+.. figure:: /imagenes/prusa/pru224.png
 
 
 La imagen siguiente muestra la forma de
@@ -2105,7 +2105,7 @@ cables sueltos se especificará mas adelante
 en el manual.
 
 
-.. figure:: /imagenes/pru225.png
+.. figure:: /imagenes/prusa/pru225.png
 
 
 
@@ -2118,7 +2118,7 @@ muestra en la figura.
 
 
 
-.. figure:: /imagenes/pru226.png
+.. figure:: /imagenes/prusa/pru226.png
 
 
 
@@ -2128,10 +2128,10 @@ Paso 5
 Conectar el motor con sus respectivos cables como se muestra en la figura.
 
 
-.. figure:: /imagenes/pru227.png
+.. figure:: /imagenes/prusa/pru227.png
 
 
-.. figure:: /imagenes/pru228.png
+.. figure:: /imagenes/prusa/pru228.png
 
 
 
@@ -2142,7 +2142,7 @@ Una vez hecho lo anterior deberá atornillar los motores a las piezas K con los 
 M3 x 10m como se muestra a continuación.
 
 
-.. figure:: /imagenes/pru229.png
+.. figure:: /imagenes/prusa/pru229.png
 
 
 Paso 7
@@ -2153,7 +2153,7 @@ lineales de cada pieza M una varilla lisa M8 X 360mm.
 
 
 
-.. figure:: /imagenes/pru230.png
+.. figure:: /imagenes/prusa/pru230.png
 
 
 
@@ -2169,11 +2169,11 @@ imagen.
 
  .. list-table::
 
-    * - .. figure:: /imagenes/pru231.png
+    * - .. figure:: /imagenes/prusa/pru231.png
                              :width: 250px
 
 
-      - .. figure:: /imagenes/pru232.png
+      - .. figure:: /imagenes/prusa/pru232.png
                              :width: 250px
 
 
@@ -2183,7 +2183,7 @@ cuanto es que las varillas horizontales
 tendrán de profundidad en la pieza M.
 
 
- .. figure:: /imagenes/pru233.png
+ .. figure:: /imagenes/prusa/pru233.png
 
 
 
@@ -2196,7 +2196,7 @@ tendrán de profundidad en la pieza M.
  lo mas perpendicular posible las varillas horizontales y verticales.
 
 
- .. figure:: /imagenes/pru234.png
+ .. figure:: /imagenes/prusa/pru234.png
 
 
 
@@ -2206,7 +2206,7 @@ tendrán de profundidad en la pieza M.
  Ubicar las piezas J.
 
 
- .. figure:: /imagenes/pru235.png
+ .. figure:: /imagenes/prusa/pru235.png
 
 
 
@@ -2217,7 +2217,7 @@ tendrán de profundidad en la pieza M.
  M8x360mm como se muestra en a imagen
 
 
- .. figure:: /imagenes/pru236.png
+ .. figure:: /imagenes/prusa/pru236.png
 
 
 
@@ -2228,10 +2228,10 @@ tendrán de profundidad en la pieza M.
  M3X16 mm con sus respectivas tuercas M3 de seguridad y rondanas M3.
 
 
- .. figure:: /imagenes/pru237.png
+ .. figure:: /imagenes/prusa/pru237.png
 
 
- .. figure:: /imagenes/pru238.png
+ .. figure:: /imagenes/prusa/pru238.png
 
 
 
@@ -2239,7 +2239,7 @@ Una vez ensamblada y atornillada, así se vera el marco junto con el carro del e
 
 
 
- .. figure:: /imagenes/pru239.png
+ .. figure:: /imagenes/prusa/pru239.png
 
 
 
@@ -2251,13 +2251,13 @@ Una vez ensamblada y atornillada, así se vera el marco junto con el carro del e
  en la imagen.
 
 
- .. figure:: /imagenes/pru240.png
+ .. figure:: /imagenes/prusa/pru240.png
 
 
 Así se verá una vez introducidas las varillas roscadas.
 
 
- .. figure:: /imagenes/pru241.png
+ .. figure:: /imagenes/prusa/pru241.png
 
 Paso 14
 
@@ -2269,11 +2269,11 @@ M como se muestra en la figura.
 
  .. list-table::
 
-    * - .. figure:: /imagenes/pru242.png
+    * - .. figure:: /imagenes/prusa/pru242.png
                              :width: 250px
 
 
-      - .. figure:: /imagenes/pru243.png
+      - .. figure:: /imagenes/prusa/pru243.png
                              :width: 250px
 
 
@@ -2285,7 +2285,7 @@ neumática para sostenerla recta y con la otra empujar el carro del eje XZ y com
 poder insertarlo en la manguera.
 
 
- .. figure:: /imagenes/pru244.png
+ .. figure:: /imagenes/prusa/pru244.png
 
 
  Paso 16
@@ -2295,7 +2295,7 @@ poder insertarlo en la manguera.
  Así es como se deberá ver la varilla roscada insertada en la manguera neumática.
 
 
- .. figure:: /imagenes/pru245.png
+ .. figure:: /imagenes/prusa/pru245.png
 
 
  Paso 17
@@ -2304,7 +2304,7 @@ poder insertarlo en la manguera.
  Ubique un motor, una polea 2.0 y (3) tornillos M3X10 mm.
 
 
- .. figure:: /imagenes/pru246.png
+ .. figure:: /imagenes/prusa/pru246.png
 
 
 
@@ -2314,7 +2314,7 @@ poder insertarlo en la manguera.
  Sujete el motor a las piezas M como se muestra en la imagen.
 
 
- .. figure:: /imagenes/pru247.png
+ .. figure:: /imagenes/prusa/pru247.png
 
 
 
@@ -2327,7 +2327,7 @@ poder insertarlo en la manguera.
  polea.
 
 
- .. figure:: /imagenes/pru248.png
+ .. figure:: /imagenes/prusa/pru248.png
 
 
 
@@ -2338,7 +2338,7 @@ poder insertarlo en la manguera.
  mejorada) por la pequeña ranura como se muestra en la imagen.
 
 
- .. figure:: /imagenes/pru249.png
+ .. figure:: /imagenes/prusa/pru249.png
 
 
 
@@ -2355,7 +2355,7 @@ poder insertarlo en la manguera.
 
 
 
- .. figure:: /imagenes/pru250.png
+ .. figure:: /imagenes/prusa/pru250.png
 
 
 
@@ -2366,13 +2366,13 @@ poder insertarlo en la manguera.
  ranura de la pieza M.
 
 
- .. figure:: /imagenes/pru251.png
+ .. figure:: /imagenes/prusa/pru251.png
 
 
 Después la regresamos rodeando el balero 688.
 
 
-.. figure:: /imagenes/pru252.png
+.. figure:: /imagenes/prusa/pru252.png
 
 
 Paso 23
@@ -2384,7 +2384,7 @@ desatornillara para después mantenerla sujeta y fijará como se muestran en las
 siguientes imágenes.
 
 
-.. figure:: /imagenes/pru253.png
+.. figure:: /imagenes/prusa/pru253.png
 
 
 Este paso es recomendable lo haga con ayuda de alguien más, mientras uno tensa la
@@ -2392,14 +2392,14 @@ banda otro deberá atornillar la prensa de la pieza O.
 
 
 
-.. figure:: /imagenes/pru254.png
+.. figure:: /imagenes/prusa/pru254.png
 
 
 
 Así se deberá de ver su impresora con el carro XZ ya ensamblado.
 
 
-.. figure:: /imagenes/pru255.png
+.. figure:: /imagenes/prusa/pru255.png
 
 
 8. INSTALCIÓN DE EXTRUSORA Y CARRO Y
@@ -2412,7 +2412,7 @@ Ubicar la extrusora y 2 tornillos M3 X 40 mm con sus respectivas tuercas M3 de
 seguridad.
 
 
-.. figure:: /imagenes/pru256.png
+.. figure:: /imagenes/prusa/pru256.png
 
 
 
@@ -2423,7 +2423,7 @@ Introducir los 2 tornillos por la parte frontal de la extrusora como se muestra 
 imagen.
 
 
-.. figure:: /imagenes/pru257.png
+.. figure:: /imagenes/prusa/pru257.png
 
 
 
@@ -2434,7 +2434,7 @@ Una vez salidos el par de tornillos deberá introducirlos en el par de orificios
 encuentran en la pieza O mas retirados a la derecha viendo la impresora de frente.
 
 
-.. figure:: /imagenes/pru258.png
+.. figure:: /imagenes/prusa/pru258.png
 
 
 
@@ -2445,7 +2445,7 @@ Los tornillos tendrán que sobresalir un poco sobre la pieza O como se muestra e
 imagen.
 
 
-.. figure:: /imagenes/pru259.png
+.. figure:: /imagenes/prusa/pru259.png
 
 
 
@@ -2456,7 +2456,7 @@ Una vez pasados los tornillos deberán fijarse con sus respectivas tuercas
 M3 de seguridad.
 
 
-.. figure:: /imagenes/pru260.png
+.. figure:: /imagenes/prusa/pru260.png
 
 
 
@@ -2466,7 +2466,7 @@ Paso 6
 Ubicar carro del eje Y.
 
 
-.. figure:: /imagenes/pru261.png
+.. figure:: /imagenes/prusa/pru261.png
 
 
 
@@ -2477,7 +2477,7 @@ Antes de empezar a colocar el carro eje Y deberá de subir manualmente el carro 
 XZ girando las varillas roscadas M5 en el sentido de las manecillas del reloj.
 
 
-.. figure:: /imagenes/pru262.png
+.. figure:: /imagenes/prusa/pru262.png
 
 
 
@@ -2488,7 +2488,7 @@ Coloque el carro del eje Y sobre los huecos ya marcados en el soporte inferior y
 marco como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru263.png
+.. figure:: /imagenes/prusa/pru263.png
 
 
 
@@ -2499,7 +2499,7 @@ roscada final y como punto final la parte inicial del del marco de acrílico com
 muestra en la siguiente imagen.
 
 
-.. figure:: /imagenes/pru264.png
+.. figure:: /imagenes/prusa/pru264.png
 
 
 Paso 10
@@ -2510,14 +2510,14 @@ final de donde corre la varilla hasta el centro de la varilla roscada y debe ser
 cm. aprox.
 
 
-.. figure:: /imagenes/pru265.png
+.. figure:: /imagenes/prusa/pru265.png
 
 
 En el caso de la PRUSA i3 XL la medida será de 1.5 aprox. midiendo por el inicio de
 la ranura hacia dentro.
 
 
-.. figure:: /imagenes/pru266.png
+.. figure:: /imagenes/prusa/pru266.png
 
 
 
@@ -2529,13 +2529,13 @@ varilla roscada tanto las que aprietan al triángulo como las que aprietan al so
 inferior del marco de acrílico, para fijar el carro en un solo lugar.
 
 
-.. figure:: /imagenes/pru267.png
+.. figure:: /imagenes/prusa/pru267.png
 
 
 Así es como se vera su impresora ya con el carro del eje Y ya instalado.
 
 
-.. figure:: /imagenes/pru268.png
+.. figure:: /imagenes/prusa/pru268.png
 
 
 
@@ -2545,7 +2545,7 @@ Paso 12
 Ubicar tope movible del eje Z
 
 
-.. figure:: /imagenes/pru269.png
+.. figure:: /imagenes/prusa/pru269.png
 
 
 Paso 13
@@ -2560,7 +2560,7 @@ XZ como se muestra en la
 siguiente imagen.
 
 
-.. figure:: /imagenes/pru270.png
+.. figure:: /imagenes/prusa/pru270.png
 
 
 Paso 14
@@ -2570,10 +2570,10 @@ Una vez ingresado el tornillo en la pieza M, en la parte inferior de este se le 
 el tope como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru271.png
+.. figure:: /imagenes/prusa/pru271.png
 
 
-.. figure:: /imagenes/pru272.png
+.. figure:: /imagenes/prusa/pru272.png
 
 
 
@@ -2587,7 +2587,7 @@ Ubique 3 micorswitches, el set de cables rojo azul y negro, 2 piezas C, pieza F,
 cintillos, 3 tornillos M3x20, 3 rondanas y tuercas M3 de seguridad
 
 
-.. figure:: /imagenes/pru273.png
+.. figure:: /imagenes/prusa/pru273.png
 
 
 
@@ -2597,7 +2597,7 @@ Paso 2
 Corte el cable azul de todos los cables ENDSTOP.
 
 
-.. figure:: /imagenes/pru274.png
+.. figure:: /imagenes/prusa/pru274.png
 
 
 
@@ -2614,10 +2614,10 @@ microswitch amarre los cables negro y rojo y sóldelos.
 
 
 
-.. figure:: /imagenes/pru275.png
+.. figure:: /imagenes/prusa/pru275.png
 
 
-.. figure:: /imagenes/pru276.png
+.. figure:: /imagenes/prusa/pru276.png
 
 
 
@@ -2627,13 +2627,13 @@ Paso 4
 Contraiga los tramos de thermofit de modo que protejan la unión soldada.
 
 
-.. figure:: /imagenes/pru277.png
+.. figure:: /imagenes/prusa/pru277.png
 
 
 Sus 3 microswitches deberán verse como en la imagen debajo.
 
 
-.. figure:: /imagenes/pru278.png
+.. figure:: /imagenes/prusa/pru278.png
 
 
 Paso 5
@@ -2642,22 +2642,22 @@ Paso 5
 Asegure la pieza F al microswitch con un cintillo.
 
 
-.. figure:: /imagenes/pru279.png
+.. figure:: /imagenes/prusa/pru279.png
 
 
-.. figure:: /imagenes/pru280.png
+.. figure:: /imagenes/prusa/pru280.png
 
 
-.. figure:: /imagenes/pru281.png
+.. figure:: /imagenes/prusa/pru281.png
 
 
-.. figure:: /imagenes/pru282.png
+.. figure:: /imagenes/prusa/pru282.png
 
 
 Corte el sobrante del cintillo.
 
 
-.. figure:: /imagenes/pru283.png
+.. figure:: /imagenes/prusa/pru283.png
 
 
 
@@ -2667,7 +2667,7 @@ Paso 6
 Fije otro microswitch a la pieza C como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru284.png
+.. figure:: /imagenes/prusa/pru284.png
 
 
 
@@ -2676,7 +2676,7 @@ Paso 7
 Instale el último microswitch a la última pieza C.
 
 
-.. figure:: /imagenes/pru285.png
+.. figure:: /imagenes/prusa/pru285.png
 
 
 
@@ -2687,7 +2687,7 @@ El microswitch unido a la pieza F ubíquelo en el carro Y como se muestra a
 continuación.
 
 
-.. figure:: /imagenes/pru286.png
+.. figure:: /imagenes/prusa/pru286.png
 
 
 
@@ -2698,17 +2698,17 @@ Una vez insertando la pieza F en la varilla roscada, introduzca un tornillo M3x2
 asegúrelo por debajo con una tuerca M3 de seguridad recuerda no apretar tan fuerte.
 
 
-.. figure:: /imagenes/pru287.png
+.. figure:: /imagenes/prusa/pru287.png
 
 
-.. figure:: /imagenes/pru288.png
+.. figure:: /imagenes/prusa/pru288.png
 
 
 Asegurese de que la palanca del microswitch se presione justo antes de que la pieza
 H pegue con la esquina del carro del eje Y.
 
 
-.. figure:: /imagenes/pru289.png
+.. figure:: /imagenes/prusa/pru289.png
 
 
 
@@ -2720,7 +2720,7 @@ movible del eje Z, en esta parte es muy importante asegurarnos que el micro qued
 se ve en la imagen.
 
 
-.. figure:: /imagenes/pru290.png
+.. figure:: /imagenes/prusa/pru290.png
 
 
 Paso 11
@@ -2730,13 +2730,13 @@ El otro microswitch instalado en la pieza C lo pondremos en la varilla lisa supe
 carro XZ, asegúrese de ponerlo lo mas retirado a la derecha posible.
 
 
-.. figure:: /imagenes/pru291.png
+.. figure:: /imagenes/prusa/pru291.png
 
 
 Este microswitch debe accionarse con la pieza G como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru292.png
+.. figure:: /imagenes/prusa/pru292.png
 
 
 Los tres microswitches deben verse como en las imágenes a continuación.
@@ -2745,19 +2745,19 @@ Los tres microswitches deben verse como en las imágenes a continuación.
 Eje Y
 
 
-.. figure:: /imagenes/pru293.png
+.. figure:: /imagenes/prusa/pru293.png
 
 
 Eje X
 
 
-.. figure:: /imagenes/pru294.png
+.. figure:: /imagenes/prusa/pru294.png
 
 
 Eje Z
 
 
-.. figure:: /imagenes/pru295.png
+.. figure:: /imagenes/prusa/pru295.png
 
 
 
@@ -2771,10 +2771,10 @@ Paso 1
 Ubicar el controlador y los disipadores de calor.
 
 
-.. figure:: /imagenes/pru296.png
+.. figure:: /imagenes/prusa/pru296.png
 
 
-.. figure:: /imagenes/pru297.png
+.. figure:: /imagenes/prusa/pru297.png
 
 
 Paso 2
@@ -2783,7 +2783,7 @@ Paso 2
 Corte la hoja adhesiva en 6 partes
 
 
-.. figure:: /imagenes/pru298.png
+.. figure:: /imagenes/prusa/pru298.png
 
 
 
@@ -2793,7 +2793,7 @@ Paso 3
 Desprenda la capa protectora del adhesivo
 
 
-.. figure:: /imagenes/pru299.png
+.. figure:: /imagenes/prusa/pru299.png
 
 
 
@@ -2803,10 +2803,10 @@ Paso 4
 Pegue el sticker detrás del disipador
 
 
-.. figure:: /imagenes/pru300.png
+.. figure:: /imagenes/prusa/pru300.png
 
 
-.. figure:: /imagenes/pru301.png
+.. figure:: /imagenes/prusa/pru301.png
 
 
 Paso 5
@@ -2815,7 +2815,7 @@ Paso 5
 Pegar los disipadores sobre driver del motor ubicado en el controlador (el cuadrito negro).
 
 
-.. figure:: /imagenes/pru302.png
+.. figure:: /imagenes/prusa/pru302.png
 
 
 Paso 6
@@ -2824,7 +2824,7 @@ Paso 6
 El controlador se verá como en la imagen siguiente.
 
 
-.. figure:: /imagenes/pru303.png
+.. figure:: /imagenes/prusa/pru303.png
 
 
 
@@ -2835,7 +2835,7 @@ Posteriormente ubique un tornillo M3X16mm, (3) tornillos M3X30mm, (4) rondanas y
 tuercas M3 de seguridad y las cuatro piezas Q.
 
 
-.. figure:: /imagenes/pru304.png
+.. figure:: /imagenes/prusa/pru304.png
 
 
 Paso 8
@@ -2845,7 +2845,7 @@ Una vez teniendo todos los tornillos, deberá comenzar por el mas pequeño que e
 superior derecho como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru305.png
+.. figure:: /imagenes/prusa/pru305.png
 
 
 
@@ -2865,10 +2865,10 @@ M3X30mm, e introduzca en el extremo sobrante la pieza Q y luego inserte cada uno
 de los tornillos en su respectivo agujero como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru306.png
+.. figure:: /imagenes/prusa/pru306.png
 
 
-.. figure:: /imagenes/pru307.png
+.. figure:: /imagenes/prusa/pru307.png
 
 
 
@@ -2878,16 +2878,16 @@ Paso 11
 Fijar los tornillos con rondana y tuerca M3 de seguridad
 
 
-.. figure:: /imagenes/pru308.png
+.. figure:: /imagenes/prusa/pru308.png
 
 
-.. figure:: /imagenes/pru309.png
+.. figure:: /imagenes/prusa/pru309.png
 
 
 Así se vera su controlador instalado.
 
 
-.. figure:: /imagenes/pru310.png
+.. figure:: /imagenes/prusa/pru310.png
 
 
 Paso 12
@@ -2900,7 +2900,7 @@ Ubique el lector de tarjeta micro SD, instálelo como se ve en la imagen.
 ATENCION: Solamente se insertan los 8 pines de abajo para arriba en el lector.
 
 
-.. figure:: /imagenes/pru311.png
+.. figure:: /imagenes/prusa/pru311.png
 
 
 
@@ -2916,10 +2916,10 @@ Tome el cable del microswitch del eje Y y enróllelo a través de la varilla ros
 se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru312.png
+.. figure:: /imagenes/prusa/pru312.png
 
 
-.. figure:: /imagenes/pru313.png
+.. figure:: /imagenes/prusa/pru313.png
 
 
 
@@ -2930,7 +2930,7 @@ Al legar al marco de acrílico pase el cable por el agujero que esta ubicado en 
 inferior del triángulo de acrílico más cercano.
 
 
-.. figure:: /imagenes/pru314.png
+.. figure:: /imagenes/prusa/pru314.png
 
 
 
@@ -2941,7 +2941,7 @@ Asegure el cable del microswitch del eje Z con un cintillo, pues no se necesitar
 longitud.
 
 
-.. figure:: /imagenes/pru315.png
+.. figure:: /imagenes/prusa/pru315.png
 
 
 
@@ -2952,10 +2952,10 @@ En el cable del microswitch del eje X, guárdelo dentro de la malla expandible d
 1/4” como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru316.png
+.. figure:: /imagenes/prusa/pru316.png
 
 
-.. figure:: /imagenes/pru317.png
+.. figure:: /imagenes/prusa/pru317.png
 
 
 Paso 5
@@ -2969,16 +2969,16 @@ después páselo através de todo el marco
 donde sacó el cable del micoswitch Y.
 
 
-.. figure:: /imagenes/pru318.png
+.. figure:: /imagenes/prusa/pru318.png
 
 
-.. figure:: /imagenes/pru319.png
+.. figure:: /imagenes/prusa/pru319.png
 
 
-.. figure:: /imagenes/pru320.png
+.. figure:: /imagenes/prusa/pru320.png
 
 
-.. figure:: /imagenes/pru321.png
+.. figure:: /imagenes/prusa/pru321.png
 
 
 
@@ -2990,7 +2990,7 @@ rojos gruesos), termistor (2 blancos delgados) y los del ventilador (rojos y neg
 delgado).
 
 
-.. figure:: /imagenes/pru322.png
+.. figure:: /imagenes/prusa/pru322.png
 
 
 Paso 7
@@ -2999,7 +2999,7 @@ Paso 7
 A estos cables introdúzcalos en la malla expandible de 1/2”.
 
 
-.. figure:: /imagenes/pru323.png
+.. figure:: /imagenes/prusa/pru323.png
 
 
 
@@ -3010,7 +3010,7 @@ El cable del motor del eje Y páselo como se muestra en la imagen, por un lado d
 varilla roscada y através del agujero por donde hemos pasado los demás cables.
 
 
-.. figure:: /imagenes/pru324.png
+.. figure:: /imagenes/prusa/pru324.png
 
 
 
@@ -3020,7 +3020,7 @@ Paso 9
 Si es que a ud. Le llegó el motor que no posee terminal realice los siguientes pasos:
 
 
-.. figure:: /imagenes/pru325.png
+.. figure:: /imagenes/prusa/pru325.png
 
 
 
@@ -3030,7 +3030,7 @@ Paso 10
 Ubique el set de cables que posee la terminal nombrada MOTOR
 
 
-.. figure:: /imagenes/pru326.png
+.. figure:: /imagenes/prusa/pru326.png
 
 
 
@@ -3041,7 +3041,7 @@ Antes de unir los cables introduzca en cada uno de ellos tramos de thermofit.
 
 
 
-.. figure:: /imagenes/pru327.png
+.. figure:: /imagenes/prusa/pru327.png
 
 
 
@@ -3052,10 +3052,10 @@ Trence, solde y recubra con thermofit los cables según el siguiente diagrama.
 
 
 
-.. figure:: /imagenes/pru328.png
+.. figure:: /imagenes/prusa/pru328.png
 
 
-.. figure:: /imagenes/pru329.png
+.. figure:: /imagenes/prusa/pru329.png
 
 
 
@@ -3066,7 +3066,7 @@ Atraviese los cables por los agujeros de ambos triángulos haciendo el mismo
 recorrido que el microswitch del eje X.
 
 
-.. figure:: /imagenes/pru330.png
+.. figure:: /imagenes/prusa/pru330.png
 
 
 
@@ -3078,7 +3078,7 @@ pélelos para dejar descubierto
 el cable metálico.
 
 
-.. figure:: /imagenes/pru331.png
+.. figure:: /imagenes/prusa/pru331.png
 
 
 Paso 15
@@ -3094,11 +3094,11 @@ de la boquilla.
          terminal THERM un tramo de thermofit.
 
 
-.. figure:: /imagenes/pru332.png
+.. figure:: /imagenes/prusa/pru332.png
 
-.. figure:: /imagenes/pru333.png
+.. figure:: /imagenes/prusa/pru333.png
 
-.. figure:: /imagenes/pru334.png
+.. figure:: /imagenes/prusa/pru334.png
 
 
 
@@ -3109,7 +3109,7 @@ Estañe las terminales tanto los cables de la resistencia como los del ventilado
 con el fin de que no se separen los pequeños cables que lo conforman.
 
 
-.. figure:: /imagenes/pru335.png
+.. figure:: /imagenes/prusa/pru335.png
 
 
 
@@ -3120,7 +3120,7 @@ Inserte los cables de cada elemento electrónico al controlador como se muestra 
 diagrama siguiente:
 
 
-.. figure:: /imagenes/pru336.png
+.. figure:: /imagenes/prusa/pru336.png
 
 
 .. Note::
@@ -3143,16 +3143,16 @@ En la versión mas ctualizada se pasa la malla expandible en la perforación que
 debajo del soporte superior.
 
 
-.. figure:: /imagenes/pru337.png
+.. figure:: /imagenes/prusa/pru337.png
 
 
-.. figure:: /imagenes/pru338.png
+.. figure:: /imagenes/prusa/pru338.png
 
 
 Su impresora debe verse como en las imágenes siguientes.
 
 
-.. figure:: /imagenes/pru339.png
+.. figure:: /imagenes/prusa/pru339.png
 
 
 
@@ -3176,7 +3176,7 @@ Paso 2
 Introduzca en cada tornillo una rondana.
 
 
-.. figure:: /imagenes/pru340.png
+.. figure:: /imagenes/prusa/pru340.png
 
 
 
@@ -3187,7 +3187,7 @@ Introducir los tornillos en los orificios como se muestra en la imagen.
 
 
 
-.. figure:: /imagenes/pru341.png
+.. figure:: /imagenes/prusa/pru341.png
 
 
 Paso 4
@@ -3197,17 +3197,17 @@ Introduzca en los tornillos los resortes 8x30mm y después en los orificios del
 soporte de cama.
 
 
-.. figure:: /imagenes/pru342.png
+.. figure:: /imagenes/prusa/pru342.png
 
 
-.. figure:: /imagenes/pru343.png
+.. figure:: /imagenes/prusa/pru343.png
 
 
 Asegure la cama enroscando las tuercas M3 de seguridad en cada uno de las 4
 tornillos por debajo del soporte de cama.
 
 
-.. figure:: /imagenes/pru344.png
+.. figure:: /imagenes/prusa/pru344.png
 
 
 
@@ -3224,7 +3224,7 @@ esta pieza esté encima de la tuerca que previamente habíamos colocado dentro d
 pieza D.
 
 
-.. figure:: /imagenes/pru345.png
+.. figure:: /imagenes/prusa/pru345.png
 
 
 Paso 2
@@ -3238,10 +3238,10 @@ Después colocamos la cama de acrílico y para unir todo enroscamos el tornillo 
 mm de cabeza plana
 
 
-.. figure:: /imagenes/pru346.png
+.. figure:: /imagenes/prusa/pru346.png
 
 
-.. figure:: /imagenes/pru347.png
+.. figure:: /imagenes/prusa/pru347.png
 
 
 Paso 3
@@ -3253,10 +3253,10 @@ los resortes 8x30mm 10mm )y por último aseguramos por debajo del soporte
 de cama con una tuerca M3 de seguridad.
 
 
-.. figure:: /imagenes/pru348.png
+.. figure:: /imagenes/prusa/pru348.png
 
 
-.. figure:: /imagenes/pru349.png
+.. figure:: /imagenes/prusa/pru349.png
 
 
 
@@ -3266,7 +3266,7 @@ Paso 4
 Por último apretamos el tornillo central de la cama.
 
 
-.. figure:: /imagenes/pru350.png
+.. figure:: /imagenes/prusa/pru350.png
 
 
 .. Note::
@@ -3287,7 +3287,7 @@ Para el ensamble de carrete ubique una varilla roscada 5/16”x130mm 2 rondanas
 5/16”x1 1/4”, 6 rondanas 5/16”, 2 baleros 608 y 6 tuercas 5/16”.
 
 
-.. figure:: /imagenes/pru351.png
+.. figure:: /imagenes/prusa/pru351.png
 
 
 
@@ -3297,7 +3297,7 @@ Paso 2
 Introducir en la varilla roscada 3 tuercas como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru352.png
+.. figure:: /imagenes/prusa/pru352.png
 
 
 
@@ -3307,7 +3307,7 @@ Paso 3
 Después por cada extremo introducir 1 rondana 5/16”.
 
 
-.. figure:: /imagenes/pru353.png
+.. figure:: /imagenes/prusa/pru353.png
 
 
 
@@ -3317,7 +3317,7 @@ Paso 4
 Introducir en cada extremo de la varilla roscada un balero 608.
 
 
-.. figure:: /imagenes/pru354.png
+.. figure:: /imagenes/prusa/pru354.png
 
 
 
@@ -3327,7 +3327,7 @@ Paso 5
 Después por cada extremo introduzca una rondana 5/16”.
 
 
-.. figure:: /imagenes/pru355.png
+.. figure:: /imagenes/prusa/pru355.png
 
 
 
@@ -3338,7 +3338,7 @@ Inserte ahora 2 rondanas 5/16”x1 1/4”.
 
 
 
-.. figure:: /imagenes/pru356.png
+.. figure:: /imagenes/prusa/pru356.png
 
 
 
@@ -3348,7 +3348,7 @@ Paso 7
 Cierre por cada extremo de la varilla roscada con una tuerca 5/16”.
 
 
-.. figure:: /imagenes/pru357.png
+.. figure:: /imagenes/prusa/pru357.png
 
 
 
@@ -3358,7 +3358,7 @@ Paso 8
 Introduzca una tuerca más en un extremo como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru358.png
+.. figure:: /imagenes/prusa/pru358.png
 
 
 Paso 9
@@ -3367,7 +3367,7 @@ Paso 9
 Ajuste su carrete de tal modo que de rondana a rondana 5/16x1 1/4” haya 9 cm.
 
 
-.. figure:: /imagenes/pru359.png
+.. figure:: /imagenes/prusa/pru359.png
 
 
 
@@ -3378,7 +3378,7 @@ Por ultimo introduzca una rondana 5/16” por el extremo de la varilla roscada d
 introdujo la tuerca extra.
 
 
-.. figure:: /imagenes/pru360.png
+.. figure:: /imagenes/prusa/pru360.png
 
 
 Paso 11
@@ -3389,7 +3389,7 @@ una rondana y una tuerca 5/16” por el otro extremo del acrílico como se muest
 imagen.
 
 
-.. figure:: /imagenes/pru361.png
+.. figure:: /imagenes/prusa/pru361.png
 
 
 
@@ -3404,10 +3404,10 @@ Retire la clema negra del controlador jalándola hacia abajo como se muestra en 
 imágenes.
 
 
-.. figure:: /imagenes/pru362.png
+.. figure:: /imagenes/prusa/pru362.png
 
 
-.. figure:: /imagenes/pru363.png
+.. figure:: /imagenes/prusa/pru363.png
 
 
 
@@ -3423,21 +3423,21 @@ FUENTE A
 1. Ubique el arnés de poder
 
 
-.. figure:: /imagenes/pru364.png
+.. figure:: /imagenes/prusa/pru364.png
 
 
 2. En una de las dos extensiones de la cabeza central del arnés corte los cables
 negro y amarillo.
 
 
-.. figure:: /imagenes/pru365.png
+.. figure:: /imagenes/prusa/pru365.png
 
 
 3. Se recomienda que amarre los cables sobrantes y solo deje libres los cables negro
 y amarillo.
 
 
-.. figure:: /imagenes/pru366.png
+.. figure:: /imagenes/prusa/pru366.png
 
 
 4. Estañe y después introduzca ambos cables a los dos orificios inferiores mas
@@ -3451,65 +3451,65 @@ cargados a la derecha de la clema.
 
 .. list-table::
 
-             * - .. figure:: /imagenes/pru367.png
+             * - .. figure:: /imagenes/prusa/pru367.png
                                       :width: 300px
 
 
-               - .. figure:: /imagenes/pru368.png
+               - .. figure:: /imagenes/prusa/pru368.png
                                       :width: 300px
 
 
-.. figure:: /imagenes/pru369.png
+.. figure:: /imagenes/prusa/pru369.png
 
 
 
 5. Reintroduzca la clema en el controlador.
 
 
-.. figure:: /imagenes/pru370.png
+.. figure:: /imagenes/prusa/pru370.png
 
 
 6. Tome un clip córtelo de modo que solo le quede una curva.
 
 
-.. figure:: /imagenes/pru371.png
+.. figure:: /imagenes/prusa/pru371.png
 
 
-.. figure:: /imagenes/pru372.png
+.. figure:: /imagenes/prusa/pru372.png
 
 
 7. Introduzca la curva del clip en la terminal del cable de la fuente dentro de los
 orificios conectados a los cables negro y verde, como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru373.png
+.. figure:: /imagenes/prusa/pru373.png
 
 
 8. Ponga el switch rojo trasero marcando 115.
 
 
-.. figure:: /imagenes/pru374.png
+.. figure:: /imagenes/prusa/pru374.png
 
 
 9. Enchufe el cable macho del arnés al cualquiera de los cables hembra de la fuente de poder.
 
 
-.. figure:: /imagenes/pru375.png
+.. figure:: /imagenes/prusa/pru375.png
 
 
-.. figure:: /imagenes/pru376.png
+.. figure:: /imagenes/prusa/pru376.png
 
 
 10. Por último enchufe el cable de toma corriente a la fuente como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru377.png
+.. figure:: /imagenes/prusa/pru377.png
 
 
 La impresora deberá verse como en la foto a continuación.
 
 
-.. figure:: /imagenes/pru378.png
+.. figure:: /imagenes/prusa/pru378.png
 
 
 
@@ -3519,7 +3519,7 @@ FUENTE B
 1. Ubique la fuente.
 
 
-.. figure:: /imagenes/pru379.png
+.. figure:: /imagenes/prusa/pru379.png
 
 
 2. Introduzca un cable negro y un cable
@@ -3532,7 +3532,7 @@ en la imagen.
           ATENCIÓN: ASEGURESE DE PONER EL CABLE NEGRO EN EL ORIFICIO MAS RETIRADO A LA DERECHA Y EL AMARILLO A SU IZQUIERDA.
 
 
-.. figure:: /imagenes/pru380.png
+.. figure:: /imagenes/prusa/pru380.png
 
 
 
@@ -3542,11 +3542,11 @@ en la imagen.
 
 .. list-table::
 
-             * - .. figure:: /imagenes/pru381.png
+             * - .. figure:: /imagenes/prusa/pru381.png
                                       :width: 300px
 
 
-               - .. figure:: /imagenes/pru382.png
+               - .. figure:: /imagenes/prusa/pru382.png
                                       :width: 300px
 
 
@@ -3566,10 +3566,10 @@ Ponga cinta azul de poca adherencia sobre la cama de impresión como se muestra
 en la imagen, esto con el fin de proteger el acrílico.
 
 
-.. figure:: /imagenes/pru383.png
+.. figure:: /imagenes/prusa/pru383.png
 
 
-.. figure:: /imagenes/pru384.png
+.. figure:: /imagenes/prusa/pru384.png
 
 
 
@@ -3580,7 +3580,7 @@ Ubique su pantalla (la carcasa debe imprimirla ud.) el adaptador de pantalla, lo
 cables para la pantalla y una tarjeta SD.
 
 
-.. figure:: /imagenes/pru385.png
+.. figure:: /imagenes/prusa/pru385.png
 
 
 
@@ -3592,11 +3592,11 @@ Conecte el adaptador a su controlador como se muestra en las imágenes debajo.
 
 .. list-table::
 
-             * - .. figure:: /imagenes/pru386.png
+             * - .. figure:: /imagenes/prusa/pru386.png
                                       :width: 300px
 
 
-               - .. figure:: /imagenes/pru387.png
+               - .. figure:: /imagenes/prusa/pru387.png
                                       :width: 300px
 
 
@@ -3609,11 +3609,11 @@ terminal EXP1 conecte a EXP1 y lo mismo con EXP 2.
 
 .. list-table::
 
-             * - .. figure:: /imagenes/pru388.png
+             * - .. figure:: /imagenes/prusa/pru388.png
                                       :width: 300px
 
 
-               - .. figure:: /imagenes/pru389.png
+               - .. figure:: /imagenes/prusa/pru389.png
                                       :width: 300px
 
 
@@ -3628,7 +3628,7 @@ Para información más detallada vea el Manual de
 Soporte.
 
 
-.. figure:: /imagenes/pru390.png
+.. figure:: /imagenes/prusa/pru390.png
 
 
 
@@ -3645,11 +3645,11 @@ tornillos M3x16mm con sus respectivas rondanas y Turcas M3 de seguridad.
 
 .. list-table::
 
-             * - .. figure:: /imagenes/pru391.png
+             * - .. figure:: /imagenes/prusa/pru391.png
                                       :width: 300px
 
 
-               - .. figure:: /imagenes/pru392.png
+               - .. figure:: /imagenes/prusa/pru392.png
                                       :width: 300px
 
 
@@ -3662,14 +3662,14 @@ Conectar el arnés de alimentación
 El arnés es el siguiente que se muestra en la imagen hay que estañar las puntas como se ve en la imagen.
 
 
-.. figure:: /imagenes/pru393.png
+.. figure:: /imagenes/prusa/pru393.png
 
 
 Primero conectaremos el cable amarillo en la parte de Main PWR en el conector positivo y después el
 cable negro en el negativo como se muestra en la imagen.
 
 
-.. figure:: /imagenes/pru394.png
+.. figure:: /imagenes/prusa/pru394.png
 
 
 
@@ -3685,11 +3685,11 @@ Identificar cables (ventilador, termorresistor, resistencia, motor).
 
 .. list-table::
 
-             * - .. figure:: /imagenes/pru395.png
+             * - .. figure:: /imagenes/prusa/pru395.png
                                       :width: 320px
 
 
-               - .. figure:: /imagenes/pru396.png
+               - .. figure:: /imagenes/prusa/pru396.png
                                       :width: 320px
 
 
@@ -3697,7 +3697,7 @@ Identificar cables (ventilador, termorresistor, resistencia, motor).
 Se conecta el motor de la extrusora con su cable de cuatro pines base blanca como se ve en la imagen.
 
 
-.. figure:: /imagenes/pru397.png
+.. figure:: /imagenes/prusa/pru397.png
                       :width: 320px
 
 
@@ -3707,7 +3707,7 @@ juntar e introducirlos en una malla expandible de 1⁄2 como se
 en la imagen.
 
 
-.. figure:: /imagenes/pru398.png
+.. figure:: /imagenes/prusa/pru398.png
                      :width: 320px
 
 
@@ -3717,7 +3717,7 @@ la impresora como se muestra en la imagen.
 
 
 
-.. figure:: /imagenes/pru399.png
+.. figure:: /imagenes/prusa/pru399.png
                      :width: 320px
 
 
@@ -3728,11 +3728,11 @@ Tomamos el cable de motor de la extrusora y conectarlo en el pin E0.
 
 .. list-table::
 
-             * - .. figure:: /imagenes/pru400.png
+             * - .. figure:: /imagenes/prusa/pru400.png
                                       :width: 320px
 
 
-               - .. figure:: /imagenes/pru401.png
+               - .. figure:: /imagenes/prusa/pru401.png
                                       :width: 320px
 
 
@@ -3744,11 +3744,11 @@ Aseguramos con desarmador.
 
 .. list-table::
 
-             * - .. figure:: /imagenes/pru402.png
+             * - .. figure:: /imagenes/prusa/pru402.png
                                       :width: 320px
 
 
-               - .. figure:: /imagenes/pru403.png
+               - .. figure:: /imagenes/prusa/pru403.png
                                       :width: 320px
 
 
@@ -3757,11 +3757,11 @@ Tomamos el cable del thermoresistor y lo conectamos en el pin T0.
 
 .. list-table::
 
-             * - .. figure:: /imagenes/pru404.png
+             * - .. figure:: /imagenes/prusa/pru404.png
                                       :width: 320px
 
 
-               - .. figure:: /imagenes/pru405.png
+               - .. figure:: /imagenes/prusa/pru405.png
                                       :width: 320px
 
 
@@ -3771,11 +3771,11 @@ el pin FAN0, el rojo en el positivo y el negro en el negativo. Aseguramos los ca
 
 .. list-table::
 
-             * - .. figure:: /imagenes/pru406.png
+             * - .. figure:: /imagenes/prusa/pru406.png
                                       :width: 320px
 
 
-               - .. figure:: /imagenes/pru407.png
+               - .. figure:: /imagenes/prusa/pru407.png
                                       :width: 320px
 
 
@@ -3790,14 +3790,14 @@ Identificamos el cable del sensor “Y” y lo enrollamos por uno de los soporte
 impresora, esto para evitar enredos.
 
 
-.. figure:: /imagenes/pru408.png
+.. figure:: /imagenes/prusa/pru408.png
                        :width: 320px
 
 
 Lo pasamos por un orificio en la parte inferior del acrilico, como se muestra en la figura.
 
 
-.. figure:: /imagenes/pru409.png
+.. figure:: /imagenes/prusa/pru409.png
                        :width: 320px
 
 
@@ -3805,14 +3805,14 @@ Conectamos en el pin “ Y- ” en la parte inferior izquierda de la tarjeta Rum
 
 
 
-.. figure:: /imagenes/pru410.png
+.. figure:: /imagenes/prusa/pru410.png
                        :width: 320px
 
 
 Identificamos el cable del sensor “ Z “
 
 
-.. figure:: /imagenes/pru411.png
+.. figure:: /imagenes/prusa/pru411.png
                        :width: 320px
 
 
@@ -3820,7 +3820,7 @@ Una vez identificado el cable, conectamos en el pin “ Z- “
 
 
 
-.. figure:: /imagenes/pru412.png
+.. figure:: /imagenes/prusa/pru412.png
                        :width: 320px
 
 
@@ -3831,19 +3831,19 @@ identificado lo pasamos por uno de los orificios de la parte inferior del acríl
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru413.png
+   * - .. figure:: /imagenes/prusa/pru413.png
               :width: 300px
 
 
-     - .. figure:: /imagenes/pru414.png
+     - .. figure:: /imagenes/prusa/pru414.png
               :width: 300px
 
 
-   * - .. figure:: /imagenes/pru415.png
+   * - .. figure:: /imagenes/prusa/pru415.png
               :width: 300px
 
 
-     - .. figure:: /imagenes/pru416.png
+     - .. figure:: /imagenes/prusa/pru416.png
                :width: 300px
 
 
@@ -3859,7 +3859,7 @@ Para conectar los motores es necesario tener identificados los cables de motor, 
 Conectamos el cable del motor X.
 
 
-.. figure:: /imagenes/pru417.png
+.. figure:: /imagenes/prusa/pru417.png
           :width: 320px
 
 
@@ -3868,11 +3868,11 @@ Se conecta en el pin X como se muestra en la figura.
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru418.png
+   * - .. figure:: /imagenes/prusa/pru418.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/pru419.png
+     - .. figure:: /imagenes/prusa/pru419.png
               :width: 320px
 
 
@@ -3881,15 +3881,15 @@ Conectamos el cable del motor del Eje Y, lo pasamos por el orificio del acrílic
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru420.png
+   * - .. figure:: /imagenes/prusa/pru420.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/pru421.png
+     - .. figure:: /imagenes/prusa/pru421.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/pru422.png
+     - .. figure:: /imagenes/prusa/pru422.png
               :width: 320px
 
 
@@ -3898,15 +3898,15 @@ Para la conexión de los motores de “Z” conectamos cada motor con su cable.
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru423.png
+   * - .. figure:: /imagenes/prusa/pru423.png
               :width: 300px
 
 
-     - .. figure:: /imagenes/pru424.png
+     - .. figure:: /imagenes/prusa/pru424.png
               :width: 300px
 
 
-     - .. figure:: /imagenes/pru425.png
+     - .. figure:: /imagenes/prusa/pru425.png
               :width: 300px
 
 
@@ -3914,7 +3914,7 @@ Tomamos el cable que viene en el paquete de la rumba, estos cables tienen dos co
 conector hembra y sirven para conectar los dos motores de “Z” en un solo pin.
 
 
-.. figure:: /imagenes/pru426.png
+.. figure:: /imagenes/prusa/pru426.png
 
 
 Conectamos estos cables a los motores.
@@ -3923,18 +3923,18 @@ Conectamos estos cables a los motores.
 .. list-table::
 
 
-    * - .. figure:: /imagenes/pru427.png
+    * - .. figure:: /imagenes/prusa/pru427.png
            :width: 300px
 
 
-      - .. figure:: /imagenes/pru428.png
+      - .. figure:: /imagenes/prusa/pru428.png
            :width: 300px
 
 
 Y lo conectamos al pin de “Z”
 
 
-.. figure:: /imagenes/pru429.png
+.. figure:: /imagenes/prusa/pru429.png
            :width: 300px
 
 Paso 5
@@ -3945,15 +3945,15 @@ Tomamos los disipadores de calor, y los pegamos en los pololus.
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru430.png
+   * - .. figure:: /imagenes/prusa/pru430.png
               :width: 300px
 
 
-     - .. figure:: /imagenes/pru431.png
+     - .. figure:: /imagenes/prusa/pru431.png
               :width: 300px
 
 
-     - .. figure:: /imagenes/pru432.png
+     - .. figure:: /imagenes/prusa/pru432.png
               :width: 300px
 
 
@@ -3968,18 +3968,18 @@ Para finalizar y con ayuda de cinchos enrrollamos los cables, esto con el fin de
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru433.png
+   * - .. figure:: /imagenes/prusa/pru433.png
               :width: 300px
 
 
-     - .. figure:: /imagenes/pru434.png
+     - .. figure:: /imagenes/prusa/pru434.png
               :width: 300px
 
 
 Listo ya tenemos nuestra tarjeta Rumba conectada.
 
 
-.. figure:: /imagenes/pru435.png
+.. figure:: /imagenes/prusa/pru435.png
                       :width: 300px
 
 
@@ -3990,7 +3990,7 @@ La pantalla se conecta de la misma forma en
 EXP1 y EXP2.
 
 
-.. figure:: /imagenes/pru436.png
+.. figure:: /imagenes/prusa/pru436.png
            :width: 320px
 
 
@@ -4003,15 +4003,15 @@ Se introducen los cables por los recuadros y listo.
 
 .. list-table::
 
-   * - .. figure:: /imagenes/pru437.png
+   * - .. figure:: /imagenes/prusa/pru437.png
               :width: 300px
 
 
-     - .. figure:: /imagenes/pru438.png
+     - .. figure:: /imagenes/prusa/pru438.png
               :width: 300px
 
 
-     - .. figure:: /imagenes/pru439.png
+     - .. figure:: /imagenes/prusa/pru439.png
               :width: 300px
 
 
@@ -4036,15 +4036,15 @@ Descarga de Software
 
  .. list-table::
 
-    * - .. figure:: /imagenes/cu.png
+    * - .. figure:: /imagenes/prusa/cu.png
                              :width: 150px
 
 
-      - .. figure:: /imagenes/pronterface.png
+      - .. figure:: /imagenes/prusa/pronterface.png
                              :width: 150px
 
 
-      - .. figure:: /imagenes/Blender_logo.png
+      - .. figure:: /imagenes/prusa/Blender_logo.png
                              :width: 150px
 
 
@@ -4067,7 +4067,7 @@ INSTALACION DE CURA.
 Una vez descargado el software, hay que ejecutarlo (el archivo con la extensión ‘.exe’).
 
 
-.. figure:: /imagenes/SC1.png
+.. figure:: /imagenes/prusa/SC1.png
 
 
 A continuación nos aparecerá el Asistente de Instalación del software. Aquí podremos
@@ -4076,7 +4076,7 @@ requerido para su correcta instalación, y debajo el espacio disponible en nuest
 ordenador. A continuación damos click en ‘Next’.
 
 
-.. figure:: /imagenes/sc2.png
+.. figure:: /imagenes/prusa/sc2.png
 
 
 En la siguiente ventana tenemos la oportunidad elegir los componentes que se añadirán
@@ -4094,34 +4094,34 @@ palomeadas las casillas, damos click al botón ”Install”.
 
 
 
-.. figure:: /imagenes/sc3.png
+.. figure:: /imagenes/prusa/sc3.png
 
 
 Comenzará el proceso de instalación, y con ello nos aparecerá una pantalla que nos
 muestra la barra de progreso.
 
 
-.. figure:: /imagenes/sc4.png
+.. figure:: /imagenes/prusa/sc4.png
 
 
 En caso de que en el paso anterior se haya palomeado la casilla para Instalar los
 Controladores de Arduino (‘Arduino Drivers’) aparecerá el siguiente asistente:
 
 
-.. figure:: /imagenes/sc5.png
+.. figure:: /imagenes/prusa/sc5.png
 
 
 Clicamos en “Siguiente” y enseguida se instalarán los controladores. Por lo que oprimimos
 “Finalizar.”
 
 
-.. figure:: /imagenes/sc6.png
+.. figure:: /imagenes/prusa/sc6.png
 
 
 Una vez instalados los controladores, el proceso de instalación de Cura se reanuda.
 
 
-.. figure:: /imagenes/sc7.png
+.. figure:: /imagenes/prusa/sc7.png
 
 
 El proceso tardará un momento. Pronto se nos indicará que la instalación ha concluido,
@@ -4138,7 +4138,7 @@ Ya instalado correctamente el software, lo siguiente es ejecutarlo. De igual for
 aparecerá un asistente que nos apoyará en la configuración del Cura.
 
 
-.. figure:: /imagenes/sc8.png
+.. figure:: /imagenes/prusa/sc8.png
 
 
 En la siguiente ventana seleccionamos el tipo de impresora que tenemos, en nuestro caso
@@ -4146,7 +4146,7 @@ elegimos la opción ‘Otra’, ya que nuestro dispositivo es del tipo RepRap, y
 “Next”.
 
 
-.. figure:: /imagenes/sc9.png
+.. figure:: /imagenes/prusa/sc9.png
 
 
 A continuación se mostrarán diversos tipos de impresora que existen, las cuales ya vienen
@@ -4154,7 +4154,7 @@ predefinidas sus medidas y características en Cura. Nosotros elegimos la opció
 “Custom”, ya que definiremos las especificaciones de nuestra impresora.
 
 
-.. figure:: /imagenes/sc10.png
+.. figure:: /imagenes/prusa/sc10.png
 
 
 En la nueva ventana podremos definir las dimensiones de impresión de nuestra máquina,
@@ -4180,14 +4180,14 @@ En la opción “Nozzle size (m)’, se refiere a la dimensión de nuestra boqui
 debemos dejar en ‘0.4’.
 
 
-.. figure:: /imagenes/sc11.png
+.. figure:: /imagenes/prusa/sc11.png
 
 
 En el caso de haber adquirido cama caliente, es importante marcar la casilla ‘Heated bed’.
 Si no se cuenta con cama caliente, ignoramos dicha casilla.
 
 
-.. figure:: /imagenes/sc12.png
+.. figure:: /imagenes/prusa/sc12.png
 
 
 La siguiente casilla ‘Bed Center...’ la dejamos en blanco y continuamos dando click en
@@ -4197,7 +4197,7 @@ continuación se abrirá el programa, conjunto con una ventana que indica las me
 nuevas características de la versión instalada.
 
 
-.. figure:: /imagenes/sc13.png
+.. figure:: /imagenes/prusa/sc13.png
 
 
 
@@ -4206,13 +4206,13 @@ PARTE 3.
 PARAMETROS.
 
 
-.. figure:: /imagenes/sc14.png
+.. figure:: /imagenes/prusa/sc14.png
 
 
-.. figure:: /imagenes/sc15.png
+.. figure:: /imagenes/prusa/sc15.png
 
 
-.. figure:: /imagenes/sc16.png
+.. figure:: /imagenes/prusa/sc16.png
 
 
 A continuación se muestran impresiones de pantalla de los parámetros con los que
@@ -4413,7 +4413,7 @@ Dentro de cura seleccionamos la pestaña de file como se ve en la imagen.
 Una vez seleccionada la pestaña da clic en ella.
 
 
-.. figure:: /imagenes/1.png
+.. figure:: /imagenes/prusa/1.png
 
 
 * Paso 2
@@ -4425,7 +4425,7 @@ se abrirá una ventana, donde puedes seleccionar el lugar
 donde quieres que se guarde el archivo.
 
 
-.. figure:: /imagenes/2.png
+.. figure:: /imagenes/prusa/2.png
 
 
 Una vez seleccionado el lugar, escribes el nombre de tu archivo
@@ -4435,7 +4435,7 @@ y le das a Guardar.
 Y así quedaran guardados todos los parámetros de cura
 
 
-.. figure:: /imagenes/3.png
+.. figure:: /imagenes/prusa/3.png
 
 
 
@@ -4451,7 +4451,7 @@ en la imagen
 Una vez seleccionada la pestaña da clic en ella.
 
 
-.. figure:: /imagenes/4.png
+.. figure:: /imagenes/prusa/4.png
 
 
 * Paso 2
@@ -4466,7 +4466,7 @@ Seleccionamos nuestro archivo y le damos a abrir y en
 automático cargara los parámetros que contiene.
 
 
-.. figure:: /imagenes/5.png
+.. figure:: /imagenes/prusa/5.png
 
 
 Espero sea de ayuda este Tip Makeramigos.
@@ -4496,7 +4496,7 @@ Después de instalarse correctamente el programa, aparecerá una pantalla como s
 nuación.
 
 
-.. figure:: /imagenes/comp2.png
+.. figure:: /imagenes/prusa/comp2.png
 
 
 Paso 3
@@ -4506,7 +4506,7 @@ Después indique que modelo de controlador esta utilizando, de click en Tool/Boa
 2560.
 
 
-.. figure:: /imagenes/comp3.png
+.. figure:: /imagenes/prusa/comp3.png
 
 
 
@@ -4516,7 +4516,7 @@ Paso 4
 Después abrá el menú File y presione Open...
 
 
-.. figure:: /imagenes/comp4.png
+.. figure:: /imagenes/prusa/comp4.png
 
 
 Paso 5
@@ -4526,7 +4526,7 @@ Busque dentro de la carpeta de soporte la carpeta de la impresora que este utili
 a la carpeta llamada Marlin.
 
 
-.. figure:: /imagenes/comp5.png
+.. figure:: /imagenes/prusa/comp5.png
 
 
 Paso 6
@@ -4535,7 +4535,7 @@ Paso 6
 Después busque el archivo llamado Marlin.pde, selecciónelo y ábralo.
 
 
-.. figure:: /imagenes/comp6.png
+.. figure:: /imagenes/prusa/comp6.png
 
 
 Paso 7
@@ -4544,7 +4544,7 @@ Paso 7
 Al abrirlo verá este código cargado en la ventana.
 
 
-.. figure:: /imagenes/comp7.png
+.. figure:: /imagenes/prusa/comp7.png
 
 
 Paso 8
@@ -4554,7 +4554,7 @@ Presione el botón como se muestra a continuación. Un led en el Arduino comenza
 temente y la palabra Uploading to I/O board aparecerá en la barra azul debajo de la ventana emergente.
 
 
-.. figure:: /imagenes/comp8.png
+.. figure:: /imagenes/prusa/comp8.png
 
 
 Paso 9
@@ -4563,7 +4563,7 @@ Paso 9
 Deberá aparecer una linea en la caja de texto negra inferior como se muestra en la imagen.
 
 
-.. figure:: /imagenes/comp9.png
+.. figure:: /imagenes/prusa/comp9.png
 
 
 La compilación de su Arduino está lista.

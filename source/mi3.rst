@@ -9,7 +9,7 @@ MANUAL DE ENSAMBLADO Mi3
 -------------------------
 
 
-.. figure:: /imagenes/i1.png
+.. figure:: /imagenes/mi3/i1.png
 
 
 +---------------+
@@ -138,159 +138,159 @@ MANUAL DE ENSAMBLADO Mi3
 .. list-table::
 
 
-   * - .. figure:: /imagenes/pl1.png
+   * - .. figure:: /imagenes/mi3/pl1.png
 
 
           4- PIEZAS - A
 
 
-     - .. figure:: /imagenes/PL2.png
+     - .. figure:: /imagenes/mi3/PL2.png
 
           2- PIEZAS - B
 
 
-     - .. figure:: /imagenes/PL3.png
+     - .. figure:: /imagenes/mi3/PL3.png
 
 
           1 - PIEZA - C1
 
 
-     - .. figure:: /imagenes/PL4.png
+     - .. figure:: /imagenes/mi3/PL4.png
 
           1 - PIEZA - C2
 
 
-     - .. figure:: /imagenes/PL5.png
+     - .. figure:: /imagenes/mi3/PL5.png
 
 
           4 - PIEZAS - D
 
 
-     - .. figure:: /imagenes/PL6.png
+     - .. figure:: /imagenes/mi3/PL6.png
 
 
           1 -  PIEZA - E
 
 
-     - .. figure:: /imagenes/PL7.png
+     - .. figure:: /imagenes/mi3/PL7.png
 
           1 - PIEZA - F
 
 
-     - .. figure:: /imagenes/PL8.png
+     - .. figure:: /imagenes/mi3/PL8.png
 
 
           1 - PIEZA - G1
 
 
-     - .. figure:: /imagenes/PL9.png
+     - .. figure:: /imagenes/mi3/PL9.png
 
 
           1 - PIEZA - G
 
 
-     - .. figure:: /imagenes/PL10.png
+     - .. figure:: /imagenes/mi3/PL10.png
 
 
           1 - PIEZA - H1
 
 
-     - .. figure:: /imagenes/PL11.png
+     - .. figure:: /imagenes/mi3/PL11.png
 
 
           1 - PIEZA - H2
 
 
-     - .. figure:: /imagenes/PL12.png
+     - .. figure:: /imagenes/mi3/PL12.png
 
 
           1 - PIEZA - I
 
 
-     - .. figure:: /imagenes/PL13.png
+     - .. figure:: /imagenes/mi3/PL13.png
 
 
           2 - PIEZA - J
 
 
-     - .. figure:: /imagenes/PL14.png
+     - .. figure:: /imagenes/mi3/PL14.png
 
 
           4 - PIEZAS - k
 
 
-     - .. figure:: /imagenes/PL15.png
+     - .. figure:: /imagenes/mi3/PL15.png
 
 
           1 - PIEZA - L
 
 
-     - .. figure:: /imagenes/PL16.png
+     - .. figure:: /imagenes/mi3/PL16.png
 
 
           1 - PIEZA - M
 
 
-     - .. figure:: /imagenes/PL17.png
+     - .. figure:: /imagenes/mi3/PL17.png
 
 
           1 - PIEZA - N
 
 
-     - .. figure:: /imagenes/PL18.png
+     - .. figure:: /imagenes/mi3/PL18.png
 
           1 - PIEZA - O
 
 
-     - .. figure:: /imagenes/PL19.png
+     - .. figure:: /imagenes/mi3/PL19.png
 
 
           2 - PIEZA - P
 
 
-     - .. figure:: /imagenes/PL20.png
+     - .. figure:: /imagenes/mi3/PL20.png
 
 
           1 - PIEZA - Q
 
 
-     - .. figure:: /imagenes/PL21.png
+     - .. figure:: /imagenes/mi3/PL21.png
 
 
           1 - PIEZA - R
 
 
-     - .. figure:: /imagenes/PL22.png
+     - .. figure:: /imagenes/mi3/PL22.png
 
 
           1 - PIEZA - S
 
 
-     - .. figure:: /imagenes/PL23.png
+     - .. figure:: /imagenes/mi3/PL23.png
 
 
           1 - PIEZA - T
 
 
-     - .. figure:: /imagenes/PL24.png
+     - .. figure:: /imagenes/mi3/PL24.png
 
 
           1 - PIEZA - W
 
 
-     - .. figure:: /imagenes/PL25.png
+     - .. figure:: /imagenes/mi3/PL25.png
 
 
           1 - PIEZA - X
 
 
-     - .. figure:: /imagenes/PL26.png
+     - .. figure:: /imagenes/mi3/PL26.png
 
 
           1 - PIEZA - Y
 
 
-     - .. figure:: /imagenes/PL27.png
+     - .. figure:: /imagenes/mi3/PL27.png
 
           1 - PIEZA  -  Z
 
@@ -311,7 +311,7 @@ Además, se identificará cada perfil de la forma siguiente.
 
 
 
-.. figure:: /imagenes/i2.png
+.. figure:: /imagenes/mi3/i2.png
 
 
 
@@ -325,7 +325,7 @@ PARTE UNO ENSAMBLADO DE LA ESTRUCTURA
 +----------------+
 
 
-.. figure:: /imagenes/i3.png
+.. figure:: /imagenes/mi3/i3.png
 
 
 material que se ocuṕara en el preceso.
@@ -342,7 +342,7 @@ material que se ocuṕara en el preceso.
 
 
 
-.. figure:: /imagenes/i4.png
+.. figure:: /imagenes/mi3/i4.png
 
 
 Para el ensamble de la estructura de tú impresora Mi3 primero se procede a
@@ -358,7 +358,7 @@ Comenzamos con ensamblar las uniones plásticas centrales en el perfil M3.
 
 
 
-.. figure:: /imagenes/i5.png
+.. figure:: /imagenes/mi3/i5.png
 
 
 
@@ -372,15 +372,15 @@ quede hacia abajo y las perforaciones del perfil orientadas hacia arriba.
 .. list-table::
 
 
-   * - .. figure:: /imagenes/i6.png
+   * - .. figure:: /imagenes/mi3/i6.png
                         :width: 500px
 
 
-     - .. figure:: /imagenes/i7.png
+     - .. figure:: /imagenes/mi3/i7.png
                        :width: 500px
 
 
-     - .. figure:: /imagenes/i8.png
+     - .. figure:: /imagenes/mi3/i8.png
                          :width: 500px
 
 
@@ -396,7 +396,7 @@ golpes en la parte superior del perfil, de preferencia con un martillo de goma.
 
 
 
-.. figure:: /imagenes/i9.png
+.. figure:: /imagenes/mi3/i9.png
                 :width: 1000px
 
 
@@ -405,7 +405,7 @@ tanto como el de la pieza plástica coincidan.
 
 
 
-.. figure:: /imagenes/i10.png
+.. figure:: /imagenes/mi3/i10.png
                     :width: 1000px
 
 
@@ -415,7 +415,7 @@ ensamble.
 
 
 
-.. figure:: /imagenes/i11.png
+.. figure:: /imagenes/mi3/i11.png
                   :width: 1000px
 
 
@@ -424,7 +424,7 @@ ensamble.
 Después se procede a ensamblar las uniones de las esquinas en el perfil F2
 
 
-.. figure:: /imagenes/i12.png
+.. figure:: /imagenes/mi3/i12.png
                   :width: 1000px
 
 
@@ -434,7 +434,7 @@ esquina quede hacia abajo y el lado con mayor número de perforaciones en el
 perfil queden orientadas hacia arriba.
 
 
-.. figure:: /imagenes/i13.png
+.. figure:: /imagenes/mi3/i13.png
                   :width: 1000px
 
 
@@ -445,7 +445,7 @@ el perfil F1 debe quedar al lado derecho y en consecuente el perfil F3 en el
 izquierdo, esto basándose en el sistema de referencia mostrado al comienzo.
 
 
-.. figure:: /imagenes/i14.png
+.. figure:: /imagenes/mi3/i14.png
                   :width: 1000px
 
 
@@ -458,21 +458,21 @@ izquierdo, esto basándose en el sistema de referencia mostrado al comienzo.
 
 
 
-.. figure:: /imagenes/i15.png
+.. figure:: /imagenes/mi3/i15.png
 
 
 Se realiza el paso anterior en ambos lados del perfil F2.
 
 
 
-.. figure:: /imagenes/i16.png
+.. figure:: /imagenes/mi3/i16.png
                   :width: 1000px
 
 
 Resultando un ensamble de arco como se muestra a continuación.
 
 
-.. figure:: /imagenes/i17.png
+.. figure:: /imagenes/mi3/i17.png
                   :width: 1000px
 
 
@@ -480,7 +480,7 @@ Siguiendo los pasos anteriores toca realizar el ensamble con los perfiles B1, B2
 B3.
 
 
-.. figure:: /imagenes/i18.png
+.. figure:: /imagenes/mi3/i18.png
                   :width: 1000px
 
 
@@ -488,19 +488,19 @@ B3.
 .. list-table::
 
 
-   * - .. figure:: /imagenes/i19.png
+   * - .. figure:: /imagenes/mi3/i19.png
                       :width: 500px
 
 
-     - .. figure:: /imagenes/i20.png
+     - .. figure:: /imagenes/mi3/i20.png
                         :width: 500px
 
 
-     - .. figure:: /imagenes/i21.png
+     - .. figure:: /imagenes/mi3/i21.png
                         :width: 500px
 
 
-     - .. figure:: /imagenes/i22.png
+     - .. figure:: /imagenes/mi3/i22.png
                         :width: 500px
 
 
@@ -510,7 +510,7 @@ B3.
 Obtenido dos ensambles de arco similares.
 
 
-.. figure:: /imagenes/i23.png
+.. figure:: /imagenes/mi3/i23.png
                   :width: 1000px
 
 
@@ -519,7 +519,7 @@ Después se procede a unir estos ensambles resultantes con el primer armado del
 perfil M3 que se realizó al principio.
 
 
-.. figure:: /imagenes/i24.png
+.. figure:: /imagenes/mi3/i24.png
                   :width: 1000px
 
 
@@ -527,7 +527,7 @@ Al unir los ensambles con la unión central plástica, se debe tener cuidado que
 parte más pequeña quede hacia abajo en ambos lados de los ensambles.
 
 
-.. figure:: /imagenes/i25.png
+.. figure:: /imagenes/mi3/i25.png
                   :width: 1000px
 
 
@@ -540,11 +540,11 @@ coincidir con el orificio de la unión central.
 .. list-table::
 
 
-   * - .. figure:: /imagenes/i26.png
+   * - .. figure:: /imagenes/mi3/i26.png
                       :width: 500px
 
 
-     - .. figure:: /imagenes/i27.png
+     - .. figure:: /imagenes/mi3/i27.png
                         :width: 500px
 
 Algunos casos será necesario aplicar una fuerza relativamente grande para poder
@@ -552,14 +552,14 @@ juntar a tope los dos elementos a unir.
 
 
 
-.. figure:: /imagenes/i28.png
+.. figure:: /imagenes/mi3/i28.png
                   :width: 500px
 
 
 Aquí se muestra terminada la base de perfiles de la estructura de la impresora.
 
 
-.. figure:: /imagenes/i29.png
+.. figure:: /imagenes/mi3/i29.png
                   :width: 500px
 
 
@@ -568,43 +568,43 @@ perfiles Mi1, M2 y M4 quedando el armado respectivamente derecha, superior e
 izquierda; y uniéndolos con los soportes superiores plásticos.
 
 
-.. figure:: /imagenes/i30.png
+.. figure:: /imagenes/mi3/i30.png
                   :width: 500px
 
 Acoplando en primera instancia los perfiles laterales M1 y M4 en las uniones
 superiores plásticas.
 
 
-.. figure:: /imagenes/i31.png
+.. figure:: /imagenes/mi3/i31.png
                   :width: 500px
 
 
-.. figure:: /imagenes/i32.png
+.. figure:: /imagenes/mi3/i32.png
                   :width: 500px
 
 
 Y después se acoplará el perfil superior central M2 a los ensambles anteriores.
 
 
-.. figure:: /imagenes/i33.png
+.. figure:: /imagenes/mi3/i33.png
                   :width: 500px
 
 
-.. figure:: /imagenes/i34.png
+.. figure:: /imagenes/mi3/i34.png
                  :width: 500px
 
 Cuidando que los oficios de los perfiles coincidan con los de las uniones
 superiores.
 
 
-.. figure:: /imagenes/i35.png
+.. figure:: /imagenes/mi3/i35.png
                  :width: 500px
 
 Además, en base al sistema de referencia, las bases que tienen las uniones
 superiores deben de quedar orientadas hacia la parte posterior de la impresora.
 
 
-.. figure:: /imagenes/i36.png
+.. figure:: /imagenes/mi3/i36.png
                  :width: 500px
 
 
@@ -615,7 +615,7 @@ superiores deben de quedar orientadas hacia la parte posterior de la impresora.
 
 
 
-.. figure:: /imagenes/i37.png
+.. figure:: /imagenes/mi3/i37.png
                  :width: 500px
 
 
@@ -623,7 +623,7 @@ Una vez se tenga armado el arco superior, se procede a ensamblarlo en la parte
 central de la base de perfiles.
 
 
-.. figure:: /imagenes/i38.png
+.. figure:: /imagenes/mi3/i38.png
                  :width: 500px
 
 
@@ -631,7 +631,7 @@ Cuidado que las bases superiores quedan hacia la parte posterior de la estructur
 ensamblada.
 
 
-.. figure:: /imagenes/i39.png
+.. figure:: /imagenes/mi3/i39.png
                  :width: 500px
 
 
@@ -639,7 +639,7 @@ Una vez ensamblada, se procede a atornillar los perfiles con las uniones plásti
 usando tornillos M3X25 con sus respectivas tuercas de seguridad y rondanas.
 
 
-.. figure:: /imagenes/i40.png
+.. figure:: /imagenes/mi3/i40.png
                  :width: 500px
 
 
@@ -647,14 +647,14 @@ Para apretar la tornillería se recomienda usar desarmador y pinzas de punta y/o
 mecánicas.
 
 
-.. figure:: /imagenes/i41.png
+.. figure:: /imagenes/mi3/i41.png
                  :width: 500px
 
 En la parte inferior de la estructura solo se atornillará por el momento en donde se
 indica en la imagen siguiente.
 
 
-.. figure:: /imagenes/i42.png
+.. figure:: /imagenes/mi3/i42.png
                  :width: 500px
 
 
@@ -662,11 +662,11 @@ De la parte central solo se atornillará con los dos tornillos que se muestran a
 continuación por ambos lados.
 
 
-.. figure:: /imagenes/i43.png
+.. figure:: /imagenes/mi3/i43.png
                  :width: 500px
 
 
-.. figure:: /imagenes/i44.png
+.. figure:: /imagenes/mi3/i44.png
                 :width: 500px
 
 
@@ -677,19 +677,19 @@ Mientras que en las esquinas se atornillara como se muestra a continuación.
 .. list-table::
 
 
-   * - .. figure:: /imagenes/i45.png
+   * - .. figure:: /imagenes/mi3/i45.png
                       :width: 500px
 
 
-     - .. figure:: /imagenes/i46.png
+     - .. figure:: /imagenes/mi3/i46.png
                         :width: 500px
 
 
-     - .. figure:: /imagenes/i47.png
+     - .. figure:: /imagenes/mi3/i47.png
                       :width: 500px
 
 
-     - .. figure:: /imagenes/i48.png
+     - .. figure:: /imagenes/mi3/i48.png
                         :width: 500px
 
 
@@ -699,14 +699,14 @@ En la parte superior de la estructura, por el momento solamente será atornillad
 perfil M2 en ambos lados como se muestra a continuación.
 
 
-.. figure:: /imagenes/i49.png
+.. figure:: /imagenes/mi3/i49.png
                    :width: 500px
 
 
 Dejando libre el orificio inferior.
 
 
-.. figure:: /imagenes/i50.png
+.. figure:: /imagenes/mi3/i50.png
                    :width: 500px
 
 
@@ -714,7 +714,7 @@ Finalizando el ensamblaje de la estructura resultando como se aprecia en la
 siguiente imagen.
 
 
-.. figure:: /imagenes/i51.png
+.. figure:: /imagenes/mi3/i51.png
                    :width: 2000px
 
 
@@ -728,7 +728,7 @@ ENSAMBLADO DEL EJE Y.
 ----------------------
 
 
-.. figure:: /imagenes/i52.png
+.. figure:: /imagenes/mi3/i52.png
 
 
 Material que se ocuprá en el Proceso
@@ -763,7 +763,7 @@ Material que se ocuprá en el Proceso
 
 
 
-.. figure:: /imagenes/i53.png
+.. figure:: /imagenes/mi3/i53.png
                    :width: 2000px
 
 
@@ -776,14 +776,14 @@ ayudaremos de la varilla del eje Y que usaremos también más adelante.
 
 
 
-.. figure:: /imagenes/i54.png
+.. figure:: /imagenes/mi3/i54.png
                    :width: 2000px
 
 
 Tomamos la varilla para alinear el cojinete y con los pulgares lo presionamos para
 empotrarlo en la base.
 
-.. figure:: /imagenes/i55.png
+.. figure:: /imagenes/mi3/i55.png
                    :width: 2000px
 
 Una vez fijo el cojinete en la base nos asegurándonos que también quede lo más
@@ -791,11 +791,11 @@ lineal y derecho posible.
 
 
 
-.. figure:: /imagenes/i56.png
+.. figure:: /imagenes/mi3/i56.png
               :width: 2000px
 
 
-.. figure:: /imagenes/i57.png
+.. figure:: /imagenes/mi3/i57.png
                 :width: 2000px
 
 Realizando este mismo procedimiento para los cuatro carros que componen la
@@ -803,21 +803,21 @@ base de la cama caliente.
 
 
 
-.. figure:: /imagenes/i58.png
+.. figure:: /imagenes/mi3/i58.png
                 :width: 2000px
 
 Ahora tomamos la base acrílica de la cama caliente, y si aún tiene la calcomanía
 protectora se procede a quitársela.
 
 
-.. figure:: /imagenes/i59.png
+.. figure:: /imagenes/mi3/i59.png
                 :width: 2000px
 
 
 Una vez preparados los carros de la base, se procede a fijarlos en el acrílico.
 
 
-.. figure:: /imagenes/i60.png
+.. figure:: /imagenes/mi3/i60.png
                 :width: 2000px
 
 
@@ -825,7 +825,7 @@ Haciendo coincidir los orificios de los carros con las perforaciones de la base
 acrílica.
 
 
-.. figure:: /imagenes/i61.png
+.. figure:: /imagenes/mi3/i61.png
                 :width: 2000px
 
 
@@ -833,14 +833,14 @@ Luego se les coloca sus tornillos M3X20 con sus respectivas tuerca y rondanas
 M3.
 
 
-.. figure:: /imagenes/i62.png
+.. figure:: /imagenes/mi3/i62.png
                 :width: 2000px
 
 
 Dejando los carros por el momento flojos.
 
 
-.. figure:: /imagenes/i63.png
+.. figure:: /imagenes/mi3/i63.png
                 :width: 2000px
 
 
@@ -850,14 +850,14 @@ Una vez hecho esto se inserta una varilla del eje Y como se muestra, asegurándo
 se deslice libremente.
 
 
-.. figure:: /imagenes/i64.png
+.. figure:: /imagenes/mi3/i64.png
                 :width: 2000px
 
 Cuando se asegure de que la varilla no se atora y se deslice fácil, se aprietan los
 tornillos para fijar los carros permanentemente.
 
 
-.. figure:: /imagenes/i65.png
+.. figure:: /imagenes/mi3/i65.png
                 :width: 2000px
 
 
@@ -868,14 +868,14 @@ sobrantes.
 
 
 
-.. figure:: /imagenes/i66.png
+.. figure:: /imagenes/mi3/i66.png
                 :width: 2000px
 
 Una vez estén fijos todos los carros, se monta la base central la cual sujeta la
 banda del eje Y.
 
 
-.. figure:: /imagenes/i67.png
+.. figure:: /imagenes/mi3/i67.png
                 :width: 2000px
 
 
@@ -883,34 +883,34 @@ Primero se insertan los tornillos M3X25 con sus rondanas M3 en las prensas de la
 banda.
 
 
-.. figure:: /imagenes/i68.png
+.. figure:: /imagenes/mi3/i68.png
                 :width: 2000px
 
 Luego se coloca un extremo de la banda entre la prensa y la base.
 
 
-.. figure:: /imagenes/i69.png
+.. figure:: /imagenes/mi3/i69.png
                 :width: 2000px
 
 
 Y se inserta el ensamble en la base acrílica guiándose por los orificios.
 
 
-.. figure:: /imagenes/i70.png
+.. figure:: /imagenes/mi3/i70.png
                 :width: 2000px
 
 
 Se roscan las tuercas de seguridad M3 al otro lado de la base acrílica.
 
 
-.. figure:: /imagenes/i71.png
+.. figure:: /imagenes/mi3/i71.png
                 :width: 2000px
 
 
 Por el momento solo se pondrá solo una prensa.
 
 
-.. figure:: /imagenes/i72.png
+.. figure:: /imagenes/mi3/i72.png
                 :width: 2000px
 
 
@@ -918,7 +918,7 @@ Y se aprietan los tornillos para fijar el ensamble de la banda y prensarla entre
 prensa y la base.
 
 
-.. figure:: /imagenes/i73.png
+.. figure:: /imagenes/mi3/i73.png
                 :width: 2000px
 
 
@@ -926,7 +926,7 @@ Ahora se ensamblarán las bases que sostienen todo el sistema del eje Y de la
 cama caliente.
 
 
-.. figure:: /imagenes/i74.png
+.. figure:: /imagenes/mi3/i74.png
                 :width: 2000px
 
 
@@ -936,7 +936,7 @@ orientadas con el agujero de las varillas hacia uno, viendo la impresora desde l
 parte posterior de la impresora guiándonos por el sistema de referencia.
 
 
-.. figure:: /imagenes/i75.png
+.. figure:: /imagenes/mi3/i75.png
                 :width: 2000px
 
 
@@ -944,7 +944,7 @@ A continuación, se puede observar con más detalle el sentido que deben tener l
 bases.
 
 
-.. figure:: /imagenes/i76.png
+.. figure:: /imagenes/mi3/i76.png
                 :width: 2000px
 
 
@@ -954,7 +954,7 @@ por lo que se recomienda “acostar” las estructura quedando el perfil vertica
 esto para facilitar el proceso.
 
 
-.. figure:: /imagenes/i77.png
+.. figure:: /imagenes/mi3/i77.png
                 :width: 2000px
 
 
@@ -962,14 +962,14 @@ Por el momento solo se atornillarán dos bases, dejando las otras dos para un pa
 más adelante.
 
 
-.. figure:: /imagenes/i78.png
+.. figure:: /imagenes/mi3/i78.png
                 :width: 2000px
 
 
 Ahora se reúnen los componentes del tensor para la banda del eje Y.
 
 
-.. figure:: /imagenes/i79.png
+.. figure:: /imagenes/mi3/i79.png
                 :width: 2000px
 
 
@@ -979,24 +979,24 @@ tiene la pieza cuidando que dos de las caras laterales planas de la tuerca entre
 paralelas a la pieza.
 
 
-.. figure:: /imagenes/i80.png
+.. figure:: /imagenes/mi3/i80.png
                 :width: 2000px
 
 
 Una vez que empiece a entrar.
 
 
-.. figure:: /imagenes/i81.png
+.. figure:: /imagenes/mi3/i81.png
                 :width: 2000px
 
 
 Con la punta de las pinzas se presiona la tuerca hasta que entre por completo.
 
 
-.. figure:: /imagenes/i82.png
+.. figure:: /imagenes/mi3/i82.png
                 :width: 2000px
 
-.. figure:: /imagenes/i83.png
+.. figure:: /imagenes/mi3/i83.png
                 :width: 2000px
 
 
@@ -1004,25 +1004,25 @@ En caso de ser necesario, con un clemero se acomoda la tuerca dándole
 pequeños golpecitos para lograr que los orificios coincidan.
 
 
-.. figure:: /imagenes/i84.png
+.. figure:: /imagenes/mi3/i84.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i85.png
+.. figure:: /imagenes/mi3/i85.png
                 :width: 2000px
 
 Ahora se toma la base del tensor, la cual sostiene la pieza tensora, el cojinete, el
 eje y la respectiva banda.
 
 
-.. figure:: /imagenes/i86.png
+.. figure:: /imagenes/mi3/i86.png
                 :width: 2000px
 
 
 Y se monta el tensor sobre la base.
 
 
-.. figure:: /imagenes/i87.png
+.. figure:: /imagenes/mi3/i87.png
                 :width: 2000px
 
 
@@ -1030,21 +1030,21 @@ Ahora se inserta el eje roscado sin atravesar las dos piezas, solo llegado hasta
 donde se muestra.
 
 
-.. figure:: /imagenes/i88.png
+.. figure:: /imagenes/mi3/i88.png
                 :width: 2000px
 
 
 Se toma el cojinete y se inserta entre las piezas plásticas.
 
 
-.. figure:: /imagenes/i89.png
+.. figure:: /imagenes/mi3/i89.png
                 :width: 2000px
 
 
 Y se atraviesa todo el conjunto con el eje roscado.
 
 
-.. figure:: /imagenes/i90.png
+.. figure:: /imagenes/mi3/i90.png
                 :width: 2000px
 
 
@@ -1052,7 +1052,7 @@ Observando que el achaflanado (cara inclinada) del tensor quede hacia arriba
 como se indica.
 
 
-.. figure:: /imagenes/i91.png
+.. figure:: /imagenes/mi3/i91.png
                 :width: 2000px
 
 
@@ -1061,7 +1061,7 @@ y solamente se allegan sin apretar. Estos tornillos son los que nos ayudaran a
 tensar la banda del eje Y cuando sea necesario.
 
 
-.. figure:: /imagenes/i92.png
+.. figure:: /imagenes/mi3/i92.png
                 :width: 2000px
 
 
@@ -1069,7 +1069,7 @@ Después se monta sobre el perfil F2 ubicándolo en las dos perforaciones del
 centro y se procede a atornillar.
 
 
-.. figure:: /imagenes/i93.png
+.. figure:: /imagenes/mi3/i93.png
                 :width: 2000px
 
 
@@ -1078,7 +1078,7 @@ mover hacia un lado el eje roscado sin sacarlo completamente, quedando su cara
 lateral al ras del tensor.
 
 
-.. figure:: /imagenes/i94.png
+.. figure:: /imagenes/mi3/i94.png
                 :width: 2000px
 
 
@@ -1086,7 +1086,7 @@ Para así poder colocar el tornillo M3X30 con sus rondanas M3 con facilidad y
 poder apretarlo con las herramientas indicadas.
 
 
-.. figure:: /imagenes/i95.png
+.. figure:: /imagenes/mi3/i95.png
                 :width: 2000px
 
 
@@ -1094,14 +1094,14 @@ Realizando este paso para ambos tornillos y finalizando con regresar al eje
 roscado a su posición original.
 
 
-.. figure:: /imagenes/i96.png
+.. figure:: /imagenes/mi3/i96.png
                 :width: 2000px
 
 Una vez estén las bases y el tensor fijos en el perfil F2, se procede a colocar la
 base de la cama.
 
 
-.. figure:: /imagenes/i97.png
+.. figure:: /imagenes/mi3/i97.png
                 :width: 2000px
 
 
@@ -1109,7 +1109,7 @@ Para este paso, se toman las dos bases restantes que anteriormente no se habían
 usado y se les inserta la varilla del eje Y a cada uno.
 
 
-.. figure:: /imagenes/i98.png
+.. figure:: /imagenes/mi3/i98.png
                 :width: 2000px
 
 
@@ -1117,10 +1117,10 @@ Una vez que cada varilla tenga su respectiva base, se deslizaran en los carros d
 la base acrílica.
 
 
-.. figure:: /imagenes/i99.png
+.. figure:: /imagenes/mi3/i99.png
                 :width: 2000px
 
-.. figure:: /imagenes/i100.png
+.. figure:: /imagenes/mi3/i100.png
                 :width: 2000px
 
 Cuando ambas varillas estén colocadas, se girará la base 180°, con los pulgares
@@ -1128,7 +1128,7 @@ detendremos el acrílico y con los dedos sobrantes, las varillas para que ningú
 elemento se deslice al momento de trasladar el sistema.
 
 
-.. figure:: /imagenes/i101.png
+.. figure:: /imagenes/mi3/i101.png
                 :width: 2000px
 
 
@@ -1138,21 +1138,21 @@ bases que no están atornilladas se ubiquen en sus respectivos orificios del per
 B2.
 
 
-.. figure:: /imagenes/i102.png
+.. figure:: /imagenes/mi3/i102.png
                 :width: 2000px
 
 
 Inserción de las varillas en las bases ya previamente fijas.
 
 
-.. figure:: /imagenes/i103.png
+.. figure:: /imagenes/mi3/i103.png
                 :width: 2000px
 
 
 Se ubican las bases que no se habían atornillado en sus respectivos orificios.
 
 
-.. figure:: /imagenes/i104.png
+.. figure:: /imagenes/mi3/i104.png
                 :width: 2000px
 
 
@@ -1161,7 +1161,7 @@ atornillarlas con tornillos M3X30 y sus rondanas M3, fijando definitivamente la
 base de la cama cliente con tuerca de seguridad M3.
 
 
-.. figure:: /imagenes/i105.png
+.. figure:: /imagenes/mi3/i105.png
                 :width: 2000px
 
 
@@ -1169,7 +1169,7 @@ Ahora se toma el extremo de la banda que no está fijo a la base, y se pasa por 
 parte superior del cojinete ubicado en el tensor.
 
 
-.. figure:: /imagenes/i106.png
+.. figure:: /imagenes/mi3/i106.png
                 :width: 2000px
 
 
@@ -1177,7 +1177,7 @@ Y de nuevo se inserta por la parte inferior, de tal forma que la banda este
 “abrazando” al cojinete.
 
 
-.. figure:: /imagenes/i107.png
+.. figure:: /imagenes/mi3/i107.png
                 :width: 2000px
 
 
@@ -1185,28 +1185,28 @@ Por ahora se deja el extremo de la banda libre, y se empieza a preparar el motor
 que moverá el eje Y.
 
 
-.. figure:: /imagenes/i108.png
+.. figure:: /imagenes/mi3/i108.png
                 :width: 2000px
 
 Para ello se colocará el motor con su conexión hacia la lateral izquierda viéndolo
 desde el eje, como se muestra.
 
 
-.. figure:: /imagenes/i109.png
+.. figure:: /imagenes/mi3/i109.png
                 :width: 2000px
 
 
 Y se le montara la base que lo mantiene fijo en el perfil B2.
 
 
-.. figure:: /imagenes/i110.png
+.. figure:: /imagenes/mi3/i110.png
                 :width: 2000px
 
 
 Se atornilla con tornillos M3X10 la base en el motor.
 
 
-.. figure:: /imagenes/i111.png
+.. figure:: /imagenes/mi3/i111.png
                 :width: 2000px
 
 
@@ -1214,20 +1214,20 @@ Y en el orificio que tiene en el soporte izquierdo se le coloca una tuerca de
 seguridad.
 
 
-.. figure:: /imagenes/i112.png
+.. figure:: /imagenes/mi3/i112.png
                 :width: 2000px
 
 
 Ayudándonos de las pinzas para presionar la tuerca.
 
 
-.. figure:: /imagenes/i113.png
+.. figure:: /imagenes/mi3/i113.png
                 :width: 2000px
 
 Y empotrarla de manera correcta.
 
 
-.. figure:: /imagenes/i114.png
+.. figure:: /imagenes/mi3/i114.png
                 :width: 2000px
 
 
@@ -1235,14 +1235,14 @@ Ahora se monta el conjunto sobre el perfil B2, insertándole un tornillo M3X30 y
 rondana M3.
 
 
-.. figure:: /imagenes/i115.png
+.. figure:: /imagenes/mi3/i115.png
                 :width: 2000px
 
 
 Se atornilla la base que sostiene al motor y se aprieta hasta que no se mueva.
 
 
-.. figure:: /imagenes/i116.png
+.. figure:: /imagenes/mi3/i116.png
                 :width: 2000px
 
 
@@ -1251,11 +1251,11 @@ teniendo en cuenta que uno de los opresores debe quedar sobre la cara pana del
 eje del motor, y luego se aprietan ambos opresores.
 
 
-.. figure:: /imagenes/i117.png
+.. figure:: /imagenes/mi3/i117.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i118.png
+.. figure:: /imagenes/mi3/i118.png
                 :width: 2000px
 
 
@@ -1264,32 +1264,32 @@ procede a fijarla, para ello por comodidad se recomienda acostar la estructura d
 lado como se muestra, y tomamos el extremo suelto de la banda.
 
 
-.. figure:: /imagenes/i119.png
+.. figure:: /imagenes/mi3/i119.png
                 :width: 2000px
 
 
 Como se puede apreciar, se pasa la banda por la polea del motor del eje Y.
 
 
-.. figure:: /imagenes/i120.png
+.. figure:: /imagenes/mi3/i120.png
                 :width: 2000px
 
 Y se posiciona la punta de la banda entre la base de las prensas y las mismas
 prensas.
 
 
-.. figure:: /imagenes/i121.png
+.. figure:: /imagenes/mi3/i121.png
                 :width: 2000px
 
 
 Ahora, se le insertan los tornillos M3X25 y sus rondanas M3 a las prensas, y con
 un desarmador se jala la banda sin aflojarla.
 
-.. figure:: /imagenes/i122.png
+.. figure:: /imagenes/mi3/i122.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i123.png
+.. figure:: /imagenes/mi3/i123.png
                 :width: 2000px
 
 
@@ -1299,7 +1299,7 @@ banda sin dejar de tensarla, otra, con un desarmador y otras pinzas aprieta los
 tornillos de las prensas, para así fijar por completo la banda del eje Y.
 
 
-.. figure:: /imagenes/i124.png
+.. figure:: /imagenes/mi3/i124.png
                 :width: 2000px
 
 
@@ -1307,20 +1307,20 @@ Una vez que la banda del eje Y quede completamente fija, se procede a tensarla.
 Para ello nos ubicamos donde se encuentra el tensor del eje Y.
 
 
-.. figure:: /imagenes/i125.png
+.. figure:: /imagenes/mi3/i125.png
                 :width: 2000px
 
 
 Una vez se ubique el tensor, se apretarán los torillos frontales de la pieza.
 
-.. figure:: /imagenes/i126.png
+.. figure:: /imagenes/mi3/i126.png
                 :width: 2000px
 
 Hasta llegar a una tensión favorable, checando la rigidez de la banda con los
 dedos.
 
 
-.. figure:: /imagenes/i127.png
+.. figure:: /imagenes/mi3/i127.png
                 :width: 2000px
 
 
@@ -1328,7 +1328,7 @@ Cuando se tenga la base de acrílica montada sobre la estructura, se prosigue a
 montar la cama caliente sobre la mencionada base.
 
 
-.. figure:: /imagenes/i128.png
+.. figure:: /imagenes/mi3/i128.png
                 :width: 2000px
 
 
@@ -1337,11 +1337,11 @@ resistencia y su cable de alimentación, y se le insertan los tornillos M3X35 de
 cabeza plana en las cuatro esquinas.
 
 
-.. figure:: /imagenes/i129.png
+.. figure:: /imagenes/mi3/i129.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i130.png
+.. figure:: /imagenes/mi3/i130.png
                 :width: 2000px
 
 
@@ -1349,21 +1349,21 @@ Después se pone la cama con la cara plateada hacia abajo y con las puntas de lo
 torillos hacia arriba y se monta el tapete automotriz.
 
 
-.. figure:: /imagenes/i131.png
+.. figure:: /imagenes/mi3/i131.png
                 :width: 2000px
 
 
 Después a cada esquina se le agrega una rondana M4
 
 
-.. figure:: /imagenes/i132.png
+.. figure:: /imagenes/mi3/i132.png
                 :width: 2000px
 
 
 Y un muelle.
 
 
-.. figure:: /imagenes/i133.png
+.. figure:: /imagenes/mi3/i133.png
                 :width: 2000px
 
 
@@ -1372,7 +1372,7 @@ recomienda poner un poco de cinta en cada tornillo, para cuando se manipule la
 cama caliente estos no se salgan de sus orificios.
 
 
-.. figure:: /imagenes/i134.png
+.. figure:: /imagenes/mi3/i134.png
                 :width: 2000px
 
 
@@ -1381,21 +1381,21 @@ tornillos con sus respectivos orificios cuidando que los cables de la cama quede
 hacia atrás.
 
 
-.. figure:: /imagenes/i135.png
+.. figure:: /imagenes/mi3/i135.png
                 :width: 2000px
 
 
 Una vez insertados los torillos, se les agrega su tuerca de seguridad M3.
 
 
-.. figure:: /imagenes/i136.png
+.. figure:: /imagenes/mi3/i136.png
                 :width: 2000px
 
 
 Se le desprende la cinta a cada tornillo.
 
 
-.. figure:: /imagenes/i137.png
+.. figure:: /imagenes/mi3/i137.png
                 :width: 2000px
 
 
@@ -1403,11 +1403,11 @@ Y se enrosca el tornillo de tal forma que solo entre en la tuerca de seguridad,
 apenas apretando el resorte.
 
 
-.. figure:: /imagenes/i138.png
+.. figure:: /imagenes/mi3/i138.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i139.png
+.. figure:: /imagenes/mi3/i139.png
                 :width: 2000px
 
 
@@ -1415,7 +1415,7 @@ Hasta aquí se finaliza el ensamblado del eje Y, resultado el sistema como se
 muestra a continuación.
 
 
-.. figure:: /imagenes/i140.png
+.. figure:: /imagenes/mi3/i140.png
                 :width: 2000px
 
 
@@ -1451,7 +1451,7 @@ Material que se ocupará en el proceso
 * 1 pieza plastica M
 
 
-.. figure:: /imagenes/i141.png
+.. figure:: /imagenes/mi3/i141.png
                 :width: 2000px
 
 
@@ -1460,11 +1460,11 @@ varilla roscada de 5 mm y se le monta un tramo de 30 mm de tubo neumático
 dándole pequeños golpes hasta que la varilla entre a la mitad.
 
 
-.. figure:: /imagenes/i142.png
+.. figure:: /imagenes/mi3/i142.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i143.png
+.. figure:: /imagenes/mi3/i143.png
               :width: 2000px
 
 
@@ -1473,7 +1473,7 @@ abren un poco las pinzas rotando la manguera al mismo tiempo, esto para aflojar
 un poco la entrada de la manguera.
 
 
-.. figure:: /imagenes/i144.png
+.. figure:: /imagenes/mi3/i144.png
               :width: 2000px
 
 
@@ -1481,18 +1481,18 @@ Después, antes de que la manguera vuelva a su estado normal, se monta sobre el
 eje del motor.
 
 
-.. figure:: /imagenes/i145.png
+.. figure:: /imagenes/mi3/i145.png
               :width: 2000px
 
 
-.. figure:: /imagenes/i146.png
+.. figure:: /imagenes/mi3/i146.png
                 :width: 2000px
 
 
 Realizando este proceso para ambos motores.
 
 
-.. figure:: /imagenes/i147.png
+.. figure:: /imagenes/mi3/i147.png
                 :width: 2000px
 
 
@@ -1500,36 +1500,36 @@ Después se les montara su base plástica cuidando que los conectores del motor,
 queden hacia atrás de la pestaña que contiene solo un orificio para tornillo.
 
 
-.. figure:: /imagenes/i148.png
+.. figure:: /imagenes/mi3/i148.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i149.png
+.. figure:: /imagenes/mi3/i149.png
                 :width: 2000px
 
 
 Después se les pondrá tornillería M3X10 con su rondana M3.
 
 
-.. figure:: /imagenes/i150.png
+.. figure:: /imagenes/mi3/i150.png
                 :width: 2000px
 
 Y se aprietan los tornillos.
 
 
-.. figure:: /imagenes/i151.png
+.. figure:: /imagenes/mi3/i151.png
                 :width: 2000px
 
 Resultando el ensamble de los motores como se muestra.
 
 
-.. figure:: /imagenes/i152.png
+.. figure:: /imagenes/mi3/i152.png
                 :width: 2000px
 
 Una vez listos los motores del eje Z, se comienzan a ensamblar los carros del eje Z.
 
 
-.. figure:: /imagenes/i153.png
+.. figure:: /imagenes/mi3/i153.png
                 :width: 2000px
 
 
@@ -1537,7 +1537,7 @@ Primero se armará el carro que contiene el motor del eje X, comenzando con
 preparar el mencionando motor poniéndole su polea.
 
 
-.. figure:: /imagenes/i154.png
+.. figure:: /imagenes/mi3/i154.png
                 :width: 2000px
 
 
@@ -1545,7 +1545,7 @@ Cuidando que uno de los opresores quede sobre la cara plana del eje del motor, y
 se procede a apretarlos.
 
 
-.. figure:: /imagenes/i155.png
+.. figure:: /imagenes/mi3/i155.png
                 :width: 2000px
 
 
@@ -1553,35 +1553,35 @@ Cuando la polea esta lista, se monta el respectivo carro sobre el motor y se
 atornilla con tornillos M3X16 fijándolo completamente.
 
 
-.. figure:: /imagenes/i156.png
+.. figure:: /imagenes/mi3/i156.png
                 :width: 2000px
 
 
 Tres tornillos sujetando el carro en el motor.
 
 
-.. figure:: /imagenes/i157.png
+.. figure:: /imagenes/mi3/i157.png
                 :width: 2000px
 
 Ahora, se toman dos tuercas M4, y con las pinzas se sujetan de una esquina, y
 con sus lados planos en forma vertical se ubican en los orificios que se muestran.
 
 
-.. figure:: /imagenes/i158.png
+.. figure:: /imagenes/mi3/i158.png
                 :width: 2000px
 
 
 Después con la punta de las pinzas se empujan.
 
 
-.. figure:: /imagenes/i159.png
+.. figure:: /imagenes/mi3/i159.png
                 :width: 2000px
 
 
 Hasta que las tuercas entren por completo.
 
 
-.. figure:: /imagenes/i160.png
+.. figure:: /imagenes/mi3/i160.png
                 :width: 2000px
 
 
@@ -1589,15 +1589,15 @@ Realizando los mismo pasos anteriores, se aplican para insertar las tuercas M3 e
 las ranuras del cojinete LM8KLUU que se muestran.
 
 
-.. figure:: /imagenes/i161.png
+.. figure:: /imagenes/mi3/i161.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i162.png
+.. figure:: /imagenes/mi3/i162.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i163.png
+.. figure:: /imagenes/mi3/i163.png
                 :width: 2000px
 
 
@@ -1606,24 +1606,24 @@ ensamblar el cojinete lineal LMK8LUU, donde se prepara poniendo los tornillos
 M3X10 y dos Orings salteados.
 
 
-.. figure:: /imagenes/i164.png
+.. figure:: /imagenes/mi3/i164.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i165.png
+.. figure:: /imagenes/mi3/i165.png
                 :width: 2000px
 
 
 Después se mete el cojinete lineal en el orificio del carro.
 
 
-.. figure:: /imagenes/i166.png
+.. figure:: /imagenes/mi3/i166.png
                 :width: 2000px
 
 Y se atornilla.
 
 
-.. figure:: /imagenes/i167.png
+.. figure:: /imagenes/mi3/i167.png
                 :width: 2000px
 
 
@@ -1631,7 +1631,7 @@ Ahora se preparará el otro carro Z, el cual contiene una polea para la banda de
 mismo eje.
 
 
-.. figure:: /imagenes/i168.png
+.. figure:: /imagenes/mi3/i168.png
                 :width: 2000px
 
 
@@ -1639,14 +1639,14 @@ Realizando los mismos pasos para el carro anterior, se ensambla el cojinete line
 del otro carro Z.
 
 
-.. figure:: /imagenes/i169.png
+.. figure:: /imagenes/mi3/i169.png
                 :width: 2000px
 
 
 De igual forma, se empotran las tuercas M4.
 
 
-.. figure:: /imagenes/i170.png
+.. figure:: /imagenes/mi3/i170.png
                 :width: 2000px
 
 
@@ -1654,39 +1654,39 @@ Una vez el carro tenga toda su tornillería y tuercas listas, se ensamblará la 
 del carro. Tomando el cojinete 688 entre las dos rondanas 5/16. como se muestra.
 
 
-.. figure:: /imagenes/i171.png
+.. figure:: /imagenes/mi3/i171.png
                 :width: 2000px
 
 Una vez insertadas las piezas, se introduce el eje roscado atrabezando las
 rondanas y el cojinete.
 
 
-.. figure:: /imagenes/i172.png
+.. figure:: /imagenes/mi3/i172.png
                 :width: 2000px
 
 
 Y fijando el ensamble con dos tuercas 5/16
 
 
-.. figure:: /imagenes/i173.png
+.. figure:: /imagenes/mi3/i173.png
                 :width: 2000px
 
 Cuando se tengan preparados los carros, se enroscarán las varillas roscadas en
 las tuercas M4 insertadas previamente,
 
 
-.. figure:: /imagenes/i174.png
+.. figure:: /imagenes/mi3/i174.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i175.png
+.. figure:: /imagenes/mi3/i175.png
                 :width: 2000px
 
 
 Dejando ambos carros a una altura media de las varillas.
 
 
-.. figure:: /imagenes/i176.png
+.. figure:: /imagenes/mi3/i176.png
                 :width: 2000px
 
 
@@ -1695,18 +1695,18 @@ dentro de los orificios que se encuentran en las bases de los motores del mismo
 eje.
 
 
-.. figure:: /imagenes/i177.png
+.. figure:: /imagenes/mi3/i177.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i178.png
+.. figure:: /imagenes/mi3/i178.png
                 :width: 2000px
 
 
 Terminando de ensamblar el eje Z como se presenta a continuación.
 
 
-.. figure:: /imagenes/i179.png
+.. figure:: /imagenes/mi3/i179.png
                 :width: 2000px
 
 
@@ -1720,7 +1720,7 @@ ENSAMBLADO DEL EJE X.
 ----------------------
 
 
-.. figure:: /imagenes/i180.png
+.. figure:: /imagenes/mi3/i180.png
                 :width: 2000px
 
 
@@ -1748,7 +1748,7 @@ Material que se va a ocupar en el Proceso.
 * 2 piezas P
 
 
-.. figure:: /imagenes/i181.png
+.. figure:: /imagenes/mi3/i181.png
                 :width: 2000px
 
 
@@ -1757,15 +1757,15 @@ componentes mecánicos y electrónicos. Empezando primero por insertar un
 tornillo M3X25 y su rondana M3 en el módulo frontal del carro en la parte inferior.
 
 
-.. figure:: /imagenes/i182.png
+.. figure:: /imagenes/mi3/i182.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i183.png
+.. figure:: /imagenes/mi3/i183.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i184.png
+.. figure:: /imagenes/mi3/i184.png
                  :width: 2000px
 
 
@@ -1777,32 +1777,32 @@ pasos anteriores, ensamblando los cojinetes lineales LMK8LUU.
 
 .. list-table::
 
-   * - .. figure:: /imagenes/i185.png
+   * - .. figure:: /imagenes/mi3/i185.png
           :width: 320px
 
           paso 1
 
-     - .. figure:: /imagenes/i186.png
+     - .. figure:: /imagenes/mi3/i186.png
           :width: 320px
 
           paso 2
 
-     - .. figure:: /imagenes/i187.png
+     - .. figure:: /imagenes/mi3/i187.png
           :width: 320px
 
           paso 3
 
-     - .. figure:: /imagenes/i188.png
+     - .. figure:: /imagenes/mi3/i188.png
           :width: 320px
 
           paso 4
 
-     - .. figure:: /imagenes/i189.png
+     - .. figure:: /imagenes/mi3/i189.png
           :width: 320px
 
           paso 5
 
-     - .. figure:: /imagenes/i190.png
+     - .. figure:: /imagenes/mi3/i190.png
           :width: 320px
 
           paso 6
@@ -1816,10 +1816,10 @@ frontal del mismo, comenzando por ensamblar la boquilla extrusora.
 Teniendo en cuenta que los cables deben de salir por el recuadro del modulo.
 
 
-.. figure:: /imagenes/i191.png
+.. figure:: /imagenes/mi3/i191.png
                  :width: 2000px
 
-.. figure:: /imagenes/i192.png
+.. figure:: /imagenes/mi3/i192.png
                 :width: 2000px
 
 
@@ -1828,11 +1828,11 @@ guía coincida con el cuello de la boquilla.
 
 
 
-.. figure:: /imagenes/i193.png
+.. figure:: /imagenes/mi3/i193.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i194.png
+.. figure:: /imagenes/mi3/i194.png
                 :width: 2000px
 
 
@@ -1840,33 +1840,33 @@ Después se insertan dos tornillos M3X20 con sus respectivas rondanas M3, sobre
 el soporte de aluminio.
 
 
-.. figure:: /imagenes/i195.png
+.. figure:: /imagenes/mi3/i195.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i196.png
+.. figure:: /imagenes/mi3/i196.png
                 :width: 2000px
 
 
 Y por debajo del mismo, se insertan tuercas de seguridad.
 
 
-.. figure:: /imagenes/i197.png
+.. figure:: /imagenes/mi3/i197.png
                 :width: 2000px
 
 Para posteriormente, con ayuda de unas pinzas y desarmador, apretar bien la
 pieza.
 
 
-.. figure:: /imagenes/i198.png
+.. figure:: /imagenes/mi3/i198.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i199.png
+.. figure:: /imagenes/mi3/i199.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i200.png
+.. figure:: /imagenes/mi3/i200.png
                 :width: 2000px
 
 
@@ -1874,25 +1874,25 @@ Después, por donde introdujimos la tuerca de seguridad para el soporte de
 aluminio, se ensamblarán los ventiladores de 20X20 mm a cada lado del módulo.
 
 
-.. figure:: /imagenes/i201.png
+.. figure:: /imagenes/mi3/i201.png
                 :width: 2000px
 
 
 Se les inserta tornillería M3X10.
 
 
-.. figure:: /imagenes/i202.png
+.. figure:: /imagenes/mi3/i202.png
                 :width: 2000px
 
 
 Y se aprietan hasta fijar por completo los ventiladores.
 
 
-.. figure:: /imagenes/i203.png
+.. figure:: /imagenes/mi3/i203.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i204.png
+.. figure:: /imagenes/mi3/i204.png
                  :width: 2000px
 
 
@@ -1900,7 +1900,7 @@ Quedando el ensamble con un ventilador para la punta de la boquilla, y el otro
 para el disipador de la misma.
 
 
-.. figure:: /imagenes/i205.png
+.. figure:: /imagenes/mi3/i205.png
                  :width: 2000px
 
 
@@ -1909,21 +1909,21 @@ embrocan las tuercas del sensor en la base del módulo. Una arriba y la otra
 debajo.
 
 
-.. figure:: /imagenes/i206.png
+.. figure:: /imagenes/mi3/i206.png
                  :width: 2000px
 
 
 Tuerca embrocada parte superior.
 
 
-.. figure:: /imagenes/i207.png
+.. figure:: /imagenes/mi3/i207.png
               :width: 2000px
 
 
 Tuerca embrocada parte inferior.
 
 
-.. figure:: /imagenes/i208.png
+.. figure:: /imagenes/mi3/i208.png
               :width: 2000px
 
 
@@ -1931,27 +1931,27 @@ Después, por la tuerca de la parte superior se enrosca el sensor inductivo hast
 que la punta azul casi coincida con la punta de la boquilla.
 
 
-.. figure:: /imagenes/i209.png
+.. figure:: /imagenes/mi3/i209.png
               :width: 2000px
 
-.. figure:: /imagenes/i210.png
+.. figure:: /imagenes/mi3/i210.png
               :width: 2000px
 
 Enseguida se enrosca el conector neumático en la parte superior de la boquilla.
 
 
-.. figure:: /imagenes/i211.png
+.. figure:: /imagenes/mi3/i211.png
               :width: 2000px
 
 
-.. figure:: /imagenes/i212.png
+.. figure:: /imagenes/mi3/i212.png
               :width: 2000px
 
 
 Resultando por el momento el módulo frontal de esta manera.
 
 
-.. figure:: /imagenes/i213.png
+.. figure:: /imagenes/mi3/i213.png
               :width: 2000px
 
 
@@ -1960,7 +1960,7 @@ acomodar los cables de los componentes electrónicos en las guías con las que
 cuenta el módulo frontal.
 
 
-.. figure:: /imagenes/i214.png
+.. figure:: /imagenes/mi3/i214.png
               :width: 2000px
 
 
@@ -1969,18 +1969,18 @@ este paso y otros dos a utilizar de M3X25 con sus rondanas, se unen las dos
 partes del módulo.
 
 
-.. figure:: /imagenes/i215.png
+.. figure:: /imagenes/mi3/i215.png
               :width: 2000px
 
 
-.. figure:: /imagenes/i216.png
+.. figure:: /imagenes/mi3/i216.png
               :width: 2000px
 
 
 Resultando el módulo X ensamblado como se muestra a continuación.
 
 
-.. figure:: /imagenes/i217.png
+.. figure:: /imagenes/mi3/i217.png
               :width: 2000px
 
 
@@ -1988,29 +1988,29 @@ Una vez terminado el carro del módulo X, se insertarán las varillas de acero p
 los cojinetes lineales.
 
 
-.. figure:: /imagenes/i218.png
+.. figure:: /imagenes/mi3/i218.png
               :width: 2000px
 
 
-.. figure:: /imagenes/i219.png
+.. figure:: /imagenes/mi3/i219.png
               :width: 2000px
 
 
 Colocando ambas varillas.
 
 
-.. figure:: /imagenes/i220.png
+.. figure:: /imagenes/mi3/i220.png
               :width: 2000px
 
 
-.. figure:: /imagenes/i221.png
+.. figure:: /imagenes/mi3/i221.png
               :width: 2000px
 
 
 Terminando por armar todo el carro del eje X.
 
 
-.. figure:: /imagenes/i222.png
+.. figure:: /imagenes/mi3/i222.png
               :width: 2000px
 
 
@@ -2022,7 +2022,7 @@ MONTAJE DEL EJE X EN EL EJE Z.
 ---------------------------------
 
 
-.. figure:: /imagenes/i223.png
+.. figure:: /imagenes/mi3/i223.png
               :width: 2000px
 
 Una vez se tengan los ensambles completos del eje X y el eje Z, se procederá a
@@ -2032,32 +2032,32 @@ carro, se meten en los orificios laterales de los carros Z como se puede aprecia
 continuación.
 
 
-.. figure:: /imagenes/i224.png
+.. figure:: /imagenes/mi3/i224.png
               :width: 2000px
 
 
 Haciendo esto para los dos carros del eje Z.
 
 
-.. figure:: /imagenes/i225.png
+.. figure:: /imagenes/mi3/i225.png
               :width: 2000px
 
 
 Formando un nuevo ensamble X-Z.
 
 
-.. figure:: /imagenes/i226.png
+.. figure:: /imagenes/mi3/i226.png
               :width: 2000px
 
 
-.. figure:: /imagenes/i227.png
+.. figure:: /imagenes/mi3/i227.png
               :width: 2000px
 
 
 A continuación, se presentara el ensamble X-Z a la estructura.
 
 
-.. figure:: /imagenes/i228.png
+.. figure:: /imagenes/mi3/i228.png
               :width: 2000px
 
 
@@ -2065,15 +2065,15 @@ Para ello, se quitara el perfil superior M3, el cual se había dejado suelto en 
 pasos anteriores.
 
 
-.. figure:: /imagenes/i229.png
+.. figure:: /imagenes/mi3/i229.png
               :width: 2000px
 
 
-.. figure:: /imagenes/i230.png
+.. figure:: /imagenes/mi3/i230.png
               :width: 2000px
 
 
-.. figure:: /imagenes/i231.png
+.. figure:: /imagenes/mi3/i231.png
               :width: 2000px
 
 
@@ -2081,22 +2081,22 @@ Y se montaran las bases de los motores del eje Z sobre los perfiles B1, B3 y M3,
 cuidando que los orificios de los perfiles coincidan con los de las bases.
 
 
-.. figure:: /imagenes/i232.png
+.. figure:: /imagenes/mi3/i232.png
               :width: 2000px
 
 
-.. figure:: /imagenes/i233.png
+.. figure:: /imagenes/mi3/i233.png
                :width: 2000px
 
 
-.. figure:: /imagenes/i234.png
+.. figure:: /imagenes/mi3/i234.png
                 :width: 2000px
 
 
 Después, se colocara de nuevo el perfil superior M2.
 
 
-.. figure:: /imagenes/i235.png
+.. figure:: /imagenes/mi3/i235.png
                 :width: 2000px
 
 
@@ -2104,7 +2104,7 @@ Cuidando que las varillas roscadas y lisas, entren en sus respectivas guías
 ubicadas en las bases superiores de la estructura.
 
 
-.. figure:: /imagenes/i236.png
+.. figure:: /imagenes/mi3/i236.png
                 :width: 2000px
 
 
@@ -2112,18 +2112,18 @@ Donde será necesario presionar con la mano para empotrar las bases superiores
 en el perfil y en las varillas.
 
 
-.. figure:: /imagenes/i237.png
+.. figure:: /imagenes/mi3/i237.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i238.png
+.. figure:: /imagenes/mi3/i238.png
                :width: 2000px
 
 
 Terminando el ensambldo X-Z en la estructura.
 
 
-.. figure:: /imagenes/i240.png
+.. figure:: /imagenes/mi3/i240.png
                :width: 2000px
 
 
@@ -2132,22 +2132,22 @@ flojos en pasos anteriores.
 Insertando los tornillos M3X20 del pefirl superior M2,con su respectiva tuerca y rondana.
 
 
-.. figure:: /imagenes/i241.png
+.. figure:: /imagenes/mi3/i241.png
                :width: 2000px
 
 
-.. figure:: /imagenes/i242.png
+.. figure:: /imagenes/mi3/i242.png
                 :width: 2000px
 
 
 Apretando los tornillos con desarmador y pinzas.
 
 
-.. figure:: /imagenes/i243.png
+.. figure:: /imagenes/mi3/i243.png
                  :width: 2000px
 
 
-.. figure:: /imagenes/i244.png
+.. figure:: /imagenes/mi3/i244.png
                 :width: 2000px
 
 
@@ -2155,18 +2155,18 @@ Tambien se les colocara sus tuercas de seguridad a los tornillos que mantienen
 unidos los ensambles del modulo del eje X.
 
 
-.. figure:: /imagenes/i245.png
+.. figure:: /imagenes/mi3/i245.png
                 :width: 2000px
 
 
 Se aprieta la tornilleria para mantener fijas las piezas.
 
 
-.. figure:: /imagenes/i246.png
+.. figure:: /imagenes/mi3/i246.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i247.png
+.. figure:: /imagenes/mi3/i247.png
                 :width: 2000px
 
 
@@ -2174,7 +2174,7 @@ Ahora se procede a poner la banda del eje X que moverá su respectivo carro. Par
 ello nos posicionamos en la parte posterior del carro X.
 
 
-.. figure:: /imagenes/i248.png
+.. figure:: /imagenes/mi3/i248.png
                 :width: 2000px
 
 
@@ -2182,32 +2182,32 @@ Se colocan los tornillos M3X30 en las bases de los motores del eje Z y su tuerca
 de seguridad por debajo.
 
 
-.. figure:: /imagenes/i249.png
+.. figure:: /imagenes/mi3/i249.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i250.png
+.. figure:: /imagenes/mi3/i250.png
                 :width: 2000px
 
 
 Se aprieta la tornillería con ayuda de pinzas y desarmador.
 
 
-.. figure:: /imagenes/i251.png
+.. figure:: /imagenes/mi3/i251.png
                 :width: 2000px
 
 
 Resultando el acomodo inferior de los motores, como se muestra a continuación.
 
 
-.. figure:: /imagenes/i252.png
+.. figure:: /imagenes/mi3/i252.png
                 :width: 2000px
 
 
 Después tomamos todos los elementos que componen el sistema de la banda.
 
 
-.. figure:: /imagenes/i253.png
+.. figure:: /imagenes/mi3/i253.png
                 :width: 2000px
 
 
@@ -2215,28 +2215,28 @@ Tomamos un extremo de la banda y con la parte dentada hacia abajo la colocamos
 sobre una de las bases ubicadas en la parte posterior del carro X.
 
 
-.. figure:: /imagenes/i254.png
+.. figure:: /imagenes/mi3/i254.png
                 :width: 2000px
 
 
 Ahora ponemos la plaquita tensora sobre la banda.
 
 
-.. figure:: /imagenes/i255.png
+.. figure:: /imagenes/mi3/i255.png
                 :width: 2000px
 
 
 Insertamos un tornillo M3x16 con su respectiva rondana.
 
 
-.. figure:: /imagenes/i256.png
+.. figure:: /imagenes/mi3/i256.png
                 :width: 2000px
 
 
 Después una tuerca de seguridad.
 
 
-.. figure:: /imagenes/i257.png
+.. figure:: /imagenes/mi3/i257.png
                 :width: 2000px
 
 
@@ -2244,7 +2244,7 @@ Y apretamos con ayuda de un desarmador y pinzas, fijando por completo la
 banda.
 
 
-.. figure:: /imagenes/i258.png
+.. figure:: /imagenes/mi3/i258.png
                 :width: 2000px
 
 
@@ -2252,7 +2252,7 @@ Después, al carro Z del cojinete, se aflojan las tuercas M3X20, se saca el eje
 roscado.
 
 
-.. figure:: /imagenes/i259.png
+.. figure:: /imagenes/mi3/i259.png
                 :width: 2000px
 
 
@@ -2260,7 +2260,7 @@ Y con los dedos índice y pulgar, sacamos el cojinete y las tuercas como se
 muestran.
 
 
-.. figure:: /imagenes/i260.png
+.. figure:: /imagenes/mi3/i260.png
                 :width: 2000px
 
 
@@ -2268,7 +2268,7 @@ Se toma lel extremo libre de la banda y se pasa alrededor del cojinete como se
 muestra.
 
 
-.. figure:: /imagenes/i261.png
+.. figure:: /imagenes/mi3/i261.png
                 :width: 2000px
 
 
@@ -2276,29 +2276,29 @@ Se inserta el cojinete y sus respectivas rondans, junto con la banda a su
 hendidura.
 
 
-.. figure:: /imagenes/i262.png
+.. figure:: /imagenes/mi3/i262.png
                 :width: 2000px
 
 
 Se sostienen las piezas y se introduce de nuevo el eje roscado.
 
 
-.. figure:: /imagenes/i263.png
+.. figure:: /imagenes/mi3/i263.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i264.png
+.. figure:: /imagenes/mi3/i264.png
                 :width: 2000px
 
 
 Se asegura con las tuercas.
 
 
-.. figure:: /imagenes/i265.png
+.. figure:: /imagenes/mi3/i265.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i266.png
+.. figure:: /imagenes/mi3/i266.png
                 :width: 2000px
 
 
@@ -2307,29 +2307,29 @@ el cojinete del carro Z, y se procede a pasar la banda por debajo de la polea de
 carro Z del motor.
 
 
-.. figure:: /imagenes/i267.png
+.. figure:: /imagenes/mi3/i267.png
                 :width: 2000px
 
 
 Sacándola por encima de la polea.
 
 
-.. figure:: /imagenes/i268.png
+.. figure:: /imagenes/mi3/i268.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i269.png
+.. figure:: /imagenes/mi3/i269.png
                 :width: 2000px
 
 
 Y jalándola para sacarla de la polea.
 
 
-.. figure:: /imagenes/i270.png
+.. figure:: /imagenes/mi3/i270.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i271.png
+.. figure:: /imagenes/mi3/i271.png
                 :width: 2000px
 
 
@@ -2337,21 +2337,21 @@ Cuando la banda ya este sobre el cojinete y la polea, se procede a ubicar el
 extremo libre de la banda sobre la base posterior del módulo X.
 
 
-.. figure:: /imagenes/i272.png
+.. figure:: /imagenes/mi3/i272.png
                 :width: 2000px
 
 
 De igual forma se inserta un tornillo M3X16 con su respectiva rondana.
 
 
-.. figure:: /imagenes/i273.png
+.. figure:: /imagenes/mi3/i273.png
                 :width: 2000px
 
 
 Se agrega su tuerca de seguridad.
 
 
-.. figure:: /imagenes/i274.png
+.. figure:: /imagenes/mi3/i274.png
                 :width: 2000px
 
 
@@ -2360,18 +2360,18 @@ tensión deseada; otro aprieta el tornillo y la tuerca para fijar la banda con l
 tensión requerida.
 
 
-.. figure:: /imagenes/i275.png
+.. figure:: /imagenes/mi3/i275.png
                 :width: 2000px
 
 
-.. figure:: /imagenes/i276.png
+.. figure:: /imagenes/mi3/i276.png
                 :width: 2000px
 
 
 Quedando la banda lista para mover el carro X.
 
 
-.. figure:: /imagenes/i277.png
+.. figure:: /imagenes/mi3/i277.png
                 :width: 2000px
 
 
@@ -2398,16 +2398,16 @@ Paso 1
 cuando estés en esta ventana da clic en next
 
 
-.. figure:: /imagenes/cui2.png
+.. figure:: /imagenes/mi3/cui2.png
 
 
-paso 2 
+paso 2
 
 
 te aparecerá una ventana nueva, selecciona la casilla de OTHER  y da clic en next
 
 
-.. figure:: /imagenes/cui3.png
+.. figure:: /imagenes/mi3/cui3.png
 
 
 paso 3
@@ -2416,41 +2416,41 @@ paso 3
 te aparcera esta ventana selecciona Custom y da clic en next
 
 
-.. figure:: /imagenes/cui4.png
+.. figure:: /imagenes/mi3/cui4.png
 
 
-Paso 4 
+Paso 4
 
 
 una vez que ya hayas llegado hasta esta ventana, coloca la información como se muestra en cada una de las casillas, una vez que hayas
-colocado la información da clic en FINISH 
+colocado la información da clic en FINISH
 
 
-.. figure:: /imagenes/cui5.png
+.. figure:: /imagenes/mi3/cui5.png
 
 
 paso 5
 
 
-coloca todos los parámetros de Basic,Advanced  y star/endgcode  como se muestra en las imágenes 
+coloca todos los parámetros de Basic,Advanced  y star/endgcode  como se muestra en las imágenes
 
 
 BASIC
 
-.. figure:: /imagenes/cui6.png
+.. figure:: /imagenes/mi3/cui6.png
 
 
-ADVANCED 
+ADVANCED
 
 
-.. figure:: /imagenes/cui7.png
+.. figure:: /imagenes/mi3/cui7.png
 
 
 ..note::
-  observa bien la imagen de START, vamos a borrar el numero 3 que aparece en automático y colocar  8 como se muestra en la imagen. 
+  observa bien la imagen de START, vamos a borrar el numero 3 que aparece en automático y colocar  8 como se muestra en la imagen.
 
 
-.. figure:: /imagenes/cui8.png
+.. figure:: /imagenes/mi3/cui8.png
 
 
 
@@ -2460,7 +2460,7 @@ ADVANCED
 
 
 
-.. figure:: /imagenes/cui9.png
+.. figure:: /imagenes/mi3/cui9.png
 
 
 
@@ -2470,27 +2470,27 @@ adelante una explicación de cada parámetro, y como este puede variar.
 
 
  BASIC.
- 
- 
- QUALITY. 
- 
- 
-*   Layer Height. Se refiere a la altura que tiene cada capa. Es un ajuste importante para determinar la calidad de la pieza.  
+
+
+ QUALITY.
+
+
+*   Layer Height. Se refiere a la altura que tiene cada capa. Es un ajuste importante para determinar la calidad de la pieza.
     Un buen   parámetro en relación de calidad/tiempo es 2.0, es lo que nosotros recomendamos y utilizamos en nuestras piezas.
     El parámetro      máximo recomendado es 0.1 mm, aunque el tiempo de impresión se eleva al doble.
 
 *   Shell Thickness. Es el grosor de la capa externa en dirección horizontal, es decir, se incrementar para realizar piezas con un
 cascarón más resistente en su exterior. Se recomienda dejar los valores predefinidos (0.6 mm) y hasta 1 mm. Este parámetro también
-puede variar según el material con el que se imprime, ya que ciertos materiales requieren sus propios parámetros de impresión. 
+puede variar según el material con el que se imprime, ya que ciertos materiales requieren sus propios parámetros de impresión.
 
 * Enable Retraction. Se recomienda ampliamente marcar esta casilla. Este ajuste retrae el filamento, es decir, gira los engranes en
 sentido contrario cuando la boquilla se mueve sobre una superficie que no requiere impresión. Esto previene de hilos y rebaba
-excesiva en la pieza final. En ajustes avanzados ajustaremos los parámetros de la retracción. 
+excesiva en la pieza final. En ajustes avanzados ajustaremos los parámetros de la retracción.
 
-FILL. 
+FILL.
 * Bottom/Top Thickness. Ajusta el grosor de la base y el tope del modelo. Debe ser un valor cercano al Shell Thinckess para que se
 forme una pieza fuerte uniforme en el exterior. Se recomienda dejar los valores predefinidos: 0.6 mm, 0.8 mm y hasta 1 mm.
- 
+
 * Fill Density: Este parámetro es importante para el producto final. Controla el relleno que tendrá la pieza, lo que definirá que tan
 fuerte resulta. Para piezas visuales sin requerimientos de esfuerzo mecánico se puede probar desde 5% o 10% de relleno; para piezas
 mecánicas o que requieren mas resistencia se recomienda entre 20% a 40%, aunque pudiera usarse hasta 60% como máximo recomendado. No
@@ -2498,24 +2498,24 @@ se recomienda más del 60% ya que sería mucho desperdicio de material y de tiem
 afecta en nada la calidad externa del modelo. Para un punto de referencia: 40% manejan nuestras piezas que reciben uso mecánico.
 
 
- SPEED AND TEMPERATURE. 
+ SPEED AND TEMPERATURE.
 
 * Print Speed. Es la velocidad de impresión. Esta velocidad va a depender de varios factores, como calidad y tiempo. 50/60 mm/s es la
 velocidad que utilizamos y recomendamos. Se puede reducir para obtener una mayor calidad de impresión, aunque a mayor tiempo. De
-igual forma se puede aumentar si se busca optimizar tiempo, y la resolución no resulta de mucha importancia. 
+igual forma se puede aumentar si se busca optimizar tiempo, y la resolución no resulta de mucha importancia.
 
 
 * Printing Temperature. Es la temperatura a la que se extruye el material. La temperatura depende en gran medida del material a
 utilizar. Los principales son: o PLA. 190°C-210°C según el color del filamento, temperatura ambiente, etc. Ej. El color negor se
 imprime a menor temperatura. Un parámetro promedio recomendado es 207°C. o ABS. 220°C-230°C Al igual que el PLA, algunos factores
-influyen. Un parámetro recomendado para ABS es 220°C. 
+influyen. Un parámetro recomendado para ABS es 220°C.
 
 
-* Bed Temperature. Esta opción sólo aparece en caso de utilizar cama caliente, y haberla activado a la hora de configurar el Cura. 
+* Bed Temperature. Esta opción sólo aparece en caso de utilizar cama caliente, y haberla activado a la hora de configurar el Cura.
 Es la temperatura a la que se calentará la cama caliente. Es necesario revisar las especificaciones de impresión de cada material
-para definir esta temperatura. En el caso de ABS la temperatura de cama caliente es entre 90-100 °C. 
+para definir esta temperatura. En el caso de ABS la temperatura de cama caliente es entre 90-100 °C.
 
-SUPPORT. 
+SUPPORT.
 
 * Support Type. Se especifica la estructura en la que se construirá el soporte. Estas estructuras son: o None: No deposita material
 de soporte en absoluto. o Touching Buildplate: Deposita material de soporte únicamente en los volados que lo requieran a partir de la
@@ -2525,22 +2525,22 @@ modelo impreso, en caso de tener volados que lo requieran.
 
  * Platform Adhesion Type. Las plataformas de adhesión, son una capa primaria que crean un perímetro del área de impresión de la
  pieza y facilitan el despegue de ésta. Además funcionan como prevención de que las esquinas se levanten debido al fenómeno "Warping"
- (Contracción al enfriarse el material extruido). Se recomienda el uso de Raft. 
- 
-
-FILAMENT. 
+ (Contracción al enfriarse el material extruido). Se recomienda el uso de Raft.
 
 
-* Diameter. Se refiere al diámetro del filamento que se utilizará como materia prima. Como medidas estándar se manejan 2: 1.75 mm y 
-3.0 mm. Las impresoras MakerMex comúnmente se manejan con material de 3.0 mm. 
+FILAMENT.
 
 
-* Flow. Se deja el valor predefinido: 100.0 %. 
+* Diameter. Se refiere al diámetro del filamento que se utilizará como materia prima. Como medidas estándar se manejan 2: 1.75 mm y
+3.0 mm. Las impresoras MakerMex comúnmente se manejan con material de 3.0 mm.
 
 
-ADVANCED. 
+* Flow. Se deja el valor predefinido: 100.0 %.
 
-MACHINE. 
+
+ADVANCED.
+
+MACHINE.
 
 * Nozzle Size. Se refiere al diámetro de la boquilla extrusora. Las dimensión de las boquillas utilizadas en las impresoras MakerMex
 es comúnmente 0.4 mm. Es importante ajustar el valor correcto, ya que sirve para determinar las líneas de relleno, así como las
@@ -2550,16 +2550,16 @@ líneas de grosor en la parte externa de la pieza.
  RETRACTION.
 
  * Speed. Es la velocidad a la que se hace la retracción de filamento.
-  
-  
-* Distance. Es la distancia que se retraerá el filamento. Ajusta en 0 si quieres ignorar este parámetro. 
 
 
- QUALITY. 
- 
+* Distance. Es la distancia que se retraerá el filamento. Ajusta en 0 si quieres ignorar este parámetro.
+
+
+ QUALITY.
+
 
 * Initial Layer Thickness. Ajusta el grosor de la primera capa de la pieza. Una capa inicial más gruesa permite una mejor adherencia
-a la plataforma. Ajusta en 0 para ignorar este parámetro y la capa inicial tenga el mismo grosor que las demás capas. 
+a la plataforma. Ajusta en 0 para ignorar este parámetro y la capa inicial tenga el mismo grosor que las demás capas.
 
 
 
@@ -2567,16 +2567,16 @@ Cut Off Object Bottom. Sumerge el objeto en la plataforma a la distancia que se 
 errores en el diseño y/o no tengan una cara plana en la base.
 
 * Dual Extrusion Overlap. Añade una cantidad de material sobrepuesta en las impresiones que se hagan con doble extrusora, esto con el
-fin de unir los diferentes colores o materiales en una sola pieza. 
+fin de unir los diferentes colores o materiales en una sola pieza.
 
 
-SPEED. 
+SPEED.
 
 * Travel Speed. Es la velocidad a la que se mueve la extrusora cuando no está depositando material. El valor predefinido es muy
-recomendable. 
+recomendable.
 
 * Bottom Layer Speed. Esto controla la velocidad a la que se hace la primera capa. al imprimirse más despacio, se adhiere de mejor
-forma sobre la superficie. El valor predefinido es muy recomendable. 
+forma sobre la superficie. El valor predefinido es muy recomendable.
 
 
 * Infill Speed. Es la velocidad a la que se imprime el relleno de la pieza. Se recomienda situar este valor en 0, con esto el relleno
@@ -2585,28 +2585,28 @@ se deposita a la misma velocidad predefinida en "Print speed".
 
  * Outer Shell Speed. Controla la velocidad a la que se imprimen la capa exterior de la pieza. Imprimir esta parte a una menor
  velocidad, mejorará el resultado final en cuanto resolución. Al situar este valor en 0, la velocidad a la que se hace es la misma
- que se definió en "Print speed", esto genera buenos resultados. 
+ que se definió en "Print speed", esto genera buenos resultados.
 
 * Inner Shell speed. Controla la velocidad a la que se imprimen la capa interna de la pieza. Al situar este valor en 0, la velocidad
 a la que se hace es la misma que se definió en "Print speed". Es importante que este parámetro y el “Outter Shell Speed” no tengan un
-amplio rango de diferencia. 
+amplio rango de diferencia.
 
 
-COOL. 
+COOL.
 
 * Minimal Layer Time. Es el tiempo mínimo que tardará en realizarse una capa, sin importar que la dimensión de ésta sea muy pequeño.
 Esto permitirá que se enfríe lo suficiente antes de depositar la siguiente capa. El parámetro predefinido (5 seg.) funciona de gran
-forma. 
+forma.
 
 * Enable Cooling Fan. A menos que el material que se está imprimiendo, es importante que esta casilla se encuentre marcada
-permanentemente, ya que activa la ventilación durante la impresión. 
+permanentemente, ya que activa la ventilación durante la impresión.
 
 
 Es importante recalcar que los parámetros que nosotros especificamos en este documento pueden servir como base, pero cada usuario
 debe experimentar y definir los parámetros que mejor le acomoden a lo que busca en sus piezas, por lo que los exhortamos a realizar
 sus propias impresiones y buscar los valores perfectos para sus modelos. De igual forma hacer notar que cada nueva versión del
 software Cura normalmente contiene nuevos parámetros, por lo que es importante revisar dichos parámetros, y su función, aunado a que
-los parámetros mostrados en este documento son los más importantes. 
+los parámetros mostrados en este documento son los más importantes.
 
 
 
