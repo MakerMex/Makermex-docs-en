@@ -2557,17 +2557,17 @@ ADVANCED
 .. figure:: /imagenes/mi3/cui7.png
 
 
-..note::
-  observa bien la imagen de START, vamos a borrar el numero 3 que aparece en automático y colocar  8 como se muestra en la imagen.
+.. Note::
+   observa bien la imagen de START, vamos a borrar el numero 3 que aparece en automático y colocar  8 como se muestra en la imagen.
 
 
 .. figure:: /imagenes/mi3/cui8.png
 
 
 
-..note::
-  en la parte de END vamos a comentar el código G90 es muy sencillo solo tienes que escribir un punto y coma antes d la G como se ve
-  en la imagen para hacerlo utilizas shift+coma de tu teclado. O puedes copiar y pegar el punto y como de la parte de abajo de G90
+.. Note::
+   en la parte de END vamos a comentar el código G90 es muy sencillo solo tienes que escribir un punto y coma antes d la G como se ve
+   en la imagen para hacerlo utilizas shift+coma de tu teclado. O puedes copiar y pegar el punto y como de la parte de abajo de G90
 
 
 
@@ -2725,15 +2725,217 @@ Como usar Cura
 ----------------
 
 
+En este manual aprenderás a usar cura u saber que es lo que hace cada una de sus herramientas,es importante seguir los pasos que mencionamos en este manual.
+
+
+Para comenzar debes saber que puedes imprimir usando  el cable USB o una tarjeta SD.
+En el caso de la SD, podemos mandar a imprimir de dos maneras con un auto0.g o seleccionando el código que hayamos guardado en la tarjeta SD.
+
+
+Para el cable USB es importante que lo conectes a tu impresora y después a la computadora y después enciendas la impresora, después abres cura y manadas a imprimir como se muestra en este manual.
+
+
+El auto0.g se utiliza para imprimir cuando no se cuenta con una pantalla LCD y solo se cuenta con el lector micro SD o lector SD  según sea el caso. Este comando es el re-nombramiento del código G que hayamos realizado en cura es decir: gurdas un código G en la tarjeta para imprimirlo, pero como no tienes pantalla LCD pero tu impresora tiene un lector SD o micro SD, pues no te preocupes solo tienes que renombrar tu código G como auto0.g
+
+ejemplo cubo.gcode cambias el nombre a auto0.g
+
+
+Y  listo cierras tu carpeta de la memoria, sacas tu tarjeta micro SD o SD de la computadora  la insertas en el lector de tu impresora y ella comenzara a leer el código para imprimirlo.
+Cuando se hace uso de esta opción para imprimir es de suma importancia que estés enterado que solo podrás imprimir este código cada vez que des un reset a la impresora o apagues y enciendas la impresora puedes tener los códigos que quieras almacenados en la tarjeta, pero deberás renombrar el código que quieras imprimir. Importante solo se usa cundo no tienes pantalla LCD
+
+
+En el caso de tener pantalla LCD solo es necesario gradar bien el código G en la tarjeta SD o micro SD, y retirar la tarjeta de la computadora introducirla en la pantalla o bien en el caso de la MM1 colocarla en su lugar. Después encender la impresora e irnos al menú de nuestra pantalla dando un clic en la perilla, giramos para posicionarnos en la opción de Print  From SD, das un clic y se abrirá la carpeta de la tarjeta en donde puedes seleccionar el código G que desees imprimir.
+Cuando se cuenta con la pantalla LCD puedes guardar todos los códigos G que quieras en tu tarjeta y solo el que tu selecciones desde la pantalla LCD se va a imprimir.
+
+
+¿ Que es un Código G?
+Un código G es una serie de coordenadas en X,Y,Z que realiza la impresora para realizar una pieza física, al mismo tiempo indica cuanto material debe de inyectar y donde debe de hacerlo.
+
+
+El código G se realiza a partir de un modelo 3D hecho en un software de modelado 3D, este modelo se coloca en un software como Cura que trasforma el modelo 3D en coordenadas.
+Hay gran variedad de software que trasforman los modelos 3D en coordenadas, al igual que los Software de modelado.
+
+
+Para que el software cura realice el código G bien, necesita que el modelo 3D sea exportado como .STL u .OBJ, así que amigos recuerden exportar sus archivos de esta manera .
+
+
+¿Como utilizo cura ?
+
+
+Para que te sientas mas cómodo al usar este nuevo programa te recomendamos utilizar un Mouse
+
+
+.. figure:: /imagenes/mi3/pi1.png
+
+
+*  1 clic izquierdo
+
+
+*  2 clic derecho
+
+
+*  3 scroll o la bolita del mouse (solo hace el zoom si giras lo giras)
+
+
+el clic izquierdo sirve obvio para seleccionar, abrir ventanas posicionar el cursor etc. Pero en cura sirve para mover los STL en la plataforma. Para realizar esto lo hacemos dando clic izquierdo sobre la pieza y sosteniéndolo movemos nuestro mouse y la pieza se moverá.
+Y al soltar el clic se queda en la posición donde soltamos el clic.
+
+
+.. figure:: /imagenes/mi3/pi2.png
+
+
+.. figure:: /imagenes/mi3/pi3.png
+
+
+.. figure:: /imagenes/mi3/pi4.png
+
+
+El clic derecho sirve para dos cosas mover la plataforma azul en 360° por cualquier dirección, para abrir un menú.
+Como mover la plataforma en 360° das clic sobre la plataforma azul y sostienes el clic y al mismo tiempo mueves el mouse en cualquier dirección y veras como gira la pantalla azul.
+
+
+.. figure:: /imagenes/mi3/pi5.png
+
+
+.. figure:: /imagenes/mi3/pi6.png
+
+
+.. figure:: /imagenes/mi3/pi7.png
+
+
+Para abrir el menú das clic derecho sobre el STL y se abrirá una ventanilla como esta
+
+ y te da opciones como ves en esta ventana puedes centrar la pieza si la moviste, puedes borrar el STL para poder colocar otro,puedes multiplicar el stl para imprimir varias piezas a la ves,separar el stl, si tienes varias piezas las puedes borrar todas.
+
+
+.. figure:: /imagenes/mi3/pi8.png
 
 
 
+En cura tenemos varias herramientas te las mostramos
 
 
+1
 
 
+al seleccionar el STL con clic izquierdo se pone un contorno blanco al rededor de la pieza, y aparecen tres iconos en la parte inferir el primero es rotar
+nos permite acomodar la pieza para una mejor impresión, ya que en ocasiones las piezas pueden cargarse acostadas con esta herramienta la podemos levantar como se ve en las imágenes.
+Animate y revisa que hace cada una de ellas.
+Para mover los aros de colores das clic izquierdo sostenido sobre el aro que selecciones y mueve el mouse como tu desees
 
 
+.. figure:: /imagenes/mi3/pi9.png
+
+
+.. figure:: /imagenes/mi3/pi10.png
+
+
+2
+
+
+en la segunda opción manipulas la escala. 1 a 1 y te la da en mm también.
+
+
+.. figure:: /imagenes/mi3/pi11.png
+
+
+3
+
+
+En la tercera opción te la herramienta de espejear tu pieza si lo deseas.
+
+
+.. figure:: /imagenes/mi3/pi12.png
+
+
+También tenemos diferente tipo de vistas
+
+
+vista normal
+
+
+es la que se muestra desde un principio, cuando cargamos nuestro STL color amarillo.
+
+
+.. figure:: /imagenes/mi3/pi13.png
+
+
+vista de ángulos menores a 45 grados
+
+
+esta vista nos permite revisar que no haya ángulos que se vayan a desplomar al momento de estar imprimiendo si los hubiese podemos colocar material de soporte.
+
+
+.. figure:: /imagenes/mi3/pi14.png
+
+
+Vista trasparente
+
+
+esta vista nos ayuda a ver dentro de nuestro archivo STL par revisar que este bien es decir que no tenga ningún algún agujero o este mal modelado o que se haya exportado con otra pieza al interior.
+
+
+.. figure:: /imagenes/mi3/pi15.png
+
+
+Vista rayos X
+
+
+Esta vista es muy similar a la vista de trasparente solo que es mas potente, revisa que la maya con que esta hecha el STL este bien cerrada. Si tuviera un error la pieza se marca en color Rojo.
+
+
+.. figure:: /imagenes/mi3/pi16.png
+
+
+Vista de capas
+
+
+esta vista nos muestra gráficamente como se realizara el código G en nuestra impresora es decir nos muestra los pasos que dará la impresora la momento de estar imprimiendo la pieza capa por capa.
+Esta herramienta tien una barra que puedes subir y ajar par ver estas capas.
+
+
+.. figure:: /imagenes/mi3/pi17.png
+
+
+.. figure:: /imagenes/mi3/pi18.png
+
+
+Listo vamos a realizar nuestro primer código G para imprimirlo en nuestra  impresora
+
+
+paso 1
+
+
+damos clic en el icono de cargar para poder buscar nuestro STL y darle abrir para que se cargue a cura, veamos la imagen.
+
+
+.. figure:: /imagenes/mi3/pi19.png
+
+
+.. figure:: /imagenes/mi3/pi20.png
+
+
+.. figure:: /imagenes/mi3/pi21.png
+
+
+Paso 2
+
+ ya que colocamos los parámetros del manual anterior solo vamos a introducir nuestra tarjeta SD a la computadora y cuando el icono de guardar cambie a la tarjeta SD se le da clic sobre el y se guardara el código en automático una vez que este guardado el código te aparecerá una leyenda en la parte inferir de la pantalla que te indica que ya puedes retirar tu tarjeta de la computadora.
+
+
+.. figure:: /imagenes/mi3/pi22.png
+
+
+.. figure:: /imagenes/mi3/pi23.png
+
+
+.. figure:: /imagenes/mi3/pi24.png
+
+
+Listo Amigo ya tienes listo tu primer código G, ahora vas a retirar la tarjeta SD, y la vas a colocar en la pantalla de tu impresora. La enciendes y sigues las instrucciones que te indique al principio no te acurdas te las paso otra vez
+
+
+da clic en la perilla elige la opción de print from SD y da clic, después elige tu código G y cuando des clic en la perilla la impresora comenzara a calentar la boquilla o la cama caliente gracias a los parámetros que colocaste en el manual anterior, y cundo llegue a la temperatura que le hayas colocado comenzara a imprimir.
 
 
 
