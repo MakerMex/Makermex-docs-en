@@ -2446,9 +2446,48 @@ La boquilla debe de quedar separada de la cama mas o menos el grosor de una tarj
 Ya que se ajusto el sensor repetimos la operación de mandar auto-home para revisar la distancia con la tarjeta
 
 
+Paso 4
+Ya que ha quedado a esa separación  vamos a volver a dar clic en la perilla de la pantalla, seleccionamos prepare y das clic, aparcera el siguiente menú ahora seleccionamos disable steppers para poder mover los ejes X,Y con las manos.
 
 
+.. figure:: /imagenes/mi3/cai7.jpg
 
+
+Paso 5 ahora vamos a comenzar a mover la plataforma de impresión hacia atrás y con una llave allen de 2 mm y unas pinzas mecánicas aflojamos o apretamos el tornillo con el resorte de cada esquina según sea el caso, para poder pasar la tarjeta de presentación entre la cama y la boquilla
+
+
+.. figure:: /imagenes/mi3/cai8.jpg
+
+
+.. figure:: /imagenes/mi3/cai9.jpg
+
+
+y así sucesivamente vamos a mover el eje X o el eje Y para poder revisar que en cada esquina  tenga la misma separación como se ve en las imágenes.
+
+
+.. figure:: /imagenes/mi3/cai10.jpg
+
+
+.. figure:: /imagenes/mi3/cai11.jpg
+
+
+.. figure:: /imagenes/mi3/cai12.jpg
+
+
+.. figure:: /imagenes/mi3/cai13.jpg
+
+
+.. figure:: /imagenes/mi3/cai14.jpg
+
+
+Paso 6
+una vez que ajustamos cada esquina, para que haya una separación del grosor de una tarjeta de presentación, volvemos a dar un autohome y revisamos que la boquilla haya quedado ligeramente separada.
+
+
+Y listo podemos comenzar a realizar una impresión.
+
+
+.. figure:: /imagenes/mi3/cai15.jpg
 
 
 Primera Impresión
