@@ -2490,6 +2490,146 @@ Y listo podemos comenzar a realizar una impresión.
 .. figure:: /imagenes/mi3/cai15.jpg
 
 
+Como colar el filamento.
+-------------------------
+
+
+Coloquemos el filamento en la impresora Mi3
+
+
+primero vamos a colocar nuestro porta carrete, en nuestro perfil vertical izquierdo, debajo del direct drive encontraremos una perforación ahí vamos a colocar nuestro porta carrete, y lo vamos a fijar con un tornillo M3x35mm y una tuerca normal.
+Veamos las imágenes.
+
+
+.. figure:: /imagenes/mi3/fi1.jpg
+
+
+.. figure:: /imagenes/mi3/fi2.jpg
+
+
+.. figure:: /imagenes/mi3/fi3.jpg
+
+
+Ya que esta colocado el porta carrete, y fijo al perfil, vamos a colocar nuestro filamento que vamos a utilizar, los siguientes pasos que vamos a realizar son para colocar el filamento, por primera vez y para cambiarlo en caso de ser necesario.
+
+
+Paso 1
+
+
+vamos a  sacarle punta al filamento con nuestras pinzas de corte o con un sacapuntas de metal esto nos ayudara a que  el filamento sea conducido hasta el fondo de la boquilla
+
+
+.. figure:: /imagenes/mi3/fi4.jpg
+
+
+.. figure:: /imagenes/mi3/fi5.jpg
+
+
+paso 2
+
+
+introduce el filamento en el orificio del brazo del direct drive  como se muestra en la imagen 1, después   flexiona el brazo hacia arriba y direcciona  el filamento empujándolo para que entre en la parte inferior del conector y así sea dirigido al tubo bowden, imagen 2
+
+
+.. figure:: /imagenes/mi3/fi6.jpg
+
+
+.. figure:: /imagenes/mi3/fi7.jpg
+
+
+te recomendamos que empujes el filamento, hasta que este cerca de entrar a la boquilla, el tubo es color blanco y es un poco traslucido se puede apreciar donde esta el filamento, como se ve en la siguiente imagen.
+
+
+.. figure:: /imagenes/mi3/fi8.jpg
+
+
+.. figure:: /imagenes/mi3/fi9.jpg
+
+
+Paso 3
+
+
+ coloca el carrete de filamento es su lugar observa como en la siguiente imagen.
+
+
+.. figure:: /imagenes/mi3/fi10.jpg
+
+
+.. figure:: /imagenes/mi3/fi11.jpg
+
+
+Paso 4
+
+
+enciende la impresora , veras que encendió la pantalla en ella da un clic a la perilla, y te abrirá el menú gira la perilla y selecciona control y da clic, te abrirá un nuevo menú, ahora vuelve a girar la perilla y selecciona temperature y da clic, te abrirá un nuevo menú gira la perilla y selecciona nozzle y da clic gira la perilla y coloca una temperatura apropiada para el material que vayas a colocar y ya que esta la cantidad das clic para comience a calentar la boquilla. veamos las imágenes
+
+
+.. Note::
+   Recordemos que el PLA comienza a ser maleable desde 180ºC hasta 215ºC  y  el ABS de 220ºC hasta 240ºC.
+   Temperatura sugerida para cambiar el filamento o colocarlo por primera vez.
+   PLA 206 ºC   ABS 228 ºC
+
+
+.. figure:: /imagenes/mi3/fi12.jpg
+
+
+.. figure:: /imagenes/mi3/fi13.jpg
+
+
+.. figure:: /imagenes/mi3/fi14.jpg
+
+
+.. figure:: /imagenes/mi3/fi15.jpg
+
+
+.. figure:: /imagenes/mi3/fi16.jpg
+
+
+una vez que indicaste la temperatura la pantalla regresara de forma automática a la pantalla principal donde puedes ver que la temperatura esta subiendo y cunado llegue a la temperatura seguimos con el siguiente paso.
+
+
+Paso 5
+
+
+vamos a safar el tubo bowden del conector de la boquilla, para poder guiar el filamento hasta el interior de la boquilla,muy bien para retirar el tubo solo debes de presionar hacia abajo el aro plástico del  conector y jalar el tubo hacia arriba para que salga sin ningún problema.
+
+
+.. figure:: /imagenes/mi3/fi17.jpg
+
+
+.. figure:: /imagenes/mi3/fi18.jpg
+
+
+Ya que este fuera del conector empuja el filamento unos 5 cm mas y asegurate de que entre en el orificio de la boquilla, presiona hacia abajo el tubo y asegurate de que no se safe jalándolo hacia arriba .
+
+
+.. figure:: /imagenes/mi3/fi19.jpg
+
+
+.. figure:: /imagenes/mi3/fi20.jpg
+
+
+.. figure:: /imagenes/mi3/fi21.jpg
+
+
+Y listo una vez que el material comienza a entrar en la boquilla lo empujamos un poco mas y veras que sale un filamento delgado por la boquilla esto quiere decir que el filamento esta bien colocado.
+
+
+.. figure:: /imagenes/mi3/fi22.jpg
+
+
+Una vez que el filamento ya esta colocado correctamente se apaga la impresora y se enciende nuevamente, esperamos a que la temperatura de la boquilla baje, y una vez que haya bajado, apagamos la impresora  esto nos ayudara  a que la boquilla no se tape .
+
+
+El filamento que coloquemos puede leudarse colocado todo el tiempo hasta que se termine.
+
+
+Si deseamos cambiar de material o de color de filamento, tienes que repetir los pasos de calentar la boquilla y ahora en lugar de empujar el filamento lo tenemos que sacar para realizar el cambio, recuerda esto siempre debes de calentar la boquilla para realizar esta acción.
+
+
+Una vez que el material esta cargado ya esta lista la impresora para imprimir.
+
+
 Primera Impresión
 ==================
 
@@ -2932,10 +3072,49 @@ Paso 2
 .. figure:: /imagenes/mi3/pi24.png
 
 
-Listo Amigo ya tienes listo tu primer código G, ahora vas a retirar la tarjeta SD, y la vas a colocar en la pantalla de tu impresora. La enciendes y sigues las instrucciones que te indique al principio no te acurdas te las paso otra vez
+Listo Amigo ya tienes listo tu primer código G, ahora vas a retirar la tarjeta SD, y la vas a colocar en la pantalla de tu impresora. La enciendes y sigues las instrucciones que te indique al principio no te acuerdas te las paso otra vez
 
 
 da clic en la perilla elige la opción de print from SD y da clic, después elige tu código G y cuando des clic en la perilla la impresora comenzara a calentar la boquilla o la cama caliente gracias a los parámetros que colocaste en el manual anterior, y cundo llegue a la temperatura que le hayas colocado comenzara a imprimir.
+
+Después de guardar tu código G en la tarjeta para poder comenzar a imprimir debes de realizar estos pasos
+
+
+paso 1
+
+
+enciende la impresora, introduce tu tarjeta SD en la pantalla,y da un clic en la perilla te abrirá un menú, gira la perilla y selecciona print from sd y da clic, te abrirá el contenido de la tarjeta SD, girando la perilla, puedes buscar el código que deseas imprimir y cuando lo tengas seleccionado da clic y así comenzara a calentar la boquilla y si seleccionaste cama caliente también.
+
+
+.. figure:: /imagenes/mi3/imi1.jpg
+
+
+.. figure:: /imagenes/mi3/imi2.jpg
+
+
+.. figure:: /imagenes/mi3/imi3.jpg
+
+
+.. figure:: /imagenes/mi3/imi4.jpg
+
+
+Una vez que la temperatura haya subido, la impresora comenzara a imprimir y se va a dirigir hacia el centro la impresora debe de imprimir bien y recuerda la boquilla nunca debe de chocar con la cama nunca.
+
+
+.. figure:: /imagenes/mi3/imi5.jpg
+
+
+Paso 2
+
+
+Ya que ha terminado de imprimir, para retirar la pieza podemos apoyarnos con una espátula, la colocamos por una esquina y hacemos un poco de presión para que se levante la pieza, observa bien la imagen como se coloca la espátula, no se empuja se hace una palanca para poder retirar la pieza.
+
+
+.. figure:: /imagenes/mi3/imi6.jpg
+
+
+.. figure:: /imagenes/mi3/imi7.jpg
+
 
 
 
