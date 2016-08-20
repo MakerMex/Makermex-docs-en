@@ -1807,7 +1807,7 @@ Módulo Doble
 -------------
 
 +-------+
-|GENERAL|    
+|GENERAL|
 +-------+
 
 
@@ -1827,7 +1827,7 @@ es compatible con la mayoría de los filamentos que existen en el mercado.
 Características generales:
 
 
-Este módulo incluye 
+Este módulo incluye
 
 
 *  dos boquillas Hexagon de 0.4mm que permite extruir 2 materiales distintos o colores diferentes:
@@ -1858,7 +1858,7 @@ colcas el modulo por la parte inferior de la cruz
 colocamos el clip de sujecion
 
 
-Vamos a colocra nustro segundo extrusor como colocamos el primero solo que este va colocado en la parte derecha como se ve en 
+Vamos a colocra nustro segundo extrusor como colocamos el primero solo que este va colocado en la parte derecha como se ve en
 la imagen.
 
 
@@ -1881,7 +1881,7 @@ Usted tendrá que ajustar los parámetros de Cura para el módulo de doble extru
 la configuración del equipo de su MM1 como se ve en las imágenes siguientes:
 
 
-*  1. Diríjase a la etiqueta machine 
+*  1. Diríjase a la etiqueta machine
 
 
 .. figure:: /imagenes/md7.jpg
@@ -1893,7 +1893,7 @@ la configuración del equipo de su MM1 como se ve en las imágenes siguientes:
 .. figure:: /imagenes/md8.png
 
 
-*  3. Diríjase a Extruder count, damos clic en la pestaña de un lado y selecciona el número 2 y seleccionamos OK. 
+*  3. Diríjase a Extruder count, damos clic en la pestaña de un lado y selecciona el número 2 y seleccionamos OK.
 
 
 .. figure:: /imagenes/md9.png
@@ -1901,7 +1901,7 @@ la configuración del equipo de su MM1 como se ve en las imágenes siguientes:
 
 
 *  4. misma página a entAhora volvemos a la rar a machine > machine settings > y ahora verificamos que los offset se encuentren en
-cero tal como se muestra en la imagen 
+cero tal como se muestra en la imagen
 
 
 .. figure:: /imagenes/md10.png
@@ -1928,7 +1928,7 @@ desea hacer así como la velocidad de impresión.
 
 
 *  Y seleccionamos la temperatura con la que trabajara cada boquilla o nozzle esto de acuerdo almaterial de impresión así como de la
-   cama nosotros nos enfocaremos en el poner la temperatura de 2nd temperatura 
+   cama nosotros nos enfocaremos en el poner la temperatura de 2nd temperatura
 
 
 *  Ahora se definirá si la figura necesita algún soporte este soporte por primera impresión lo aremos con la segunda boquilla  así
@@ -1940,7 +1940,7 @@ desea hacer así como la velocidad de impresión.
 
 
 *  Ahora bien por primera impresión ocuparemos ponerle una palomita en wipe & prime tower que es una torre que generara con cada capa
-   para verificar que no tenga desfase la máquina. 
+   para verificar que no tenga desfase la máquina.
 
 
 *  Ahora bien para el diámetro del filamento se modifica el diameter2 (mm) utilizaremos el mismo que para diameter (mm).que por lo
@@ -1955,7 +1955,7 @@ de 15 a 20 Y en “distance (mm)” por lo regular se utilizan parámetros de 5 
 
 
 +------------------------------------+
-|stableciendo el perfil de materiales|
+|Estableciendo el perfil de materiales|
 +------------------------------------+
 
 
@@ -1981,7 +1981,7 @@ Por último, debe unirlos haciendo clic derecho en el espacio de trabajo en Cura
 .. figure:: /imagenes/md15.png
 
 
-Así queda la figura. la segunda extrusora imprimirá las partes en rojo 
+Así queda la figura. la segunda extrusora imprimirá las partes en rojo
 
 
 
@@ -1993,26 +1993,254 @@ en la primera impresión, guardamos el código en la terjeta SD la introducimos 
 código y  se pondra a imprimir.
 
 
+Módulo CNC
+-----------
+
++--------------------------------------------------+
+|MANUAL DE GRAVADO CON EL MÓDULO CNC con BlenderCAM|
++--------------------------------------------------+
+
+
+DESCRPCIÓN DEL SOFTWARE
+
+
+BlenderCAM es una solución de código abierto para la CAM artístico - Informática mecanizado asistido - una herramienta de generación de código G
+BlenderCAM es una extensión para el paquete de código abierto Blender 3D gratis.
+ Se ha utilizado durante muchos proyectos de fresado, y está desarrollado activamente. Si usted es un desarrollador que le gustaría ayudar, no dudes en contactar conmigo.
+Esta extensión es gratis, sin embargo se puede donar para apoyar el desarrollo y apreciar la obra que se ha hecho.
+
+
+.. figure:: /imagenes/cnc1.png
 
 
 
+CARACTERÍSTICAS
+
+
+*	Varias estrategias de fresado para 2D y 3D
+
+
+* 	tipos cortador de bola, plana, v-tallar con varios ángulos, definibles por el usuario
+
+
+*	 trabajar con datos en 3D o imágenes de profundidad
+
+
+*	 Capas de la piel y para el desbaste.
+
+
+*	 fresado inversa
+
+
+*	 Varias opciones para ambiente alrededor modelo
+
+
+*	 protección de superficies verticales
+
+
+*	 mantenerse bajo - opción para el movimiento
+
+
+*	 configuración de tamaño del material
+
+
+*	 simulación de operaciones 3d
+
+
+*	 Antecedentes de computación de las operaciones, por lo que puede seguir trabajando
+
+
+*	 entrada hélice, retracción de arco, rampa de bajada para algunas de las estrategias.
+
+
+*	 puentes automáticas para la operación de recorte
+
+
+*	 la exportación de la cadena y de simulación
+
+
+*	 Molienda 3 a 5 ejes
+
+
+Más información: http://blendercam.blogspot.mx
+
+
+INSTALACIÓN DE BLENDER-CAM
+
+
+Para instalar BlenderCAM hacemos clic en el link que nos envía a la página oficial del software.
+Link  de descarga
+
+
+http://blendercam.blogspot.mx/p/download-and-installation.html
+
+
+Abrimos la pestaña: Download and installation  y damos clic en:        Google Drive repository
+
+
+.. figure:: /imagenes/cnc2.png
+
+
+En la pestaña siguiente seleccionamos el BlenderCAM de acuerdo a nuestro sistema operativo.
+
+
+.. figure:: /imagenes/cnc3.png
+
+
+DESCRIPCIÓN DEL ÁREA DE TRABAJO
+
+
+.. figure:: /imagenes/cnc4.png
+
+
+En la imagen 1, se muestra la pantalla de inicio de BlenderCAM versión 2.70 a. a continuación se describirá las áreas de trabajo de una forma básica.
+
+
+1.	Es el panel de herramientas y su atajo es la tecla [T], en el cual podremos crear una figura primitiva, mover, escalar, rotar entre otras, sin modificar la forma o estructura del objeto
+
+
+2.	Es el área de trabajo, la cruz negra es el cursor que al crear una figura u objeto el punto donde se encuentre posicionado  será su origen al nacer o su centro, la posición del cursor  puede ser modificar en el panel de propiedades (3) o con clic izquierdo
+Dentro del área.
+
+Con clic derecho podemos seleccionar los objetos además de moverlos de una forma libre.
+Podemos hacer zoom moviendo el scroll.
+
+
+3.	Es el panel de propiedades y su atajo es la letra [N], en donde encontramos y podemos modificar la posición del objeto y el cursor  en el espacio,  las dimensiones, el sombreado con multitexturas entre otros.
+
+
+4.	Es el árbol de operaciones en donde encontramos cada objeto en el área y tipo de operación, aquí podemos modificar la visualización a modo transparente, hacer extracciones de Renderizado y seleccionar el objeto.
+
+
+5.	Es la ventana de preferencias del usuario aquí podemos hacer modificaciones en el entorno de Blender, propiedades del documento, importar/exportar, cambiar el tipo de ventana etc.
+
+
+6.	Es la ventana de visión 3D donde podemos modificar la visualización de los elementos, objetos en modo alambre, el mapa de las capas (layers) y algunas herramientas para el modelado como SNAP.
+
+
+7.	Es el panel de operaciones, parámetros y encadenado CAM, en algunas ocasiones, después de la instalación de BlenderCAM puede no aparecer el modo CAM, a continuación se explicara como entrar en el modo CAM, seguido de  activar el BlenderCAM complemento para un mejor aprovechamiento del software
+
+
+.. figure:: /imagenes/cnc5.png
+
+
+1.	Ir a al panel User Preference , seleccionar File y abrir la carpeta User Preferences.  También se puede llegar con el siguiente comando Ctrl+Alt+U
+
+
+2.	En la parte superior de la ventana seleccionar la tabla Add-ons
+
+
+3.	Seleccionaren las categorías scene
+
+
+4.	En esta parte nos aparece el complemento CAM, para activarlo damos clic en el cuadro hasta ser marcado como en la imagen
+
+
+5.	Asegurarnos de que la dirección coincida con la de la imagen para el Add-on completo
+
+
+El segundo paso es guiar a BlenderCAM a buscar una ruta alternativa, para los complementos. Cuando BlenderCAM se ejecute, buscara la ruta
+para Add-ons correspondiente a los scrips, de esta manera una fuente externa Add-on, se puede utilizar en Blender
+
+
+.. figure:: /imagenes/cnc6.png
 
 
 
+1.	Ir a al panel User Preference , seleccionar File y abrir la carpeta User Preferences.  También se puede llegar con el siguiente comando Ctrl+Alt+U
 
 
+2.	En la parte superior de la ventana seleccionar la tabla File
 
 
+3.	Ir al segmento scripts y seleccionar la carpeta con la ruta de BlenderCAM /scripts directorio.
 
 
+4.	Al terminar, seleccionar Save User Settings, para quer nuestros ajustes queden guardados
 
 
+5.	Como paso final, reiniciar Blender.
 
 
+Entrar al modo CAM
 
 
+.. figure:: /imagenes/cnc7.png
 
 
+1.	Ir a la barra superior (User Preference), desplegar la ventana Engine
+
+
+2.	Seleccionar el modo Blender CAM
+
+
+3.	Ir al panel de operaciones y seleccionar el Render
+
+
+Con el modo BlenderCAM podemos empezar a trabajar, en esta ocasión solo se llevara a cabo el proceso de gravado, a continuación se mostraran algunos ejemplos
+
+
+.. figure:: /imagenes/cnc8.png
+
+
+.. figure:: /imagenes/cnc9.png
+
+
+.. figure:: /imagenes/cnc10.png
+
+
+Descripción de los parámetros CAM
+
+
+	CAM operations
+
+
+.. figure:: /imagenes/cnc11.png
+
+
+*  Calculate path: Calcula la operación que se realizará, además nos muestra  una Simulación gráfica del recorrido que llevara nuestro CNC. Para ello debemos agregar una operación seleccionando el objeto, el botón se mantiene presionado y hay que esperar unos segundos.
+
+
+*  Calculate path in background: Esta función calcula la ruta, mientras se puede seguir trabajando en la creación de otras operaciones, es importante guardar el documento antes de realizar cualquier cálculo.
+
+
+*  Simulate this operation: Al generar esta simulación se nos crea un objeto encima de nuestro modelo, el cual lo podemos mover en cualquier eje deseado. El objeto se puede subdividir, escalar, aumentar la resolución en el panel de optimización.
+
+
+*  Operation name: En este campo se puede cambiar el nombre de la operación seleccionada
+
+
+*  File name: Es el nombre del archivo gcode generado, la extensión de archivo utilizado será determinado por el porstprocesador g-código seleccionado
+
+
+*  Auto export: Si esta activada la opción, el G-codigo se generará automáticamente y se guardara en el archivo después del cálculo de
+
+
+La operación, en la misma carpeta donde se ejecutó el BlenderCAM antes de instalarlo
+
+
+*  Source of dates: Aquí se selecciona el conjunto y tipo de objetos, puede ser una imagen, un grupo de objetos o un objeto
+
+
+*  Objet: Aparece la malla o curva que se está trabajando
+
+
+	CAM info & warnings
+
+
+.. figure:: /imagenes/cnc12.png
+
+
+CAM operation setup
+
+
+Strategy: En esta opción elegimos el proceso 	que se realizará en nuestro objeto, a continuación mostraremos las siguientes estrategias o procesos.
+
+
+* 	PARALLEL: trayectorias paralelas en cualquier ángulo
+
+
+.. figure:: /imagenes/cnc13.png
 
 
 
