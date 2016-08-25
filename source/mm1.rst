@@ -1787,6 +1787,15 @@ Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
 
 
 
+.. list-table::
+
+    * - .. figure:: /imagenes/fle20.png
+                              :width: 320px
+
+
+      - .. figure:: /imagenes/fle21.png
+                              :width: 320px
+
 
 .. list-table::
 
@@ -2243,19 +2252,565 @@ Strategy: En esta opción elegimos el proceso 	que se realizará en nuestro obje
 .. figure:: /imagenes/cnc13.png
 
 
+* 	CROSS
+
+
+.. figure:: /imagenes/cnc14.png
+
+
+* 	BLOCK
+
+
+.. figure:: /imagenes/cnc15.png
+
+
+*   SPIRAL
+
+Adecuado para objetos curvos
+
+
+.. figure:: /imagenes/cnc16.png
+
+
+* 	CIRCLES
+
+Adecuado para objetos curvos
+
+
+.. figure:: /imagenes/cnc17.png
+
+
+* 	WATERLINE EXPER.
+
+
+Realiza mejores acabados, pero se define como un proceso experimental para el usuario.
+
+
+.. figure:: /imagenes/cnc18.png
+
+
+* 	OUTLINE FILL
+
+
+.. figure:: /imagenes/cnc19.png
+
+
+* 	CUTOUT
+
+
+Este proceso se utilizará para gravado, ya que marca el contorno dentro, sobre o fuera de la línea de nuestro objeto o curva
+
+
+.. figure:: /imagenes/cnc20.png
+
+
+* 	POCKET
+
+
+.. figure:: /imagenes/cnc21.png
+
+
+* 	DRILL
+
+
+Detecta círculos o cuatros en cualquier curva 2D y los convierte en una operación de perforación
+
+
+.. figure:: /imagenes/cnc22.png
+
+
+* 	CARVE
+
+
+Proyecta curvas 2D y 3D en la superficie
+
+
+.. figure:: /imagenes/cnc23.png
+
+
+Algunas de las operaciones o estrategias combinarán los siguientes parámetros.
+
+
+* 	Distance between toolpaths: Es la distancia que tendrán las trayectorias o los sobrepasos
+
+
+* 	Distance along toolpaths: Influye en la precisión del mecanizado, es lo denso que será la ruta de operación
+
+
+* 	Angle of paths: Este parámetro gira las estrategias paralelas y transversales a la cantidad que se le especifique
+
+
+* 	Parallel step back: Esto utiliza el movimiento posterior de la máquina para el acabado de la superficie. Tenga en cuenta que esto también  significa el corte en el  material que pasara con una velocidad doble de la distancia entre trayectorias (Distance between toolpaths), si no sabe que significa todo esto, no utilizar esta función.
+
+
+* 	Skin: Genera una capa en la superficie para el acabado
+
+
+* 	Inverse milling: Invierte el giro de molienda, en el caso de la impresora MM1 se tendrá que hacer un ajuste manual
+
+
+* 	Direction: Para el proceso block y spiral decide comenzar desde dentro o fuera del objeto
+
+
+* 	Carve depth: Decide que profuncidad debajo de la superficie se destinara la operación tallar
+
+
+* 	Don’t merge outlines when cutting: Para la estrategia de cutout genera el no fusionar contornos, es muy útil para PCB ya que no se desea que las líneas se crucen.
+
+
+* 	Use bridges: Para la estrategia de cutout, ya que crea puentes automáticamente por unos parametros que aparecerán cocmo: anchura, altura mínima por la curva etc.
+
+
+	CAM optimization
+
+
+.. figure:: /imagenes/cnc24.png
+
+
+*  Reduce path points: Ayuda a reducir el número de comandos en el código g, por lo que el código es más corto y fácil de procesar por la maquina
+
+
+*  Reduction threshold in un: La dirección de la trayectoria se reducirá a micrómetros
+
+*  Sampling raster detail: Este parámetro es muy necesario para el uso de la memoria y sobre todo la velocidad del software.
+   BlenderCAM utiliza pixeles para calcular las posiciones de compensación de corte.
+   Si el objeto mide 1 metro la imagen será 10000 x 10000 pixeles, lo que probablemente pueda llenar la memoria de su computadora. compruebe el tamaño del objeto antes de las operaciones de cálculo
+
+*  Simulation sampling raster detail: Prácticamente es igual que la opción anterior pero aplicado a la simulación
+
+*  Detail of circles used for curve offsets: Es el detalle de los circulos utilizados para desplazamientos de la curva
+
+
+	CAM Material size and position
+
+*  Estimate from model: Asumirá que las dimensiones que tiene el objeto, son las mismas que el área de trabajo, si esta opción no está activada  se nos abre una ventana extra para indicar las dimensiones
+
+
+.. figure:: /imagenes/cnc25.png
+
+
+*  Position object: Esta opcion es muy útil, ya que automáticamente  envía al objeto al origen del material que hemos definido
+
+
+.. figure:: /imagenes/cnc26.png
+
+
+.. figure:: /imagenes/cnc27.png
+
+
+	CAM Movement
+
+
+.. figure:: /imagenes/cnc28.png
+
+
+*  Movement type: Aplica para algunas estrategias, establece como se mueve la cuchilla en el material
+
+
+1 	Meander: Nos genera un movimiento zigzag no importando la dirección
+
+
+2 	Climb: El cortador gira en dirección de la alimentación, puede producir un mejor acabado, menos tención en la punta de la herramienta y genera requiere menos energía.
+
+
+3 	Conventional: el cortador Gira en contra de la dirección de la alimentación. Si la maquina tiene contragolpe que no puede ser compensada entonces esta es la mejor opción.
+
+
+*  Spindle rotation: Esta operación define la rotación del husillo
+
+
+*  Free movement height: Es la altura de desplazamiento cuando no se está maquinando. Si tenemos una altura muy alta, como resultado es una duración más elevada, ya que genera más tiempo en desplazarse a zonas en el aire
+
+
+*  Stay low if possible: No intenta levantar la cuchilla cuando se pasa de un camino a otro, hay ocasiones que la herramienta va a pasar por caminos los cuales su distancia es más pequeña que el diámetro de la herramienta, esta opción en estas situaciones no daña  ra las paredes de los caminos
+
+
+*  Protect vertical: Cuando el ángulo de la trayectoria es superior al límite de la verticalidad, el desplazamiento se realizará vertical. de esta manera las superficies verticales no obtendrá una pendiente debido a la distancia entre los puntos de recorrido.
+
+
+	CAM operation area
+
+
+.. figure:: /imagenes/cnc29.png
+
+
+*  Use layers: utiliza capas para la operación
+
+
+*  Step down: Es el grosor de las capas de desbaste
+
+
+*  Ambient: Es el proceso determinado al material que rodea al objeto
+
+
+1 	Around: Se genera una silueta al objeto
+
+
+2 	ALL: Se genera un rectángulo al objeto/material
+
+
+*  Depth from objet: Se lleva a profundidad objeto y establece la profundidad total de la operación de la misma. De lo contrario, puede utilizar la profundidad de operación para hacer lo mismo de forma manual.
+
+
+CAM federate
+
+
+.. figure:: /imagenes/cnc30.png
+
+
+*  Feedrate/minute: Velocidad de avance en un minute
+
+
+*  Plunge speed: La velocidad se reduce a la cantidad especificada, cuando la pendiente de la trayectoria está por encima del ángulo de profundización
+
+
+*  Plunge angle: Cualquier ángulo mayor  que el angulo de inmersión se activara la velocidad de inmersión
+
+
+*  Spindle rpm: Revoluciones por minuto del husillo
+
+
+CAM cutter
+
+
+.. figure:: /imagenes/cnc31.png
+
+
+*  Tool number: Define el número de la herramienta
+
+
+*  Cutter diametrer: Define el diámetro de la herramienta, utilizado para el cálculo de la trayectorias
+
+
+*  Cutter flutes: Este parámetro solo se utiliza para el cálculo del chipload
+
+
+	CAM Machine
+
+
+  .. figure:: /imagenes/cnc32.png
+
+
+  *  Postprocesador: Define el formateo del archive de salida. Si la maquina no está lista los códigos que generan código-g sin problemas son MACH3, ISO.
+
+
+ 	*  Unit system: Sistema de unidad métrico o imperial.
+
+
+ 	*  Work area: Aquí se define las dimensiones del material que se desbastará
+
+
+ 	*  Feedrate min/max: Limitará velocidades dadas en el panel de avance
+
+
+CAM chains
+
+
+  .. figure:: /imagenes/cnc33.png
+
+
+Es una herramienta que permite encadenar operaciones como simulaciones, es decir,  tener un conjunto de operaciones y realizarlas de una manera consecutiva, es muy práctico desarrollar esta herramienta para el código, si es que se tiene cambiador de herramientas automático
+
+
+A continuación se desarrollará un proceso cutout que nos genera un gravado en la superficie del material
+
+
+I.	Ejecutamos BlenderaCAM
+
+
+II.	En este ocasión importaremos un archivo .svg
+
+
+.. figure:: /imagenes/cnc34.png
+
+
+.. figure:: /imagenes/cnc35.png
+
+
+III.	En el panel CAM operations, seleccionamos el objeto, en este caso curva y agregaremos una operación. Como siguiente le daremos nombre a la operación y al archivo
+
+
+IV.	Los parámetros que se utilizaran serán los siguientes
+
+
+.. figure:: /imagenes/cnc36.png
+
+
+El nombre de la operación es cutout, esta parte es opcional al igual que el nombre del archivo.
+Al terminar los parámetros para el proceso, se recomienda calcular la trayectoria que funciona también como una simulación, si se quiere exportar el código G es necesario calcular la trayectoria (Calculate path)
+
+
+.. figure:: /imagenes/cnc37.png
+
+
+La estrategia como se mencionaba es Cutout, en esta ocasión la trayectoria será sobre la línea.
+No es recomendable utilizar Don’t merge outlines… ya que genera problemas con el Blender
+En esta parte se reduce el número de líneas, además de la resolución y simulación.
+La altura de capa es la misma que el desbaste total, generando una sola pasada. Si hubiésemos necesitado dos pasadas la altura de capa se dejaría en 2.5mm con un desbaste total de 5mm, se dejó este parámetro ya que el material que desbastaremos es un material blando y no tendrá problema
+
+
+.. figure:: /imagenes/cnc38.png
+
+
+El tipo de movimiento que se utilizo fue Meander por la cantidad de trayectorias
+Uno de los datos más importantes es la altura de movimiento libre. 5mm es un excelente parámetro para asegurarnos de que el modulo no chocara con el material y podrá ser óptimo.
+
+
+.. figure:: /imagenes/cnc39.png
+
+
+Es importante definir el área del material en nuestro caso es: 20 x 20 x 3 (cm), después de definir el área es importante situar el objeto en el área correcto, podemos utilizar position objet
+En esta ocasión no se necesito encadenamiento
+Los parámetros finales no se modificaron
+
+
+.. figure:: /imagenes/cnc40.png
+
+
+Para obtener el código G damos clic en exportar g code, que se encuentra en el panel de operaciones.
+El código g se nos genera dentro de la carpeta de instalación de BlenderCam, para la impresora MM1 se tiene que abrir el código G en bloc de notas y modificar lo siguiente:
+
+
+Para obtener el código G damos clic en exportar g code, que se encuentra en el panel de operaciones.
+El código g se nos genera dentro de la carpeta de instalación de BlenderCam, para la impresora MM1 se tiene que abrir el código G en bloc de notas y modificar lo siguiente:
 
 
 
+Esta es la parte principal del código g de nuestro colibrí
 
 
+(GCode created using the HeeksCNC Mach3 post processor)
 
 
+(grabadocolibri.tap)
 
 
+(G-code generated with BlenderCAM and NC library)
 
 
+N10 G17 G21 G90
 
 
+(Tool change)
+
+
+N20G43H1
+
+
+N30T1 M06
+
+
+N40 G00 X0 Y0 Z4.999 S12000 M03
+
+
+N50 G00 X69.103 Y41.967
+
+
+N60G01 Z-4.999 F500
+
+
+N70G01 X68.746 Y42.554 F1000
+
+
+N80G01 X68.41 Y43.15
+
+
+N90G01 X68.102 Y43.737
+
+
+N100G01 X67.831 Y44.302
+
+
+N110G01 X67.606 Y44.829
+
+
+N120G01 X67.435 Y45.303
+
+
+Checar la numeración de línea ( N100). Cuando vamos a agregar una instrucción, esta debe tener la numeración correspondiente, en este código g generado por BlenderCAM lleva un seguimiento por decenas ejemplo 1:
+
+
+N100 (código generado por BlenderCAM)
+
+
+N101 (código agregado)
+
+
+N102 (código agregado 2)
+
+
+Ejemplo 2:
+
+
+N98 (código agregado)
+
+
+N99 (código agregado 2)
+
+
+N100 (código generado por BlenderCAM)
+
+
+Después de la instrucción (N30T1 M06) se agregara lo siguiente:
+
+
+N31 G28 (Esta instrucción manda a HOME a todos los ejes)
+
+
+N32 G4 S3 (esta instrucción espera 3 segundos, para habilitar la comunicación)
+
+
+N33 M280 P2 S10 (esta instrucción apaga el motor, se tiene que apagar antes de prenderlo, no cambiar)
+
+
+N34 G4 S3
+
+
+N35 M280 P2 S90 (esta instrucción prende el motor con una velocidad de 90 rev/s, necesarios para el material formular)
+
+
+ N36 G4 S3
+
+
+ Esta es la parte final del código G de nuestro colibrí
+
+
+ N100940G01 X62.35 Y135.168
+
+
+ N100950G01 X62.303 Y135.147
+
+
+ N100960G01 X62.259 Y135.122
+
+
+ N100970G01 X62.218 Y135.095
+
+
+ N100980 G00 Z4.999
+
+
+ N100990 M02
+
+
+ Antes de la instrucción M02 se agregara lo siguiente:
+
+
+ N1009801 G4 S3
+
+
+ N1009802 M280 P2 S80
+
+
+ N1009803 G4 S3
+
+
+ N1009804 M280 P2 S60
+
+
+ N1009805 G4 S3
+
+
+ El código modificado final será el siguiente:
+
+
+ Inicio
+
+
+ (GCode created using the HeeksCNC Mach3 post processor)
+
+
+ (grabadocolibri.tap)
+
+
+ (G-code generated with BlenderCAM and NC library)
+
+
+ N10 G17 G21 G90
+
+
+ (Tool change)
+
+
+ N20G43H1
+
+
+ N30T1 M06
+
+
+ N31 G28
+
+
+ N32 G4 S3
+
+
+ N33 M280 P2 S10
+
+
+ N34 G4 S3
+
+
+ N35 M280 P2 S90
+
+
+ N36 G4 S3
+
+
+ N40 G00 X0 Y0 Z4.999 S12000 M03
+
+
+ N50 G00 X69.103 Y41.967
+
+
+ N60G01 Z-4.999 F500
+
+
+ Final
+
+
+ N100960G01 X62.259 Y135.122
+
+
+ N100970G01 X62.218 Y135.095
+
+
+ N100980 G00 Z4.999
+
+
+ N1009801 G4 S3
+
+
+ N1009802 M280 P2 S80
+
+
+ N1009803 G4 S3
+
+
+ N1009804 M280 P2 S60
+
+
+ N1009805 G4 S3
+
+
+ N100990 M02
+
+
+ Al modificar el código G, guardamos como .gcode/todos los archivos para que la impresora lo pueda reconocer.
+ Si queremos  cargar el código-g desde el pronterface, tendremos que descargar la siguiente versión:
+ https://github.com/kliment/Printrun
+ De no ser así guardamos el .gcode en la memoria SD y lo corremos en la impresora MM1
+
+
+RESULTADOS
+
+
+.. figure:: /imagenes/cnc41.png
+
+
+.. figure:: /imagenes/cnc42.png
+
+
+.. figure:: /imagenes/cnc43.png
 
 
 Problemas Frecuentes
