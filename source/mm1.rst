@@ -2801,17 +2801,6 @@ N35 M280 P2 S90 (esta instrucción prende el motor con una velocidad de 90 rev/s
  De no ser así guardamos el .gcode en la memoria SD y lo corremos en la impresora MM1
 
 
-RESULTADOS
-
-
-.. figure:: /imagenes/cnc41.png
-
-
-.. figure:: /imagenes/cnc42.png
-
-
-.. figure:: /imagenes/cnc43.png
-
 
 Problemas Frecuentes
 ======================
