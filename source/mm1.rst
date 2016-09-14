@@ -687,30 +687,38 @@ software que nos va a permitir convertir los archivos STL que contienen nuestro 
 Todos los software que utilizamos son opens source, esto quiere decir que los puedes descargar de la web sin costo.
 
 
-Para facilitar la instalación de Cura, puedes entrar al siguiente link donde te guiara paso a paso como completar la instalación.
-
-
-http://makermex.com/foro/viewtopic.php?f=87&t=186&sid=d18140862b2e13d4fb973aab99d5865f
-
-
-
-
 Descarga de Software
 --------------------
 
 
- .. list-table::
-
-    * - .. figure:: /imagenes/cu.png
-                             :width: 150px
+.. figure:: /imagenes/cu.png
+             :width: 150px
 
 
-      - .. figure:: /imagenes/pronterface.png
-                             :width: 150px
+te dejamos el link donde lo puedes descargar y te recomendamos la version 14.12
 
 
-      - .. figure:: /imagenes/Blender_logo.png
-                             :width: 150px
+https://ultimaker.com/en/products/cura-software/list
+
+
+.. figure:: /imagenes/pronterface.png
+             :width: 150px
+
+
+te dejamos el link donde lo puedes descargar
+
+
+http://koti.kapsi.fi/~kliment/printrun/
+
+
+.. figure:: /imagenes/Blender_logo.png
+             :width: 150px
+
+
+te dejamos el link donde lo puedes descargar
+
+
+https://www.blender.org/download/
 
 
 instalacion de cura para la impresora MM1
