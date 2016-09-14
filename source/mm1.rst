@@ -713,6 +713,152 @@ Descarga de Software
                              :width: 150px
 
 
+instalacion de cura para la impresora MM1
+------------------------------------------
+
+
+Paso1
+
+
+Entra a nuestra pagina y descarga cura.
+comienza a instalar cura
+
+
+.. figure:: /imagenes/curm1.png
+
+
+Paso 2
+
+
+Selecciona los archivos que deseas abrir y da clic en instalar
+
+
+.. figure:: /imagenes/curm2.png
+
+
+.. figure:: /imagenes/curm3.png
+
+
+Paso 3
+
+
+Una vez que los archivos del software se instalen te aparecerá una ventana, le das siguiente y finalizar
+
+
+.. figure:: /imagenes/curm4.png
+
+
+.. figure:: /imagenes/curm5.png
+
+
+Paso 4
+
+
+Después te aparecerá esta ventana le das siguiente y terminar.
+
+
+.. figure:: /imagenes/curm6.png
+
+
+.. figure:: /imagenes/curm7.png
+
+
+Paso 5
+
+
+Te aparecerá una ventana para seleccionar el idioma selecciona ingles y das clic siguiente.
+Te aparecerá esta ventana selecciona other y da clic en siguiente
+
+
+.. figure:: /imagenes/curm8.png
+
+
+Paso 6
+
+
+Te aparecerá esta ventana selecciona custom y da clic en siguiente.
+
+
+.. figure:: /imagenes/curm9.png
+
+
+Paso 7
+
+
+Te aparecerá esta ventana coloca la siguiente información, una vez que lo hagas das clic en terminar
+
+
+.. figure:: /imagenes/curm10.png
+
+
+Paso 8
+
+
+Te aparecerá esta ventana
+
+
+.. figure:: /imagenes/curm11.png
+
+
+Los parámetros que vamos a utilizar vienen en estas pestañas.
+
+
+.. figure:: /imagenes/curm12.png
+
+
+Paso 9
+
+
+Coloca los parámetros que te recomendamos de Basic
+temperatura para PLA 200°C y cama caliente 40°C a 60°C
+temperatura ABS 225°C y cama caliente 97°C
+En Fill Density , el valor es variable dependiendo de la pieza
+que vas a realizar si la quieres frágil de 0 a 20% es un relleno
+frágil para piezas visuales de 25 a 40% son rellenos ya mas
+resistentes de 45 a 60% son rellenos muy resistentes
+En
+
+
+.. figure:: /imagenes/curm13.png
+
+
+En estas dos casillas se pueden seleccionar los tipos de material de soporte y de plataforma de adhesión
+
+
+.. figure:: /imagenes/curm14.png
+
+
+.. figure:: /imagenes/curm15.png
+
+
+Paso 10
+
+
+Coloca los parámetros que te recomendamos de Advanced
+como tip en la distancia de la retracción se puede utilizar :
+6 y 8
+
+
+.. figure:: /imagenes/curm16.png
+
+
+Paso 11
+
+
+por ultimo en end gcode
+vas copiar el punto y coma y lo colocaras antes de G90 para que se quede comentado este paso.
+
+
+.. figure:: /imagenes/curm17.png
+
+
+.. figure:: /imagenes/curm18.png
+
+
+.. figure:: /imagenes/curm19.png
+
+
+
 Conexiones de la Impresora
 -----------------------------
 
