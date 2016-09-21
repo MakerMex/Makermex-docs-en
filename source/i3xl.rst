@@ -3997,18 +3997,35 @@ de plstico 4 tornillos M3x20mm 4 rondanas M3 y 4 tuercas M3 de seguridad.
 Se introducen los cables por los recuadros y listo.
 
 
-.. list-table::
 
-   * - .. figure:: /imagenes/prusa/pru437.png
+.. figure:: /imagenes/prusa/pru437.png
               :width: 300px
 
 
-     - .. figure:: /imagenes/prusa/pru438.png
+te dejamos el link donde lo puedes descargar y te recomendamos la version 14.12
+
+
+https://ultimaker.com/en/products/cura-software/list
+
+
+.. figure:: /imagenes/prusa/pru438.png
               :width: 300px
 
 
-     - .. figure:: /imagenes/prusa/pru439.png
+te dejamos el link donde lo puedes descargar
+
+
+http://koti.kapsi.fi/~kliment/printrun/
+
+
+.. figure:: /imagenes/prusa/pru439.png
               :width: 300px
+
+
+te dejamos el link donde lo puedes descargar
+
+
+https://www.blender.org/download/
 
 
 Unboxing

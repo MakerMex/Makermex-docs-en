@@ -2634,6 +2634,40 @@ Primera Impresión
 ==================
 
 
+Descarga de Software
+--------------------
+
+
+.. figure:: /imagenes/mi3/cu.png
+             :width: 150px
+
+
+te dejamos el link donde lo puedes descargar y te recomendamos la version 14.12
+
+
+https://ultimaker.com/en/products/cura-software/list
+
+
+.. figure:: /imagenes/mi3/pronterface.png
+             :width: 150px
+
+
+te dejamos el link donde lo puedes descargar
+
+
+http://koti.kapsi.fi/~kliment/printrun/
+
+
+.. figure:: /imagenes/mi3/Blender_logo.png
+             :width: 150px
+
+
+te dejamos el link donde lo puedes descargar
+
+
+https://www.blender.org/download/
+
+
 instalar cura y sus parámetros
 ---------------------------------
 
