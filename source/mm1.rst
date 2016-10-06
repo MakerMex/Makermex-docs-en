@@ -2954,9 +2954,10 @@ N35 M280 P2 S90 (esta instrucción prende el motor con una velocidad de 90 rev/s
  https://github.com/kliment/Printrun
  De no ser así guardamos el .gcode en la memoria SD y lo corremos en la impresora MM1
 
-+----------------+
-|Módulo de Pastas|
-+----------------+
+
+Módulo de Pastas
+------------------
+
 
 Hola MakerAmigo
 
@@ -3339,7 +3340,7 @@ Advanced
 Y este fue nuestro resultado
 
 
-.. figure:: /imagenes/m1p35.png
+.. figure:: /imagenes/m1p36.jpg
 
 
 Problemas Frecuentes
