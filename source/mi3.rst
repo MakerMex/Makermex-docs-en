@@ -9,9 +9,6 @@ MANUAL DE ENSAMBLADO Mi3
 -------------------------
 
 
-.. figure:: /imagenes/mi3/i1.png
-
-
 +---------------+
 |Perfil Cuadrado|
 +---------------+
