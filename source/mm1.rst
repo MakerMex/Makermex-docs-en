@@ -3345,3 +3345,316 @@ Y este fue nuestro resultado
 
 Problemas Frecuentes
 ======================
+
+
+Como destapar la boquilla
+--------------------------
+
+
+Hola amigos vamos a revisar este manual que nos enseñara como desmotar la boquilla y poder destapar.
+
+
+Paso 1
+
+
+vamos a retirar el filamento que este en la boquilla, recuerda que debes de calentar la boquilla para poder retirarlo, en este caso se atasco con PLA así que vamos a calentar a 210°C para que pueda salir mas rápido el material.
+
+
+Bien calentamos con la pantalla recuerda da clic a la perilla elige control después temperatura,después nozzle y sube a 210°C da clic y listo comenzara a calentar la boquilla.
+
+
+.. figure:: /imagenes/db1.jpg
+
+
+cuando la temperatura llegue podemos sacar el filamento que tiene.
+
+
+.. figure:: /imagenes/db2.jpg
+
+
+Paso 2
+
+
+Vamos a retirar el tubo Bowwden para retirarlo es necesario unas pinzas de punta, se colocan las pinzas en la cavidad de la pieza plástica como se ve en la imagen, y solo se va a presionar hacia abajo, el plástico del conector neumático  y toma en cuenta que  las pinzas no se deben de cerrar solo es de apoyo para poder liberar el tubo.
+
+
+Recuerda cuando presiones el plástico del conector neumático debes de jalar el tubo hacia arriba para que salga.
+
+
+.. figure:: /imagenes/db3.jpg
+
+
+.. figure:: /imagenes/db4.jpg
+
+
+Paso 3
+
+
+Aun estando la boquilla caliente vamos a introducir un trozo de filamento para tratar de purgar la boquilla manualmente y ver si se resuelve el problema.
+
+
+Al meter el filamento en la boquilla vamos a presionar para ver si sale si no lo hace entonces lo vamos a sacar rápidamente  hacia arriba
+
+
+.. figure:: /imagenes/db5.jpg
+
+
+Cuando el material esta atascado en la punta de la boquilla comenzara a pegarse a el filamento nuevo, como se ve en la imagen.
+
+
+Esta operación la puedes repetir varias veces y hasta que veas que ya no sale material carbonizado,
+
+
+si esto te funciona y vez que ya sale material por la parte de la punta de la boquilla, puedes volver a colocar el tubo y filamento para volver a realizar una impresión.
+
+
+.. figure:: /imagenes/db6.jpg
+
+
+Si aun no sale material por la punta de la boquilla, entonces puede ser que este tapada y para destaparla hay que seguir los siguientes pasos
+
+
+Paso 4
+
+
+apaga la impresora, retira el clip de sujeción del modulo y desconecta los conectores de la impresora para poder retirar el modulo completo y poder desarmarlo.
+
+
+.. figure:: /imagenes/db7.jpg
+
+
+.. figure:: /imagenes/db8.jpg
+
+
+Desconecta los siguientes conectores
+
+
+.. figure:: /imagenes/db9.jpg
+
+
+.. figure:: /imagenes/db10.jpg
+
+
+.. figure:: /imagenes/db11.jpg
+
+
+Y solo se deja conectado el seguro de doble extrusora.
+
+
+.. figure:: /imagenes/db12.jpg
+
+
+Desmontamos el mòdulo de la cruz
+
+
+.. figure:: /imagenes/db13.jpg
+
+
+Paso 5
+
+
+vamos a desarmar el Módulo, para poder interactuar con la boquilla.
+
+
+.. figure:: /imagenes/db14.jpg
+
+
+Primero debemos retirar los tornillos que sujetan la pieza plástica del sensor inductivo, estos tornillos se retiran con ayuda de una llave allen de 2.5mm
+
+
+.. figure:: /imagenes/db15.jpg
+
+
+.. figure:: /imagenes/db16.jpg
+
+
+Después vamos a retirar los tornillos que sujetan el MDF  al módulo se muestran en círculos rojos
+son 3 de la parte inferior y 2 de la parte superior se retiran con la misma llave allen de 2.5mm
+
+
+.. figure:: /imagenes/db17.jpg
+
+
+.. figure:: /imagenes/db18.jpg
+
+
+.. figure:: /imagenes/db19.jpg
+
+
+.. figure:: /imagenes/db20.jpg
+
+
+.. figure:: /imagenes/db21.jpg
+
+
+.. figure:: /imagenes/db22.jpg
+
+
+Paso 6
+
+
+vamos a remover el MDF para poder liberar la boquilla se retira  girándolo como se muestra en las imágenes.  Y así poder maniobrar con la boquilla.
+
+
+Sujetamos el MDF con el dedo pulgar e indice como se ve en la imagen.
+
+
+.. figure:: /imagenes/db23.jpg
+
+
+Giramos el MDF como se muestra en la imagen.
+
+
+.. figure:: /imagenes/db24.jpg
+
+
+.. figure:: /imagenes/db25.jpg
+
+
+Ya que tenemos el MDF en la posición que se muestra solo resta empujarlo como indica la flecha para que pueda liberarse la boquilla y así poder limpiar la boquilla mas fácil.
+
+
+Observemos la imágenes.
+
+
+.. figure:: /imagenes/db26.jpg
+
+
+.. figure:: /imagenes/db27.jpg
+
+
+Cuando este libre el MDF con mucho cuidado vamos a retirar la boquilla por el orificio mas grande del MDF, como se muestra en las imágenes.
+
+
+.. figure:: /imagenes/db28.jpg
+
+
+.. figure:: /imagenes/db29.jpg
+
+
+Paso 7
+
+
+vamos a retirar el Conector Neumático de la boquilla, en  este paso vamos a sujetar la boquilla con mucho cuidado y con unas pinzas mecánicas o de chófer vamos a sujetar el conector y aflojarlo para poder retirarlo.
+
+
+Veamos las imágenes
+
+
+.. figure:: /imagenes/db30.jpg
+
+
+.. figure:: /imagenes/db31.jpg
+
+
+paso 8
+
+
+vamos a conectar el ventilador pequeño a la impresora y también el conector de 6 pines para poder calentar la boquilla.
+
+
+Veamos las imágenes.
+
+
+.. figure:: /imagenes/db32.jpg
+
+
+Después de conectar el módulo encendemos la impresora para mandar a calentar la boquilla
+
+
+.. figure:: /imagenes/db33.jpg
+
+
+Pues bien utilizando la pantalla vamos a mandar a calentar la boquilla, según el material que este atascado  es decir si es PLA pues podemos colocar a una  temperatura desde 200°C a 210°C, si es ABS pues la temperatura que podemos utilizar es de 220°C a 230°C.
+
+
+En el ejemplo es PLA y para este caso utilizamos una temperatura de 207°C
+
+
+una vez que esta caliente la boquilla la sujetaremos de la parte superior con las pinzas mecánicas  o de chófer veamos.
+
+
+.. figure:: /imagenes/db34.jpg
+
+
+Y ya que esta caliente con ayuda de una broca de 3mm la vamos a introducir dentro de la boquilla y con nuestras manos vamos a darle  vueltas sin presionar solo giramos la broca lento y sacamos para ir retirando los residuos que se adhieran a la broca.
+
+
+.. figure:: /imagenes/db35.jpg
+
+
+.. figure:: /imagenes/db36.jpg
+
+
+.. figure:: /imagenes/db37.jpg
+
+
+.. figure:: /imagenes/db38.jpg
+
+
+Esta parte del paso  8 la podemos realizar las veces que sean necesarias hasta que ya no salgan residuos.
+
+
+Después de haber hecho esto con la broca procedemos a limpiar la punta de la boquilla con un cabello de cobre de un cable calibre 14 o 12. veamos
+
+
+.. figure:: /imagenes/db39.jpg
+
+
+En esta parte de este paso también podemos introducir varias veces el cable dentro de la punta.
+
+
+.. figure:: /imagenes/db40.jpg
+
+
+Paso 9
+
+
+Después de limpiar y remover los residuos con la broca y el cable de cobre, haremos una purga con el filamento así como lo hicimos en el paso 3. metemos un trozo de filamento presionamos y luego en un solo movimiento lo sacamos, y cortamos el trozo de filamento que tenga residuos. Hacemos esto las veces que sea necesario, hasta que  veamos que cuando saquemos el material ya no tenga residuos negros.
+
+
+.. figure:: /imagenes/db41.jpg
+
+
+.. figure:: /imagenes/db42.jpg
+
+
+Después de hacer esta purga podemos observar que nuestra boquilla esta limpia como se ve en la imagen que sale material.
+
+
+.. figure:: /imagenes/db43.jpg
+
+
+Paso 10
+
+
+Una vez que esta destapada la boquilla apagamos sacamos el trozo de filamento, apagamos la impresora durante unos tres segundos y volvemos a encender para que se enfrié la boquilla, ya que esta fría la boquilla se comienza ensamblar como estaba al inicio.
+Veamos las imágenes de como se tiene que ensamblar.
+
+
+Colocamos el conector neumático
+
+
+.. figure:: /imagenes/db44.jpg
+
+
+Colocamos el MDF en la boquilla
+y asegurate de que entre en la ranura mas pequeña para que se mantenga fija la boquilla.
+
+
+.. figure:: /imagenes/db45.jpg
+
+
+Colocamos la boquilla en el orificio de la pieza plástica y giramos el MDF como estaba al principio.
+
+
+.. figure:: /imagenes/db46.jpg
+
+
+.. figure:: /imagenes/db47.jpg
+
+
+Por ultimo colocamos los 5 tornillos que retiramos  para poder fijar el MDF con la pieza plástica. El sensor inductivo y listo  nuestro modulo debe de verse así como antes.
+
+
+.. figure:: /imagenes/db48.jpg
