@@ -3658,3 +3658,100 @@ Por ultimo colocamos los 5 tornillos que retiramos  para poder fijar el MDF con 
 
 
 .. figure:: /imagenes/db48.jpg
+
+
+Calibración de la cama automático
+-----------------------------------
+
+
+¿Has tenido problemas de calibración en su plataforma de impresión?
+
+
+¿Pierdes mucho tiempo tratando de que su plataforma quede bien nivelada?
+
+
+Uno de los problemas más tediosos al tener una impresora 3D es la calibración o nivelación de la plataforma de impresión, la cual, generalmente, es mediante la compresión de resortes la cual puede ser bastante tardado si no se tiene el temple y la paciencia necesaria, y muchas veces no queda bien calibrada.
+
+
+.. figure:: /imagenes/an1.jpg
+
+
+La solución para este problema es que la impresora 3D se auto nivele de manera automática durante la impresión, esto se logra modificando el código G de la pieza a imprimir.
+
+
+Lo primero es conocer su equipo de impresión 3D, conocer el área de trabajo, ya que auto nivelación se da en algunos puntos que están por defecto en el firmware.
+
+
+Si usted desea configurar los puntos de nivelación del Firmware siga la siguiente configuración.
+
+
+Firmware Marlin
+
+
+El Firmware Marlin es el programa informático que establece la lógica de más bajo nivel que controla los circuitos electrónicos de la impresora 3D, existen muchas variantes de Firmware Marlin y esto se debe a la amplia gama de modelos de impresoras 3D en el mercado, usted debe asegurarse que el firmware Marlin que está usando sea el adecuado para su impresora antes de hacer la modificación de la auto nivelación.
+
+
+Todos los Firmware Marlin están divididos en casi 50 secciones o pestañas, la pestaña que se modificará será la configuration.h. Esta pestaña está dividida en 5 partes (Thermal Settings, Thermal Runaway Protection, Mechanical Settings, Bed Auto Leveling, Additional Features), la modificación se efectuará en la sección de Bed Auto Leveling, sin embargo es importante definir antes las dimensiones del área de trabajo, estás están ubicadas en la parte final de la sección Mechanical Settings.
+
+
+En este ejemplo la impresora a usar tiene un área de trabajo de 400x400x350 milímetros como se muestra en la siguiente imagen.
+
+
+.. figure:: /imagenes/an2.png
+
+
+Una vez definida el área de trabajo se procede a definir los puntos de nivelación.
+
+
+En el firmware Marlin se tiene por defecto que son tres puntos para la nivelación, como ya se mencionó está modificación se hará en la sección Bed Auto Leveling de la pestaña configuration.h, en esta parte se encuentra por coordenadas en X y Y los puntos en que se quiere nivelar, el firmware Marlin ya tiene unos puntos seleccionados, sin embargo se pueden modificar al gusto o necesidad del usuario, en este ejemplo se eligieron las siguientes coordenadas para los tres puntos:
+
+
+.. figure:: /imagenes/an3.png
+
+
+.. Note::
+   Las coordenadas de los puntos no deben exceder el área de trabajo, ya que se puede tener accidentes.
+
+
+Por último se configura la velocidad de auto nivelación, una velocidad moderada es de 1500 mm/min la cual se obtuvo mediante varias pruebas, la línea que se modifica se encuentra debajo de la modificación anterior, dicha línea se observa en la siguiente figura:
+
+
+.. figure:: /imagenes/an4.png
+
+
+Ahora sólo se carga este Marlin a la impresora 3D.
+
+
+Una vez configurado el Marlin se procede a configurar el código G, esto se hace mediante un software libre, en este ejemplo el software CURA.
+
+
+Configuración en el Software CURA
+
+
+.. figure:: /imagenes/an5.png
+
+Para la auto calibración es necesario hacer una modificación en el Software CURA (software que genera código G mediante modelos 3D), siga los siguientes pasos:
+
+
+*  1.Una vez que haya iniciado el programa, asegúrese de tener seleccionada la impresora con la que va a trabajar. Para seleccionar su impresora seleccione en la barra de herramientas la pestaña Machine y selecciones su modelo de impresora. Si usted no cuenta con opciones de impresoras, puede agregar su máquina seleccionando Add new machine.
+
+
+.. figure:: /imagenes/an6.png
+
+
+*  2. Lo siguiente es seleccionar su pieza a imprimir y acomodar los parámetros de impresión a sus necesidades (los parámetros de impresión están ubicados en las pestañas Basic y Avanced). Cuando termine de configurar los parámetros de impresión, diríjase a la pestaña Start/End-GCode y selecciones start.gcode.
+
+
+.. figure:: /imagenes/an7.png
+
+
+*  3. Al haber realizado el paso anterior, se encontrará con la primera parte del código G de su pieza en la parte media inferior izquierda de su pantalla, a este código se le agregará una línea con el código “G29”, esta línea se agregará después de la línea con el código “G28 Z0” y antes de la línea con el código “G1 Z15.0 F”.
+
+
+.. figure:: /imagenes/an8.png
+
+
+*  4. Ahora simplemente se guarda el código en la memoria SD presionando el botón de Save Toolpath y ya se tendrá el código G con auto nivelación en la memoria SD lista para colocarse en la impresora 3D y mandar a imprimir.
+
+
+.. figure:: /imagenes/an9.png
