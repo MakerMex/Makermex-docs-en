@@ -1431,39 +1431,36 @@ Si tu módulo esta suelto se coloca de la siguiente manera, lo deberás colocar 
 el clip, y conectar sus cables.
 
 
+.. figure:: /imagenes/pri1.jpg
+             :width: 320px
 
 
-
-    * - .. figure:: /imagenes/pri5.jpg
-                             :width: 320px
-
-
-      - .. figure:: /imagenes/pri6.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri2.jpg
+             :width: 320px
 
 
-    * - .. figure:: /imagenes/pri3.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri3.jpg
+             :width: 320px
 
 
-      - .. figure:: /imagenes/pri4.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri4.jpg
+             :width: 320px
 
 
-    * - .. figure:: /imagenes/pri5.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri5.jpg
+             :width: 320px
 
 
-      - .. figure:: /imagenes/pri6.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri6.jpg
+             :width: 320px
 
 
-    * - .. figure:: /imagenes/pri7.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri7.jpg
+             :width: 320px
 
 
-      - .. figure:: /imagenes/pri8.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri8.jpg
+             :width: 320px
 
 
 Paso 2
@@ -1484,39 +1481,32 @@ a la boquilla
   pinzas de corte
 
 
+.. figure:: /imagenes/pri10.jpg
+              :width: 320px
 
 
- .. list-table::
-
-    * - .. figure:: /imagenes/pri10.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri11.jpg
+              :width: 320px
 
 
-      - .. figure:: /imagenes/pri11.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri12.jpg
+              :width: 320px
 
 
-      - .. figure:: /imagenes/pri12.jpg
-                             :width: 320px
+ .. figure:: /imagenes/pri13.jpg
+              :width: 320px
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/pri13.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri14.jpg
+              :width: 320px
 
 
-     - .. figure:: /imagenes/pri14.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri15.jpg
+              :width: 320px
 
 
-   * - .. figure:: /imagenes/pri15.jpg
-                             :width: 320px
-
-
-     - .. figure:: /imagenes/pri16.jpg
-                             :width: 320px
-
+.. figure:: /imagenes/pri16.jpg
+               :width: 320px
 
 
 Paso 3
@@ -1525,6 +1515,22 @@ Paso 3
 encendemos la impresora y calentamos la boquilla para PLA 204°C o ABS 230°C
 
 
+.. figure:: /imagenes/pri17.jpg
+
+
+.. figure:: /imagenes/pri18.jpg
+
+
+.. figure:: /imagenes/pri19.jpg
+
+
+.. figure:: /imagenes/pri20.jpg
+
+
+.. figure:: /imagenes/pri21.jpg
+
+
+.. figure:: /imagenes/pri22.jpg
 
 
 Paso 4
@@ -1541,13 +1547,11 @@ salio por la punta de la boquilla, esta colocado el material correctamente.
    Este paso se hace para cambiar el filamento o retirar un sobrante y colocar un carrete nuevo.
 
 
-.. list-table::
-
-    * - .. figure:: /imagenes/pri23.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri23.jpg
+               :width: 320px
 
 
-      - .. figure:: /imagenes/pri24.jpg
+.. figure:: /imagenes/pri24.jpg
                              :width: 320px
 
 
@@ -1582,14 +1586,12 @@ cambian cuando insertas la memoria, en automático puedes guardar tu código en 
 clic sobre el icono de SD.
 
 
-.. list-table::
-
-    * - .. figure:: /imagenes/pri28.png
-                             :width: 320px
+.. figure:: /imagenes/pri28.png
+               :width: 320px
 
 
-      - .. figure:: /imagenes/pri29.png
-                             :width: 320px
+.. figure:: /imagenes/pri29.png
+               :width: 320px
 
 
 Una vez que das clic en el icono SD se ha guardado tu código en la tarjeta y deberás sacarla hasta que
@@ -1606,28 +1608,24 @@ Listo puedes sacar tu SD y volverla a colocar en la impresora encender la impres
 imprimir.
 
 
-.. list-table::
-
-    * - .. figure:: /imagenes/pri31.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri31.jpg
+               :width: 320px
 
 
-      - .. figure:: /imagenes/pri32.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri32.jpg
+               :width: 320px
 
 
 Listo la impresora comenzará a calentar la cama caliente y después la boquilla, o solo comenzará a
 calentar ambas partes, esto se debe a la versión de cura que hayas descargado.
 
 
-.. list-table::
-
-    * - .. figure:: /imagenes/pri33.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri33.jpg
+               :width: 320px
 
 
-      - .. figure:: /imagenes/pri34.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri34.jpg
+               :width: 320px
 
 
 En cuanto la temperatura que colocamos en el Código G llegue en la pantalla comenzará a imprimir, lo
@@ -1639,36 +1637,42 @@ La primer capa siempre es la mas importante debe de quedar así como se muestra 
 Ya después de esto la impresora hará su trabajo imprimir.
 
 
-.. list-table::
-
-    * - .. figure:: /imagenes/pri35.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri35.jpg
+               :width: 320px
 
 
-      - .. figure:: /imagenes/pri36.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri36.jpg
+               :width: 320px
 
 
-      - .. figure:: /imagenes/pri37.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri37.jpg
+               :width: 320px
 
 
-      - .. figure:: /imagenes/pri38.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri38.jpg
+               :width: 320px
 
 
-      - .. figure:: /imagenes/pri39.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri39.jpg
+               :width: 320px
 
 
-      - .. figure:: /imagenes/pri40.jpg
-                             :width: 320px
+.. figure:: /imagenes/pri40.jpg
+               :width: 320px
 
 
 Ya que termino la impresión solo retiramos la pieza con ayuda de un cutter o una espátula tratamos de
 levantar la pieza por una esquina y hacemos una palanca para que comience a desprenderse, también
 podemos apoyarnos con las manos para despegarla.
 
+
+.. figure:: /imagenes/pri41.jpg
+
+
+.. figure:: /imagenes/pri41.jpg
+
+
+.. figure:: /imagenes/pri41.jpg
 
 
 Módulos
