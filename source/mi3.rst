@@ -13,7 +13,9 @@ MANUAL DE ENSAMBLADO Mi3
 |Perfil Cuadrado|
 +---------------+
 
-* 6 perfiles de 380mm
+* 2 perfiles de 380mm
+
+* 4 perfiles de 390mm
 
 * 4 perfiles de 150mm
 
@@ -51,7 +53,7 @@ MANUAL DE ENSAMBLADO Mi3
 * 1 cama del eje Y de 6mm
 
 +-----------+
-|Tornilleria|
+|Tornillería|
 +-----------+
 
 * 37 tornillos M3x10mm
@@ -322,10 +324,8 @@ PARTE UNO ENSAMBLADO DE LA ESTRUCTURA
 +----------------+
 
 
-.. figure:: /imagenes/mi3/i3.png
-
-
 material que se ocuṕara en el preceso.
+
 
 * 16 tornillos M3x25mm
 * 16 tuercas M3 de seguridad
