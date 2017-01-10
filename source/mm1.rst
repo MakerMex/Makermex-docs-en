@@ -18,6 +18,7 @@ General
 
 - Volumen de impresora (aproximado) 500 mm x 370 mm x 490 mm
 
+
 .. figure:: /imagenes/mm2.png
 
 
@@ -145,25 +146,23 @@ Paso 3
 Procedemos a retirar la tapa de madera junto con la tapa de unicel como se muestra en las imágenes.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un6.png
-                            :width: 200px
+.. figure:: /imagenes/un6.png
+              :width: 200px
 
 
-     - .. figure:: /imagenes/un7.png
-                            :width: 200px
+.. figure:: /imagenes/un7.png
+              :width: 200px
 
 
-     - .. figure:: /imagenes/un8.png
-                            :width: 200px
+.. figure:: /imagenes/un8.png
+              :width: 200px
 
 
 Al abrir la caja encontraras una carta de nuestro Agradecimiento por tu compra, también en esta carta te
 hacemos la invitación a que formes parte de nuestro foro y que conozcas la ubicación de nuestra wiki.
 
 
-- .. figure:: /imagenes/un9.png
+.. figure:: /imagenes/un9.png
 
 
 Paso 4
@@ -173,28 +172,26 @@ Retiramos los soportes de unicel que están sosteniendo a la impresora en la par
 muestra en la imagen.
 
 
-- .. figure:: /imagenes/un10.png
+.. figure:: /imagenes/un10.png
 
 
 Una vez retirado el unicel de soporte sacamos con cuidado los compenetres de la impresora.
 Así como se muestra en las siguientes imágenes.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un11.png
+.. figure:: /imagenes/un11.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un12.png
+.. figure:: /imagenes/un12.png
           :width: 300px
 
 
-   * - .. figure:: /imagenes/un13.png
+.. figure:: /imagenes/un13.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un14.png
+.. figure:: /imagenes/un14.png
           :width: 300px
 
 
@@ -208,20 +205,17 @@ burbuja, así como se muestra en las imágenes.
 Esto lo realizamos con el fin de poder sujetar la impresora de los perfiles superiores para poder sacarla de la caja.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un15.png
+.. figure:: /imagenes/un15.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un16.png
+.. figure:: /imagenes/un16.png
           :width: 300px
 
 
 .. Note::
-
-          En este paso es importante que al momento de reálizarlo se tenga cerca la mesa donde se
-          colocara la impresora paro seguir desempacando.
+    En este paso es importante que al momento de reálizarlo se tenga cerca la mesa donde se
+    colocara la impresora paro seguir desempacando.
 
 
 
@@ -246,13 +240,11 @@ Una vez que la impresora esta fuera de la caja y para no generar un desorden pue
 uniceles dentro de la caja.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un20.png
+.. figure:: /imagenes/un20.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un21.png
+.. figure:: /imagenes/un21.png
           :width: 300px
 
 
@@ -262,13 +254,11 @@ Paso 7
 Ahora con ayuda del cutter vamos a retirar el Hule Burbuja con mucho cuidado, así como se ve en las imágenes.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un22.png
+.. figure:: /imagenes/un22.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un23.png
+.. figure:: /imagenes/un23.png
           :width: 300px
 
 
@@ -281,13 +271,11 @@ Y al igual podemos colocar este hule dentro de la caja
 Después de retirar el hule Burbuja también retiramos la cubierta de plástico con ayuda del cutter.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un25.png
+.. figure:: /imagenes/un25.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un26.png
+.. figure:: /imagenes/un26.png
           :width: 300px
 
 
@@ -306,13 +294,11 @@ Paso 9
 En este paso con ayuda de l cutter vamos a retirar los cinchos que sujetan la cruz central como se ve en las imágenes.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un28.png
+.. figure:: /imagenes/un28.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un29.png
+.. figure:: /imagenes/un29.png
           :width: 300px
 
 
@@ -327,13 +313,11 @@ Una vez que esta libre el eje le damos unas vueltas para que suba y así poder r
 así como se muestra en las imágenes.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un31.png
+.. figure:: /imagenes/un31.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un32.png
+.. figure:: /imagenes/un32.png
           :width: 300px
 
 
@@ -357,13 +341,11 @@ Enseguida conectamos el conector de 6 pines en el apartado que dice 1 como se mu
 imágenes.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un35.png
+.. figure:: /imagenes/un35.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un36.png
+.. figure:: /imagenes/un36.png
           :width: 300px
 
 
@@ -371,13 +353,11 @@ Enseguida conectamos el ventilador de la boquilla es el conector de 2 pines, est
 apartado donde esta el icono del ventilador.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un37.png
+.. figure:: /imagenes/un37.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un38.png
+.. figure:: /imagenes/un38.png
           :width: 300px
 
 
@@ -385,13 +365,11 @@ Enseguida conectamos el sensor del eje Z, es el conector de 3 pines, y se conect
 dice Z así como se ve en las imágenes.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un39.png
+.. figure:: /imagenes/un39.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un40.png
+.. figure:: /imagenes/un40.png
           :width: 300px
 
 
@@ -420,13 +398,11 @@ Tomamos el seguro de la Doble extrusora y lo conectamos en la parte que dice 2 c
 imágenes.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un44.png
+.. figure:: /imagenes/un44.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un45.png
+.. figure:: /imagenes/un45.png
           :width: 300px
 
 
@@ -442,13 +418,11 @@ Paso 13
 Ahora tomamos el cable de alimentación y lo colocamos en su lugar como se ve en la imagen.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un47.png
+.. figure:: /imagenes/un47.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un48.png
+.. figure:: /imagenes/un48.png
           :width: 300px
 
 
@@ -458,17 +432,15 @@ Paso 14
 En este paso colocaremos la varilla como se ve en las imágenes.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un49.png
+.. figure:: /imagenes/un49.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un50.png
+.. figure:: /imagenes/un50.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un51.png
+.. figure:: /imagenes/un51.png
           :width: 300px
 
 
@@ -479,21 +451,19 @@ Enseguida colocaremos la Guía de cables, primero retiramos el material de sopor
 cutter y luego la montamos como se ve en las imágenes.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un52.png
+.. figure:: /imagenes/un52.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un53.png
+.. figure:: /imagenes/un53.png
           :width: 300px
 
 
-   * - .. figure:: /imagenes/un54.png
+.. figure:: /imagenes/un54.png
                  :width: 300px
 
 
-     - .. figure:: /imagenes/un55.png
+.. figure:: /imagenes/un55.png
                  :width: 300px
 
 
@@ -507,13 +477,11 @@ encarga de introducir el filamento hasta la boquilla.
 Primero lo desempacamos.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un56.png
+.. figure:: /imagenes/un56.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un57.png
+.. figure:: /imagenes/un57.png
           :width: 300px
 
 
@@ -521,39 +489,33 @@ Ya que esta descubierto cortamos el cincho del cable de la extrusora y procedemo
 parte del perfil como se muestra en las imágenes.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un58.png
+.. figure:: /imagenes/un58.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un59.png
+.. figure:: /imagenes/un59.png
           :width: 300px
 
 
 Retiramos los tornillos y presentamos la pieza como se en las imagnes ya identificado la posición.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un60.png
+.. figure:: /imagenes/un60.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un61.png
+.. figure:: /imagenes/un61.png
           :width: 300px
 
 
 Colocamos los tornillos en los orificios y colocamos la pieza para poder atornillar.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un62.png
+.. figure:: /imagenes/un62.png
           :width: 300px
 
 
-     - .. figure:: /imagenes/un63.png
+.. figure:: /imagenes/un63.png
           :width: 300px
 
 
@@ -564,17 +526,15 @@ Atornillamos los tres tornillos para que nuestra
 extrusora quede firme y bien fija.
 
 
-.. list-table::
-
-  * - .. figure:: /imagenes/un64.png
+.. figure:: /imagenes/un64.png
        :width: 300px
 
 
-    - .. figure:: /imagenes/un65.png
+.. figure:: /imagenes/un65.png
                 :width: 300px
 
 
-    - .. figure:: /imagenes/un66.png
+.. figure:: /imagenes/un66.png
                 :width: 300px
 
 
@@ -582,13 +542,11 @@ Ahora vamos a conectar nuestro motor de este mecanismo. Así como se ve en las i
 motor y luego en conectamos en el apartado que dice M1.
 
 
-.. list-table::
-
-  * - .. figure:: /imagenes/un67.png
+.. figure:: /imagenes/un67.png
                 :width: 300px
 
 
-    - .. figure:: /imagenes/un68.png
+.. figure:: /imagenes/un68.png
                  :width: 300px
 
 
@@ -597,13 +555,11 @@ colocamos en la parte azul del conector y lo presionamos para bajo para que se q
 después de colocarlo revisamos jalándolo hacia arriba para asegurarnos de que este bien sujeto.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/un69.png
+.. figure:: /imagenes/un69.png
                  :width: 300px
 
 
-     - .. figure:: /imagenes/un70.png
+.. figure:: /imagenes/un70.png
                  :width: 300px
 
 
@@ -615,13 +571,11 @@ levantamos una esquina y haciendo un poco de presión hacia arriba con la otra m
 despegara, así como se ve en las imágenes.
 
 
-.. list-table::
-
-    * - .. figure:: /imagenes/un61.png
+.. figure:: /imagenes/un61.png
            :width: 300px
 
 
-      - .. figure:: /imagenes/un72.png
+.. figure:: /imagenes/un72.png
            :width: 300px
 
 
@@ -874,31 +828,35 @@ En este manual podemos observar como se debe conectar correctamente nuestra impr
 
 En esta imagen se aprecia el contenido de la caja de plástico trasparente.
 
+
 .. figure:: /imagenes/A.JPG
 
 
-
-
 * Paso 1
+
 
 Conectar el Módulo Sencillo al tablero de conexiones.
 
 Del módulo sale un conector macho con 6 pines el cual se conecta en el apartado que dice 1, asi como se muestra en la imagen.
 
+
 .. figure:: /imagenes/B.JPG
 
 
-
 * Paso 2
+
 
 Conectar el Sensor inductivo para el "Home de Z"
 
 Del mismo módulo sale un conector de 3 pines el cual se conecta en el apartado que dice Z,asi como se muestra en la imagen.
 
+
 .. figure:: /imagenes/C.jpg
-                     :width: 400px
+          :width: 400px
+
 
 * Paso 3
+
 
 Colocar el Seguro de doble Extrusora.
 
@@ -915,8 +873,8 @@ Este seguro solo se coloca cuando se utiliza el módulo sencillo, cuando se usa 
 .. figure:: /imagenes/D.JPG
 
 
-
 * Paso 4
+
 
  Colocar la guía de cables
 
@@ -929,6 +887,7 @@ sirve para poder sostener los cables que salen del módulo sencillo como de la c
 
 * Paso 5
 
+
 Como colacar los Clams y el cristal.
 
  Los clams son los sujetadores del cristal y de la cama de metal, su posición se muestra en la imagen.
@@ -940,6 +899,7 @@ Como colacar los Clams y el cristal.
 Conexiones de la impresora MM1 V1.5
 ------------------------------------
 
+
 En este punto podemos observar como se debe conectar correctamente nuestra impresora 3D, es muy importante que llevemos acabo las indicaciones.
 
 
@@ -947,10 +907,19 @@ Primero que nada tenemos que identificar nuestros conectores.
 
 
 1.- Extrusora 1
+
+
 2.- Extrusora 2
+
+
 3.- Ventilador
+
+
 4.- Modulo CNC
+
+
 5.- Sensor Z
+
 
 .. figure:: /imagenes/mm4.png
 
@@ -961,15 +930,19 @@ Conexión del modulo sencillo.
 Para poder imprimir con modulo sencillo(modulo que viene de fabrica), es
 necesario conectarlo de esta forma.
 
+
 .. Note::
     Cuando imprimimos con este modulo es muy importante tener conectado
     el seguro de doble extrusora, si este seguro no se conecta es imposible realizar la impresión
+
+
 
 .. figure:: /imagenes/mm5.png
 
 
 Uso de la pantalla
 ---------------------
+
 
 Cuando enciendes la impresora esta es la pantalla principal. La pantalla tiene una perilla multifuncional
 que gira y puedes seleccionar los menús de la pantalla, y para activarlos das clic en la perilla
@@ -979,6 +952,7 @@ que gira y puedes seleccionar los menús de la pantalla, y para activarlos das c
 
 
 Al dar clic te aparece el menú principal que contiene PREPARE,CONTROL y PRINT FROM SD.
+
 
 .. figure:: /imagenes/p2.png
 
@@ -993,7 +967,10 @@ PREPARE tiene los siguientes menús que se muestran en las imágenes.
 
 
 .. figure:: /imagenes/p4.png
+
+
 .. figure:: /imagenes/p5.png
+
 
 1  Sirve para purgar la corriente que hay en los motores, es decir cuando encendemos la impresora, los
 motores los podemos mover con nuestras manos pero al mandar imprimir o mover los ejes con el
@@ -1001,9 +978,11 @@ pronterface o la pantalla, los motores se energizan y ya no se pueden mover con 
 queremos volver a moverlos sin tener que apagar la impresora solo activamos este parámetro, basta
 dar un clic y se libera la corriente que hay en los motores.
 
+
 2  Esta opción nos permite mandar los ejes a su posición de origen o cero, al activarlo, la impresora
 moverá sus ejes en secuencia, primero el eje X se moverá a la derecha, le seguirá el eje Y moviéndose
 hacia el fondo, y por ultimo el eje Z se moverá hacia arriba.
+
 
 3  Esta opción nos permite calentar la boquilla y la cama caliente para usar PLA las temperaturas son
 adecuadas cuando se desea tener lista la boquilla para imprimir o cambiar el filamento.
@@ -1011,7 +990,9 @@ adecuadas cuando se desea tener lista la boquilla para imprimir o cambiar el fil
 
 En esta imagen se muestran todas las opciones que están dentro de Preheat PLA
 
+
 .. figure:: /imagenes/p6.png
+
 
 A  Al activarlo enciende la primer boquilla y cama caliente.
 
@@ -1028,6 +1009,7 @@ adecuadas cuando se desea tener lista la boquilla para imprimir o cambiar el fil
 
 En esta imagen se muestran todas las opciones que están dentro de Preheat ABS.
 
+
 .. figure:: /imagenes/p7.png
 
 
@@ -1043,12 +1025,14 @@ diferentes velocidades, con esta opción podemos calibrar la cama de impresión.
 
 Veamos lo que tiene Move Axis .
 
+
 .. figure:: /imagenes/p8.png
 
 
 Al dar clic en Move Axis nos abre la siguiente ventana, en ella podemos seleccionar la distancia que
 deseamos recorrer por cada giro que demos en la perilla de la pantalla.
 Como se ve en la imagen tenemos 3 opciones de distancia.
+
 
 .. figure:: /imagenes/p9.png
 
@@ -1061,27 +1045,26 @@ Cuando seleccionamos la opción de 1mm o 0.1mm nos permite mover todos los ejes 
 Ya que seleccionaste una distancia puedes ver las siguientes opciones, das clic a la opción que deseas
 mover. Y te aparecerá una nueva opción.
 
+
 .. figure:: /imagenes/p10.png
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/p11.png
+.. figure:: /imagenes/p11.png
           :width: 320px
 
           Eje X
 
-     - .. figure:: /imagenes/p12.png
+.. figure:: /imagenes/p12.png
           :width: 320px
 
           Eje Z
 
-   * - .. figure:: /imagenes/p13.png
+.. figure:: /imagenes/p13.png
           :width: 320px
 
           Eje Y
 
-     - .. figure:: /imagenes/p14.png
+.. figure:: /imagenes/p14.png
           :width: 320px
 
           Extrusora
@@ -1165,6 +1148,7 @@ Ejemplo.
 
 150mm/s = 300%
 
+
 .. figure:: /imagenes/po19.png
 
 
@@ -1175,21 +1159,19 @@ Paso 1: Aflojar el sensor inductivo con una llave allen de 2.5mm y subirlo como 
         imágenes.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/c1.png
+.. figure:: /imagenes/c1.png
           :width: 320px
 
 
-     - .. figure:: /imagenes/c2.png
+.. figure:: /imagenes/c2.png
           :width: 320px
 
 
-   * - .. figure:: /imagenes/c3.png
+.. figure:: /imagenes/c3.png
           :width: 320px
 
 
-     - .. figure:: /imagenes/c4.png
+.. figure:: /imagenes/c4.png
           :width: 320px
 
 
@@ -1203,20 +1185,16 @@ Paso 2 : Gira con cuidado el eje z hasta subirlo, logrando que entre la cama y l
 
 
 
-
-.. list-table::
-
-   * - .. figure:: /imagenes/c5.png
+.. figure:: /imagenes/c5.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/c6.png
+.. figure:: /imagenes/c6.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/c7.png
+.. figure:: /imagenes/c7.png
               :width: 320px
-
 
 
 * Paso 3:
@@ -1234,6 +1212,9 @@ Paso 2 : Gira con cuidado el eje z hasta subirlo, logrando que entre la cama y l
 
         2  sosten el eje z a la distancia que ya definiste con la tarjeta.
 
+
+
+
         3  como el sensor esta flojo lo vas a bajar lentamente hasta que veas que comienza a encender el led rojo
            que tiene en la parte superior.
 
@@ -1245,45 +1226,40 @@ Paso 2 : Gira con cuidado el eje z hasta subirlo, logrando que entre la cama y l
 
 
 
-
-   .. list-table::
-
-      * - .. figure:: /imagenes/c8.png
+.. figure:: /imagenes/c8.png
                  :width: 320px
 
 
-        - .. figure:: /imagenes/c9.png
+.. figure:: /imagenes/c9.png
                  :width: 320px
 
 
-      * - .. figure:: /imagenes/c10.png
+.. figure:: /imagenes/c10.png
                  :width: 320px
 
 
-        - .. figure:: /imagenes/c11.png
+.. figure:: /imagenes/c11.png
                   :width: 320px
 
 
 * Paso 4:
+
 
 una vez que has apretado el sensor vas a mandar un autohome en tu impresora para ver si dejaste bien
 el sensor sigue los pasos que se muestran en las imágenes, recuerda que tu perilla de la pantalla es
 multifuncional, puedes girarla para escoger la acción y dar clic para seleccionar.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/c12.png
+.. figure:: /imagenes/c12.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/c13.png
+.. figure:: /imagenes/c13.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/c14.png
+.. figure:: /imagenes/c14.png
               :width: 320px
-
 
 
 Cuando des clic en Autohome se ira a su origen 0,0,0. En esta imagen podemos apreciar que el sensor
@@ -1298,37 +1274,31 @@ quedo ligeramente separado de la cama al igual que la boquilla.
 Después de dar autohome vas a realizar movimientos de los ejes X,Y con la pantalla,el primero es en Y
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/c16.png
+.. figure:: /imagenes/c16.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/c17.png
+.. figure:: /imagenes/c17.png
               :width: 320px
 
 
-   * - .. figure:: /imagenes/c18.png
+.. figure:: /imagenes/c18.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/c19.png
+.. figure:: /imagenes/c19.png
                :width: 320px
 
 
 Revisemos lo siguiente
 
 
- .. list-table::
-
-    * - .. figure:: /imagenes/c20.png
-                             :width: 320px
+.. figure:: /imagenes/c20.png
+              :width: 320px
 
 
-      - .. figure:: /imagenes/c21.png
-                             :width: 320px
-
-
+.. figure:: /imagenes/c21.png
+              :width: 320px
 
 
 Cuando des la indicación la boquilla se moverá a esta posición, aquí podrás hacer el ajuste de la
@@ -1346,6 +1316,7 @@ con la cama tenemos que apretarlo.
    en este paso tienes solo algunos segundos para realizar cada ajuste porque cuando los motores
    dejan de moverse vuelven a su estado natural y el motor del eje Z se puede bajar si esto sucede vuelve
    a mandar autohome e intenta realizar el ajuste.
+
 
 
 Calibración de impresora "distancia cama-boquilla" MM1 V1.5
@@ -1481,6 +1452,7 @@ a la boquilla
   pinzas de corte
 
 
+
 .. figure:: /imagenes/pri10.jpg
               :width: 320px
 
@@ -1545,6 +1517,7 @@ salio por la punta de la boquilla, esta colocado el material correctamente.
    este proceso es el mismo para poder retirar el material, se calienta la boquilla y se retira el
    filamento girando los engranes en sentido normal a las manecillas del reloj.
    Este paso se hace para cambiar el filamento o retirar un sobrante y colocar un carrete nuevo.
+
 
 
 .. figure:: /imagenes/pri23.jpg
@@ -1721,14 +1694,14 @@ bien identifiquemos sus componentes de este Módulo
 
 colocaremos el Módulo 1 por debajo de la cruz hasta que tope como se ven en las imágenes.
 
-.. list-table::
 
-    * - .. figure:: /imagenes/fle2.jpg
-                             :width: 500px
+.. figure:: /imagenes/fle2.jpg
+             :width: 500px
 
 
-      - .. figure:: /imagenes/fle3.jpg
-                             :width: 500px
+.. figure:: /imagenes/fle3.jpg
+             :width: 500px
+
 
 +------+
 |Paso 2|
@@ -1738,18 +1711,16 @@ colocaremos el Módulo 1 por debajo de la cruz hasta que tope como se ven en las
 Ahora colocamos nuestro clip de sujeción
 
 
-.. list-table::
-
-    * - .. figure:: /imagenes/fle4.jpg
-                             :width: 500px
+.. figure:: /imagenes/fle4.jpg
+           :width: 500px
 
 
-      - .. figure:: /imagenes/fle5.jpg
-                             :width: 500px
+.. figure:: /imagenes/fle5.jpg
+           :width: 500px
 
 
-      - .. figure:: /imagenes/fle6.jpg
-                             :width: 500px
+.. figure:: /imagenes/fle6.jpg
+           :width: 500px
 
 
 hasta este punto el módulo 1 esta anclado a la cruz central.
@@ -1787,18 +1758,16 @@ ahora colocaremos los tornillos M3x16mm para unir y fijar ambas partes del Módu
   Gira un poco el engrane grande  para poder colocar los dos tornillos que van en la parte que señala la flecha.
 
 
-.. list-table::
-
-    * - .. figure:: /imagenes/fle9.jpg
-                             :width: 320px
+.. figure:: /imagenes/fle9.jpg
+           :width: 320px
 
 
-      - .. figure:: /imagenes/fle10.jpg
-                             :width: 320px
+.. figure:: /imagenes/fle10.jpg
+           :width: 320px
 
 
-      - .. figure:: /imagenes/fle11.jpg
-                             :width: 320px
+.. figure:: /imagenes/fle11.jpg
+           :width: 320px
 
 +------+
 |Paso 5|
@@ -1808,14 +1777,12 @@ ahora colocaremos los tornillos M3x16mm para unir y fijar ambas partes del Módu
 colocamos la guía de filamento en el perfil superior trasero como se ve en las imágenes.
 
 
-.. list-table::
-
-    * - .. figure:: /imagenes/fle12.jpg
-                             :width: 320px
+.. figure:: /imagenes/fle12.jpg
+           :width: 320px
 
 
-      - .. figure:: /imagenes/fle13.jpg
-                             :width: 320px
+.. figure:: /imagenes/fle13.jpg
+           :width: 320px
 
 +------+
 |Paso 6|
@@ -1829,6 +1796,7 @@ vamos a conectar los cables del módulo, pasamos los cables por encima del perfi
 
 
 .. figure:: /imagenes/fle15.jpg
+
 
 +------+
 |Paso 7|
@@ -1886,27 +1854,23 @@ para poder meter el filamento a la boquilla usamos los siguientes pasos
 
 
 
-
 Una vez que este caliente la boquilla metemos el filamento por la guía como se muestra en las imágenes y lo llevamos hasta el
 orificio que esta en el módulo 2 y giramos el engrane grande en sentido normal a las manecillas del reloj, para que el filamento
 llegue hasta la boquilla.
+
 Cuando esto pase se vera que sale como un hilo pequeño de la boquilla y el filamento estará listo para usarse.
-
-
 
 Ahora apagamos la impresora y la volvemos a encender, esto se hace para que de un rest la tarjeta madre y deje de calentar el
 volverla a encender nos ayuda a que la boquilla se enfrié con ayuda del ventilador pequeño ya que es de metal y si se deja apagada
 puede ocasionarnos un atasco,porque el calor se irradiaría en todo su cuerpo.
 
 
-.. list-table::
-
-    * - .. figure:: /imagenes/fle18.jpg
-                             :width: 320px
+.. figure:: /imagenes/fle18.jpg
+           :width: 320px
 
 
-      - .. figure:: /imagenes/fle19.jpg
-                             :width: 320px
+.. figure:: /imagenes/fle19.jpg
+           :width: 320px
 
 
 +------+
@@ -1918,14 +1882,10 @@ Colocar los parámetros para poder imprimir
 en esta parte es muy importante que coloquemos la temperatura segun el material que vayamos a usar.
 
 
-
-
 Para Ninjaflex y TPE te recomendamos usar la temperatura de impresión de 228°C
 
 
 Para el PLA soft te recomendamos usar la temperatura de impresión de 208°C
-
-
 
 
 Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
@@ -1934,40 +1894,32 @@ Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
 .. note::
    solo para el filamento PLA soft se usaran los siguientes parámetros
 
- .. list-table::
 
-    * - .. figure:: /imagenes/fle22.png
-                             :width: 320px
-
-
-      - .. figure:: /imagenes/fle23.png
-                             :width: 320px
+.. figure:: /imagenes/fle22.png
+           :width: 320px
 
 
-
-.. list-table::
-
-    * - .. figure:: /imagenes/fle20.png
-                              :width: 320px
+.. figure:: /imagenes/fle23.png
+           :width: 320px
 
 
-      - .. figure:: /imagenes/fle21.png
-                              :width: 320px
+.. figure:: /imagenes/fle20.png
+           :width: 320px
+
+.. figure:: /imagenes/fle21.png
+           :width: 320px
 
 
-.. list-table::
-
-    * - .. figure:: /imagenes/fle24.png
-                             :width: 320px
+.. figure:: /imagenes/fle24.png
+           :width: 320px
 
 
-      - .. figure:: /imagenes/fle25.png
-                             :width: 320px
+.. figure:: /imagenes/fle25.png
+           :width: 320px
 
 
 Listo amigos una vez que tenemos estos parámetros en nuestro cura podemos sacar nuestro código G en la tarjeta SD y mandar a imprimir
 como lo hemos hevho en la primera impresión.
-
 
 
 Módulo Doble
@@ -1988,7 +1940,7 @@ Características técnicas:
 
 
 *  Materiales en filamentos:  Nailon(618,645), Policarbonato (PC), ABS, PLA, Filamento flexible (TPE, PLA Soft), Lay Wood, PVA, en sí
-es compatible con la mayoría de los filamentos que existen en el mercado.
+   es compatible con la mayoría de los filamentos que existen en el mercado.
 
 
 Características generales:
@@ -2017,12 +1969,12 @@ por su MM1.
 
 
 .. figure:: /imagenes/md3.jpg
-colcas el modulo por la parte inferior de la cruz
+         colcas el modulo por la parte inferior de la cruz
 
 
 
 .. figure:: /imagenes/md4.jpg
-colocamos el clip de sujecion
+          colocamos el clip de sujecion
 
 
 Vamos a colocra nustro segundo extrusor como colocamos el primero solo que este va colocado en la parte derecha como se ve en
@@ -2149,7 +2101,6 @@ Por último, debe unirlos haciendo clic derecho en el espacio de trabajo en Cura
 
 
 Así queda la figura. la segunda extrusora imprimirá las partes en rojo
-
 
 
 .. figure:: /imagenes/md16.png
@@ -2967,8 +2918,10 @@ Hola MakerAmigo
 
 les presentamos el módulo de pastas este modulo es muy divertido al usarlo ya que es experimental, y puedes hacer creaciones de pastas y probarlas.
 
+
 .. Note::
    Este módulo funciona con pastas frias.
+
 
 
 General
@@ -3105,10 +3058,8 @@ Debemos asegurar que la jeringa este bien sujeta desde la parte central y el emb
 Y así es como se coloca la jeringa en la estación de bombeo.
 
 
-
 .. Note::
    si la base que esta unida a la varilla roscada, se encuentra muy arriba deberás bajarla para que puedas colocar la jeringa como se muestra en las imágenes anteriores, es muy simple solo tienes que girar el engrane grande en sentido opuesto a las manecillas del reloj para que pueda bajar la base, y así  poder colocar bien el embolo de la jeringa en el orificio de la base plástica.
-
 
 
 
@@ -3222,7 +3173,6 @@ Glucosa ( se consigue en lugares de repostería o donde venden materias primas, 
 
 
 Preparación de pasta
-
 
 
 Ingredientes:
