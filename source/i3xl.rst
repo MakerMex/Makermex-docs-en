@@ -248,12 +248,11 @@ atravesándola por el agujero que está solo en su pared. Además revisar que la
 la ranura superior apunte hacia afuera de la varilla.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru16.png
+.. figure:: /imagenes/prusa/pru16.png
                           :width: 320px
 
-     - .. figure:: /imagenes/prusa/pru17.png
+
+.. figure:: /imagenes/prusa/pru17.png
                           :width: 320px
 
 Al final ambas varillas deberían verse como en la siguiente imagen.
@@ -357,6 +356,7 @@ de la varilla superior de la parte B del carro Y.
 
 .. figure:: /imagenes/prusa/pru30.png
                   :width: 320px
+
 .. figure:: /imagenes/prusa/pru31.png
                   :width: 320px
 
@@ -507,16 +507,11 @@ pinzas de punta para que se apriete correctamente,procurando no apretar tan fuer
 que las tuercas son de seguridad nunca se aflojaran.
 
 
-
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru47.png
+.. figure:: /imagenes/prusa/pru47.png
                           :width: 320px
 
-     - .. figure:: /imagenes/prusa/pru48.png
+.. figure:: /imagenes/prusa/pru48.png
                           :width: 320px
-
-
 
 Paso 12
 
@@ -533,26 +528,18 @@ Ubicar una tuerca M3 Normal extra e insertarla por la parte trasera de la pieza 
 muestra en las imágenes. Es recomendable ayudarte de unas pinzas mecánicas.
 
 
-.. note::
-
-   .. list-table::
-
-      * - .. figure:: /imagenes/prusa/pru50.png
+.. figure:: /imagenes/prusa/pru50.png
                  :width: 320px
 
 
-        - .. figure:: /imagenes/prusa/pru51.png
+.. figure:: /imagenes/prusa/pru51.png
                  :width: 320px
 
-
-      * - .. figure:: /imagenes/prusa/pru52.png
+.. figure:: /imagenes/prusa/pru52.png
                  :width: 320px
 
-
-        - .. figure:: /imagenes/prusa/pru53.png
+.. figure:: /imagenes/prusa/pru53.png
                   :width: 320px
-
-
 
 Paso 14
 
@@ -595,13 +582,11 @@ Después inserte las piezas B a través de los extremos sobrantes de los tornill
 puestos.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru58.png
+.. figure:: /imagenes/prusa/pru58.png
               :width: 320px
 
 
-     - .. figure:: /imagenes/prusa/pru59.png
+.. figure:: /imagenes/prusa/pru59.png
               :width: 320px
 
 
@@ -646,21 +631,14 @@ se aprecia en la imagen.
 Su impresora debe verse como en las imágenes debajo.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru64.png
+.. figure:: /imagenes/prusa/pru64.png
           :width: 320px
 
-
-     - .. figure:: /imagenes/prusa/pru65.png
+.. figure:: /imagenes/prusa/pru65.png
           :width: 320px
 
-
-     - .. figure:: /imagenes/prusa/pru66.png
+.. figure:: /imagenes/prusa/pru66.png
                :width: 320px
-
-
-
 
 Paso 20
 
@@ -700,16 +678,13 @@ Paso 21
       tuerca.
 
 
-      .. list-table::
-
-         * - .. figure:: /imagenes/prusa/pru68.png
+.. figure:: /imagenes/prusa/pru68.png
                     :width: 320px
 
-
-           - .. figure:: /imagenes/prusa/pru69.png
+.. figure:: /imagenes/prusa/pru69.png
                     :width: 320px
 
-           - .. figure:: /imagenes/prusa/pru70.png
+.. figure:: /imagenes/prusa/pru70.png
                     :width: 320px
 
 .. note::
@@ -724,23 +699,16 @@ Paso 21
           sobre el eje Y y después las otras 2 esquinas
 
 
-
-
 Paso 22
-
 
 Justo después de poner fijador a la varilla roscada volvemos a apretar la tuerca en donde
 estaba ubicada pero ahora con ayuda de dos llaves de 1⁄2 “ al momento de apretar tener
 cuidado de no hacerlo tan fuerte.
 
-
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru71.png
+.. figure:: /imagenes/prusa/pru71.png
               :width: 320px
 
-
-     - .. figure:: /imagenes/prusa/pru72.png
+.. figure:: /imagenes/prusa/pru72.png
               :width: 320px
 
 Repita este procedimiento con cada una de las 4 esquinas del carro Y.
@@ -800,14 +768,10 @@ Para fijar dicha polea a la flecha del motor pondremos 2 opresores M3x8mm en los
 orificios enroscados que están a lo largo de la circunferencia de la polea
 
 
-
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru76.png
+.. figure:: /imagenes/prusa/pru76.png
               :width: 320px
 
-
-     - .. figure:: /imagenes/prusa/pru77.png
+.. figure:: /imagenes/prusa/pru77.png
               :width: 320px
 
 
@@ -845,17 +809,11 @@ Paso 28
 Quite las tuercas M3 de seguridad que oprimen la pieza B de menor altura para poner
 debajo de esta la banda como se muestra en las imágenes.
 
-
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru80.png
+.. figure:: /imagenes/prusa/pru80.png
               :width: 320px
 
-
-     - .. figure:: /imagenes/prusa/pru81.png
+.. figure:: /imagenes/prusa/pru81.png
               :width: 320px
-
-
 
 Paso 29
 
@@ -874,21 +832,14 @@ Paso 30
 Después pase la banda a través de la polea de la parte A del carro Y como se muestra en la
 imagen.
 
-
-
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru83.png
+.. figure:: /imagenes/prusa/pru83.png
               :width: 320px
 
-
-     - .. figure:: /imagenes/prusa/pru84.png
+.. figure:: /imagenes/prusa/pru84.png
               :width: 320px
 
-
-     - .. figure:: /imagenes/prusa/pru85.png
+.. figure:: /imagenes/prusa/pru85.png
               :width: 320px
-
 
 Paso 31
 
@@ -912,11 +863,8 @@ punta.
 .. figure:: /imagenes/prusa/pru87.png
 
 
-
 .. note::
-
-
-          Para los próximos pasos Ud. requerirá ayuda de otra persona.
+    Para los próximos pasos Ud. requerirá ayuda de otra persona.
 
 
 Mientras tanto alguien más puede poner la pieza B de nuevo en su lugar y atornillarla para
@@ -1049,28 +997,19 @@ posición.
 
 
 .. note::
+      ATENCIÓN: Observe como entra la tuerca los lados paralelos de la tuerca deben
+      entrar de manera paralela a las paredes laterales de la ranura.
 
-          ATENCIÓN: Observe como entra la tuerca los lados paralelos de la tuerca deben
-          entrar de manera paralela a las paredes laterales de la ranura.
-
-
-.. list-table::
-
-
-             * - .. figure:: /imagenes/prusa/pru103.png
+.. figure:: /imagenes/prusa/pru103.png
                         :width: 320px
 
-
-               - .. figure:: /imagenes/prusa/pru104.png
+.. figure:: /imagenes/prusa/pru104.png
                         :width: 320px
 
-
-               - .. figure:: /imagenes/prusa/pru105.png
+.. figure:: /imagenes/prusa/pru105.png
                         :width: 320px
-
 
 Paso 8
-
 
 Antes de proceder con el siguiente paso es necesario quitar el exceso de plástico que
 pudiese haber en el orificio de las piezas O más pequeñas.
@@ -2163,13 +2102,10 @@ más las varillas lisas M8x410 mm en la segunda pieza M como se muestra en la
 imagen.
 
 
- .. list-table::
-
-    * - .. figure:: /imagenes/prusa/pru231.png
+.. figure:: /imagenes/prusa/pru231.png
                              :width: 250px
 
-
-      - .. figure:: /imagenes/prusa/pru232.png
+.. figure:: /imagenes/prusa/pru232.png
                              :width: 250px
 
 
@@ -2262,14 +2198,10 @@ Introducir las varillas roscadas M5 en las tuerca previamente instaladas en la p
 M como se muestra en la figura.
 
 
-
- .. list-table::
-
-    * - .. figure:: /imagenes/prusa/pru242.png
+.. figure:: /imagenes/prusa/pru242.png
                              :width: 250px
 
-
-      - .. figure:: /imagenes/prusa/pru243.png
+.. figure:: /imagenes/prusa/pru243.png
                              :width: 250px
 
 
@@ -3444,15 +3376,11 @@ cargados a la derecha de la clema.
 
           ATENCIÓN: Asegúrese de poner el cable negro hasta el último orificio y el amarillo en el orificio subsecuente
 
+.. figure:: /imagenes/prusa/pru367.png
+                      :width: 300px
 
-.. list-table::
-
-             * - .. figure:: /imagenes/prusa/pru367.png
-                                      :width: 300px
-
-
-               - .. figure:: /imagenes/prusa/pru368.png
-                                      :width: 300px
+.. figure:: /imagenes/prusa/pru368.png
+                :width: 300px
 
 
 .. figure:: /imagenes/prusa/pru369.png
@@ -3534,18 +3462,11 @@ en la imagen.
 
 3. Por último inserte la clema de nuevo en su lugar.
 
+.. figure:: /imagenes/prusa/pru381.png
+                  :width: 300px
 
-
-.. list-table::
-
-             * - .. figure:: /imagenes/prusa/pru381.png
-                                      :width: 300px
-
-
-               - .. figure:: /imagenes/prusa/pru382.png
-                                      :width: 300px
-
-
+.. figure:: /imagenes/prusa/pru382.png
+                  :width: 300px
 
 15. DETALLADO
 
@@ -3585,15 +3506,12 @@ Paso 3
 
 Conecte el adaptador a su controlador como se muestra en las imágenes debajo.
 
-
-.. list-table::
-
-             * - .. figure:: /imagenes/prusa/pru386.png
-                                      :width: 300px
+.. figure:: /imagenes/prusa/pru386.png
+              :width: 300px
 
 
-               - .. figure:: /imagenes/prusa/pru387.png
-                                      :width: 300px
+.. figure:: /imagenes/prusa/pru387.png
+              :width: 300px
 
 
 Paso 4
@@ -3603,14 +3521,11 @@ Una el adaptador a la pantalla mediante los cables como se muestra en la imagen.
 terminal EXP1 conecte a EXP1 y lo mismo con EXP 2.
 
 
-.. list-table::
+.. figure:: /imagenes/prusa/pru388.png
+                :width: 300px
 
-             * - .. figure:: /imagenes/prusa/pru388.png
-                                      :width: 300px
-
-
-               - .. figure:: /imagenes/prusa/pru389.png
-                                      :width: 300px
+.. figure:: /imagenes/prusa/pru389.png
+                :width: 300px
 
 
 Paso 5
@@ -3638,16 +3553,11 @@ Después procedemos a colocarla como se muestra en la imagen utilizando los sepa
 tornillos M3x16mm con sus respectivas rondanas y Turcas M3 de seguridad.
 
 
+.. figure:: /imagenes/prusa/pru391.png
+             :width: 300px
 
-.. list-table::
-
-             * - .. figure:: /imagenes/prusa/pru391.png
-                                      :width: 300px
-
-
-               - .. figure:: /imagenes/prusa/pru392.png
-                                      :width: 300px
-
+.. figure:: /imagenes/prusa/pru392.png
+             :width: 300px
 
 Paso 1
 
@@ -3679,14 +3589,12 @@ Identificar cables (ventilador, termorresistor, resistencia, motor).
 
 
 
-.. list-table::
-
-             * - .. figure:: /imagenes/prusa/pru395.png
-                                      :width: 320px
+.. figure:: /imagenes/prusa/pru395.png
+             :width: 320px
 
 
-               - .. figure:: /imagenes/prusa/pru396.png
-                                      :width: 320px
+.. figure:: /imagenes/prusa/pru396.png
+             :width: 320px
 
 
 
@@ -3720,16 +3628,12 @@ la impresora como se muestra en la imagen.
 
 Tomamos el cable de motor de la extrusora y conectarlo en el pin E0.
 
+.. figure:: /imagenes/prusa/pru400.png
+              :width: 320px
 
 
-.. list-table::
-
-             * - .. figure:: /imagenes/prusa/pru400.png
-                                      :width: 320px
-
-
-               - .. figure:: /imagenes/prusa/pru401.png
-                                      :width: 320px
+.. figure:: /imagenes/prusa/pru401.png
+              :width: 320px
 
 
 Tomamos el cable de la resistencia, estañamos las puntas y las conectamos en el pin HE0.
@@ -3737,44 +3641,31 @@ Tomamos el cable de la resistencia, estañamos las puntas y las conectamos en el
 
 Aseguramos con desarmador.
 
+.. figure:: /imagenes/prusa/pru402.png
+                :width: 320px
 
-.. list-table::
-
-             * - .. figure:: /imagenes/prusa/pru402.png
-                                      :width: 320px
-
-
-               - .. figure:: /imagenes/prusa/pru403.png
-                                      :width: 320px
+.. figure:: /imagenes/prusa/pru403.png
+              :width: 320px
 
 
 Tomamos el cable del thermoresistor y lo conectamos en el pin T0.
 
+.. figure:: /imagenes/prusa/pru404.png
+                       :width: 320px
 
-.. list-table::
-
-             * - .. figure:: /imagenes/prusa/pru404.png
-                                      :width: 320px
-
-
-               - .. figure:: /imagenes/prusa/pru405.png
-                                      :width: 320px
+.. figure:: /imagenes/prusa/pru405.png
+                       :width: 320px
 
 
 Por último para conectar el ventilador tomamos los cables, estañamos las puntas y los conectamos en
 el pin FAN0, el rojo en el positivo y el negro en el negativo. Aseguramos los cables.
 
 
-.. list-table::
+.. figure:: /imagenes/prusa/pru406.png
+                    :width: 320px
 
-             * - .. figure:: /imagenes/prusa/pru406.png
-                                      :width: 320px
-
-
-               - .. figure:: /imagenes/prusa/pru407.png
-                                      :width: 320px
-
-
+.. figure:: /imagenes/prusa/pru407.png
+                    :width: 320px
 
 Paso 3
 
@@ -3824,24 +3715,17 @@ Para finalizar con la conexión de los sensores, identificamos el cable del sens
 identificado lo pasamos por uno de los orificios de la parte inferior del acrílico y conectamos en el pin “X- “.
 
 
-
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru413.png
+.. figure:: /imagenes/prusa/pru413.png
               :width: 300px
 
-
-     - .. figure:: /imagenes/prusa/pru414.png
+.. figure:: /imagenes/prusa/pru414.png
               :width: 300px
 
-
-   * - .. figure:: /imagenes/prusa/pru415.png
+.. figure:: /imagenes/prusa/pru415.png
               :width: 300px
 
-
-     - .. figure:: /imagenes/prusa/pru416.png
+.. figure:: /imagenes/prusa/pru416.png
                :width: 300px
-
 
 Paso 4
 
@@ -3861,48 +3745,34 @@ Conectamos el cable del motor X.
 
 Se conecta en el pin X como se muestra en la figura.
 
-
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru418.png
+.. figure:: /imagenes/prusa/pru418.png
               :width: 320px
 
-
-     - .. figure:: /imagenes/prusa/pru419.png
+.. figure:: /imagenes/prusa/pru419.png
               :width: 320px
 
 
 Conectamos el cable del motor del Eje Y, lo pasamos por el orificio del acrílico y lo conectamos en el pin “Y”
 
-
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru420.png
+.. figure:: /imagenes/prusa/pru420.png
               :width: 320px
 
-
-     - .. figure:: /imagenes/prusa/pru421.png
+.. figure:: /imagenes/prusa/pru421.png
               :width: 320px
 
-
-     - .. figure:: /imagenes/prusa/pru422.png
+.. figure:: /imagenes/prusa/pru422.png
               :width: 320px
 
 
 Para la conexión de los motores de “Z” conectamos cada motor con su cable.
 
-
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru423.png
+.. figure:: /imagenes/prusa/pru423.png
               :width: 300px
 
-
-     - .. figure:: /imagenes/prusa/pru424.png
+.. figure:: /imagenes/prusa/pru424.png
               :width: 300px
 
-
-     - .. figure:: /imagenes/prusa/pru425.png
+.. figure:: /imagenes/prusa/pru425.png
               :width: 300px
 
 
@@ -3916,14 +3786,10 @@ conector hembra y sirven para conectar los dos motores de “Z” en un solo pin
 Conectamos estos cables a los motores.
 
 
-.. list-table::
-
-
-    * - .. figure:: /imagenes/prusa/pru427.png
+.. figure:: /imagenes/prusa/pru427.png
            :width: 300px
 
-
-      - .. figure:: /imagenes/prusa/pru428.png
+.. figure:: /imagenes/prusa/pru428.png
            :width: 300px
 
 
@@ -3939,17 +3805,13 @@ Paso 5
 Tomamos los disipadores de calor, y los pegamos en los pololus.
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru430.png
+.. figure:: /imagenes/prusa/pru430.png
               :width: 300px
 
-
-     - .. figure:: /imagenes/prusa/pru431.png
+.. figure:: /imagenes/prusa/pru431.png
               :width: 300px
 
-
-     - .. figure:: /imagenes/prusa/pru432.png
+.. figure:: /imagenes/prusa/pru432.png
               :width: 300px
 
 
@@ -3961,14 +3823,10 @@ Acomodo de cables
 
 Para finalizar y con ayuda de cinchos enrrollamos los cables, esto con el fin de un mejor acomodo y evitar enrredos.
 
-
-.. list-table::
-
-   * - .. figure:: /imagenes/prusa/pru433.png
+.. figure:: /imagenes/prusa/pru433.png
               :width: 300px
 
-
-     - .. figure:: /imagenes/prusa/pru434.png
+.. figure:: /imagenes/prusa/pru434.png
               :width: 300px
 
 
@@ -4046,18 +3904,14 @@ Primera Impresión
 Descarga de Software
 --------------------
 
-
- .. list-table::
-
-    * - .. figure:: /imagenes/prusa/cu.png
-                             :width: 150px
+.. figure:: /imagenes/prusa/cu.png
+               :width: 150px
 
 
-      - .. figure:: /imagenes/prusa/pronterface.png
-                             :width: 150px
+.. figure:: /imagenes/prusa/pronterface.png
+                :width: 150px
 
-
-      - .. figure:: /imagenes/prusa/Blender_logo.png
+.. figure:: /imagenes/prusa/Blender_logo.png
                              :width: 150px
 
 
@@ -4243,11 +4097,13 @@ QUALITY.
   calidad/tiempo es 2.0, es lo que nosotros recomendamos y utilizamos en nuestras
   piezas. El parámetro máximo recomendado es 0.1 mm, aunque el tiempo de
   impresión se eleva al doble.
+
 + Shell Thickness. Es el grosor de la capa externa en dirección horizontal, es decir,
   se incrementar para realizar piezas con un cascarón más resistente en su exterior.
   Se recomienda dejar los valores predefinidos (0.6 mm) y hasta 1 mm. Este
   parámetro también puede variar según el material con el que se imprime, ya que
   ciertos materiales requieren sus propios parámetros de impresión.
+
 + Enable Retraction. Se recomienda ampliamente marcar esta casilla. Este ajuste
   retrae el filamento, es decir, gira los engranes en sentido contrario cuando la
   boquilla se mueve sobre una superficie que no requiere impresión. Esto previene
@@ -4262,6 +4118,7 @@ QUALITY.
   un valor cercano al Shell Thinckess para que se forme una pieza fuerte uniforme
   en el exterior. Se recomienda dejar los valores predefinidos: 0.6 mm, 0.8 mm y
   hasta 1 mm.
+
 + Fill Density: Este parámetro es importante para el producto final. Controla el
   relleno que tendrá la pieza, lo que definirá que tan fuerte resulta. Para piezas
   visuales sin requerimientos de esfuerzo mecánico se puede probar desde 5% o
@@ -4342,6 +4199,7 @@ RETRACTION.
 
 
 + Speed. Es la velocidad a la que se hace la retracción de filamento.
+
 + Distance. Es la distancia que se retraerá el filamento. Ajusta en 0 si quieres
   ignorar este parámetro.
 
@@ -4353,9 +4211,11 @@ QUALITY.
   inicial más gruesa permite una mejor adherencia a la plataforma. Ajusta en 0 para
   ignorar este parámetro y la capa inicial tenga el mismo grosor que las demás
   capas.
+
 + Cut Off Object Bottom. Sumerge el objeto en la plataforma a la distancia que se
   le indique. Esto funciona para objetos que tengan errores en el diseño y/o no
   tengan una cara plana en la base.
+
 + Dual Extrusion Overlap. Añade una cantidad de material sobrepuesta en las
   impresiones que se hagan con doble extrusora, esto con el fin de unir los
   diferentes colores o materiales en una sola pieza.
@@ -4365,16 +4225,20 @@ SPEED.
 
 
 + Travel Speed. Es la velocidad a la que se mueve la estrusora cuando no está depositando material. El valor predefinido es muy recomendable.
+
 + Bottom Layer Speed. Esto controla la velocidad a la que se hace la primera capa.
   al imprimirse más despacio, se adhiere de mejor forma sobre la superficie. El valor
   predefinido es muy recomendable.
+
 + Infill Speed. Es la velocidad a la que se imprime el relleno de la pieza. Se
   recomienda situar este valor en 0, con esto el relleno se deposita a la misma
   velocidad predefinida en "Print speed".
+
 + Outer Shell Speed. Controla la velocidad a la que se imprimen la capa exterior de
   la pieza. Imprimir esta parte a una menor velocidad, mejorará el resultado final en
   cuanto resolución. Al situar este valor en 0, la velocidad a la que se hace es la
   misma que se definió en "Print speed", esto genera buenos resultados.
+
 + Inner Shell speed. Controla la velocidad a la que se imprimen la capa interna de
   la pieza. Al situar este valor en 0, la velocidad a la que se hace es la misma que se
   definió en "Print speed". Es importante que este parámetro y el “Outter Shell
@@ -4388,6 +4252,7 @@ SPEED.
   importar que la dimensión de ésta sea muy pequeño. Esto permitirá que se enfríe
   lo suficiente antes de depositar la siguiente capa. El parámetro predefinido (5 seg.)
   funciona de gran forma.
+
 + Enable Cooling Fan. A menos que el material que se está imprimiendo, es
   importante que esta casilla se encuentre marcada permanentemente, ya que
   activa la ventilación durante la impresión.
