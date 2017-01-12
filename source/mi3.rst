@@ -132,171 +132,161 @@ MANUAL DE ENSAMBLADO Mi3
 |Piezas Plasticas|
 +----------------+
 
-
-
-.. list-table::
-
-
-   * - .. figure:: /imagenes/mi3/pl1.png
+.. figure:: /imagenes/mi3/pl1.png
 
 
           4- PIEZAS - A
 
 
-     - .. figure:: /imagenes/mi3/PL2.png
+.. figure:: /imagenes/mi3/PL2.png
 
           2- PIEZAS - B
 
 
-     - .. figure:: /imagenes/mi3/PL3.png
+.. figure:: /imagenes/mi3/PL3.png
 
 
           1 - PIEZA - C1
 
 
-     - .. figure:: /imagenes/mi3/PL4.png
+.. figure:: /imagenes/mi3/PL4.png
 
           1 - PIEZA - C2
 
 
-     - .. figure:: /imagenes/mi3/PL5.png
+.. figure:: /imagenes/mi3/PL5.png
 
 
           4 - PIEZAS - D
 
 
-     - .. figure:: /imagenes/mi3/PL6.png
+.. figure:: /imagenes/mi3/PL6.png
 
 
           1 -  PIEZA - E
 
 
-     - .. figure:: /imagenes/mi3/PL7.png
+.. figure:: /imagenes/mi3/PL7.png
 
           1 - PIEZA - F
 
 
-     - .. figure:: /imagenes/mi3/PL8.png
+.. figure:: /imagenes/mi3/PL8.png
 
 
           1 - PIEZA - G1
 
 
-     - .. figure:: /imagenes/mi3/PL9.png
+.. figure:: /imagenes/mi3/PL9.png
 
 
           1 - PIEZA - G
 
 
-     - .. figure:: /imagenes/mi3/PL10.png
+.. figure:: /imagenes/mi3/PL10.png
 
 
           1 - PIEZA - H1
 
 
-     - .. figure:: /imagenes/mi3/PL11.png
+.. figure:: /imagenes/mi3/PL11.png
 
 
           1 - PIEZA - H2
 
 
-     - .. figure:: /imagenes/mi3/PL12.png
+.. figure:: /imagenes/mi3/PL12.png
 
 
           1 - PIEZA - I
 
 
-     - .. figure:: /imagenes/mi3/PL13.png
+.. figure:: /imagenes/mi3/PL13.png
 
 
           2 - PIEZA - J
 
 
-     - .. figure:: /imagenes/mi3/PL14.png
+.. figure:: /imagenes/mi3/PL14.png
 
 
           4 - PIEZAS - k
 
 
-     - .. figure:: /imagenes/mi3/PL15.png
+.. figure:: /imagenes/mi3/PL15.png
 
 
           1 - PIEZA - L
 
 
-     - .. figure:: /imagenes/mi3/PL16.png
+.. figure:: /imagenes/mi3/PL16.png
 
 
           1 - PIEZA - M
 
 
-     - .. figure:: /imagenes/mi3/PL17.png
+.. figure:: /imagenes/mi3/PL17.png
 
 
           1 - PIEZA - N
 
 
-     - .. figure:: /imagenes/mi3/PL18.png
+.. figure:: /imagenes/mi3/PL18.png
 
           1 - PIEZA - O
 
 
-     - .. figure:: /imagenes/mi3/PL19.png
+.. figure:: /imagenes/mi3/PL19.png
 
 
           2 - PIEZA - P
 
 
-     - .. figure:: /imagenes/mi3/PL20.png
+.. figure:: /imagenes/mi3/PL20.png
 
 
           1 - PIEZA - Q
 
 
-     - .. figure:: /imagenes/mi3/PL21.png
+.. figure:: /imagenes/mi3/PL21.png
 
 
           1 - PIEZA - R
 
 
-     - .. figure:: /imagenes/mi3/PL22.png
+.. figure:: /imagenes/mi3/PL22.png
 
 
           1 - PIEZA - S
 
 
-     - .. figure:: /imagenes/mi3/PL23.png
+.. figure:: /imagenes/mi3/PL23.png
 
 
           1 - PIEZA - T
 
 
-     - .. figure:: /imagenes/mi3/PL24.png
+.. figure:: /imagenes/mi3/PL24.png
 
 
           1 - PIEZA - W
 
 
-     - .. figure:: /imagenes/mi3/PL25.png
+.. figure:: /imagenes/mi3/PL25.png
 
 
           1 - PIEZA - X
 
 
-     - .. figure:: /imagenes/mi3/PL26.png
+.. figure:: /imagenes/mi3/PL26.png
 
 
           1 - PIEZA - Y
 
 
-     - .. figure:: /imagenes/mi3/PL27.png
+.. figure:: /imagenes/mi3/PL27.png
 
           1 - PIEZA  -  Z
-
-
-
-
-
 
 
 Sistema de referencia.
@@ -363,26 +353,16 @@ Teniendo la precaución de que la parte más pequeña de la unión plástica cen
 quede hacia abajo y las perforaciones del perfil orientadas hacia arriba.
 
 
-
-
-
-.. list-table::
-
-
-   * - .. figure:: /imagenes/mi3/i6.png
+.. figure:: /imagenes/mi3/i6.png
                         :width: 500px
 
 
-     - .. figure:: /imagenes/mi3/i7.png
+.. figure:: /imagenes/mi3/i7.png
                        :width: 500px
 
 
-     - .. figure:: /imagenes/mi3/i8.png
+.. figure:: /imagenes/mi3/i8.png
                          :width: 500px
-
-
-
-
 
 
 En caso de que surja dificultad al momento de ensamblar la pieza plástica con su
@@ -481,27 +461,20 @@ B3.
                   :width: 1000px
 
 
-
-.. list-table::
-
-
-   * - .. figure:: /imagenes/mi3/i19.png
+.. figure:: /imagenes/mi3/i19.png
                       :width: 500px
 
 
-     - .. figure:: /imagenes/mi3/i20.png
+.. figure:: /imagenes/mi3/i20.png
                         :width: 500px
 
 
-     - .. figure:: /imagenes/mi3/i21.png
+.. figure:: /imagenes/mi3/i21.png
                         :width: 500px
 
 
-     - .. figure:: /imagenes/mi3/i22.png
+.. figure:: /imagenes/mi3/i22.png
                         :width: 500px
-
-
-
 
 
 Obtenido dos ensambles de arco similares.
@@ -509,7 +482,6 @@ Obtenido dos ensambles de arco similares.
 
 .. figure:: /imagenes/mi3/i23.png
                   :width: 1000px
-
 
 
 Después se procede a unir estos ensambles resultantes con el primer armado del
@@ -533,15 +505,11 @@ tener la cara con dos perforaciones con vista a los laterales, y uno de ellos de
 coincidir con el orificio de la unión central.
 
 
-
-.. list-table::
-
-
-   * - .. figure:: /imagenes/mi3/i26.png
+.. figure:: /imagenes/mi3/i26.png
                       :width: 500px
 
 
-     - .. figure:: /imagenes/mi3/i27.png
+.. figure:: /imagenes/mi3/i27.png
                         :width: 500px
 
 Algunos casos será necesario aplicar una fuerza relativamente grande para poder
@@ -671,25 +639,20 @@ continuación por ambos lados.
 Mientras que en las esquinas se atornillara como se muestra a continuación.
 
 
-.. list-table::
-
-
-   * - .. figure:: /imagenes/mi3/i45.png
+.. figure:: /imagenes/mi3/i45.png
                       :width: 500px
 
 
-     - .. figure:: /imagenes/mi3/i46.png
+.. figure:: /imagenes/mi3/i46.png
                         :width: 500px
 
 
-     - .. figure:: /imagenes/mi3/i47.png
+.. figure:: /imagenes/mi3/i47.png
                       :width: 500px
 
 
-     - .. figure:: /imagenes/mi3/i48.png
+.. figure:: /imagenes/mi3/i48.png
                         :width: 500px
-
-
 
 
 En la parte superior de la estructura, por el momento solamente será atornillado el
@@ -1772,40 +1735,35 @@ pasos anteriores, ensamblando los cojinetes lineales LMK8LUU.
 
 
 
-.. list-table::
-
-   * - .. figure:: /imagenes/mi3/i185.png
+.. figure:: /imagenes/mi3/i185.png
           :width: 320px
 
           paso 1
 
-     - .. figure:: /imagenes/mi3/i186.png
+.. figure:: /imagenes/mi3/i186.png
           :width: 320px
 
           paso 2
 
-     - .. figure:: /imagenes/mi3/i187.png
+.. figure:: /imagenes/mi3/i187.png
           :width: 320px
 
           paso 3
 
-     - .. figure:: /imagenes/mi3/i188.png
+.. figure:: /imagenes/mi3/i188.png
           :width: 320px
 
           paso 4
 
-     - .. figure:: /imagenes/mi3/i189.png
+.. figure:: /imagenes/mi3/i189.png
           :width: 320px
 
           paso 5
 
-     - .. figure:: /imagenes/mi3/i190.png
+.. figure:: /imagenes/mi3/i190.png
           :width: 320px
 
           paso 6
-
-
-
 
 
 Una vez lista la parte posterior del carro, se continua por armar ahora la parte
