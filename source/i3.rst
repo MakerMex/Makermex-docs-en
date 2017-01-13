@@ -52,19 +52,16 @@ Primera Impresión
 Descarga de Software
 --------------------
 
-
- .. list-table::
-
-    * - .. figure:: /imagenes/cu.png
-                             :width: 150px
+.. figure:: /imagenes/cu.png
+                   :width: 150px
 
 
-      - .. figure:: /imagenes/pronterface.png
-                             :width: 150px
+.. figure:: /imagenes/pronterface.png
+                    :width: 150px
 
 
-      - .. figure:: /imagenes/Blender_logo.png
-                             :width: 150px
+.. figure:: /imagenes/Blender_logo.png
+                    :width: 150px
 
 
 
