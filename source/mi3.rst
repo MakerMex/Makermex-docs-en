@@ -132,162 +132,144 @@ MANUAL DE ENSAMBLADO Mi3
 |Piezas Plasticas|
 +----------------+
 
-.. figure:: /imagenes/mi3/pl1.png
+.. figure:: /imagenes/mi3/check/pp1.png
 
 
           4- PIEZAS - A
 
 
-.. figure:: /imagenes/mi3/PL2.png
+.. figure:: /imagenes/mi3/check/pp2.png
 
           2- PIEZAS - B
 
 
-.. figure:: /imagenes/mi3/PL3.png
+.. figure:: /imagenes/mi3/check/pp3.png
 
 
-          1 - PIEZA - C1
+          1 - PIEZA - C
 
 
-.. figure:: /imagenes/mi3/PL4.png
+.. figure:: /imagenes/mi3/check/pp4.png
 
-          1 - PIEZA - C2
-
-
-.. figure:: /imagenes/mi3/PL5.png
+          1 - PIEZA - D
 
 
-          4 - PIEZAS - D
+.. figure:: /imagenes/mi3/check/pp5.png
 
 
-.. figure:: /imagenes/mi3/PL6.png
+          4 - PIEZAS - E
 
 
-          1 -  PIEZA - E
+.. figure:: /imagenes/mi3/check/pp6.png
 
 
-.. figure:: /imagenes/mi3/PL7.png
-
-          1 - PIEZA - F
+          1 -  PIEZA - F
 
 
-.. figure:: /imagenes/mi3/PL8.png
-
-
-          1 - PIEZA - G1
-
-
-.. figure:: /imagenes/mi3/PL9.png
-
+.. figure:: /imagenes/mi3/check/pp7.png
 
           1 - PIEZA - G
 
 
-.. figure:: /imagenes/mi3/PL10.png
+.. figure:: /imagenes/mi3/check/pp8.png
 
 
-          1 - PIEZA - H1
+          1 - PIEZA - H
 
 
-.. figure:: /imagenes/mi3/PL11.png
-
-
-          1 - PIEZA - H2
-
-
-.. figure:: /imagenes/mi3/PL12.png
+.. figure:: /imagenes/mi3/check/pp9.png
 
 
           1 - PIEZA - I
 
 
-.. figure:: /imagenes/mi3/PL13.png
+.. figure:: /imagenes/mi3/check/pp10.png
 
 
-          2 - PIEZA - J
+          1 - PIEZA - J
 
 
-.. figure:: /imagenes/mi3/PL14.png
+.. figure:: /imagenes/mi3/check/pp11.png
 
 
-          4 - PIEZAS - k
+          1 - PIEZA - K
 
 
-.. figure:: /imagenes/mi3/PL15.png
+.. figure:: /imagenes/mi3/check/pp12.png
 
 
           1 - PIEZA - L
 
 
-.. figure:: /imagenes/mi3/PL16.png
+.. figure:: /imagenes/mi3/check/pp13.png
 
 
-          1 - PIEZA - M
+          2 - PIEZA - M
 
 
-.. figure:: /imagenes/mi3/PL17.png
+.. figure:: /imagenes/mi3/check/pp14.png
 
 
-          1 - PIEZA - N
+          4 - PIEZAS - N
 
 
-.. figure:: /imagenes/mi3/PL18.png
+.. figure:: /imagenes/mi3/check/pp15.png
+
 
           1 - PIEZA - O
 
 
-.. figure:: /imagenes/mi3/PL19.png
+.. figure:: /imagenes/mi3/check/pp16.png
 
 
-          2 - PIEZA - P
+          1 - PIEZA - P
 
 
-.. figure:: /imagenes/mi3/PL20.png
+.. figure:: /imagenes/mi3/check/pp17.png
 
 
           1 - PIEZA - Q
 
 
-.. figure:: /imagenes/mi3/PL21.png
-
+.. figure:: /imagenes/mi3/check/pp18.png
 
           1 - PIEZA - R
 
 
-.. figure:: /imagenes/mi3/PL22.png
+.. figure:: /imagenes/mi3/check/pp19.png
 
 
-          1 - PIEZA - S
+          2 - PIEZA - S
 
 
-.. figure:: /imagenes/mi3/PL23.png
+.. figure:: /imagenes/mi3/check/pp20.png
 
 
-          1 - PIEZA - T
+          1 PAR DE PIEZA - T
 
 
-.. figure:: /imagenes/mi3/PL24.png
+.. figure:: /imagenes/mi3/check/pp21.png
+
+
+          4 - PIEZAS - U
+
+
+.. figure:: /imagenes/mi3/check/pp22.png
+
+
+          1 - PIEZA - V
+
+
+.. figure:: /imagenes/mi3/check/pp23.png
 
 
           1 - PIEZA - W
 
 
-.. figure:: /imagenes/mi3/PL25.png
+.. figure:: /imagenes/mi3/check/pp24.png
 
 
-          1 - PIEZA - X
-
-
-.. figure:: /imagenes/mi3/PL26.png
-
-
-          1 - PIEZA - Y
-
-
-.. figure:: /imagenes/mi3/PL27.png
-
-          1 - PIEZA  -  Z
-
+          1 PAR DE PIEZAS - X
 
 ENSAMBLADO DE LA BASE DE PERFILES
 -----------------------------------
