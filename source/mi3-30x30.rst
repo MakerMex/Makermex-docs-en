@@ -1,7 +1,16 @@
 **********************
-Impresora 3D Mi3 30x30x30cm
+Impresora 3D Mi3
 **********************
 
 
+General
+==================
 
-hola mundo 
+
+
+Primera Impresión
+==================
+
+
+Descarga de Software
+--------------------

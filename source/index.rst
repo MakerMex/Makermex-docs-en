@@ -13,11 +13,12 @@ Contents:
 
    mm1.rst
    mi3.rst
+   mi3-30x30.rst
    i3.rst
    i3xl.rst
    filamentos.rst
    componentes.rst
-   mi3-30x30.rst
+
 
 
 Indices and tables
