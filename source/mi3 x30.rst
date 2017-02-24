@@ -9,10 +9,6 @@ MANUAL DE ENSAMBLADO Mi3
 -------------------------
 
 
-+---------------+
-|Perfil Cuadrado|
-+---------------+
-
 * 2 perfiles de 380mm
 
 * 4 perfiles de 390mm
