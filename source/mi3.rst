@@ -2776,10 +2776,10 @@ https://www.blender.org/download/
 instalar cura y sus parámetros
 ---------------------------------
 
-Vamos a instalar cura y sus parámetros  para la M i3
+Vamos a instalar cura y sus parámetros  para la Mi3
 
 vamos a descargar cura les recomiendo mucho que descarguen la versión 14.12, una vez descargado el software vamos instalar una
-plataforma para poder usar con nuestra impresora M i3.
+plataforma para poder usar con nuestra impresora Mi3.
 
 
 Paso 1

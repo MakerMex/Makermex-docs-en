@@ -1,16 +1,485 @@
 **********************
-Impresora 3D Mi3
+Impresora 3D Mi3 30x30
 **********************
 
 
 General
 ==================
 
+Unboxing
+===========
+
+Hola MakerAmigos vamos a mostrartles como deben desempacar su impresora
+
+PASO 1
+
+Al resibir tu impresora debes de revisar que la caja este en buen estado que no tenga ningun golpe,ruptura o algun da?o, debe de verse como se muestra en las imagenes
+revisando la parte frontal,lateral,superior e inferior.
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi331.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi332.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi333.JPG
+
+.. Note::
+   Importante si tu caja presenta maltratos al momento de recibir la impresora  toma imagenes y reportalo a info@makermex.
 
 
-Primera Impresi籀n
+PASO 2
+
+Retiramos la guia y precedemos a cortar la cinta del paquete para abrir la caja para esto nos apoyamos de un cutter.
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi334.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi335.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi336.JPG
+
+PASO 3
+
+Al abrir la caja comenzamos a retirar el empaque,que en este caso son soportes de unicel.
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi337.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi338.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi339.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3310.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3311.JPG
+
+Una vez que lleguemos al punto donde estan accesorios de la impresora tenemos que retirarlos para poder sacar la impresora de la caja y continuamos retirando el unicel.
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3312.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3313.JPG
+
+PASO 4
+
+Ya retirado el unicel con mucho cuidado vamos sacar la impresora, te recomendamos que tengas una mesa firme al lado par poder colocarla sobre ella.
+despues solo retira el hule burbuja.
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3314.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3315.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3320.JPG
+
+Despues de quitar el hule burbuja vamos a liberar la plataforma de impresion y el carro del eje X, ya que estan sujetos con unos cintillos,tambien vamos a retirar unos cogines de unicel, veamos en las imagenes.
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3321.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3322.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3323.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3324.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3325.JPG
+
+Ya que estan ubicados podemos cortarlos con unas pinzas de corte o con el cutter solo debes hacerlo con mucho cuidado.
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3326.JPG
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3327.JPG
+
+Listo hemos terminado con el empaque de la impresora.
+
+Ahora veamos que accesorios tiene la impresora son los que retiramos de la caja.
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3316.JPG
+
+* 1 FUENTE DE PODER
+* 2 CAJA DE BOQUILLA HEXAGON
+* 3 CABLES DE REFACCION
+* 4 MUESTRA DE FILAMENTO PLA 3MM.
+* 5 CAJA DE ACCESORIOS Y REFACCIONES
+
+La fuente de poder contiene lo siguiente:
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3317.JPG
+
+La caja de la boquilla Hexagon contiene accesorios de apoyo en case de mantenimiento en la boquilla.
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3318.JPG
+
+La caja de acceserios y refacciones conetiene:
+
+1 desarmador ceramico que sirve para calibrar la corriente de los motores
+
+1 cable USB que sirve para la comunicacion de PC a la impresora
+
+1 lector SD que sirve como refaccion en caso que la pantalla sufra un da?o
+
+2 thermoresistores, sensores que leen la temperatura de las boquillas y la cama son refaciones.
+
+.. figure:: /imagenes/mi3 30x30/IMAGENES DE UNBOXING/mi3320.JPG
+
+.. Note::
+   Si al revisar estas imagenes no contiene algun accesorio puedes mandar un correo a soporte.@makermex.com indicando que te hace falta.
+
+
+Primera Impresi車n
 ==================
-
 
 Descarga de Software
 --------------------
+
+.. figure:: /imagenes/mi3/cu.png
+             :width: 150px
+
+te dejamos el link donde lo puedes descargar y te recomendamos la version 14.12
+
+https://ultimaker.com/en/products/cura-software/list
+
+.. figure:: /imagenes/mi3/pronterface.png
+             :width: 150px
+
+
+te dejamos el link donde lo puedes descargar
+
+http://koti.kapsi.fi/~kliment/printrun/
+
+.. figure:: /imagenes/mi3/Blender_logo.png
+             :width: 150px
+
+te dejamos el link donde lo puedes descargar
+
+https://www.blender.org/download/
+
+instalar cura y sus par芍metros
+---------------------------------
+
+Vamos a instalar cura y sus par芍metros  para la Mi3
+
+vamos a descargar cura les recomiendo mucho que descarguen la versi車n 14.12, una vez descargado el software vamos instalar una
+plataforma para poder usar con nuestra impresora Mi3.
+
+Paso 1
+
+cuando est谷s en esta ventana da clic en next
+
+.. figure:: /imagenes/mi3/cui2.png
+
+paso 2
+
+te aparecer芍 una ventana nueva, selecciona la casilla de OTHER  y da clic en next
+
+.. figure:: /imagenes/mi3/cui3.png
+
+paso 3
+
+te aparcera esta ventana selecciona Custom y da clic en next
+
+.. figure:: /imagenes/mi3/cui4.png
+
+Paso 4
+
+una vez que ya hayas llegado hasta esta ventana, coloca la informaci車n como se muestra en cada una de las casillas, una vez que hayas
+colocado la informaci車n da clic en FINISH
+
+.. figure:: /imagenes/mi3/cui5.png
+
+paso 5
+
+coloca todos los par芍metros de Basic,Advanced  y star/endgcode  como se muestra en las im芍genes
+
+BASIC
+
+.. figure:: /imagenes/mi3/cui6.png
+
+ADVANCED
+
+.. figure:: /imagenes/mi3/cui7.png
+
+.. Note::
+   observa bien la imagen de START, vamos a borrar el numero 3 que aparece en autom芍tico y colocar  8 como se muestra en la imagen.
+
+
+.. figure:: /imagenes/mi3/cui8.png
+
+.. Note::
+   en la parte de END vamos a comentar el c車digo G90 es muy sencillo solo tienes que escribir un punto y coma antes d la G como se ve
+   en la imagen para hacerlo utilizas shift+coma de tu teclado. O puedes copiar y pegar el punto y como de la parte de abajo de G90
+
+
+.. figure:: /imagenes/mi3/cui9.png
+
+A continuaci車n se muestran impresiones de pantalla de los par芍metros con los que realizamos nuestras piezas en MakerMex, y m芍s
+adelante una explicaci車n de cada par芍metro, y como este puede variar.
+
+BASIC.
+
+QUALITY.
+
+*   Layer Height. Se refiere a la altura que tiene cada capa. Es un ajuste importante para determinar la calidad de la pieza.
+    Un buen   par芍metro en relaci車n de calidad/tiempo es 2.0, es lo que nosotros recomendamos y utilizamos en nuestras piezas.
+    El par芍metro      m芍ximo recomendado es 0.1 mm, aunque el tiempo de impresi車n se eleva al doble.
+
+*   Shell Thickness. Es el grosor de la capa externa en direcci車n horizontal, es decir, se incrementar para realizar piezas con un
+    cascar車n m芍s resistente en su exterior. Se recomienda dejar los valores predefinidos (0.6 mm) y hasta 1 mm. Este par芍metro tambi谷n
+    puede variar seg迆n el material con el que se imprime, ya que ciertos materiales requieren sus propios par芍metros de impresi車n.
+
+* Enable Retraction. Se recomienda ampliamente marcar esta casilla. Este ajuste retrae el filamento, es decir, gira los engranes en
+  sentido contrario cuando la boquilla se mueve sobre una superficie que no requiere impresi車n. Esto previene de hilos y rebaba
+  excesiva en la pieza final. En ajustes avanzados ajustaremos los par芍metros de la retracci車n.
+
+FILL.
+
+* Bottom/Top Thickness. Ajusta el grosor de la base y el tope del modelo. Debe ser un valor cercano al Shell Thinckess para que se
+  forme una pieza fuerte uniforme en el exterior. Se recomienda dejar los valores predefinidos: 0.6 mm, 0.8 mm y hasta 1 mm.
+
+* Fill Density: Este par芍metro es importante para el producto final. Controla el relleno que tendr芍 la pieza, lo que definir芍 que tan
+  fuerte resulta. Para piezas visuales sin requerimientos de esfuerzo mec芍nico se puede probar desde 5% o 10% de relleno; para piezas
+  mec芍nicas o que requieren mas resistencia se recomienda entre 20% a 40%, aunque pudiera usarse hasta 60% como m芍ximo recomendado. No
+  se recomienda m芍s del 60% ya que ser赤a mucho desperdicio de material y de tiempo de impresi車n. Es importante recalcar que esto no
+  afecta en nada la calidad externa del modelo. Para un punto de referencia: 40% manejan nuestras piezas que reciben uso mec芍nico.
+
+SPEED AND TEMPERATURE.
+
+* Print Speed. Es la velocidad de impresi車n. Esta velocidad va a depender de varios factores, como calidad y tiempo. 50/60 mm/s es la
+  velocidad que utilizamos y recomendamos. Se puede reducir para obtener una mayor calidad de impresi車n, aunque a mayor tiempo. De
+  igual forma se puede aumentar si se busca optimizar tiempo, y la resoluci車n no resulta de mucha importancia.
+
+
+* Printing Temperature. Es la temperatura a la que se extruye el material. La temperatura depende en gran medida del material a
+  utilizar. Los principales son: o PLA. 190～C-210～C seg迆n el color del filamento, temperatura ambiente, etc. Ej. El color negor se
+  imprime a menor temperatura. Un par芍metro promedio recomendado es 207～C. o ABS. 220～C-230～C Al igual que el PLA, algunos factores
+  influyen. Un par芍metro recomendado para ABS es 220～C.
+
+
+* Bed Temperature. Esta opci車n s車lo aparece en caso de utilizar cama caliente, y haberla activado a la hora de configurar el Cura.
+  Es la temperatura a la que se calentar芍 la cama caliente. Es necesario revisar las especificaciones de impresi車n de cada material
+  para definir esta temperatura. En el caso de ABS la temperatura de cama caliente es entre 90-100 ～C.
+
+SUPPORT.
+
+* Support Type. Se especifica la estructura en la que se construir芍 el soporte. Estas estructuras son: o None: No deposita material
+  de soporte en absoluto. o Touching Buildplate: Deposita material de soporte 迆nicamente en los volados que lo requieran a partir de la
+  plataforma de impresi車n. o Everywhere: Adem芍s del "Touching Buildplate", tambi谷n depositar芍 material incluso sobre las partes del
+  modelo impreso, en caso de tener volados que lo requieran.
+
+
+* Platform Adhesion Type. Las plataformas de adhesi車n, son una capa primaria que crean un per赤metro del 芍rea de impresi車n de la
+  pieza y facilitan el despegue de 谷sta. Adem芍s funcionan como prevenci車n de que las esquinas se levanten debido al fen車meno "Warping"
+ (Contracci車n al enfriarse el material extruido). Se recomienda el uso de Raft.
+
+FILAMENT.
+
+* Diameter. Se refiere al di芍metro del filamento que se utilizar芍 como materia prima. Como medidas est芍ndar se manejan 2: 1.75 mm y
+  3.0 mm. Las impresoras MakerMex com迆nmente se manejan con material de 3.0 mm.
+
+* Flow. Se deja el valor predefinido: 100.0 %.
+
+ADVANCED.
+
+MACHINE.
+
+* Nozzle Size. Se refiere al di芍metro de la boquilla extrusora. Las dimensi車n de las boquillas utilizadas en las impresoras MakerMex
+  es com迆nmente 0.4 mm. Es importante ajustar el valor correcto, ya que sirve para determinar las l赤neas de relleno, as赤 como las
+  l赤neas de grosor en la parte externa de la pieza.
+
+RETRACTION.
+
+* Speed. Es la velocidad a la que se hace la retracci車n de filamento.
+
+* Distance. Es la distancia que se retraer芍 el filamento. Ajusta en 0 si quieres ignorar este par芍metro.
+
+QUALITY.
+
+* Initial Layer Thickness. Ajusta el grosor de la primera capa de la pieza. Una capa inicial m芍s gruesa permite una mejor adherencia
+  a la plataforma. Ajusta en 0 para ignorar este par芍metro y la capa inicial tenga el mismo grosor que las dem芍s capas.
+
+* Cut Off Object Bottom. Sumerge el objeto en la plataforma a la distancia que se le indique. Esto funciona para objetos que tengan
+  errores en el dise?o y/o no tengan una cara plana en la base.
+
+* Dual Extrusion Overlap. A?ade una cantidad de material sobrepuesta en las impresiones que se hagan con doble extrusora, esto con el
+  fin de unir los diferentes colores o materiales en una sola pieza.
+
+SPEED.
+
+* Travel Speed. Es la velocidad a la que se mueve la extrusora cuando no est芍 depositando material. El valor predefinido es muy
+  recomendable.
+
+* Bottom Layer Speed. Esto controla la velocidad a la que se hace la primera capa. al imprimirse m芍s despacio, se adhiere de mejor
+  forma sobre la superficie. El valor predefinido es muy recomendable.
+
+
+* Infill Speed. Es la velocidad a la que se imprime el relleno de la pieza. Se recomienda situar este valor en 0, con esto el relleno
+  se deposita a la misma velocidad predefinida en "Print speed".
+
+
+* Outer Shell Speed. Controla la velocidad a la que se imprimen la capa exterior de la pieza. Imprimir esta parte a una menor
+  velocidad, mejorar芍 el resultado final en cuanto resoluci車n. Al situar este valor en 0, la velocidad a la que se hace es la misma
+  que se defini車 en "Print speed", esto genera buenos resultados.
+
+* Inner Shell speed. Controla la velocidad a la que se imprimen la capa interna de la pieza. Al situar este valor en 0, la velocidad
+  a la que se hace es la misma que se defini車 en "Print speed". Es importante que este par芍metro y el ※Outter Shell Speed§ no tengan un
+  amplio rango de diferencia.
+
+COOL.
+
+* Minimal Layer Time. Es el tiempo m赤nimo que tardar芍 en realizarse una capa, sin importar que la dimensi車n de 谷sta sea muy peque?o.
+  Esto permitir芍 que se enfr赤e lo suficiente antes de depositar la siguiente capa. El par芍metro predefinido (5 seg.) funciona de gran forma.
+
+* Enable Cooling Fan. A menos que el material que se est芍 imprimiendo, es importante que esta casilla se encuentre marcada
+  permanentemente, ya que activa la ventilaci車n durante la impresi車n.
+
+Es importante recalcar que los par芍metros que nosotros especificamos en este documento pueden servir como base, pero cada usuario
+debe experimentar y definir los par芍metros que mejor le acomoden a lo que busca en sus piezas, por lo que los exhortamos a realizar
+sus propias impresiones y buscar los valores perfectos para sus modelos. De igual forma hacer notar que cada nueva versi車n del
+software Cura normalmente contiene nuevos par芍metros, por lo que es importante revisar dichos par芍metros, y su funci車n, aunado a que
+los par芍metros mostrados en este documento son los m芍s importantes.
+
+Como usar Cura
+----------------
+
+En este manual aprender芍s a usar cura u saber que es lo que hace cada una de sus herramientas,es importante seguir los pasos que mencionamos en este manual.
+
+Para comenzar debes saber que puedes imprimir usando  el cable USB o una tarjeta SD.
+En el caso de la SD, podemos mandar a imprimir de dos maneras con un auto0.g o seleccionando el c車digo que hayamos guardado en la tarjeta SD.
+
+Para el cable USB es importante que lo conectes a tu impresora y despu谷s a la computadora y despu谷s enciendas la impresora, despu谷s abres cura y manadas a imprimir como se muestra en este manual.
+
+El auto0.g se utiliza para imprimir cuando no se cuenta con una pantalla LCD y solo se cuenta con el lector micro SD o lector SD  seg迆n sea el caso. Este comando es el re-nombramiento del c車digo G que hayamos realizado en cura es decir: gurdas un c車digo G en la tarjeta para imprimirlo, pero como no tienes pantalla LCD pero tu impresora tiene un lector SD o micro SD, pues no te preocupes solo tienes que renombrar tu c車digo G como auto0.g
+
+ejemplo cubo.gcode cambias el nombre a auto0.g
+
+Y  listo cierras tu carpeta de la memoria, sacas tu tarjeta micro SD o SD de la computadora  la insertas en el lector de tu impresora y ella comenzara a leer el c車digo para imprimirlo.
+Cuando se hace uso de esta opci車n para imprimir es de suma importancia que est谷s enterado que solo podr芍s imprimir este c車digo cada vez que des un reset a la impresora o apagues y enciendas la impresora puedes tener los c車digos que quieras almacenados en la tarjeta, pero deber芍s renombrar el c車digo que quieras imprimir. Importante solo se usa cundo no tienes pantalla LCD
+
+En el caso de tener pantalla LCD solo es necesario gradar bien el c車digo G en la tarjeta SD o micro SD, y retirar la tarjeta de la computadora introducirla en la pantalla o bien en el caso de la MM1 colocarla en su lugar. Despu谷s encender la impresora e irnos al men迆 de nuestra pantalla dando un clic en la perilla, giramos para posicionarnos en la opci車n de Print  From SD, das un clic y se abrir芍 la carpeta de la tarjeta en donde puedes seleccionar el c車digo G que desees imprimir.
+Cuando se cuenta con la pantalla LCD puedes guardar todos los c車digos G que quieras en tu tarjeta y solo el que tu selecciones desde la pantalla LCD se va a imprimir.
+
+? Que es un C車digo G?
+Un c車digo G es una serie de coordenadas en X,Y,Z que realiza la impresora para realizar una pieza f赤sica, al mismo tiempo indica cuanto material debe de inyectar y donde debe de hacerlo.
+
+El c車digo G se realiza a partir de un modelo 3D hecho en un software de modelado 3D, este modelo se coloca en un software como Cura que trasforma el modelo 3D en coordenadas.
+Hay gran variedad de software que trasforman los modelos 3D en coordenadas, al igual que los Software de modelado.
+
+Para que el software cura realice el c車digo G bien, necesita que el modelo 3D sea exportado como .STL u .OBJ, as赤 que amigos recuerden exportar sus archivos de esta manera .
+
+?Como utilizo cura ?
+
+Para que te sientas mas c車modo al usar este nuevo programa te recomendamos utilizar un Mouse
+
+.. figure:: /imagenes/mi3/pi1.png
+
+*  1 clic izquierdo
+
+*  2 clic derecho
+
+*  3 scroll o la bolita del mouse (solo hace el zoom si giras lo giras)
+
+el clic izquierdo sirve obvio para seleccionar, abrir ventanas posicionar el cursor etc. Pero en cura sirve para mover los STL en la plataforma. Para realizar esto lo hacemos dando clic izquierdo sobre la pieza y sosteni谷ndolo movemos nuestro mouse y la pieza se mover芍.
+Y al soltar el clic se queda en la posici車n donde soltamos el clic.
+
+.. figure:: /imagenes/mi3/pi2.png
+
+.. figure:: /imagenes/mi3/pi3.png
+
+.. figure:: /imagenes/mi3/pi4.png
+
+El clic derecho sirve para dos cosas mover la plataforma azul en 360～ por cualquier direcci車n, para abrir un men迆.
+Como mover la plataforma en 360～ das clic sobre la plataforma azul y sostienes el clic y al mismo tiempo mueves el mouse en cualquier direcci車n y veras como gira la pantalla azul.
+
+.. figure:: /imagenes/mi3/pi5.png
+
+.. figure:: /imagenes/mi3/pi6.png
+
+.. figure:: /imagenes/mi3/pi7.png
+
+Para abrir el men迆 das clic derecho sobre el STL y se abrir芍 una ventanilla como esta y te da opciones como ves en esta ventana puedes centrar la pieza si la moviste, puedes borrar el STL para poder colocar otro,puedes multiplicar el stl para imprimir varias piezas a la ves,separar el stl, si tienes varias piezas las puedes borrar todas.
+
+.. figure:: /imagenes/mi3/pi8.png
+
+En cura tenemos varias herramientas te las mostramos
+
+1
+
+al seleccionar el STL con clic izquierdo se pone un contorno blanco al rededor de la pieza, y aparecen tres iconos en la parte inferir el primero es rotar
+nos permite acomodar la pieza para una mejor impresi車n, ya que en ocasiones las piezas pueden cargarse acostadas con esta herramienta la podemos levantar como se ve en las im芍genes.
+Animate y revisa que hace cada una de ellas.
+
+Para mover los aros de colores das clic izquierdo sostenido sobre el aro que selecciones y mueve el mouse como tu desees
+
+.. figure:: /imagenes/mi3/pi9.png
+
+.. figure:: /imagenes/mi3/pi10.png
+
+2
+
+en la segunda opci車n manipulas la escala. 1 a 1 y te la da en mm tambi谷n.
+
+.. figure:: /imagenes/mi3/pi11.png
+
+3
+
+En la tercera opci車n te la herramienta de espejear tu pieza si lo deseas.
+
+.. figure:: /imagenes/mi3/pi12.png
+
+Tambi谷n tenemos diferente tipo de vistas
+
+vista normal
+
+es la que se muestra desde un principio, cuando cargamos nuestro STL color amarillo.
+
+.. figure:: /imagenes/mi3/pi13.png
+
+vista de 芍ngulos menores a 45 grados
+
+esta vista nos permite revisar que no haya 芍ngulos que se vayan a desplomar al momento de estar imprimiendo si los hubiese podemos colocar material de soporte.
+
+.. figure:: /imagenes/mi3/pi14.png
+
+Vista trasparente
+
+esta vista nos ayuda a ver dentro de nuestro archivo STL par revisar que este bien es decir que no tenga ning迆n alg迆n agujero o este mal modelado o que se haya exportado con otra pieza al interior.
+
+.. figure:: /imagenes/mi3/pi15.png
+
+Vista rayos X
+
+Esta vista es muy similar a la vista de trasparente solo que es mas potente, revisa que la maya con que esta hecha el STL este bien cerrada. Si tuviera un error la pieza se marca en color Rojo.
+
+.. figure:: /imagenes/mi3/pi16.png
+
+Vista de capas
+
+esta vista nos muestra gr芍ficamente como se realizara el c車digo G en nuestra impresora es decir nos muestra los pasos que dar芍 la impresora la momento de estar imprimiendo la pieza capa por capa.
+Esta herramienta tien una barra que puedes subir y ajar par ver estas capas.
+
+.. figure:: /imagenes/mi3/pi17.png
+
+.. figure:: /imagenes/mi3/pi18.png
+
+Listo vamos a realizar nuestro primer c車digo G para imprimirlo en nuestra  impresora
+
+paso 1
+
+damos clic en el icono de cargar para poder buscar nuestro STL y darle abrir para que se cargue a cura, veamos la imagen.
+
+.. figure:: /imagenes/mi3/pi19.png
+
+.. figure:: /imagenes/mi3/pi20.png
+
+.. figure:: /imagenes/mi3/pi21.png
+
+Paso 2
+
+ ya que colocamos los par芍metros del manual anterior solo vamos a introducir nuestra tarjeta SD a la computadora y cuando el icono de guardar cambie a la tarjeta SD se le da clic sobre el y se guardara el c車digo en autom芍tico una vez que este guardado el c車digo te aparecer芍 una leyenda en la parte inferir de la pantalla que te indica que ya puedes retirar tu tarjeta de la computadora.
+
+.. figure:: /imagenes/mi3/pi22.png
+
+.. figure:: /imagenes/mi3/pi23.png
+
+.. figure:: /imagenes/mi3/pi24.png
+
+Listo Amigo ya tienes listo tu primer c車digo G, ahora vas a retirar la tarjeta SD, y la vas a colocar en la pantalla de tu impresora. La enciendes y sigues las instrucciones que te indique al principio no te acuerdas te las paso otra vez
+
+da clic en la perilla elige la opci車n de print from SD y da clic, despu谷s elige tu c車digo G y cuando des clic en la perilla la impresora comenzara a calentar la boquilla o la cama caliente gracias a los par芍metros que colocaste en el manual anterior, y cundo llegue a la temperatura que le hayas colocado comenzara a imprimir.
+
+Despu谷s de guardar tu c車digo G en la tarjeta para poder comenzar a imprimir debes de realizar estos pasos
