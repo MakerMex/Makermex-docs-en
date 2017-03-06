@@ -16,11 +16,11 @@ PASO 1
 Al resibir tu impresora debes de revisar que la caja este en buen estado que no tenga ningun golpe,ruptura o algun da?o, debe de verse como se muestra en las imagenes
 revisando la parte frontal,lateral,superior e inferior.
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi331.JPG
+.. figure:: /imagenes/mi330x30/mi331.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi332.JPG
+.. figure:: /imagenes/mi330x30/mi332.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi333.JPG
+.. figure:: /imagenes/mi330x30/mi333.JPG
 
 .. Note::
    Importante si tu caja presenta maltratos al momento de recibir la impresora  toma imagenes y reportalo a info@makermex.
@@ -30,66 +30,66 @@ PASO 2
 
 Retiramos la guia y precedemos a cortar la cinta del paquete para abrir la caja para esto nos apoyamos de un cutter.
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi334.JPG
+.. figure:: /imagenes/mi330x30/mi334.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi335.JPG
+.. figure:: /imagenes/mi330x30/mi335.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi336.JPG
+.. figure:: /imagenes/mi330x30/mi336.JPG
 
 PASO 3
 
 Al abrir la caja comenzamos a retirar el empaque,que en este caso son soportes de unicel.
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi337.JPG
+.. figure:: /imagenes/mi330x30/mi337.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi338.JPG
+.. figure:: /imagenes/mi330x30/mi338.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi339.JPG
+.. figure:: /imagenes/mi330x30/mi339.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3310.JPG
+.. figure:: /imagenes/mi330x30/mi3310.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3311.JPG
+.. figure:: /imagenes/mi330x30/mi3311.JPG
 
 Una vez que lleguemos al punto donde estan accesorios de la impresora tenemos que retirarlos para poder sacar la impresora de la caja y continuamos retirando el unicel.
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3312.JPG
+.. figure:: /imagenes/mi330x30/mi3312.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3313.JPG
+.. figure:: /imagenes/mi330x30/mi3313.JPG
 
 PASO 4
 
 Ya retirado el unicel con mucho cuidado vamos sacar la impresora, te recomendamos que tengas una mesa firme al lado par poder colocarla sobre ella.
 despues solo retira el hule burbuja.
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3314.JPG
+.. figure:: /imagenes/mi330x30/mi3314.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3315.JPG
+.. figure:: /imagenes/mi330x30/mi3315.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3320.JPG
+.. figure:: /imagenes/mi330x30/mi3320.JPG
 
 Despues de quitar el hule burbuja vamos a liberar la plataforma de impresion y el carro del eje X, ya que estan sujetos con unos cintillos,tambien vamos a retirar unos cogines de unicel, veamos en las imagenes.
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3321.JPG
+.. figure:: /imagenes/mi330x30/mi3321.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3322.JPG
+.. figure:: /imagenes/mi330x30/mi3322.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3323.JPG
+.. figure:: /imagenes/mi330x30/mi3323.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3324.JPG
+.. figure:: /imagenes/mi330x30/mi3324.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3325.JPG
+.. figure:: /imagenes/mi330x30/mi3325.JPG
 
 Ya que estan ubicados podemos cortarlos con unas pinzas de corte o con el cutter solo debes hacerlo con mucho cuidado.
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3326.JPG
+.. figure:: /imagenes/mi330x30/mi3326.JPG
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3327.JPG
+.. figure:: /imagenes/mi330x30/mi3327.JPG
 
 Listo hemos terminado con el empaque de la impresora.
 
 Ahora veamos que accesorios tiene la impresora son los que retiramos de la caja.
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3316.JPG
+.. figure:: /imagenes/mi330x30/mi3316.JPG
 
 * 1 FUENTE DE PODER
 * 2 CAJA DE BOQUILLA HEXAGON
@@ -99,11 +99,11 @@ Ahora veamos que accesorios tiene la impresora son los que retiramos de la caja.
 
 La fuente de poder contiene lo siguiente:
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3317.JPG
+.. figure:: /imagenes/mi330x30/mi3317.JPG
 
 La caja de la boquilla Hexagon contiene accesorios de apoyo en case de mantenimiento en la boquilla.
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3318.JPG
+.. figure:: /imagenes/mi330x30/mi3318.JPG
 
 La caja de acceserios y refacciones conetiene:
 
@@ -115,7 +115,7 @@ La caja de acceserios y refacciones conetiene:
 
 2 thermoresistores, sensores que leen la temperatura de las boquillas y la cama son refaciones.
 
-.. figure:: /imagenes/mi3 30x30/imagenes unboxing/mi3320.JPG
+.. figure:: /imagenes/mi330x30/mi3320.JPG
 
 .. Note::
    Si al revisar estas imagenes no contiene algun accesorio puedes mandar un correo a soporte.@makermex.com indicando que te hace falta.
