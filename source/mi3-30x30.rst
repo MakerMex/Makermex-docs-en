@@ -115,7 +115,7 @@ La caja de acceserios y refacciones conetiene:
 
 2 thermoresistores, sensores que leen la temperatura de las boquillas y la cama son refaciones.
 
-.. figure:: /imagenes/mi330x30/mi3320.JPG
+.. figure:: /imagenes/mi330x30/mi3319.JPG
 
 .. Note::
    Si al revisar estas imagenes no contiene algun accesorio puedes mandar un correo a soporte.@makermex.com indicando que te hace falta.
