@@ -52,15 +52,15 @@ Primera Impresión
 Descarga de Software
 --------------------
 
-.. figure:: /imagenes/cu.png
+.. figure:: /imagenes/prusa/cu.png
                    :width: 150px
 
 
-.. figure:: /imagenes/pronterface.png
+.. figure:: /imagenes/prusa/pronterface.png
                     :width: 150px
 
 
-.. figure:: /imagenes/Blender_logo.png
+.. figure:: /imagenes/prusa/Blender_logo.png
                     :width: 150px
 
 
@@ -97,7 +97,7 @@ Dentro de cura seleccionamos la pestaña de file como se ve en la imagen.
 Una vez seleccionada la pestaña da clic en ella.
 
 
-.. figure:: /imagenes/1.png
+.. figure:: /imagenes/prusa/1.png
 
 
 * Paso 2
@@ -108,7 +108,7 @@ se abrirá una ventana, donde puedes seleccionar el lugar
 donde quieres que se guarde el archivo.
 
 
-.. figure:: /imagenes/2.png
+.. figure:: /imagenes/prusa/2.png
 
 
 Una vez seleccionado el lugar, escribes el nombre de tu archivo
@@ -116,7 +116,7 @@ y le das a Guardar.
 Y así quedaran guardados todos los parámetros de cura
 
 
-.. figure:: /imagenes/3.png
+.. figure:: /imagenes/prusa/prusa/3.png
 
 
 
@@ -132,7 +132,7 @@ en la imagen
 Una vez seleccionada la pestaña da clic en ella.
 
 
-.. figure:: /imagenes/4.png
+.. figure:: /imagenes/prusa/4.png
 
 
 * Paso 2
@@ -145,7 +145,7 @@ Seleccionamos nuestro archivo y le damos a abrir y en
 automático cargara los parámetros que contiene.
 
 
-.. figure:: /imagenes/5.png
+.. figure:: /imagenes/prusa/5.png
 
 
 Espero sea de ayuda este Tip Makeramigos.
