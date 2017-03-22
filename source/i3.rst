@@ -134,9 +134,7 @@ Una vez seleccionada la pestaña da clic en ella.
 
 .. figure:: /imagenes/prusa/4.png
 
-
 * Paso 2
-
 
 Seleccionamos la pestaña de Open Profile, y se abrirá una
 ventana donde buscara los archivos .ini que hayamos guardado
@@ -144,12 +142,9 @@ anteriormente.
 Seleccionamos nuestro archivo y le damos a abrir y en
 automático cargara los parámetros que contiene.
 
-
 .. figure:: /imagenes/prusa/5.png
 
-
-Espero sea de ayuda este Tip Makeramigos.
-
+Hola amigos
 
 Problemas Frecuentes
 ======================
