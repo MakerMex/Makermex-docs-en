@@ -18,7 +18,6 @@ Contents:
    i3xl.rst
    filamentos.rst
    componentes.rst
-   SLA.rst
 
 
 Indices and tables

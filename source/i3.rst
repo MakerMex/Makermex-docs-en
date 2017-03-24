@@ -64,7 +64,6 @@ Descarga de Software
                     :width: 150px
 
 
-
 CALIBRAR LA IMPRESORA
 -----------------------
 
@@ -72,12 +71,8 @@ CALIBRAR LA IMPRESORA
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/y3hO5fFnZTY" frameborder="0" allowfullscreen></iframe>
 
-
-
-
 Gurdar como perfil mis parámetros de cura
 -------------------------------------------
-
 
   En cura podemos utilizar herramientas muy interesantes una de ellas es guardar como un backup los parámetros
   que usamos en nuestras impresiones.
@@ -89,48 +84,35 @@ Gurdar como perfil mis parámetros de cura
 
   Veamos como se lleva acabo este proceso.
 
-
 * Paso1
-
 
 Dentro de cura seleccionamos la pestaña de file como se ve en la imagen.
 Una vez seleccionada la pestaña da clic en ella.
 
-
 .. figure:: /imagenes/prusa/1.png
 
-
 * Paso 2
-
 
 Selecciona la pestaña de Save Profile,
 se abrirá una ventana, donde puedes seleccionar el lugar
 donde quieres que se guarde el archivo.
 
-
 .. figure:: /imagenes/prusa/2.png
-
 
 Una vez seleccionado el lugar, escribes el nombre de tu archivo
 y le das a Guardar.
 Y así quedaran guardados todos los parámetros de cura
 
-
-.. figure:: /imagenes/prusa/prusa/3.png
-
-
+.. figure:: /imagenes/prusa/3.png
 
 Cargar el perfil con los parámetros de cura
 ---------------------------------------------
 
-
 * Paso 1
-
 
 Dentro de cura seleccionamos la pestaña de file como se ve
 en la imagen
 Una vez seleccionada la pestaña da clic en ella.
-
 
 .. figure:: /imagenes/prusa/4.png
 
@@ -143,8 +125,6 @@ Seleccionamos nuestro archivo y le damos a abrir y en
 automático cargara los parámetros que contiene.
 
 .. figure:: /imagenes/prusa/5.png
-
-Hola amigos
 
 Problemas Frecuentes
 ======================
