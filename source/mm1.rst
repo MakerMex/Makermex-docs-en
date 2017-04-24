@@ -5,14 +5,17 @@ Impresora modular MM1
 General
 ==================
 
-+------------------------+
-|Características Técnicas|
-+------------------------+
-
-
-- Área de impresión 200 mm x 200 mm x 200 mm
-
-
++----------------------------------------------------------+---------------------+
+|                              Características Técnicas    | Tarjeta controladora|
++----------------------------------------------------------+---------------------+
+|Área de impresión 200 mm x 200 mm x 200 mm                |                     |
++----------------------------------------------------------|        RUMBA        |
+|Volumen de impresora (aproximado) 500 mm x 370 mm x 490 mm|                     |
++----------------------------------------------------------+---------------------+
+|Peso aproximado: 11 Kilogramos                            |                     |
++----------------------------------------------------------+                     |
+|Voltaje necsario 12 Volts                                 |                     |
++----------------------------------------------------------+---------------------+
 .. figure:: /imagenes/mm1.png
 
 
@@ -63,11 +66,12 @@ General
 
 .. figure:: /imagenes/mm3.png
 
-
-Además de todos nuestros manuales virtuales, tutoriales descarga de software
-Cura, Blender y Pronterface. Disponibles en Wiki MakerMex
-http://makermex.com/wiki/index.html y dos horas de asesoría/soporte técnico por
-video-llamada o presencial ( Se agenda con un día de anticipación).
+..Note::
+  Como un comentario adicional se pueden encontrar
+  todos nuestros manuales virtuales, tutoriales descarga de softwares ya sea
+  Cura, Blender y Pronterface. Todo lo mencionado se encuentra disponibles en Wiki MakerMex
+  http://makermex.com/wiki/index.html, tambien se es acredor a dos horas
+  de asesoría/soporte técnico por video-llamada o presencial ( Se agenda con un día de anticipación).
 
 
 +--------------------+
@@ -101,23 +105,23 @@ video-llamada o presencial ( Se agenda con un día de anticipación).
 Unboxing
 ===========
 
-Hola Maker Amigo para proceder a desempacar tu MM1 deberás utilizar dos herramientas
-1 destornillador con punta de cruz y 1 cutter.
+En el primer paso para poder usar tu impresora es el desempaque de la misma,
+para proceder a desempacar tu MM1 deberás tener a la mano dos herramientas
+un destornillador con punta de cruz, o un taladro con la misma punta y un cutter.
 
 .. figure:: /imagenes/un1.png
 
 .. Note::
 
-  En caso de contar con un destornillador, puedes usar un desrmador de cruz para retirar las pijas.
+  En caso de contar con un destornillador, puedes usar un desarmador de cruz para retirar las pijas.
 
 
 Paso 1
 
-
-Revisar que el paquete este en buen estado es decir que las cubiertas de madera no estén golpeadas por ninguna parte.
-
-De no ser así reportar inmediatamente a info@makermex.com
-
+Para comenzar el desempaque de la impresora primero se deber� realizar una inspecci�n r�pida,
+debe asegurarse que el paquete se encuentre en buen estado es decir,
+que las cubiertas de madera no estén golpeadas por ninguna parte. De no ser as� se debe realizar un reporte
+de los danos encontrados y enviarlo lo antes posibles a los contactos anexados al final de este manual
 
 .. figure:: /imagenes/un2.png
 
@@ -127,23 +131,21 @@ De no ser así reportar inmediatamente a info@makermex.com
 
 Paso 2
 
-
-Ubicar la tapa superior junto con las pijas que se van a retirar (círculos rojos) y comenzamos a retirar las pijas (imagen 1)
+Enseguida se debe identificar la tapa del paquete, es decir la parte superior del mismo
+ahora identifique todos los tornillos a retirar y con la ayuda del destornillador o taladro
+retire los tornillos uno a uno.
 
 
 .. figure:: /imagenes/un4.png
 
-
-Una vez quitadas desatornilladas todas las pijas se vera así.
-
-
 .. figure:: /imagenes/un5.png
 
 
-Paso 3
-
-
-Procedemos a retirar la tapa de madera junto con la tapa de unicel como se muestra en las imágenes.
+Una vez que se haya asegurado que todos los tornillos est�n fuera,
+procedemos a retirar la tapa de madera junto con la tapa de unicel, al abrir la caja
+encontraras una carta de agradecimiento por la compra, tambi�n dentro de la misma
+se hace una cordial invitaci�n a ser parte del foro de makermex y a la vez conocer un poco mas acerca
+de los diferentes manuales que se pueden encontrar.
 
 
 .. figure:: /imagenes/un6.png
@@ -158,28 +160,24 @@ Procedemos a retirar la tapa de madera junto con la tapa de unicel como se muest
               :width: 200px
 
 
-Al abrir la caja encontraras una carta de nuestro Agradecimiento por tu compra, también en esta carta te
-hacemos la invitación a que formes parte de nuestro foro y que conozcas la ubicación de nuestra wiki.
-
-
 .. figure:: /imagenes/un9.png
 
 
-Paso 4
+Paso 3
 
-
-Retiramos los soportes de unicel que están sosteniendo a la impresora en la parte interior como se
-muestra en la imagen.
+Para este paso se debe identificar los soportes de unicel que se encuentran sosteniendo
+en la parte interior de la impresora.
 
 
 .. figure:: /imagenes/un10.png
 
 
-Una vez retirado el unicel de soporte sacamos con cuidado los compenetres de la impresora.
-Así como se muestra en las siguientes imágenes.
+Una vez retirado los soportes de unicel seguimos con retirar con cuidado
+los componentes de la impresora.
 
 
-.. figure:: /imagenes/un11.png
+
+.. figure:: /imagenes/un11.png  
           :width: 300px
 
 
