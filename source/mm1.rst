@@ -5,17 +5,14 @@ Impresora modular MM1
 General
 ==================
 
-+----------------------------------------------------------+---------------------+
-|                              Características Técnicas    | Tarjeta controladora|
-+----------------------------------------------------------+---------------------+
-|Área de impresión 200 mm x 200 mm x 200 mm                |                     |
-+----------------------------------------------------------|        RUMBA        |
-|Volumen de impresora (aproximado) 500 mm x 370 mm x 490 mm|                     |
-+----------------------------------------------------------+---------------------+
-|Peso aproximado: 11 Kilogramos                            |                     |
-+----------------------------------------------------------+                     |
-|Voltaje necsario 12 Volts                                 |                     |
-+----------------------------------------------------------+---------------------+
++------------------------+
+|Características Técnicas|
++------------------------+
+
+
+- Área de impresión 200 mm x 200 mm x 200 mm
+
+
 .. figure:: /imagenes/mm1.png
 
 
@@ -66,12 +63,11 @@ General
 
 .. figure:: /imagenes/mm3.png
 
-..Note::
-  Como un comentario adicional se pueden encontrar
-  todos nuestros manuales virtuales, tutoriales descarga de softwares ya sea
-  Cura, Blender y Pronterface. Todo lo mencionado se encuentra disponibles en Wiki MakerMex
-  http://makermex.com/wiki/index.html, tambien se es acredor a dos horas
-  de asesoría/soporte técnico por video-llamada o presencial ( Se agenda con un día de anticipación).
+
+Además de todos nuestros manuales virtuales, tutoriales descarga de software
+Cura, Blender y Pronterface. Disponibles en Wiki MakerMex
+http://makermex.com/wiki/index.html y dos horas de asesoría/soporte técnico por
+video-llamada o presencial ( Se agenda con un día de anticipación).
 
 
 +--------------------+
@@ -105,24 +101,23 @@ General
 Unboxing
 ===========
 
-En el primer paso para poder usar tu impresora es el desempaque de la misma,
-para proceder a desempacar tu MM1 deberás tener a la mano dos herramientas
-un destornillador con punta de cruz, o un taladro con la misma punta y un cutter.
+Hola Maker Amigo para proceder a desempacar tu MM1 deberás utilizar dos herramientas
+1 destornillador con punta de cruz y 1 cutter.
 
 .. figure:: /imagenes/un1.png
 
 .. Note::
 
-  En caso de contar con un destornillador, puedes usar un destornillador de
-  cruz para retirar las pijas.
+  En caso de contar con un destornillador, puedes usar un desrmador de cruz para retirar las pijas.
 
 
 Paso 1
 
-Para comenzar el desempaque de la impresora primero se deber� realizar una inspecci�n r�pida,
-debe asegurarse que el paquete se encuentre en buen estado es decir,
-que las cubiertas de madera no estén golpeadas por ninguna parte. De no ser as� se debe realizar un reporte
-de los danos encontrados y enviarlo lo antes posibles a los contactos anexados al final de este manual
+
+Revisar que el paquete este en buen estado es decir que las cubiertas de madera no estén golpeadas por ninguna parte.
+
+De no ser así reportar inmediatamente a info@makermex.com
+
 
 .. figure:: /imagenes/un2.png
 
@@ -132,21 +127,23 @@ de los danos encontrados y enviarlo lo antes posibles a los contactos anexados a
 
 Paso 2
 
-Enseguida se debe identificar la tapa del paquete, es decir la parte superior del mismo
-ahora identifique todos los tornillos a retirar y con la ayuda del destornillador o taladro
-retire los tornillos uno a uno.
+
+Ubicar la tapa superior junto con las pijas que se van a retirar (círculos rojos) y comenzamos a retirar las pijas (imagen 1)
 
 
 .. figure:: /imagenes/un4.png
 
+
+Una vez quitadas desatornilladas todas las pijas se vera así.
+
+
 .. figure:: /imagenes/un5.png
 
 
-Una vez que se haya asegurado que todos los tornillos est�n fuera,
-procedemos a retirar la tapa de madera junto con la tapa de unicel, al abrir la caja
-encontraras una carta de agradecimiento por la compra, tambi�n dentro de la misma
-se hace una cordial invitaci�n a ser parte del foro de makermex y a la vez conocer un poco mas acerca
-de los diferentes manuales que se pueden encontrar.
+Paso 3
+
+
+Procedemos a retirar la tapa de madera junto con la tapa de unicel como se muestra en las imágenes.
 
 
 .. figure:: /imagenes/un6.png
@@ -161,20 +158,26 @@ de los diferentes manuales que se pueden encontrar.
               :width: 200px
 
 
+Al abrir la caja encontraras una carta de nuestro Agradecimiento por tu compra, también en esta carta te
+hacemos la invitación a que formes parte de nuestro foro y que conozcas la ubicación de nuestra wiki.
+
+
 .. figure:: /imagenes/un9.png
 
 
-Paso 3
+Paso 4
 
-Para este paso se debe identificar los soportes de unicel que se encuentran sosteniendo
-en la parte interior de la impresora.
+
+Retiramos los soportes de unicel que están sosteniendo a la impresora en la parte interior como se
+muestra en la imagen.
 
 
 .. figure:: /imagenes/un10.png
 
 
-Una vez retirado los soportes de unicel seguimos con retirar con cuidado
-los componentes de la impresora.
+Una vez retirado el unicel de soporte sacamos con cuidado los compenetres de la impresora.
+Así como se muestra en las siguientes imágenes.
+
 
 .. figure:: /imagenes/un11.png
           :width: 300px
@@ -192,11 +195,14 @@ los componentes de la impresora.
           :width: 300px
 
 
-Paso 4
+Paso 5
 
-Realizamos dos cortes al huele burbuja con mucho cuidado sin cortar ni rayar
-nada mas que el hule.Posteriormente, para poder retirar la  impresora del interior de la caja
-sede debe sujetar la impresora de los perfiles superiores para poder tener �xito.
+
+Realizamos dos cortes al huele burbuja con mucho cuidado sin cortar ni rayar nada mas que el hule
+burbuja, así como se muestra en las imágenes.
+
+
+Esto lo realizamos con el fin de poder sujetar la impresora de los perfiles superiores para poder sacarla de la caja.
 
 
 .. figure:: /imagenes/un15.png
@@ -208,18 +214,17 @@ sede debe sujetar la impresora de los perfiles superiores para poder tener �xi
 
 
 .. Note::
-    Como una sugerencia es importante tener una mesa lisa en la cual se pueda colocar
-    la impresora al momento de retirarla.
+    En este paso es importante que al momento de reálizarlo se tenga cerca la mesa donde se
+    colocara la impresora paro seguir desempacando.
 
 
 
-Paso 5
+Paso 6
 
-Para esta parte del unboxing, lo primero es identificar los perfiles ubicados
-enla parte superior de la impresora, ahora con mucho cuidado coloque las manos
-sobre el perfil de aluminio de la impresora justo donde realizamos el corte
-y posteriormente continuamos a levantar la impresora con mucho cuidado con mucho
-cuidado.
+
+Ahora con mucho cuidado colocamos nuestras manos sobre el perfil de aluminio de la impresora justo
+donde realizamos el corte y con mucho cuidado levantaremos la impresora para sacarla de la caja. Asi
+como se ve en las imágenes.
 
 
 .. figure:: /imagenes/un17.png
@@ -231,10 +236,9 @@ cuidado.
 .. figure:: /imagenes/un19.png
 
 
-Ya que haya sacado la impresora fuera de la caja, coloquemos todos los excesos
-de cosas, ya sean unicel, hule burbuja, accesorios y las cartas, todo esto se
-puede colocar dentro de la caja esto como una precaucion y asi no generar un
-desorden.
+Una vez que la impresora esta fuera de la caja y para no generar un desorden puedes ir colocando los
+uniceles dentro de la caja.
+
 
 .. figure:: /imagenes/un20.png
           :width: 300px
@@ -244,9 +248,10 @@ desorden.
           :width: 300px
 
 
-Nuestra siguiente cosa a realizar es retirar todo el acceso de huee burbuja
-que se quedo en la impresora. Una vez retirado el huele burbuja con la ayuda
-de un cutter retiremos la cubierta de plastico.
+Paso 7
+
+
+Ahora con ayuda del cutter vamos a retirar el Hule Burbuja con mucho cuidado, así como se ve en las imágenes.
 
 
 .. figure:: /imagenes/un22.png
@@ -257,7 +262,13 @@ de un cutter retiremos la cubierta de plastico.
           :width: 300px
 
 
+Y al igual podemos colocar este hule dentro de la caja
+
+
 .. figure:: /imagenes/un24.png
+
+
+Después de retirar el hule Burbuja también retiramos la cubierta de plástico con ayuda del cutter.
 
 
 .. figure:: /imagenes/un25.png
@@ -267,13 +278,20 @@ de un cutter retiremos la cubierta de plastico.
 .. figure:: /imagenes/un26.png
           :width: 300px
 
-Posteriormente seguimos con identificar los uniceles que se encuentran dentro
-del �rea de impresi�n. Ya que los tenga bien identificados, seguimos con retirar
-los mismos. Una vez que se hayan retirado los uniceles, seguimos con retirar los
-cinchos, con la ayuda del mismo cutter podemos cortarlos.
+
+Paso 8
+
+
+Ya retirado el empaque plástico retiramos los uniceles que rodean el área de impresión de nuestra impresora.
+
 
 .. figure:: /imagenes/un27.png
 
+
+Paso 9
+
+
+En este paso con ayuda de l cutter vamos a retirar los cinchos que sujetan la cruz central como se ve en las imágenes.
 
 
 .. figure:: /imagenes/un28.png
@@ -283,15 +301,16 @@ cinchos, con la ayuda del mismo cutter podemos cortarlos.
 .. figure:: /imagenes/un29.png
           :width: 300px
 
-.. Note::
-    Para realizar esta operacion se debe tener mucho cuidado con no danar los
-    cables que tengan un cincho o bien ningun otro cable que sea facil de danar.
+
+Al igual que el cincho que esta sujetando los cables en el eje Roscado en esta parte debemos tener
+mucho cuidado de no dañar ningún cable.
+
 
 .. figure:: /imagenes/un30.png
 
 
-Una vez que esta libre el eje le damos unas vueltas para que suba y así poder
-retirar el unicel color rosa.
+Una vez que esta libre el eje le damos unas vueltas para que suba y así poder retirar el unicel color rosa
+así como se muestra en las imágenes.
 
 
 .. figure:: /imagenes/un31.png
@@ -302,28 +321,25 @@ retirar el unicel color rosa.
           :width: 300px
 
 
-Paso 6
+Paso 10
 
 
-Ahora coloquemos nuestro modulo o bien la cruz en el centro de nuestra impresora
-y vamos a conectar sus cables en los conectores apropiados. Pasamos los cables
-que salen del modulo por encima del perfil superior izquierdo, esto viendo la
-la impresora de frente.
+Ahora colocamos la cruz en el centro de nuestra impresora y vamos a conectar sus cables en los conectores apropiados, veamos las imágenes.
 
 
 .. figure:: /imagenes/un33.png
 
 
+Pasamos los cables que salen del modulo por encima del perfil superior izquierdo viendo la impresora
+de frente así como se ve en la imagen.
+
+
 .. figure:: /imagenes/un34.png
 
 
-Para poder segurarse de que todos los cables fueron conectados adecuadamente
-debera de seguir estos breves pasos
-- El conector con 6 pines debera de ir en el apartado donde se indica con el numero 1
-- El conector de 2 pines hace referencia al ventilador de la boquilla, este debe
-de ir conectado e la parte en donde se ilustra un ventilador.
-- EL conector de 3 pines hace referencia la sensor en le eje Z, este debe de ir
-conectado en la parte donde se ilustra una Z.
+Enseguida conectamos el conector de 6 pines en el apartado que dice 1 como se muestra en las
+imágenes.
+
 
 .. figure:: /imagenes/un35.png
           :width: 300px
@@ -332,27 +348,41 @@ conectado en la parte donde se ilustra una Z.
 .. figure:: /imagenes/un36.png
           :width: 300px
 
+
+Enseguida conectamos el ventilador de la boquilla es el conector de 2 pines, este lo conectamos en el
+apartado donde esta el icono del ventilador.
+
+
 .. figure:: /imagenes/un37.png
           :width: 300px
+
 
 .. figure:: /imagenes/un38.png
           :width: 300px
 
+
+Enseguida conectamos el sensor del eje Z, es el conector de 3 pines, y se conecta en el apartado que
+dice Z así como se ve en las imágenes.
+
+
 .. figure:: /imagenes/un39.png
           :width: 300px
+
 
 .. figure:: /imagenes/un40.png
           :width: 300px
 
 
-Paso 7
+Paso 11
 
-Ya que todo los pasos antes mencioandos, seguimos con la revisoon de nuestros
-accesorios, para ello se tiene que tener la caja en la cual se recibio la impresora
-a la mano.
+
+Revisemos los accesorios que vienen en nuestra caja plástica.
 
 
 .. figure:: /imagenes/un41.png
+
+
+Sacamos todos los accesorios y revisamos.
 
 
 .. figure:: /imagenes/un42.png
@@ -360,24 +390,12 @@ a la mano.
 
 .. figure:: /imagenes/un43.png
 
-Ahora revisemos que los accesorios que recibi� est�n completos, para ello debera
-hacer una check list r�pido de los que tenga. en su caja de accesorios debera
-tener lo siguiente.
-1.- Seguro del doble extrusor
-2.- Cable de la fuente
-3.- Cable USB
-4.- Calzas para la base de la impresora
-5.- Thermoresistores (refacci�n)
-6.- Seguros de bandas (refacci�n)
-7.- Lector de tarjetas SD (refacci�n)
-8.- Tensores de bandas (refacci�n)
-9.- Gui� de cables
-10.- Destornillador cer�mico
-11.- Sensor Z mec�nico
-12.- Kit de cables
 
-Consecuentemente tomamos el seguro de la doble extrusora y lo conectamos en el
-ilustraci�n colocada con el numero 2.
+Paso 12
+
+
+Tomamos el seguro de la Doble extrusora y lo conectamos en la parte que dice 2 como se ve en las
+imágenes.
 
 
 .. figure:: /imagenes/un44.png
@@ -388,21 +406,16 @@ ilustraci�n colocada con el numero 2.
           :width: 300px
 
 
-Para poder asegurarse de que realizo las conexiones correctamente, todos los
-conectores deben de estar como lo muestra la siguiente imagen
+Listo así es como debes de tener todas tus conexiones.
 
 
 .. figure:: /imagenes/un46.png
 
 
-Paso 8
+Paso 13
 
 
-Ahora coloquemos el cable de alimentaci�n en la parte que le corresponde
-podr� observar una ranura en el lado derecho, es una entrada para tres pines.
-Despu�s tomaremos la varilla y la colocaremos en la parte de atr�s, en esta parte
-puede colocar el filamento a utilizar o bien si lo prefiere solo puede colocar
-la varilla.
+Ahora tomamos el cable de alimentación y lo colocamos en su lugar como se ve en la imagen.
 
 
 .. figure:: /imagenes/un47.png
@@ -411,6 +424,12 @@ la varilla.
 
 .. figure:: /imagenes/un48.png
           :width: 300px
+
+
+Paso 14
+
+
+En este paso colocaremos la varilla como se ve en las imágenes.
 
 
 .. figure:: /imagenes/un49.png
@@ -425,35 +444,35 @@ la varilla.
           :width: 300px
 
 
-Paso 9
+Paso 15
 
-Ahora, primero identificaremos la gui� de cables, se pues con la ayuda de un
-cutter retiraremos el material de soporte, es facil de identificar ya que no es
-lo suficientemente solido. Haremos un corte donde se encuentra la linea de soporte
-y despu�s lo montamos en el perfil superior izquierdo, recuerda siempre visualizar
-la impresora de frente.
+
+Enseguida colocaremos la Guía de cables, primero retiramos el material de soporte con ayuda de un
+cutter y luego la montamos como se ve en las imágenes.
+
 
 .. figure:: /imagenes/un52.png
           :width: 300px
 
+
 .. figure:: /imagenes/un53.png
           :width: 300px
 
+
 .. figure:: /imagenes/un54.png
                  :width: 300px
+
 
 .. figure:: /imagenes/un55.png
                  :width: 300px
 
 
-Paso 10
+Paso 16
 
-En nuestro siguiente paso, nos encontramos con la colocaci�n del extrusor, esta
-va en la parte trasera de la impresora. Es de las partes mas esenciales de la
-maquina ya que es la que se encarga de distribuir el filamento.
 
-Para saber en que parte se encuentra el extrusor, la maquina debio de haber
-con una pequena caja con el nombre de la empresa.
+En este paso colocaremos la extrusora en la parte trasera de la impresora este mecanismo es el que se
+encarga de introducir el filamento hasta la boquilla.
+
 
 Primero lo desempacamos.
 
