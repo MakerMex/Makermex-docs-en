@@ -457,188 +457,159 @@ esto quiere decir que los puedes descargar de la web sin costo.
 
 Descarga de Software
 --------------------
+-Software Cura
 
 .. figure:: /imagenes/cu.png
-             :width: 150px
-
+          :width: 150px
 
 te dejamos el link donde lo puedes descargar y te recomendamos la version 14.12
 
-
 https://ultimaker.com/en/products/cura-software/list
 
+-Software pronterface
 
 .. figure:: /imagenes/pronterface.png
              :width: 150px
 
-
 te dejamos el link donde lo puedes descargar
-
 
 http://koti.kapsi.fi/~kliment/printrun/
 
+-Software Blender
 
 .. figure:: /imagenes/Blender_logo.png
              :width: 150px
 
-
 te dejamos el link donde lo puedes descargar
 
-
 https://www.blender.org/download/
-
 
 instalacion de cura para la impresora MM1
 ------------------------------------------
 
+Paso 1
 
-Paso1
+Te recomendamos que entres a nuestra pagina y descarges cura. Encontraras un link
+de descarga y la version que se recomiendo usar.
 
+.. Note::
+    EL link lo podras encontrar en la seccion de ayuda, manuales, ingresas a cualquier
+    manual y te vas a descargas de softwares.
 
-Entra a nuestra pagina y descarga cura.
-comienza a instalar cura
-
+Comienza a instalar cura
 
 .. figure:: /imagenes/curm1.png
 
-
 Paso 2
 
-
-Selecciona los archivos que deseas abrir y da clic en instalar
-
+Selecciona los archivos que deseas abrir y da clic en instalar. Se recomienda
+tener las opciones como se muestran en la imagen.
 
 .. figure:: /imagenes/curm2.png
-
-
 .. figure:: /imagenes/curm3.png
-
 
 Paso 3
 
-
 Una vez que los archivos del software se instalen te aparecerá una ventana, le das siguiente y finalizar
 
-
 .. figure:: /imagenes/curm4.png
-
-
 .. figure:: /imagenes/curm5.png
-
 
 Paso 4
 
-
 Después te aparecerá esta ventana le das siguiente y terminar.
 
-
 .. figure:: /imagenes/curm6.png
-
-
 .. figure:: /imagenes/curm7.png
-
 
 Paso 5
 
-
-Te aparecerá una ventana para seleccionar el idioma selecciona ingles y das clic siguiente.
-Te aparecerá esta ventana selecciona other y da clic en siguiente
-
+Te aparecerá una ventana para seleccionar el idioma selecciona ingles y das clic
+siguiente. Posteriormente te aparecerá esta ventana selecciona other y da clic en
+siguiente. Esto para poder declarar las especificaciones de nuestra maquina.
 
 .. figure:: /imagenes/curm8.png
 
-
 Paso 6
 
-
-Te aparecerá esta ventana selecciona custom y da clic en siguiente.
-
+Despues de haber da en siguiente te mostrara esta ventana selecciona custom y da
+clic en siguiente.
 
 .. figure:: /imagenes/curm9.png
 
-
 Paso 7
 
-
-Te aparecerá esta ventana coloca la siguiente información, una vez que lo hagas das clic en terminar
-
+Te aparecerá esta ventana coloca la siguiente información, una vez que lo hagas
+das clic en terminar. Esta es laparte donde colocas las dimensiones de la maquina
+que tipo de boquilla manejas y si cuenta o no coma caliente, tambien aparece un
+recuadro en el cual nos idica si el centro de la impresora esta en las coordenadas
+0,0,0, esto se degara sin seleccionar ya que nuestras impresoras no lo necesitan.
 
 .. figure:: /imagenes/curm10.png
 
-
 Paso 8
-
 
 Te aparecerá esta ventana
 
-
 .. figure:: /imagenes/curm11.png
 
-
-Los parámetros que vamos a utilizar vienen en estas pestañas.
-
+Las opciones para poder colocar los parametros de impresion se colocaran en estas ventanas,
+usualmente solo se cambian, los parametros de la pestañana basic y advance.
 
 .. figure:: /imagenes/curm12.png
 
 
 Paso 9
 
+Coloca los parámetros que te recomendamos de utilizar en la pestaña de basic
 
-Coloca los parámetros que te recomendamos de Basic
-temperatura para PLA 200°C y cama caliente 40°C a 60°C
-temperatura ABS 225°C y cama caliente 97°C
-En Fill Density , el valor es variable dependiendo de la pieza
-que vas a realizar si la quieres frágil de 0 a 20% es un relleno
-frágil para piezas visuales de 25 a 40% son rellenos ya mas
-resistentes de 45 a 60% son rellenos muy resistentes
-En
-
++-----------------------------------------------------------------+
+|-Temperatura para PLA 200°C a 212°C                              |
+|-Cama caliente 40°C a 60°C                                       |
+|-Temperatura ABS 225°C                                           |
+|-Cama caliente 97°C                                              |
++-----------------------------------------------------------------+
++-----------------------------------------------------------------+
+|En Fill Density                                                  |
++-----------------------------------------------------------------+
+|El valor es variable dependiendo de la pieza                     |
+|que vas a realizar si la quieres frágil debe detener un relleno  |
+|de entre 0 a 20%                                                 |
++-----------------------------------------------------------------+
+|Frágil pero para piezas visuales se recomienda un relleno del 25%|
+|a 40%                                                            |
++-----------------------------------------------------------------+
+|Piezas resistentes de 45 a 60% de relleno                        |
++-----------------------------------------------------------------+
 
 .. figure:: /imagenes/curm13.png
 
-
-En estas dos casillas se pueden seleccionar los tipos de material de soporte y de plataforma de adhesión
-
+En estas dos casillas se pueden seleccionar los tipos de material de soporte y
+de plataforma de adhesión
 
 .. figure:: /imagenes/curm14.png
-
-
 .. figure:: /imagenes/curm15.png
-
 
 Paso 10
 
-
-Coloca los parámetros que te recomendamos de Advanced
-como tip en la distancia de la retracción se puede utilizar :
+Coloca los parámetros que te recomendamos de Advanced como tip en la distancia
+de la retracción se puede utilizar :
 6 y 8
-
 
 .. figure:: /imagenes/curm16.png
 
+.. Note::
+    Por ultimo en end gcode
+    vas copiar el punto y coma y lo colocaras antes de G90 para que se quede comentado este paso.
 
-Paso 11
-
-
-por ultimo en end gcode
-vas copiar el punto y coma y lo colocaras antes de G90 para que se quede comentado este paso.
-
-
-.. figure:: /imagenes/curm17.png
-
-
-.. figure:: /imagenes/curm18.png
-
-
-.. figure:: /imagenes/curm19.png
-
-
+    .. figure:: /imagenes/curm17.png
+    .. figure:: /imagenes/curm18.png
+    .. figure:: /imagenes/curm19.png
 
 Conexiones de la Impresora
 -----------------------------
 
 En este manual podemos observar como se debe conectar correctamente nuestra impresora 3D, es muy importante que llevemos acabo las indicaciones.
-
 En esta imagen se aprecia el contenido de la caja de plástico trasparente.
 
 
@@ -748,64 +719,94 @@ necesario conectarlo de esta forma.
     Cuando imprimimos con este modulo es muy importante tener conectado
     el seguro de doble extrusora, si este seguro no se conecta es imposible realizar la impresión
 
-
-
-.. figure:: /imagenes/mm5.png
+    .. figure:: /imagenes/mm5.png
 
 
 Uso de la pantalla
 ---------------------
 
+al momento de encender nuestra impresora nos aparecera la pantalla principal
+en esta se puede encontrar toda la informacion del transcurso de la impresion,
+esta puede ir desde:
 
-Cuando enciendes la impresora esta es la pantalla principal. La pantalla tiene una perilla multifuncional
-que gira y puedes seleccionar los menús de la pantalla, y para activarlos das clic en la perilla
++--------------------------------------------------+
+|-La temperatura actual de la boquilla             |
+|-La temperatura de un doble extrusor              |
+|-La temperatura actual de la cama                 |
+|-El tiempo trascurrido de impresion               |
+|-El porcentaje de avance en la impresion          |
+|-La velocidad de la impresion dada en porcentaje  |
+|-Un mensaje pre-programado                        |
++--------------------------------------------------+
 
+La pantalla tiene una perilla multifuncional que peude girar y a su vez seleccionar
+ los menús de la pantalla, para acceder a algun menu solo giras y oprimes la perilla.
 
 .. figure:: /imagenes/p1.png
 
+Ahora al dar clic en la perilla nos aparecera el menú principal, este esta conformado
+por:
 
-Al dar clic te aparece el menú principal que contiene PREPARE,CONTROL y PRINT FROM SD.
-
++----------------+
+|-PREPARE        |
+|-CONTROL        |
+|-PRINT FROM SD. |
++----------------+
 
 .. figure:: /imagenes/p2.png
 
-
-Comencemos con PREPARE.
-
+Identifiquemos la opcion de PREPARE. giremos la perilla y oprimamosla.
 
 .. figure:: /imagenes/p3.png
 
+Al oprimir en la opcion de prepare nos aparecera un menu nuevo, este esta formado
+por:
 
-PREPARE tiene los siguientes menús que se muestran en las imágenes.
-
++------------------+
+|-Disable steppers |
+|-Auto home        |
+|-Preheat PLA      |
+|-Preaheat ABS     |
+|-CoolDown         |
+|-Switch power off |
+|-Move axis        |
++------------------+
 
 .. figure:: /imagenes/p4.png
-
-
 .. figure:: /imagenes/p5.png
 
+-Disable stepper
 
-1  Sirve para purgar la corriente que hay en los motores, es decir cuando encendemos la impresora, los
-motores los podemos mover con nuestras manos pero al mandar imprimir o mover los ejes con el
-pronterface o la pantalla, los motores se energizan y ya no se pueden mover con las manos pero si
-queremos volver a moverlos sin tener que apagar la impresora solo activamos este parámetro, basta
-dar un clic y se libera la corriente que hay en los motores.
+1 Sirve para purgar la corriente que hay en los motores, es decir cuando encendemos
+la impresora, los motores los podemos mover con nuestras manos pero al mandar imprimir
+o mover los ejes con el pronterface o la pantalla, los motores se energizan y ya
+no se pueden mover con las manos pero si queremos volver a moverlos sin tener que
+apagar la impresora solo activamos este parámetro, basta dar un clic y se libera
+la corriente que hay en los motores.
 
+-Auto Home
 
-2  Esta opción nos permite mandar los ejes a su posición de origen o cero, al activarlo, la impresora
-moverá sus ejes en secuencia, primero el eje X se moverá a la derecha, le seguirá el eje Y moviéndose
-hacia el fondo, y por ultimo el eje Z se moverá hacia arriba.
+2  Esta opción nos permite mandar los ejes a su posición de origen o cero, al activarlo,
+la impresora moverá sus ejes en secuencia, primero el eje X se moverá a la derecha,
+le seguirá el eje Y moviéndose hacia el fondo, y por ultimo el eje Z se moverá hacia
+arriba.
 
+-Preheat PLA
 
-3  Esta opción nos permite calentar la boquilla y la cama caliente para usar PLA las temperaturas son
-adecuadas cuando se desea tener lista la boquilla para imprimir o cambiar el filamento.
+3  Esta opción nos permite calentar la boquilla y la cama caliente para usar PLA
+las temperaturas son adecuadas cuando se desea tener lista la boquilla para imprimir
+o cambiar el filamento.
 
+Preheat PLA esta formado por:
 
-En esta imagen se muestran todas las opciones que están dentro de Preheat PLA
-
++-----------------+
+|-Preheat PLA 1   |
+|-Preheat PLA 2   |
+|-Preheat PLA A11 |
+|-Preheat PLA bed |
++-----------------+
 
 .. figure:: /imagenes/p6.png
-
 
 A  Al activarlo enciende la primer boquilla y cama caliente.
 
@@ -815,83 +816,93 @@ C  Al activarlo encienden las dos boquillas y cama caliente.
 
 D  Al activarlo se enciende la cama caliente.
 
+-Preaheat ABS
 
 4  Esta opción nos permite calentar la boquilla y la cama caliente para usar ABS las temperaturas son
 adecuadas cuando se desea tener lista la boquilla para imprimir o cambiar el filamento.
 
+Preheat PLA esta formado por:
 
-En esta imagen se muestran todas las opciones que están dentro de Preheat ABS.
-
++----------------+
+|-Preheat ABS 1  |
+|-Preheat ABS 2  |
+|-Preheat ABS A11|
+|-Preheat ABS Bed|
++----------------+
 
 .. figure:: /imagenes/p7.png
 
+-Cooldown
 
 5  Esta opción nos permite apagar las indicaciones de los preheat damos clic y se resetea la indicación
 de calentar. Es decir se cancela.
 
+-Switch power off
+
 6  Esta opción es un interruptor, como un paro de emergencia pero no lo usamos preferimos usar el que
 energiza la impresora.
+
+-Move axis
 
 7  Esta opción nos permite interactuar con los ejes y la extrusora es decir que los podemos mover con
 diferentes velocidades, con esta opción podemos calibrar la cama de impresión.
 
-
-Veamos lo que tiene Move Axis .
-
-
 .. figure:: /imagenes/p8.png
-
 
 Al dar clic en Move Axis nos abre la siguiente ventana, en ella podemos seleccionar la distancia que
 deseamos recorrer por cada giro que demos en la perilla de la pantalla.
 Como se ve en la imagen tenemos 3 opciones de distancia.
 
-
 .. figure:: /imagenes/p9.png
 
-
 Cuando seleccionamos la opción de 10mm solo nos dejara mover los ejes X,Y.
-
-Cuando seleccionamos la opción de 1mm o 0.1mm nos permite mover todos los ejes y la extrusora.
-
+Cuando seleccionamos la opción de 1mm o 0.1mm nos permite mover todos los ejes y
+la extrusora.
 
 Ya que seleccionaste una distancia puedes ver las siguientes opciones, das clic a la opción que deseas
 mover. Y te aparecerá una nueva opción.
 
-
 .. figure:: /imagenes/p10.png
+
+Al momento de seleccionar la opcion deseada, tendra que aparecer para ambas distancias.
+
 
 
 .. figure:: /imagenes/p11.png
           :width: 320px
 
-          Eje X
+-Eje X
 
 .. figure:: /imagenes/p12.png
           :width: 320px
 
-          Eje Z
+-Eje Z
 
 .. figure:: /imagenes/p13.png
           :width: 320px
 
-          Eje Y
+-Eje Y
 
 .. figure:: /imagenes/p14.png
           :width: 320px
 
-          Extrusora
+-Extrusora
 
 
-.. note::
+.. Note::
    Para poder darle movimiento al eje que seleccionemos,se gira la perilla ya sea en sentido positivo o en
    sentido negativo.
 
 
-EN CONTROL HAY MUCHOS MAS PARAMETROS QUE ESTAN PREDETERMINADOS, EN LA
-PROGRAMACION DE LA TARJETA ES NECESARIO QUE SE RESPETEN ESTOS VALORES.
-EN CONTROL SOLO PODEMOS UTILIZAR ALGUNAS OPCIONES.
+En la opcion de CONTROL se encuentran mas opciones estos ya fueron predeterminados
+por la programacion, es necesartio que se respeten estos parametros.
+En esta opcion podemos encontrar:
 
++------------------+
+|-Temperatura      |
+|-Motion           |
+|-Restore failsafe |
++------------------+
 
 .. figure:: /imagenes/p15.png
 
