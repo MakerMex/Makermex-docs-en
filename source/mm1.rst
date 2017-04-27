@@ -1465,7 +1465,7 @@ a la boquilla
               :width: 320px
 
 
- .. figure:: /imagenes/pri13.jpg
+.. figure:: /imagenes/pri13.jpg
               :width: 320px
 
 
@@ -1956,7 +1956,7 @@ Este módulo incluye
 
 
 *  Cada boquilla extrusora cuenta con su ducto de ventilación para el material depositado propio, por lo que pueden manejarse de
-manera independiente ambos ventiladores, en caso de que alguno de los materiales usados no requiere ventilación.
+   manera independiente ambos ventiladores, en caso de que alguno de los materiales usados no requiere ventilación.
 
 
 +----------------------+
@@ -1969,12 +1969,10 @@ por su MM1.
 
 
 .. figure:: /imagenes/md3.jpg
-         colcas el modulo por la parte inferior de la cruz
 
 
 
 .. figure:: /imagenes/md4.jpg
-          colocamos el clip de sujecion
 
 
 Vamos a colocra nustro segundo extrusor como colocamos el primero solo que este va colocado en la parte derecha como se ve en
@@ -2015,15 +2013,15 @@ la configuración del equipo de su MM1 como se ve en las imágenes siguientes:
 *  3. Diríjase a Extruder count, damos clic en la pestaña de un lado y selecciona el número 2 y seleccionamos OK.
 
 
-.. figure:: /imagenes/md9.png
+.. figure:: /imagenes/md9.jpg
 
 
 
-*  4. misma página a entAhora volvemos a la rar a machine > machine settings > y ahora verificamos que los offset se encuentren en
-cero tal como se muestra en la imagen
+*  4. Misma página a entAhora volvemos a la rar a machine > machine settings > y ahora verificamos que los offset se encuentren en
+      cero tal como se muestra en la imagen
 
 
-.. figure:: /imagenes/md10.png
+.. figure:: /imagenes/md10.jpg
 
 
 *  5. Ahora modificaremos lo datos de impresión según el material utilizado y los parámetros del filamento.
@@ -2070,12 +2068,12 @@ desea hacer así como la velocidad de impresión.
 de 15 a 20 Y en “distance (mm)” por lo regular se utilizan parámetros de 5 hasta 8 mm.
 
 
-.. figure:: /imagenes/md12.png
+.. figure:: /imagenes/md12.jpg
 
 
-+------------------------------------+
++-------------------------------------+
 |Estableciendo el perfil de materiales|
-+------------------------------------+
++-------------------------------------+
 
 
 Usted necesitará un modelo que se corta en dos partes, dejando Cura para saber qué parte va a asignar a cada extrusora. Hay varios
@@ -2124,7 +2122,7 @@ DESCRPCIÓN DEL SOFTWARE
 
 BlenderCAM es una solución de código abierto para la CAM artístico - Informática mecanizado asistido - una herramienta de generación de código G
 BlenderCAM es una extensión para el paquete de código abierto Blender 3D gratis.
- Se ha utilizado durante muchos proyectos de fresado, y está desarrollado activamente. Si usted es un desarrollador que le gustaría ayudar, no dudes en contactar conmigo.
+Se ha utilizado durante muchos proyectos de fresado, y está desarrollado activamente. Si usted es un desarrollador que le gustaría ayudar, no dudes en contactar conmigo.
 Esta extensión es gratis, sin embargo se puede donar para apoyar el desarrollo y apreciar la obra que se ha hecho.
 
 
