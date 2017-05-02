@@ -721,7 +721,6 @@ necesario conectarlo de esta forma.
 
     .. figure:: /imagenes/mm5.png
 
-
 Uso de la pantalla
 ---------------------
 
@@ -818,8 +817,9 @@ D  Al activarlo se enciende la cama caliente.
 
 -Preaheat ABS
 
-4  Esta opción nos permite calentar la boquilla y la cama caliente para usar ABS las temperaturas son
-adecuadas cuando se desea tener lista la boquilla para imprimir o cambiar el filamento.
+4  Esta opción nos permite calentar la boquilla y la cama caliente para usar ABS
+las temperaturas son adecuadas cuando se desea tener lista la boquilla para imprimir
+o cambiar el filamento.
 
 Preheat PLA esta formado por:
 
@@ -834,23 +834,24 @@ Preheat PLA esta formado por:
 
 -Cooldown
 
-5  Esta opción nos permite apagar las indicaciones de los preheat damos clic y se resetea la indicación
-de calentar. Es decir se cancela.
+5  Esta opción nos permite apagar las indicaciones de los preheat damos clic y se
+resetea la indicación de calentar. Es decir se cancela.
 
 -Switch power off
 
-6  Esta opción es un interruptor, como un paro de emergencia pero no lo usamos preferimos usar el que
-energiza la impresora.
+6  Esta opción es un interruptor, como un paro de emergencia pero no lo usamos preferimos
+usar el que energiza la impresora.
 
 -Move axis
 
-7  Esta opción nos permite interactuar con los ejes y la extrusora es decir que los podemos mover con
-diferentes velocidades, con esta opción podemos calibrar la cama de impresión.
+7  Esta opción nos permite interactuar con los ejes y la extrusora es decir que
+los podemos mover con diferentes velocidades, con esta opción podemos calibrar la
+cama de impresión.
 
 .. figure:: /imagenes/p8.png
 
-Al dar clic en Move Axis nos abre la siguiente ventana, en ella podemos seleccionar la distancia que
-deseamos recorrer por cada giro que demos en la perilla de la pantalla.
+Al dar clic en Move Axis nos abre la siguiente ventana, en ella podemos seleccionar
+la distancia que deseamos recorrer por cada giro que demos en la perilla de la pantalla.
 Como se ve en la imagen tenemos 3 opciones de distancia.
 
 .. figure:: /imagenes/p9.png
@@ -859,14 +860,12 @@ Cuando seleccionamos la opción de 10mm solo nos dejara mover los ejes X,Y.
 Cuando seleccionamos la opción de 1mm o 0.1mm nos permite mover todos los ejes y
 la extrusora.
 
-Ya que seleccionaste una distancia puedes ver las siguientes opciones, das clic a la opción que deseas
-mover. Y te aparecerá una nueva opción.
+Ya que seleccionaste una distancia puedes ver las siguientes opciones, das clic
+a la opción que deseas mover. Y te aparecerá una nueva opción.
 
 .. figure:: /imagenes/p10.png
 
 Al momento de seleccionar la opcion deseada, tendra que aparecer para ambas distancias.
-
-
 
 .. figure:: /imagenes/p11.png
           :width: 320px
@@ -888,11 +887,9 @@ Al momento de seleccionar la opcion deseada, tendra que aparecer para ambas dist
 
 -Extrusora
 
-
 .. Note::
-   Para poder darle movimiento al eje que seleccionemos,se gira la perilla ya sea en sentido positivo o en
-   sentido negativo.
-
+   Para poder darle movimiento al eje que seleccionemos,se gira la perilla ya sea
+   en sentido positivo o en sentido negativo.
 
 En la opcion de CONTROL se encuentran mas opciones estos ya fueron predeterminados
 por la programacion, es necesartio que se respeten estos parametros.
@@ -906,213 +903,164 @@ En esta opcion podemos encontrar:
 
 .. figure:: /imagenes/p15.png
 
-
 En CONTROL podemos encontrar las siguientes opciones.
 de las cuales solo vamos a seleccionar una que es la de TEMPERATURE
 
-
 .. figure:: /imagenes/p16.png
 
-
-En TEMPERATURE encontraremos las siguientes opciones las cuales son las que nos interesan.
-
+En TEMPERATURE encontraremos las siguientes opciones las cuales son las que nos
+interesan.
 
 .. figure:: /imagenes/p17.png
-
 .. figure:: /imagenes/p18.png
 
+1  Al darle clic se activa, y girando la perilla podemos colocar una temperatura
+en la primer boquilla, para que esa temperatura sea procesada se da un clic y se
+activa es indicación.
 
-1  Al darle clic se activa, y girando la perilla podemos colocar una temperatura en la primer boquilla,
-para que esa temperatura sea procesada se da un clic y se activa es indicación.
+2  Al darle clic se activa, y girando la perilla podemos colocar una temperatura
+en la segunda boquilla, para que esta temperatura sea procesada se da un clic y
+se activa es indicación.
 
-2  Al darle clic se activa, y girando la perilla podemos colocar una temperatura en la segunda boquilla,
-para que esta temperatura sea procesada se da un clic y se activa es indicación.
+3  Al darle clic se activa, y girando la perilla podemos colocar una temperatura
+en la cama caliente para que esta temperatura sea procesada se da un clic y se
+activa es indicación.
 
-3  Al darle clic se activa, y girando la perilla podemos colocar una temperatura en la cama caliente
-para que esta temperatura sea procesada se da un clic y se activa es indicación.
-
-4  Al darle clic se activa, y girando la perilla podemos colocar una velocidad en el ventilador
-40x40mm esta opción puede servir para bajar la velocidad o subirla y para que sea procesada se da un
-clic y se activa es indicación.
-
+4  Al darle clic se activa, y girando la perilla podemos colocar una velocidad en
+el ventilador 40x40mm esta opción puede servir para bajar la velocidad o subirla
+y para que sea procesada se da un clic y se activa es indicación.
 
   .. note::
-     La pantalla seria nuestro control remoto de la impresora. Pero es de suma importancia hacer caso de
-     usar solo las opciones que se mencionan.
+     La pantalla seria nuestro control remoto de la impresora. Pero es de suma
+     importancia hacer caso de usar solo las opciones que se mencionan.
 
 
 La opción de PRINT FROM SD es la mas sencilla es donde seleccionamos nuestro código G.
 
 TIPS PARA EL USO DE LA PANTALLA
 
-* Recordemos que la perilla de la pantalla es multifuncional que nos sirve para seleccionar y activar la acción de cada opción de nuestra pantalla.
+* Recordemos que la perilla de la pantalla es multifuncional que nos sirve para
+  seleccionar y activar la acción de cada opción de nuestra pantalla.
 
+* Cunado la impresora esta imprimiendo podemos hacer uso de algunas opciones en
+  especial las de control, que seria subir o bajar la temperatura de la boquilla
+  que este imprimiendo, o de la cama caliente, o bajar la velocidad del ventilador.
 
-* Cunado la impresora esta imprimiendo podemos hacer uso de algunas opciones en especial las de
-  control, que seria subir o bajar la temperatura de la boquilla que este imprimiendo, o de la cama
-  caliente, o bajar la velocidad del ventilador.
-
-
-* También con la pantalla podemos controlar la velocidad de impresión, esta opción es muy simple,
-  cuando la impresora ya esta imprimiendo, si giramos la perilla en sentido normal a las manecillas del
-  reloj subirá gradualmente la velocidad, si la giras en sentido contrario a las manecillas del reloj la
+* También con la pantalla podemos controlar la velocidad de impresión, esta opción
+  es muy simple, cuando la impresora se encuentra en funcionamiento, si se gira
+  la perilla en sentido de las manecillas del reloj subirá gradualmente la
+  velocidad, si la giras en sentido contrario a las manecillas del reloj la
   velocidad bajara gradualmente.
 
-
-* Para saber que velocidad tenemos es importante saber que en los parámetros de cura seleccionamos una
-  que es de 50 mm/s y en la pantalla cuando esta en la pantalla principal nos aparece un porcentaje de
-  100% , este porcentaje y la velocidad es una igualdad .
-
+* Para saber que velocidad tenemos es importante saber que en los parámetros de
+  cura seleccionamos la opcion que nos indique 50 mm/s, y en la pantalla cuando esta
+  en la pantalla principal nos aparece un porcentaje de 100% , este porcentaje es
+  el indicador de la velocidad que se esta manejando.
 
 Ejemplo.
 
-50mm/s = 100%
-
-100mm/s = 200%
-
-150mm/s = 300%
-
++--------------+
+|50mm/s = 100% |
+|100mm/s = 200%|
+|150mm/s = 300%|
++--------------+
 
 .. figure:: /imagenes/po19.png
-
 
 Calibración de la impresora "Distancia cama boquilla"
 ------------------------------------------------------
 
-Paso 1: Aflojar el sensor inductivo con una llave allen de 2.5mm y subirlo como se muestra en las
-        imágenes.
+Paso 1
 
+Aflojar el sensor inductivo con una llave allen de 2.5mm y subirlo como
+se muestra en las.
 
 .. figure:: /imagenes/c1.png
           :width: 320px
-
-
 .. figure:: /imagenes/c2.png
           :width: 320px
-
-
 .. figure:: /imagenes/c3.png
           :width: 320px
-
-
 .. figure:: /imagenes/c4.png
           :width: 320px
 
+Paso 2
 
-Paso 2 : Gira con cuidado el eje z hasta subirlo, logrando que entre la cama y la boquilla quede una
-         separación de una tarjeta de presentación así como se ve en las imágenes.
+Gira con cuidado el eje z hasta subirlo, logrando que entre la cama y la boquilla
+quede una separación de una tarjeta de presentación.
 
-
- .. note::
-    la tarjeta debe de quedar rozando entre la boquilla y la cama para que haya una ligera separacion
-    entre estas dos como se ve en la imagen 3
-
-
+ .. Note::
+    la tarjeta debe de quedar rozando entre la boquilla y la cama para que haya
+    una ligera separacion entre estas dos.
 
 .. figure:: /imagenes/c5.png
               :width: 320px
-
-
 .. figure:: /imagenes/c6.png
               :width: 320px
-
-
 .. figure:: /imagenes/c7.png
               :width: 320px
 
+Paso 3
 
-* Paso 3:
+Una vez que ya tienes la separación de una tarjeta entre la cama y la boquilla,
+con mucho cuidamos que el eje z se mueva ya que es muy fino y se puede bajar cuando
+no se usa, en este paso bajaremos el sensor inductivo para que este en relación
+de la distancia que dejamos entre la boquilla y la cama.
 
-        Una vez que ya tienes la separación de una tarjeta entre la cama y la boquilla, con mucho
-        cuidado evita que el eje z se mueva ya que es muy fino y se puede bajar cuando no se usa, en este paso
-        bajaremos el sensor inductivo para que este en relación de la distancia que dejamos entre la boquilla y
-        la cama.
+En esta el sensor hasta su punto aproximado de detección, para que la
+distancia que esta definida no sea afectada.
 
-        El objetivo es el siguiente: bajar el sensor hasta su punto aproximado de detección, para que la
-        distancia que esta definida no sea afectada.
+1.-Encienda la fuente
+2.-Sosten el eje z a la distancia que ya definiste con la tarjeta.
+3.-Ahora como el sensor se encuentra flojo lo vas a bajar lentamente hasta que
+vea que comienza a encender el led rojo que se encuentra en la parte superior.
+4.-Apretar con una llave allen 2.5mm o con unas pinzas de puta apriete hasta que
+que este queda firme, esto ya que el led del sensor este encendido.
 
-
-        1  enciende la fuente
-
-        2  sosten el eje z a la distancia que ya definiste con la tarjeta.
-
-
-
-
-        3  como el sensor esta flojo lo vas a bajar lentamente hasta que veas que comienza a encender el led rojo
-           que tiene en la parte superior.
-
-        4  apretar con una llave allen 2.5mm el sensor una vez que encendió el led.
-
-
-.. note::
-   recuerda el objetivo dejar el sensor en la posición justa cuando comience a encender el led.
-
-
+.. Note::
+    Recuerda que nuestra principal importancia es dejar el sensor en la posición
+    adecuada, esto quiere decir justo cuando comience a encender el led.
 
 .. figure:: /imagenes/c8.png
                  :width: 320px
-
-
 .. figure:: /imagenes/c9.png
                  :width: 320px
-
-
 .. figure:: /imagenes/c10.png
                  :width: 320px
-
-
 .. figure:: /imagenes/c11.png
                   :width: 320px
 
+Paso 4
 
-* Paso 4:
-
-
-una vez que has apretado el sensor vas a mandar un autohome en tu impresora para ver si dejaste bien
-el sensor sigue los pasos que se muestran en las imágenes, recuerda que tu perilla de la pantalla es
-multifuncional, puedes girarla para escoger la acción y dar clic para seleccionar.
-
+Una vez que se haya apretado el sensor vas a seleccionar la opcion de autohome
+en tu impresora esto para poder visualizar si se coloco en la distancia correcta
+el sensor.
 
 .. figure:: /imagenes/c12.png
               :width: 320px
-
-
 .. figure:: /imagenes/c13.png
               :width: 320px
-
-
 .. figure:: /imagenes/c14.png
               :width: 320px
-
 
 Cuando des clic en Autohome se ira a su origen 0,0,0. En esta imagen podemos apreciar que el sensor
 quedo ligeramente separado de la cama al igual que la boquilla.
 
-
 .. figure:: /imagenes/c15.png
 
+Paso 5
 
-* Paso 5:
-
-Después de dar autohome vas a realizar movimientos de los ejes X,Y con la pantalla,el primero es en Y
-
+Después de dar autohome vas a realizar movimientos de los ejes X,Y con la pantalla,
+el primero es en Y.
 
 .. figure:: /imagenes/c16.png
               :width: 320px
-
-
 .. figure:: /imagenes/c17.png
               :width: 320px
-
-
 .. figure:: /imagenes/c18.png
               :width: 320px
-
-
 .. figure:: /imagenes/c19.png
                :width: 320px
-
 
 Revisemos lo siguiente
 
