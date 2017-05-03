@@ -60,7 +60,8 @@ General
 
 .. figure:: /imagenes/mm3.png
 
-..Note::
+.. Note::
+
   Como un comentario adicional se pueden encontrar
   todos nuestros manuales virtuales, tutoriales descarga de softwares ya sea
   Cura, Blender y Pronterface. Todo lo mencionado se encuentra disponibles en Wiki MakerMex
@@ -109,9 +110,7 @@ un destornillador con punta de cruz, o un taladro con la misma punta y un cutter
 
   En caso de contar con un destornillador, puedes usar un desrmador de cruz para retirar las pijas.
 
-
 Paso 1
-
 
 Para comenzar el desempaque de la impresora primero se debera realizar una inspecciion rapida,
 debe asegurarse que el paquete se encuentre en buen estado es decir,
@@ -120,7 +119,6 @@ de los danos encontrados y enviarlo lo antes posibles a los contactos anexados a
 
 .. figure:: /imagenes/un2.png
 .. figure:: /imagenes/un5.png
-
 
 Paso 2
 
@@ -136,15 +134,12 @@ retire los tornillos uno a uno.
               :width: 200px
 .. figure:: /imagenes/un9.png
 
-
 Paso 3
 
 Para este paso se debe identificar los soportes de unicel que se encuentran sosteniendo
 en la parte interior de la impresora.
 
-
 .. figure:: /imagenes/un10.png
-
 
 Una vez retirado los soportes de unicel seguimos con retirar con cuidado
 los componentes de la impresora.
@@ -157,7 +152,6 @@ los componentes de la impresora.
           :width: 300px
 .. figure:: /imagenes/un14.png
           :width: 300px
-
 
 Paso 4
 
@@ -217,7 +211,6 @@ En este paso se debera identificar los chinchos que esta sujetando partes de la 
 , ahora con ayuda del cutter vamos a retirar los mismos que sujetan la cruz central.
 Tambien se debe cortar los que estan ubicados en el eje roscado, debe de realizarse con demasiado cuidado
 ya que en esta seccion se encuentran algunas cables importantes para las impresoras.
-
 
 .. figure:: /imagenes/un28.png
           :width: 300px
@@ -973,7 +966,7 @@ Calibración de la impresora "Distancia cama boquilla"
 Paso 1
 
 Aflojar el sensor inductivo con una llave allen de 2.5mm y subirlo como
-se muestra en las.
+se muestra.
 
 .. figure:: /imagenes/c1.png
           :width: 320px
@@ -1018,647 +1011,469 @@ vea que comienza a encender el led rojo que se encuentra en la parte superior.
 que este queda firme, esto ya que el led del sensor este encendido.
 
 .. Note::
+
     Recuerda que nuestra principal importancia es dejar el sensor en la posición
     adecuada, esto quiere decir justo cuando comience a encender el led.
 
-.. figure:: /imagenes/c8.png
-                 :width: 320px
-.. figure:: /imagenes/c9.png
-                 :width: 320px
-.. figure:: /imagenes/c10.png
-                 :width: 320px
-.. figure:: /imagenes/c11.png
-                  :width: 320px
+                        .. figure:: /imagenes/c8.png
+                                  :width: 320px
+                        .. figure:: /imagenes/c9.png
+                                  :width: 320px
+                        .. figure:: /imagenes/c10.png
+                                  :width: 320px
+                        .. figure:: /imagenes/c11.png
+                                  :width: 320px
 
 Paso 4
 
-Una vez que se haya apretado el sensor vas a seleccionar la opcion de autohome
-en tu impresora esto para poder visualizar si se coloco en la distancia correcta
-el sensor.
+Una vez que se haya colocado correctamente el sensor vamos a seleccionar la
+opcion de autohome en nuestra impresora esto para poder visualizar si se coloco
+en la distancia correcta el sensor.
 
-.. figure:: /imagenes/c12.png
-              :width: 320px
-.. figure:: /imagenes/c13.png
-              :width: 320px
-.. figure:: /imagenes/c14.png
-              :width: 320px
+                       .. figure:: /imagenes/c12.png
+                                 :width: 320px
+                       .. figure:: /imagenes/c13.png
+                                 :width: 320px
+                       .. figure:: /imagenes/c14.png
+                                 :width: 320px
 
-Cuando des clic en Autohome se ira a su origen 0,0,0. En esta imagen podemos apreciar que el sensor
-quedo ligeramente separado de la cama al igual que la boquilla.
+Cuando selecciones en Autohome se ira a su origen 0,0,0. Podras observar que el
+sensor quedo ligeramente separado de la cama al igual que la boquilla.
 
-.. figure:: /imagenes/c15.png
+                       .. figure:: /imagenes/c15.png
 
 Paso 5
 
-Después de dar autohome vas a realizar movimientos de los ejes X,Y con la pantalla,
-el primero es en Y.
+Después de a ver dando la opcion de autohome vamos a realizar algunos movimientos
+de los ejes X,Y con la pantalla.
 
-.. figure:: /imagenes/c16.png
-              :width: 320px
-.. figure:: /imagenes/c17.png
-              :width: 320px
-.. figure:: /imagenes/c18.png
-              :width: 320px
-.. figure:: /imagenes/c19.png
-               :width: 320px
+                        .. figure:: /imagenes/c16.png
+                                  :width: 320px
+                        .. figure:: /imagenes/c17.png
+                                  :width: 320px
+                        .. figure:: /imagenes/c18.png
+                                  :width: 320px
+                        .. figure:: /imagenes/c19.png
+                                  :width: 320px
 
-Revisemos lo siguiente
+Ahora aseguremosno de lo siguiente, vamos a mover el eje Y, esto con la finalidad
+de que la boquilla quede calibrada con las cuatro esquinas de la cama caliente.
 
+                        .. figure:: /imagenes/c20.png
+                                  :width: 320px
+                        .. figure:: /imagenes/c21.png
+                                  :width: 320px
 
-.. figure:: /imagenes/c20.png
-              :width: 320px
+Cuando des la indicación la boquilla se moverá a esta posición, aquí podrás hacer
+el ajuste de la distancia entre la boquilla y la cama, tambien asegurandose que
+la distancia se la de la tarjeta.
 
+Si por alguna razon el sensor de proximidad no se enciende, tendremos que nivelar
+la cama en la esquina donde nos encontramos, para poder realizar esto te puedes
+apoyar con tu llave allen de 2.5mm y unas pinzas de punta para sujetar la tuerca
+y así ajustar el resorte.
 
-.. figure:: /imagenes/c21.png
-              :width: 320px
+Dependiendo del caso si al momento de mover hacia la esquina tenemos una distancia
+muy alta tenemos que liberarlo, en cambio si la boquilla esta rozando con la cama
+tendremos que apretarlo el resorte.
 
+.. Note::
 
-Cuando des la indicación la boquilla se moverá a esta posición, aquí podrás hacer el ajuste de la
-distancia entre la boquilla y la cama con la tarjeta.
-
-Te puedes apoyar con tu llave allen de 2.5mm y unas pinzas de punta para sujetar la tuerca y así
-ajustar el resorte.
-
-Dependiendo el caso si hay una distancia muy alta tenemos que liberarlo si la boquilla esta rozando
-con la cama tenemos que apretarlo.
-
-
-
-.. note::
-   en este paso tienes solo algunos segundos para realizar cada ajuste porque cuando los motores
+   En este paso tienes solo algunos segundos para realizar cada ajuste porque cuando los motores
    dejan de moverse vuelven a su estado natural y el motor del eje Z se puede bajar si esto sucede vuelve
    a mandar autohome e intenta realizar el ajuste.
-
-
 
 Calibración de impresora "distancia cama-boquilla" MM1 V1.5
 ------------------------------------------------------------
 
-
 Paso 1
 
+Identificar el sensor Z. En la parte superior se encuentra un led que al detectar
+la cama enciende y genera el posicionamiento del eje Z. Por la parte inferior tiene
+una tuerca que al detenerla y girando el cuerpo del sensor podemos subir o bajar
+dicho sensor hasta que quede en una distancia adecuada en relación a la boquilla.
 
-Identificar el sensor Z. En la parte superior tiene un led que al detectar la cama, prende y hace el posicionamiento del eje Z. Por la parte inferior tiene una tuerca que al detenerla y girando el cuerpo del sensor podemos subir o bajar dicho sensor hasta que quede en una distancia optima en relación a la boquilla.
+                          .. figure:: /imagenes/mm6.png
 
+Una vez identificado el sensor (es la pequeña pieza metalica en la boquilla),
+hacemos un auto home para que se posicione en las coordenadas X0, Y0, Z0.
+Despues manualmente subiremos o bajaremos segun sea el caso, tomaremos el eje Z hasta que
+quede una distancia cama-boqulla milimétrica. Una forma fácil de calibrar la
+distancia cama-boquilla es poner una tarjeta de presentacion o bien un objeto con
+las mismas dimensiones, despues de haber colocado esto en la cama y subir el eje
+hasta que la hoja este casi atorada pero que aun se pueda mover.
 
-.. figure:: /imagenes/mm6.png
+                          .. figure:: /imagenes/mm7.png
 
+Ahora depues de haber obtenido la distancia adecuada aflojamos la tuerca y giramos
+el sensor subiendo o bajando dependiendo donde estaba colocado hasta que el led
+encienda.
 
-Una vez identificado el sensor, hacemos un auto home para que se posicione en las coordenadas X0, Y0, Z0. Manualmente subimos o bajamos el eje Z hasta que quede una distancia cama-boqulla milimétrica. Una forma fácil de calibrar la distancia cama-boquilla es poner una hoja de papel en la cama y subir el eje hasta que la hoja este casi atorada.
+                          .. figure:: /imagenes/mm8.png
+                          .. figure:: /imagenes/mm9.png
 
+Una vez prendido el led del sensor aseguramos la tuerca que lo compone y listo ya
+tenemos el auto home calibrado. Posteriormente tendremos que revisar todas las
+esquinas de la cama estas deben de estar a la mima distancia que el la posicion
+dada en el auto home.
 
-.. figure:: /imagenes/mm7.png
+                          .. figure:: /imagenes/mm10.png
+                          .. figure:: /imagenes/mm11.png
 
+Para calibrar el resto de la cama tendremos que ir a las opciones de la pantalla
+vamos identificar la opcion de move axis esto para poder movernos en la cama por
+medio de los ejes independientemente.
 
-Ya teniendo la distancia optima aflojamos la tuerca y giramos el sensor subiendo o bajando dependiendo donde estaba colocado hasta que el led se prenda.
+                          .. figure:: /imagenes/mm12.png
 
+Primero moveremos el eje Y hasta la posicon que indica la imagen, si el led se
+apaga quiere decir que no detecta la cama y tenemos que subirla unos cuantos milímetros
+mas hasta que la el led encienda, si fuera el caso de que el led permanece encedido
+pero la boquilla esta rozando demasiado la cama tendremos que aflojar el resorte
+hasta que la boquilla quede mas liberada, para poder saber de que quedo en la en la
+distancia correcta, esta debe de tener la misma distancia cama-boquilla que en el auto home.
 
-.. figure:: /imagenes/mm8.png
+                          .. figure:: /imagenes/mm13.png
 
+Para subir o bajar la cama nos apoyamos con unas pinzas de punta y una llave
+Allen M3, deteniendo la tuerca de seguridad con las pinzas y girando el tornillo
+con la llave.
 
-.. figure:: /imagenes/mm9.png
+                          .. figure:: /imagenes/mm14.png
 
+Una vez calibrando este extremo de la cama nos movemos hacia el otro extremo sobre
+el eje X y repetimos el paso anterior.
 
-Una vez prendido el led del sensor aseguramos la tuerca y listo ya tenemos el auto home calibrado. Todos los puntos de la cama deben estar a la mima distancia que el auto home.
-
-
-.. figure:: /imagenes/mm10.png
-
-
-.. figure:: /imagenes/mm11.png
-
-
-Para calibrar el resto de la cama nos vamos a move axis en la pantalla para mover los ejes independientemente .
-
-
-.. figure:: /imagenes/mm12.png
-
-
-Y nos movemos en el eje Y hasta esta posición, si el led se apaga quiere decir que no detecta la cama y tenemos que subirla unos cuantos milímetros mas hasta que la detecte y quede la misma distancia cama-boquilla que en el auto home.
-
-
-.. figure:: /imagenes/mm13.png
-
-
-Para subir o bajar la cama nos apoyamos con unas pinzas de punta y una llave Allen M3, deteniendo la tuerca de seguridad con las pinzas y girando el tornillo con la llave.
-
-
-.. figure:: /imagenes/mm14.png
-
-
-Una vez calibrando este extremo de la cama nos movemos hacia el otro extremo sobre X y repetimos el paso anterior.
-
-
-.. figure:: /imagenes/mm15.png
-
+                          .. figure:: /imagenes/mm15.png
 
 Repetimos los mismos pasos para el otro extremo.
 
-
-.. figure:: /imagenes/mm16.png
-
+                          .. figure:: /imagenes/mm16.png
 
 Y listo ya tienes tu cama calibrada y tu impresora lista para imprimir tus diseños.
-
-
 
 ¡ Ya desempacaste tu impresora ahora vamos a ponerla a imprimir !
 ------------------------------------------------------------------
 
-
 Paso 1
 
+En esta parte del manual colocaremos el modulo de la impresora, esto solo si tu módulo
+esta suelto, cuando decimos la palabra modulo nos referimos a la parte donde se encuentra
+la boquilla, para poder colocar se realiza de la siguiente manera, lo deberás colocar
+en la cruz, sujetarlo con el clip y conectar sus cables.
 
-Si tu módulo esta suelto se coloca de la siguiente manera, lo deberás colocar en la cruz y sujetarlo con
-
-el clip, y conectar sus cables.
-
-
-.. figure:: /imagenes/pri1.jpg
-             :width: 320px
-
-
-.. figure:: /imagenes/pri2.jpg
-             :width: 320px
-
-
-.. figure:: /imagenes/pri3.jpg
-             :width: 320px
-
-
-.. figure:: /imagenes/pri4.jpg
-             :width: 320px
-
-
-.. figure:: /imagenes/pri5.jpg
-             :width: 320px
-
-
-.. figure:: /imagenes/pri6.jpg
-             :width: 320px
-
-
-.. figure:: /imagenes/pri7.jpg
-             :width: 320px
-
-
-.. figure:: /imagenes/pri8.jpg
-             :width: 320px
-
+                          .. figure:: /imagenes/pri1.jpg
+                                    :width: 320px
+                          .. figure:: /imagenes/pri2.jpg
+                                    :width: 320px
+                          .. figure:: /imagenes/pri3.jpg
+                                    :width: 320px
+                          .. figure:: /imagenes/pri4.jpg
+                                    :width: 320px
+                          .. figure:: /imagenes/pri5.jpg
+                                    :width: 320px
+                          .. figure:: /imagenes/pri6.jpg
+                                    :width: 320px
+                          .. figure:: /imagenes/pri7.jpg
+                                    :width: 320px
+                          .. figure:: /imagenes/pri8.jpg
+                                    :width: 320px
 
 Paso 2
 
+Despues de haber coloca con exito tu modulo ahora colocaremos el Tubo Bowden
+(es la pequeña manguera blanca) en el conector del sistema extrusor (es un aro de goma azul)
+, posteriormente sacaremos punta al filamento e introduciremos el filamento a la boquilla
 
-Colocar el Tubo Bowden en el conector del sistema
-extrusor, sacar punta al filamento e introducir el filamento
-a la boquilla
+                          .. figure:: /imagenes/pri9.jpg
 
+.. Note::
 
- .. figure:: /imagenes/pri9.jpg
+  La punta que le sacaremos al filamento es para que sea una guía al momento de
+  introducirlo en el tubo, lo hacemos de dos maneras: utilizando un sacapuntas
+  de metal y/o con pinzas de corte
 
-
-.. note::
-  la punta que le sacaremos al filamento es para
-  que sea una guía al momento de introducirlo en el tubo, lo
-  hacemos de dos maneras: saca puntas de metal y con
-  pinzas de corte
-
-
-
-.. figure:: /imagenes/pri10.jpg
-              :width: 320px
-
-
-.. figure:: /imagenes/pri11.jpg
-              :width: 320px
-
-
-.. figure:: /imagenes/pri12.jpg
-              :width: 320px
-
-
-.. figure:: /imagenes/pri13.jpg
-              :width: 320px
-
-
-.. figure:: /imagenes/pri14.jpg
-              :width: 320px
-
-
-.. figure:: /imagenes/pri15.jpg
-              :width: 320px
-
-
-.. figure:: /imagenes/pri16.jpg
-               :width: 320px
-
+                          .. figure:: /imagenes/pri10.jpg
+                                    :width: 320px
+                          .. figure:: /imagenes/pri11.jpg
+                                    :width: 320px
+                          .. figure:: /imagenes/pri12.jpg
+                                    :width: 320px
+                          .. figure:: /imagenes/pri13.jpg
+                                    :width: 320px
+                          .. figure:: /imagenes/pri14.jpg
+                                    :width: 320px
+                          .. figure:: /imagenes/pri15.jpg
+                                    :width: 320px
+                          .. figure:: /imagenes/pri16.jpg
+                                    :width: 320px
 
 Paso 3
 
+Encendemos la impresora y calentamos la boquilla recordemos que la temperatura a
+utilizarse en PLA es de 204°C y si se llegara a utilizar ABS se tendria que colocar
+en 230°C.
 
-encendemos la impresora y calentamos la boquilla para PLA 204°C o ABS 230°C
-
-
-.. figure:: /imagenes/pri17.jpg
-
-
-.. figure:: /imagenes/pri18.jpg
-
-
-.. figure:: /imagenes/pri19.jpg
-
-
-.. figure:: /imagenes/pri20.jpg
-
-
-.. figure:: /imagenes/pri21.jpg
-
-
-.. figure:: /imagenes/pri22.jpg
-
+                          .. figure:: /imagenes/pri17.jpg
+                          .. figure:: /imagenes/pri18.jpg
+                          .. figure:: /imagenes/pri19.jpg
+                          .. figure:: /imagenes/pri20.jpg
+                          .. figure:: /imagenes/pri21.jpg
+                          .. figure:: /imagenes/pri22.jpg
 
 Paso 4
 
+Una vez que ya subió la temperatura daremos unas vueltas al engrane Grande ubicado
+en la parte donde se encuentra colocado el filamento, esto con la finalidad de
+que comience a salir material de la boquilla, una vez que el material ya salio por
+la punta de la boquilla, ya podremos saber que el material esta colocado correctamente.
 
-una vez que ya subió la temperatura daremos un poco mas de vueltas al engrane Grande, hasta
-que comience a salir material de la boquilla como se ve en las imágenes una vez que el material ya
-salio por la punta de la boquilla, esta colocado el material correctamente.
 
+.. Note::
 
-.. note::
-   este proceso es el mismo para poder retirar el material, se calienta la boquilla y se retira el
+   Este proceso es el mismo para poder retirar el material, se calienta la boquilla y se retira el
    filamento girando los engranes en sentido normal a las manecillas del reloj.
    Este paso se hace para cambiar el filamento o retirar un sobrante y colocar un carrete nuevo.
 
-
-
-.. figure:: /imagenes/pri23.jpg
-               :width: 320px
-
-
-.. figure:: /imagenes/pri24.jpg
-                             :width: 320px
-
+                            .. figure:: /imagenes/pri23.jpg
+                                      :width: 320px
+                            .. figure:: /imagenes/pri24.jpg
+                                      :width: 320px
 
 Paso 5
 
+Mandamos a imprimir desde la tarjeta SD se hace lo siguiente, la tarjeta llevará
+un código G, puedes utilizar este código precargado o puedes cargar un código de
+una pieza que tu desees, para poder realizar esto no olvides que tienes que generar
+tu código G como se muestra.
 
-mandamos a imprimir desde la tarjeta SD se hace lo siguiente, la tarjeta llevará un código G, puedes
-usar este código o puedes cargar un código de una pieza que tu desees, no olvides que para esto deberás
-realizar tu código G como se muestra de la siguiente forma.
+1.- Abrimos cura y damos clic en Load, se abrirá una ventana en la cual buscaras y
+seleccionaras el archivo STL que previamente has modelado o bien ya tenias a la mano.
 
+Ya seleccionado le damos en la opcion abrir. Inmediatamente en cuanto des clic
+en abrir el archivo STL se cargara en cura
 
-1 abres cura y das clic en Load, se abrirá una ventana en la cual vas a buscar y seleccionar el archivo
-STL que previamente has modelado.
+                            .. figure:: /imagenes/pri25.png
+                            .. figure:: /imagenes/pri26.png
+                            .. figure:: /imagenes/pri27.png
 
+2.- Retira la memoria SD de la impresora, e inserta en tu computadora, observa bien
+como cambian los iconos al momento de insertar la memoria, en automático puedes guardar
+tu código G en la tarjeta SD dando clic sobre el icono en cura de la tarjeta SD.
 
-Ya seleccionado le das abrir.
-Así como se muestra en las imágenes 1 y 2
-Inmediatamente en cuanto des clic en abrir el archivo STL se cargara en cura (imagen 3)
+                            .. figure:: /imagenes/pri28.png
+                                      :width: 320px
+                            .. figure:: /imagenes/pri29.png
+                                      :width: 320px
 
+Una vez que das clic en el icono de la tarjeta SD se ha guardado tu código en la
+tarjeta y deberás sacarla hasta que te aparezca la leyenda de que se ha guardo en
+la tajeta SD.
 
-.. figure:: /imagenes/pri25.png
-
-
-.. figure:: /imagenes/pri26.png
-
-
-.. figure:: /imagenes/pri27.png
-
-
-2 retira la memoria SD de la impresora, e inserta en tu computadora y observa bien los iconos como
-cambian cuando insertas la memoria, en automático puedes guardar tu código en la tarjeta SD dando
-clic sobre el icono de SD.
-
-
-.. figure:: /imagenes/pri28.png
-               :width: 320px
-
-
-.. figure:: /imagenes/pri29.png
-               :width: 320px
-
-
-Una vez que das clic en el icono SD se ha guardado tu código en la tarjeta y deberás sacarla hasta que
-te aparezca la leyenda de que se guardo en la SD.
-
-
-.. figure:: /imagenes/pri30.png
-
+                            .. figure:: /imagenes/pri30.png
 
 Paso 6
 
+Listo puede retirar su tajeta SD y volverla a colocar en la impresora, encender
+la misma y mandar a imprimir.
 
-Listo puedes sacar tu SD y volverla a colocar en la impresora encender la impresora y mandar a
-imprimir.
+                            .. figure:: /imagenes/pri31.jpg
+                                      :width: 320px
+                            .. figure:: /imagenes/pri32.jpg
+                                      :width: 320px
 
+Listo la impresora comenzará a calentar la cama caliente y después la boquilla,
+o solo comenzará a calentar ambas partes, esto se debe a la versión de cura que
+hayas descargado. Tambien tiene mucho que ver los parametros que le coloque a su
+impresion, en esto incluye la temperatura colocada para la impresion.
 
-.. figure:: /imagenes/pri31.jpg
-               :width: 320px
+                            .. figure:: /imagenes/pri33.jpg
+                                      :width: 320px
+                            .. figure:: /imagenes/pri34.jpg
+                                      :width: 320px
 
+En cuanto la temperatura que colocamos en el Código G llegue en la pantalla comenzará
+a imprimir, lo primero que hará es irse a su origen de los ejes X,Y y Z. Y sacara
+un poco de material y se va a hacia el centro, para comenzar a imprimir.
 
-.. figure:: /imagenes/pri32.jpg
-               :width: 320px
+La primer capa siempre es la mas importante debe de quedar un poco aplastada hacia
+la cama caliente, para ser mas exactos así como se muestra en las imágenes.
 
+                            .. figure:: /imagenes/pri37.jpg
+                                      :width: 320px
+                            .. figure:: /imagenes/pri39.jpg
+                                      :width: 320px
+                            .. figure:: /imagenes/pri40.jpg
+                                      :width: 320px
 
-Listo la impresora comenzará a calentar la cama caliente y después la boquilla, o solo comenzará a
-calentar ambas partes, esto se debe a la versión de cura que hayas descargado.
+Ya que termino la impresión solo retiramos la pieza con ayuda de un cutter o una
+espátula tratamos de levantar la pieza por una esquina y hacemos una palanca
+para que comience a desprenderse, también podemos apoyarnos con las manos para despegarla.
 
-
-.. figure:: /imagenes/pri33.jpg
-               :width: 320px
-
-
-.. figure:: /imagenes/pri34.jpg
-               :width: 320px
-
-
-En cuanto la temperatura que colocamos en el Código G llegue en la pantalla comenzará a imprimir, lo
-primero que hará es irse a su origen de los ejes X,Y y Z. Y sacara un poco de material y se va a hacia
-el centro, para comenzar a imprimir.
-
-
-La primer capa siempre es la mas importante debe de quedar así como se muestra en las imágenes.
-Ya después de esto la impresora hará su trabajo imprimir.
-
-
-.. figure:: /imagenes/pri35.jpg
-               :width: 320px
-
-
-.. figure:: /imagenes/pri36.jpg
-               :width: 320px
-
-
-.. figure:: /imagenes/pri37.jpg
-               :width: 320px
-
-
-.. figure:: /imagenes/pri38.jpg
-               :width: 320px
-
-
-.. figure:: /imagenes/pri39.jpg
-               :width: 320px
-
-
-.. figure:: /imagenes/pri40.jpg
-               :width: 320px
-
-
-Ya que termino la impresión solo retiramos la pieza con ayuda de un cutter o una espátula tratamos de
-levantar la pieza por una esquina y hacemos una palanca para que comience a desprenderse, también
-podemos apoyarnos con las manos para despegarla.
-
-
-.. figure:: /imagenes/pri41.jpg
-
-
-.. figure:: /imagenes/pri41.jpg
-
-
-.. figure:: /imagenes/pri41.jpg
-
+                            .. figure:: /imagenes/pri41.jpg
 
 Módulos
 =========
 
-
 Módulo Flexy
 -------------
 
+Este módulo te sirve para poder imprimir con materiales flexibles, como el Ninjaflex,
+el TPE, PLA Soft entre otros más. Te invitamos a que revises este pequeño manual
+para que puedas hacer un buen uso de tu Módulo Flexy.
 
-Este módulo te sirve para poder imprimir con materiales flexibles, como el Ninjaflex, el TPE, PLA Soft entre  otros más.
+En este manual vamos a colocar nuestro módulo Flexy e imprimir lo primero que tenemos
+que hacer es tener bien identifiquemos los componentes de este Módulo.
 
-Te invitamos a que revises este pequeño manual para que puedas hacer un buen uso de tu Módulo Flexy.
+                            .. figure:: /imagenes/fle1.jpg
 
++--------------------------------+
+|1.- Módulo inferior  (boquilla )|
+|2.- Módulo superior (Extrusor)  |
+|3.- Guía de filamento           |
+|4.- Cable de motor para extrusor|
+|5.- Tres tornillos M3x16mm      |
++--------------------------------+
 
-Hola Maker-Amigos en este manual vamos a colocar nuestro módulo Flexy e imprimir con el.
+.. Note::
 
-bien identifiquemos sus componentes de este Módulo
+   Estas piezas son indispensables y únicas para poder montar y usar tu
+   Módulo Flexyble.
 
+Paso 1
 
-.. figure:: /imagenes/fle1.jpg
+Colocaremos el Módulo 1 por debajo de la cruz hasta que llegue a su limite.
 
-
-* 1  Módulo inferior  (boquilla )
-
-
-* 2  Módulo superior (Extrusor)
-
-
-* 3  Guía de filamento
-
-
-* 4  cable de motor para extrusor
-
-
-* 5  tres tornillos M3x16mm
-
-.. note::
-   Estas piezas son indispensables y únicas para poder montar y usar tu Módulo Flexyble.
-
-
-+------+
-|Paso 1|
-+------+
+                            .. figure:: /imagenes/fle2.jpg
+                                      :width: 500px
+                            .. figure:: /imagenes/fle3.jpg
+                                      :width: 500px
 
 
-colocaremos el Módulo 1 por debajo de la cruz hasta que tope como se ven en las imágenes.
+Paso 2
 
+Ahora colocamos nuestro clip de sujeción, este es un paso importante ya que es legal
+parte de apoyo entre la cruz y el modulo.
 
-.. figure:: /imagenes/fle2.jpg
-             :width: 500px
-
-
-.. figure:: /imagenes/fle3.jpg
-             :width: 500px
-
-
-+------+
-|Paso 2|
-+------+
-
-
-Ahora colocamos nuestro clip de sujeción
-
-
-.. figure:: /imagenes/fle4.jpg
-           :width: 500px
-
-
-.. figure:: /imagenes/fle5.jpg
-           :width: 500px
-
-
-.. figure:: /imagenes/fle6.jpg
-           :width: 500px
-
+                            .. figure:: /imagenes/fle4.jpg
+                                      :width: 500px
+                            .. figure:: /imagenes/fle5.jpg
+                                      :width: 500px
+                            .. figure:: /imagenes/fle6.jpg
+                                      :width: 500px
 
 hasta este punto el módulo 1 esta anclado a la cruz central.
 
+Paso 3
 
-+------+
-|Paso 3|
-+------+
+Colocamos el módulo 2 en la parte superior del módulo 1. Es de suma importancia
+ya que esta es la parte en donde se distribuye el filamento a utilizar.
 
-
-colocamos el módulo 2 en la parte superior del módulo 1 como se ve en la imagen
-
-
-.. figure:: /imagenes/fle7.jpg
-
+                            .. figure:: /imagenes/fle7.jpg
 
 El Módulo 2  debe de embonar bien con el Módulo 1
 
-+------+
-|Paso 4|
-+------+
+Paso 4
+
+Ahora colocaremos los tornillos M3x16mm para unir y fijar ambas partes del
+Módulo Flexy. Para poder colocarlos necesitaremos la ayuda de una llave allen
+"L" de 2.5mm
+
+                            .. figure:: /imagenes/fle8.jpg
+
+Gira un poco el engrane grande para poder colocar los dos tornillos que van en
+la parte que señala la flecha.
+
+                            .. figure:: /imagenes/fle9.jpg
+                                      :width: 320px
+                            .. figure:: /imagenes/fle10.jpg
+                                      :width: 320px
+                            .. figure:: /imagenes/fle11.jpg
+                                      :width: 320px
 
 
-ahora colocaremos los tornillos M3x16mm para unir y fijar ambas partes del Módulo Flexy.
+Paso 5
 
+Colocamos la guía de filamento en el perfil superior trasero como se ve en las imágenes.
 
-.. figure:: /imagenes/fle8.jpg
+                            .. figure:: /imagenes/fle12.jpg
+                                      :width: 320px
+                            .. figure:: /imagenes/fle13.jpg
+                                      :width: 320px
 
+Paso 6
 
-.. note::
-   para poder atornillar usamos una llave allen ¨L¨ de 2.5mm
+Vamos a conectar los cables del módulo, pasamos los cables por encima del perfil
+superior izquierdo y  conectamos los cables.
 
+                            .. figure:: /imagenes/fle14.jpg
+                            .. figure:: /imagenes/fle15.jpg
 
+Paso 7
 
-  Gira un poco el engrane grande  para poder colocar los dos tornillos que van en la parte que señala la flecha.
+Ya que conectamos todos los conectores pasamos a conectar el motor con su cable.
 
-
-.. figure:: /imagenes/fle9.jpg
-           :width: 320px
-
-
-.. figure:: /imagenes/fle10.jpg
-           :width: 320px
-
-
-.. figure:: /imagenes/fle11.jpg
-           :width: 320px
-
-+------+
-|Paso 5|
-+------+
-
-
-colocamos la guía de filamento en el perfil superior trasero como se ve en las imágenes.
-
-
-.. figure:: /imagenes/fle12.jpg
-           :width: 320px
-
-
-.. figure:: /imagenes/fle13.jpg
-           :width: 320px
-
-+------+
-|Paso 6|
-+------+
-
-
-vamos a conectar los cables del módulo, pasamos los cables por encima del perfil superior izquierdo y  conectamos los cables.
-
-
-.. figure:: /imagenes/fle14.jpg
-
-
-.. figure:: /imagenes/fle15.jpg
-
-
-+------+
-|Paso 7|
-+------+
-
-
-Ya que conectaste todos los conectores pasamos a conectar el motor con su cable.
-
-
-.. note::
-   recuerda que este cable es diferente al que ya tienes conectado es igual de sus conectores pero tiene algo exclusivo para el motor
-   del flexy.
-
+..  Note::
+   recuerda que este cable es diferente al que ya tienes conectado es igual de
+   sus conectores pero tiene algo exclusivo para el motor del flexy.
 
 Primero conectamos el motor
 
-
-.. figure:: /imagenes/fle16.jpg
-
+                            .. figure:: /imagenes/fle16.jpg
 
 Después conectamos este cable en la parte que dice M1 de la parte
-trasera de la impresora
+trasera de la impresora, siya cuentas con un cable conectado en esta seccion, solo
+retiralo y conecta el del motor nuevo
 
+                            .. figure:: /imagenes/fle17.jpg
 
-.. figure:: /imagenes/fle17.jpg
+Paso 8
 
-+------+
-|Paso 8|
-+------+
+Por último vamos a colocar el filamento y sacar un código G, de cura para poder
+imprimir, para poder meter el filamento a la boquilla usamos los siguientes pasos
 
++------------------------------------------------------------------------------+
+|1.- Enciende la impresora                                                     |
+|2.- Da un clic a la perilla, gira la perilla y selecciona control da clic     |
+|3.- Una vez dentro del menú de control selecciona temperature y da clic       |
+|4.- Selecciona Nozzle y da clic                                               |
+|5.- Sebe la temperatura según el material que vayas a usar  y da clic para que|
+|comience a calentar.                                                          |
++------------------------------------------------------------------------------+
 
-Por último vamos a colocar el filamento y sacar un código G, de cura para poder imprimir,
-para poder meter el filamento a la boquilla usamos los siguientes pasos
+.. Tip::
 
-
-* 1  enciende la impresora
-
-
-* 2  da un clic a la perilla, gira la perilla y selecciona control da clic
-
-
-* 3  una vez dentro del menú de control selecciona temperature y da clic
-
-
-* 4  selecciona Nozzle y da clic
-
-
-* 5  sebe la temperatura según el material que vayas a usar  y da clic para que comience a calentar.
-
-
-.. tip::
-    a) ninjaflex y TPE  225°C
-
+    a) Ninjaflex y TPE  225°C
     b) PLA soft 208°C
 
+Una vez que este caliente la boquilla introducimos el filamento por la guía de filamento
+lo llevamos hasta el orificio que esta en el módulo 2 y giramos el engrane grande
+en sentido normal a las manecillas del reloj, para que el filamento llegue hasta la boquilla.
+
+Cuando esto pase se vera que sale como un hilo pequeño de la boquilla y el filamento
+estará listo para usarse.
+
+Ahora apagamos la impresora y la volvemos a encender, esto se hace para que de un
+rest la tarjeta madre y deje de calentar al volverla a encender nos ayuda a que
+la boquilla se enfrié con ayuda del ventilador pequeño ya que es de metal y
+si se deja apagada puede ocasionarnos un atasco porque el calor.
+
+                            .. figure:: /imagenes/fle18.jpg
+                                      :width: 320px
+                            .. figure:: /imagenes/fle19.jpg
+                                      :width: 320px
 
 
-Una vez que este caliente la boquilla metemos el filamento por la guía como se muestra en las imágenes y lo llevamos hasta el
-orificio que esta en el módulo 2 y giramos el engrane grande en sentido normal a las manecillas del reloj, para que el filamento
-llegue hasta la boquilla.
+Paso 9
 
-Cuando esto pase se vera que sale como un hilo pequeño de la boquilla y el filamento estará listo para usarse.
+Colocaremos los parámetros para poder imprimir
+en esta parte es muy importante que coloquemos la temperatura segun el material
+que vayamos a usar.
 
-Ahora apagamos la impresora y la volvemos a encender, esto se hace para que de un rest la tarjeta madre y deje de calentar el
-volverla a encender nos ayuda a que la boquilla se enfrié con ayuda del ventilador pequeño ya que es de metal y si se deja apagada
-puede ocasionarnos un atasco,porque el calor se irradiaría en todo su cuerpo.
-
-
-.. figure:: /imagenes/fle18.jpg
-           :width: 320px
-
-
-.. figure:: /imagenes/fle19.jpg
-           :width: 320px
-
-
-+------+
-|Paso 9|
-+------+
-
-
-Colocar los parámetros para poder imprimir
-en esta parte es muy importante que coloquemos la temperatura segun el material que vayamos a usar.
-
-
-Para Ninjaflex y TPE te recomendamos usar la temperatura de impresión de 228°C
-
-
-Para el PLA soft te recomendamos usar la temperatura de impresión de 208°C
-
++------------------------------------------------------------------------------+
+|Para Ninjaflex y TPE te recomendamos usar la temperatura de impresión de 228°C|
+|Para el PLA soft te recomendamos usar la temperatura de impresión de 208°C    |
++------------------------------------------------------------------------------+
 
 Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
 
@@ -1667,1012 +1482,750 @@ Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
    solo para el filamento PLA soft se usaran los siguientes parámetros
 
 
-.. figure:: /imagenes/fle22.png
-           :width: 320px
+                            .. figure:: /imagenes/fle22.png
+                                      :width: 320px
+                            .. figure:: /imagenes/fle23.png
+                                      :width: 320px
+                            .. figure:: /imagenes/fle20.png
+                                      :width: 320px
+                            .. figure:: /imagenes/fle21.png
+                                      :width: 320px
+                            .. figure:: /imagenes/fle24.png
+                                      :width: 320px
+                            .. figure:: /imagenes/fle25.png
+                                      :width: 320px
 
-
-.. figure:: /imagenes/fle23.png
-           :width: 320px
-
-
-.. figure:: /imagenes/fle20.png
-           :width: 320px
-
-.. figure:: /imagenes/fle21.png
-           :width: 320px
-
-
-.. figure:: /imagenes/fle24.png
-           :width: 320px
-
-
-.. figure:: /imagenes/fle25.png
-           :width: 320px
-
-
-Listo amigos una vez que tenemos estos parámetros en nuestro cura podemos sacar nuestro código G en la tarjeta SD y mandar a imprimir
-como lo hemos hevho en la primera impresión.
-
+Listo amigos una vez que tenemos estos parámetros en nuestro cura podemos sacar
+nuestro código G en la tarjeta SD y mandar a imprimir como lo hemos hecho en la
+primera impresión.
 
 Módulo Doble
 -------------
 
-+-------+
-|GENERAL|
-+-------+
+GENERAL
 
++------------------------------------------------------------------------------+
+|Características técnicas                                                      |
++------------------------------------------------------------------------------+
+|-Dimensiones físicas:  80mm x 74mm x  96mm                                    |
+|-Temperatura máxima: 300°C                                                    |
+|-Materiales en filamentos:  Nailon(618,645), Policarbonato (PC), ABS, PLA,    |
+|Filamento flexible (TPE, PLA Soft), Lay Wood, PVA, en sí es compatible con la |
+|mayoría de los filamentos que existen en el mercado.                          |
++------------------------------------------------------------------------------+
 
-Características técnicas:
++------------------------------------------------------------------------------+
+|Características generales                                                     |
++------------------------------------------------------------------------------+
+|-Dos boquillas Hexagon de 0.4mm que permite extruir 2 materiales distintos o  |
+|colores diferentes.                                                           |
+|-Se puede utilizar una boquilla para material de soporte, para lograr mejores |
+|acabados superficiales.                                                       |
+|-Cada boquilla extrusora cuenta con su ducto de ventilación para el material  |
+|depositado propio, por lo que pueden manejarse de manera independiente ambos  |
+|ventiladores, en caso de que alguno de los materiales usados no requiere      |
+|ventilación.                                                                  |
++------------------------------------------------------------------------------+
 
+INSTALACIÓN DEL MÓDULO
 
-*  Dimensiones físicas:  80mm x 74mm x  96mm
+Con el fin de empezar a imprimir de una manera doble material debe poner el módulo
+en el apoyo universal transversal de los módulos por su MM1.
 
+                          .. figure:: /imagenes/md3.jpg
+                          .. figure:: /imagenes/md4.jpg
 
-*  Temperatura máxima: 300°C
+Vamos a colocar nuestro segundo extrusor como colocamos el primero solo que este
+va colocado en la parte derecha.
 
+                          .. figure:: /imagenes/md5.jpg
 
-*  Materiales en filamentos:  Nailon(618,645), Policarbonato (PC), ABS, PLA, Filamento flexible (TPE, PLA Soft), Lay Wood, PVA, en sí
-   es compatible con la mayoría de los filamentos que existen en el mercado.
+Debe conectar el segundo extrusor en el cable de 6 pines con la etiqueta "2". 
+La primera máquina de extrusión y el sensor inductivo se conectan de la misma manera
+del módulo individual.
 
+                          .. figure:: /imagenes/md6.jpg
 
-Características generales:
+CONFIGURACIÓN DE CURA
+----------------------
 
+Usted tendrá que ajustar los parámetros de Cura para el módulo de doble extrusión. 
+puede hacer esto mediante la modificación de la configuración del equipo de su MM1.
 
-Este módulo incluye
+1.- Diríjase a la etiqueta machine
 
+                          .. figure:: /imagenes/md7.jpg
 
-*  dos boquillas Hexagon de 0.4mm que permite extruir 2 materiales distintos o colores diferentes:
+2.- Una vez en machine diríjase a machine settings y de click.
 
+                          .. figure:: /imagenes/md8.png
 
-*  Se puede utilizar una boquilla para material de soporte, para lograr mejores acabados superficiales.
+3.- Diríjase a Extruder count, damos clic en la pestaña de un lado y selecciona
+el número 2 y seleccionamos OK.
 
+                          .. figure:: /imagenes/md9.jpg
 
-*  Cada boquilla extrusora cuenta con su ducto de ventilación para el material depositado propio, por lo que pueden manejarse de
-   manera independiente ambos ventiladores, en caso de que alguno de los materiales usados no requiere ventilación.
+4.- Misma página a entAhora volvemos a la rar a machine > machine settings > y
+ahora verificamos que los offset se encuentren en cero.
 
+                          .. figure:: /imagenes/md10.jpg
 
-+----------------------+
-|INSTALACIÓN DEL MÓDULO|
-+----------------------+
+5.- Ahora modificaremos lo datos de impresión según el material utilizado y
+los parámetros del filamento.
 
+                          .. figure:: /imagenes/md11.png
 
-Con el fin de empezar a imprimir de una manera doble material debe poner el módulo en el apoyo universal transversal de los módulos
-por su MM1.
-
-
-.. figure:: /imagenes/md3.jpg
-
-
-
-.. figure:: /imagenes/md4.jpg
-
-
-Vamos a colocra nustro segundo extrusor como colocamos el primero solo que este va colocado en la parte derecha como se ve en
-la imagen.
-
-
-.. figure:: /imagenes/md5.jpg
-
-
-Debe conectar el segundo extrusor en el cable de 6 pines con la etiqueta "2". La primera máquina de extrusión y el sensor inductivo
-se conectan de la misma manera del módulo individual.
-
-
-.. figure:: /imagenes/md6.jpg
-
-
-+---------------------+
-|CONFIGURACIÓN DE CURA|
-+---------------------+
-
-
-Usted tendrá que ajustar los parámetros de Cura para el módulo de doble extrusión. Usted puede hacer esto mediante la modificación de
-la configuración del equipo de su MM1 como se ve en las imágenes siguientes:
-
-
-*  1. Diríjase a la etiqueta machine
-
-
-.. figure:: /imagenes/md7.jpg
-
-
-*  2. Una ves en machine diríjase a machine settings y de click.
-
-
-.. figure:: /imagenes/md8.png
-
-
-*  3. Diríjase a Extruder count, damos clic en la pestaña de un lado y selecciona el número 2 y seleccionamos OK.
-
-
-.. figure:: /imagenes/md9.jpg
-
-
-
-*  4. Misma página a entAhora volvemos a la rar a machine > machine settings > y ahora verificamos que los offset se encuentren en
-      cero tal como se muestra en la imagen
-
-
-.. figure:: /imagenes/md10.jpg
-
-
-*  5. Ahora modificaremos lo datos de impresión según el material utilizado y los parámetros del filamento.
-
-
-.. figure:: /imagenes/md11.png
-
-
-5.1. Ahora se modificaran los parámetros de cura con los datos de filamento las capas las paredes el leyendo y la retracción que se
-desea hacer así como la velocidad de impresión.
-
+5.1.- Ahora se modificaran los parámetros de cura con los datos de filamento las
+capas las paredes el leyendo y la retracción que se desea hacer así como la
+velocidad de impresión.
 
 *  En layer height  se selecciona la altura de cada capa y con Shell thickness el grosor de cada capa
 
+*  En fill Density se selecciona la densidad de relleno de la figura que está en %
+   normal mente se utiliza un relleno de 40 para piezas funcionales y un 20 o 15%
+   si la pieza es para muestra.
 
-*  En fill Density se selecciona la densidad de relleno de la figura que está en % normal mente se utiliza un relleno de 40 para
-   piezas funcionales y un 20 o 15% si la pieza es para muestra.
+*  Ahora en print Speed seleccionamos la velocidad de impresión en mm/s.
 
+*  Y seleccionamos la temperatura con la que trabajara cada boquilla o nozzle esto
+   de acuerdo al material de impresión así como de la cama nosotros nos enfocaremos
+   en el poner la temperatura de 2nd temperatura
 
-*  Ahora   en print Speed seleccionamos la velocidad de impresión en mm/s.
+*  Ahora se definirá si la figura necesita algún soporte este soporte por primera
+   impresión lo aremos con la segunda boquilla  así que moveremos en support type
+   para el tipo de soporte.
 
+*  Si se pondrá unas capas en las cuales se adherirá el material y en lo que nos
+   enfocaremos nosotros será en Support dual extrusion en esa parte utilizaremos
+   el second extruder.
 
-*  Y seleccionamos la temperatura con la que trabajara cada boquilla o nozzle esto de acuerdo almaterial de impresión así como de la
-   cama nosotros nos enfocaremos en el poner la temperatura de 2nd temperatura
+*  Ahora bien por primera impresión ocuparemos colocar una palomita en wipe & prime
+   tower que es una torre que generara con cada capa para verificar que no tenga
+   desfase la máquina.
 
+*  Ahora bien para el diámetro del filamento se modifica el diameter2 (mm) utilizaremos
+   el mismo que para diameter (mm).que por lo regular se encuentra entre 2.89 y 3 mm.
 
-*  Ahora se definirá si la figura necesita algún soporte este soporte por primera impresión lo aremos con la segunda boquilla  así
-   que moveremos en support type para el tipo de soporte.
-
-
-*  Si se pondrá unas capas en las cuales se adherirá el material y en lo que nos enfocaremos nosotros será en Support dual extrusion
-   en esa parte utilizaremos el second extruder.
-
-
-*  Ahora bien por primera impresión ocuparemos ponerle una palomita en wipe & prime tower que es una torre que generara con cada capa
-   para verificar que no tenga desfase la máquina.
-
-
-*  Ahora bien para el diámetro del filamento se modifica el diameter2 (mm) utilizaremos el mismo que para diameter (mm).que por lo
-   regular se encuentra entre 2.89 y 3 mm.
-
-
-5.2. ahora en advanced modificaremos la retracción del material que por lo común se modificara solo “speed (mm/s)” que normalmente es
-de 15 a 20 Y en “distance (mm)” por lo regular se utilizan parámetros de 5 hasta 8 mm.
+5.2.- Ahora en advanced modificaremos la retracción del material que por lo común
+se modificara solo “speed (mm/s)” que normalmente es de 15 a 20 Y en “distance (mm)”
+por lo regular se utilizan parámetros de 5 hasta 8 mm.
 
 
-.. figure:: /imagenes/md12.jpg
+                          .. figure:: /imagenes/md12.jpg
+
+Estableciendo el perfil de materiales
+--------------------------------------
+
+Usted necesitará un modelo que se corta en dos partes, dejando Cura para saber
+qué parte va a asignar a cada extrusora. Hay varios ejemplos ya preparados, o
+usted puede cortar los modelos por sí mismo con un software de modelado 3D como Blender.
+
+En Cura debe importar la primera parte del modelo que se va a imprimir con la
+primera extrusora.
+
+                          .. figure:: /imagenes/md13.png
+
+Posteriormente se debe importar la parte del modelo que se va a imprimir con la
+segunda extrusora.
+
+                          .. figure:: /imagenes/md14.png
 
 
-+-------------------------------------+
-|Estableciendo el perfil de materiales|
-+-------------------------------------+
+Por último, debe unirlos haciendo clic derecho en el espacio de trabajo en Cura
+y seleccionando la opción "Dual fusión de extrusión".
 
-
-Usted necesitará un modelo que se corta en dos partes, dejando Cura para saber qué parte va a asignar a cada extrusora. Hay varios
-ejemplos ya preparados, o usted puede cortar los modelos por sí mismo con un software de modelado 3D como Blender.
-
-
-En Cura debe importar la primera parte del modelo que se va a imprimir con la primera extrusora:
-
-
-.. figure:: /imagenes/md13.png
-
-
-Él debe importar la parte del modelo que se va a imprimir con la segunda extrusora:
-
-
-.. figure:: /imagenes/md14.png
-
-
-Por último, debe unirlos haciendo clic derecho en el espacio de trabajo en Cura y seleccionando la opción "Dual fusión de extrusión":
-
-
-.. figure:: /imagenes/md15.png
-
+                          .. figure:: /imagenes/md15.png
 
 Así queda la figura. la segunda extrusora imprimirá las partes en rojo
 
+                          .. figure:: /imagenes/md16.png
 
-.. figure:: /imagenes/md16.png
-
-
-Ya que esta unida la pieza para poder mandar a imprimir, es necesario sacar nustro código en la Tarjeta SD, así como lo hemos hecho
-en la primera impresión, guardamos el código en la terjeta SD la introducimos en la impresora,encendemos la impresora selccionamos el
-código y  se pondra a imprimir.
-
+Ya que esta unida la pieza en el software cura, para poder mandar a imprimir,
+es necesario sacar nuestro código en la Tarjeta SD, así como lo hemos hecho en
+la primera impresión, guardamos el código en la terjeta SD la introducimos en la
+impresora, encendemos la impresora seleccionamos el código para poder mandar a imprimir.
 
 Módulo CNC
 -----------
 
-+--------------------------------------------------+
-|MANUAL DE GRAVADO CON EL MÓDULO CNC con BlenderCAM|
-+--------------------------------------------------+
-
+MANUAL DE GRAVADO CON EL MÓDULO CNC con BlenderCAM
 
 DESCRPCIÓN DEL SOFTWARE
 
+¿Que es BlenderCAM?
 
-BlenderCAM es una solución de código abierto para la CAM artístico - Informática mecanizado asistido - una herramienta de generación de código G
+BlenderCAM es una solución de código abierto para la CAM artístico - Informática
+mecanizado asistido - una herramienta de generación de código G.
 BlenderCAM es una extensión para el paquete de código abierto Blender 3D gratis.
-Se ha utilizado durante muchos proyectos de fresado, y está desarrollado activamente. Si usted es un desarrollador que le gustaría ayudar, no dudes en contactar conmigo.
-Esta extensión es gratis, sin embargo se puede donar para apoyar el desarrollo y apreciar la obra que se ha hecho.
+Se ha utilizado durante muchos proyectos de fresado, y está desarrollado activamente.
+Si usted es un desarrollador que le gustaría ayudar, no dudes en contactarnos.
+Esta extensión es gratis, sin embargo se puede donar para apoyar el desarrollo y
+apreciar la obra que se ha hecho.
 
-
-.. figure:: /imagenes/cnc1.png
-
-
+                          .. figure:: /imagenes/cnc1.png
 
 CARACTERÍSTICAS
 
++------------------------------------------------------------------------------+
+|-Varias estrategias de fresado para 2D y 3D                                   |
+|-Tipos cortador de bola, plana, v-tallar con varios ángulos, definibles por el|
+|usuario                                                                       |
+|-Trabajar con datos en 3D o imágenes de profundidad                           |
+|-Capas de la piel y para el desbaste.                                         |
+|-Fresado inversa                                                              |
+|-Varias opciones para ambiente alrededor modelo                               |
+|-Protección de superficies verticales                                         |
+|-Mantenerse bajo - opción para el movimiento                                  |
+|-Configuración de tamaño del material                                         |
+|-Simulación de operaciones 3d                                                 |
+|-Antecedentes de computación de las operaciones, por lo que puede seguir      |
+|trabajando                                                                    |
+|-Entrada hélice, retracción de arco, rampa de bajada para algunas de las      |
+|estrategias.                                                                  |
+|-Puentes automáticas para la operación de recorte                             |
+|-La exportación de la cadena y de simulación                                  |
+|-Molienda 3 a 5 ejes                                                          |
++------------------------------------------------------------------------------+
 
-*	Varias estrategias de fresado para 2D y 3D
+.. Note::
 
-
-* 	tipos cortador de bola, plana, v-tallar con varios ángulos, definibles por el usuario
-
-
-*	 trabajar con datos en 3D o imágenes de profundidad
-
-
-*	 Capas de la piel y para el desbaste.
-
-
-*	 fresado inversa
-
-
-*	 Varias opciones para ambiente alrededor modelo
-
-
-*	 protección de superficies verticales
-
-
-*	 mantenerse bajo - opción para el movimiento
-
-
-*	 configuración de tamaño del material
-
-
-*	 simulación de operaciones 3d
-
-
-*	 Antecedentes de computación de las operaciones, por lo que puede seguir trabajando
-
-
-*	 entrada hélice, retracción de arco, rampa de bajada para algunas de las estrategias.
-
-
-*	 puentes automáticas para la operación de recorte
-
-
-*	 la exportación de la cadena y de simulación
-
-
-*	 Molienda 3 a 5 ejes
-
-
-Más información: http://blendercam.blogspot.mx
+    Más información: http://blendercam.blogspot.mx
 
 
 INSTALACIÓN DE BLENDER-CAM
 
 
-Para instalar BlenderCAM hacemos clic en el link que nos envía a la página oficial del software.
-Link  de descarga
+Para instalar BlenderCAM hacemos clic en el link que nos envía a la página oficial
+del software.
 
++---------------------------------------------------------------+
+|Link  de descarga                                              |
+|http://blendercam.blogspot.mx/p/download-and-installation.html |
++---------------------------------------------------------------+
 
-http://blendercam.blogspot.mx/p/download-and-installation.html
+Abrimos la pestaña: Download and installation
+Damos clic en: Google Drive repository
 
+                          .. figure:: /imagenes/cnc2.png
 
-Abrimos la pestaña: Download and installation  y damos clic en:        Google Drive repository
+En la pestaña siguiente seleccionamos el BlenderCAM de acuerdo a nuestro sistema
+operativo.
 
-
-.. figure:: /imagenes/cnc2.png
-
-
-En la pestaña siguiente seleccionamos el BlenderCAM de acuerdo a nuestro sistema operativo.
-
-
-.. figure:: /imagenes/cnc3.png
-
+                          .. figure:: /imagenes/cnc3.png
 
 DESCRIPCIÓN DEL ÁREA DE TRABAJO
 
+                          .. figure:: /imagenes/cnc4.png
 
-.. figure:: /imagenes/cnc4.png
+En la imagen 1, se muestra la pantalla de inicio de BlenderCAM versión 2.70 a.
+a continuación se describirá las áreas de trabajo de una forma básica.
 
-
-En la imagen 1, se muestra la pantalla de inicio de BlenderCAM versión 2.70 a. a continuación se describirá las áreas de trabajo de una forma básica.
-
-
-1.	Es el panel de herramientas y su atajo es la tecla [T], en el cual podremos crear una figura primitiva, mover, escalar, rotar entre otras, sin modificar la forma o estructura del objeto
-
-
-2.	Es el área de trabajo, la cruz negra es el cursor que al crear una figura u objeto el punto donde se encuentre posicionado  será su origen al nacer o su centro, la posición del cursor  puede ser modificar en el panel de propiedades (3) o con clic izquierdo
-Dentro del área.
+1.- Es el panel de herramientas y su atajo es la tecla [T], en el cual podremos
+crear una figura primaria, mover, escalar, rotar entre otras, sin modificar la
+forma o estructura del objeto
+2.- Es el área de trabajo, la cruz negra es el cursor que al crear una figura u
+objeto el punto donde se encuentre posicionado  será su origen al nacer o su centro,
+la posición del cursor  puede ser modificar en el panel de propiedades (3) o con
+clic izquierdo Dentro del área.
 
 Con clic derecho podemos seleccionar los objetos además de moverlos de una forma libre.
 Podemos hacer zoom moviendo el scroll.
 
+3.- Es el panel de propiedades y su atajo es la letra [N], en donde encontramos
+y podemos modificar la posición del objeto y el cursor  en el espacio,  las dimensiones,
+el sombreado con multitexturas entre otros.
+4.- Es el árbol de operaciones en donde encontramos cada objeto en el área y
+tipo de operación, aquí podemos modificar la visualización a modo transparente,
+hacer extracciones de Renderizado y seleccionar el objeto.
+5.- Es la ventana de preferencias del usuario aquí podemos hacer modificaciones
+en el entorno de Blender, propiedades del documento, importar/exportar, cambiar
+el tipo de ventana etc.
+6.- Es la ventana de visión 3D donde podemos modificar la visualización de los
+elementos, objetos en modo alambre, el mapa de las capas (layers) y algunas herramientas
+para el modelado como SNAP.
+7.- Es el panel de operaciones, parámetros y encadenado CAM, en algunas ocasiones,
+después de la instalación de BlenderCAM puede no aparecer el modo CAM, a continuación
+se explicara como entrar en el modo CAM, seguido de  activar el BlenderCAM complemento
+para un mejor aprovechamiento del software.
 
-3.	Es el panel de propiedades y su atajo es la letra [N], en donde encontramos y podemos modificar la posición del objeto y el cursor  en el espacio,  las dimensiones, el sombreado con multitexturas entre otros.
+                          .. figure:: /imagenes/cnc5.png
 
+8.- Ir a al panel User Preference , seleccionar File y abrir la carpeta User Preferences.
+También se puede llegar con el siguiente comando Ctrl+Alt+U.
+9.- En la parte superior de la ventana seleccionar la tabla Add-ons.
+10.- Seleccionaren las categorías scene.
+11.- En esta parte nos aparece el complemento CAM, para activarlo damos clic en el
+cuadro hasta ser marcado como en la imagen.
+12.- Asegurarnos de que la dirección coincida con la de la imagen para el Add-on
+completo.
 
-4.	Es el árbol de operaciones en donde encontramos cada objeto en el área y tipo de operación, aquí podemos modificar la visualización a modo transparente, hacer extracciones de Renderizado y seleccionar el objeto.
+El segundo paso es guiar a BlenderCAM a buscar una ruta alternativa, para los complementos.
+Cuando BlenderCAM se ejecute, buscara la ruta para Add-ons correspondiente a los scrips,
+de esta manera una fuente externa Add-on, se puede utilizar en Blender.
 
+                          .. figure:: /imagenes/cnc6.png
 
-5.	Es la ventana de preferencias del usuario aquí podemos hacer modificaciones en el entorno de Blender, propiedades del documento, importar/exportar, cambiar el tipo de ventana etc.
-
-
-6.	Es la ventana de visión 3D donde podemos modificar la visualización de los elementos, objetos en modo alambre, el mapa de las capas (layers) y algunas herramientas para el modelado como SNAP.
-
-
-7.	Es el panel de operaciones, parámetros y encadenado CAM, en algunas ocasiones, después de la instalación de BlenderCAM puede no aparecer el modo CAM, a continuación se explicara como entrar en el modo CAM, seguido de  activar el BlenderCAM complemento para un mejor aprovechamiento del software
-
-
-.. figure:: /imagenes/cnc5.png
-
-
-1.	Ir a al panel User Preference , seleccionar File y abrir la carpeta User Preferences.  También se puede llegar con el siguiente comando Ctrl+Alt+U
-
-
-2.	En la parte superior de la ventana seleccionar la tabla Add-ons
-
-
-3.	Seleccionaren las categorías scene
-
-
-4.	En esta parte nos aparece el complemento CAM, para activarlo damos clic en el cuadro hasta ser marcado como en la imagen
-
-
-5.	Asegurarnos de que la dirección coincida con la de la imagen para el Add-on completo
-
-
-El segundo paso es guiar a BlenderCAM a buscar una ruta alternativa, para los complementos. Cuando BlenderCAM se ejecute, buscara la ruta
-para Add-ons correspondiente a los scrips, de esta manera una fuente externa Add-on, se puede utilizar en Blender
-
-
-.. figure:: /imagenes/cnc6.png
-
-
-
-1.	Ir a al panel User Preference , seleccionar File y abrir la carpeta User Preferences.  También se puede llegar con el siguiente comando Ctrl+Alt+U
-
-
-2.	En la parte superior de la ventana seleccionar la tabla File
-
-
-3.	Ir al segmento scripts y seleccionar la carpeta con la ruta de BlenderCAM /scripts directorio.
-
-
-4.	Al terminar, seleccionar Save User Settings, para quer nuestros ajustes queden guardados
-
-
-5.	Como paso final, reiniciar Blender.
-
+13.- Ir a al panel User Preference , seleccionar File y abrir la carpeta User Preferences.
+También se puede llegar con el siguiente comando Ctrl+Alt+U.
+14.- En la parte superior de la ventana seleccionar la tabla File.
+15.- Ir al segmento scripts y seleccionar la carpeta con la ruta de BlenderCAM /scripts
+directorio.
+16.- Al terminar, seleccionar Save User Settings, para quer nuestros ajustes
+queden guardados.
+17.- Como paso final, reiniciar Blender.
 
 Entrar al modo CAM
 
-
-.. figure:: /imagenes/cnc7.png
-
-
-1.	Ir a la barra superior (User Preference), desplegar la ventana Engine
+                          .. figure:: /imagenes/cnc7.png
 
 
+1.	Ir a la barra superior (User Preference), desplegar la ventana Engine 
 2.	Seleccionar el modo Blender CAM
-
-
 3.	Ir al panel de operaciones y seleccionar el Render
 
 
-Con el modo BlenderCAM podemos empezar a trabajar, en esta ocasión solo se llevara a cabo el proceso de gravado, a continuación se mostraran algunos ejemplos
+Con el modo BlenderCAM podemos empezar a trabajar, en esta ocasión solo se llevara
+a cabo el proceso de gravado.
 
-
-.. figure:: /imagenes/cnc8.png
-
-
-.. figure:: /imagenes/cnc9.png
-
-
-.. figure:: /imagenes/cnc10.png
-
+                          .. figure:: /imagenes/cnc8.png
+                          .. figure:: /imagenes/cnc9.png
+                          .. figure:: /imagenes/cnc10.png
 
 Descripción de los parámetros CAM
 
-
 	CAM operations
-
 
 .. figure:: /imagenes/cnc11.png
 
+* Calculate path: Calcula la operación que se realizará, además nos muestra una
+  Simulación gráfica del recorrido que llevara nuestro CNC. Para ello debemos agregar
+  una operación seleccionando el objeto, el botón se mantiene presionado y hay que
+  esperar unos segundos.
 
-*  Calculate path: Calcula la operación que se realizará, además nos muestra  una Simulación gráfica del recorrido que llevara nuestro CNC. Para ello debemos agregar una operación seleccionando el objeto, el botón se mantiene presionado y hay que esperar unos segundos.
+* Calculate path in background: Esta función calcula la ruta, mientras se puede
+  seguir trabajando en la creación de otras operaciones, es importante guardar el
+  documento antes de realizar cualquier cálculo.
 
+* Simulate this operation: Al generar esta simulación se nos crea un objeto encima
+  de nuestro modelo, el cual lo podemos mover en cualquier eje deseado. El objeto se
+  puede subdividir, escalar, aumentar la resolución en el panel de optimización.
 
-*  Calculate path in background: Esta función calcula la ruta, mientras se puede seguir trabajando en la creación de otras operaciones, es importante guardar el documento antes de realizar cualquier cálculo.
+* Operation name: En este campo se puede cambiar el nombre de la operación
+  seleccionada
 
+* File name: Es el nombre del archivo gcode generado, la extensión de archivo
+  utilizado será determinado por el porstprocesador g-código seleccionado
 
-*  Simulate this operation: Al generar esta simulación se nos crea un objeto encima de nuestro modelo, el cual lo podemos mover en cualquier eje deseado. El objeto se puede subdividir, escalar, aumentar la resolución en el panel de optimización.
-
-
-*  Operation name: En este campo se puede cambiar el nombre de la operación seleccionada
-
-
-*  File name: Es el nombre del archivo gcode generado, la extensión de archivo utilizado será determinado por el porstprocesador g-código seleccionado
-
-
-*  Auto export: Si esta activada la opción, el G-codigo se generará automáticamente y se guardara en el archivo después del cálculo de
-
+* Auto export: Si esta activada la opción, el G-codigo se generará automáticamente
+  y se guardara en el archivo después del cálculo de
 
 La operación, en la misma carpeta donde se ejecutó el BlenderCAM antes de instalarlo
 
+* Source of dates: Aquí se selecciona el conjunto y tipo de objetos, puede ser
+  una imagen, un grupo de objetos o un objeto
 
-*  Source of dates: Aquí se selecciona el conjunto y tipo de objetos, puede ser una imagen, un grupo de objetos o un objeto
+* Objet: Aparece la malla o curva que se está trabajando
 
+CAM info & warnings
 
-*  Objet: Aparece la malla o curva que se está trabajando
-
-
-	CAM info & warnings
-
-
-.. figure:: /imagenes/cnc12.png
-
+                          .. figure:: /imagenes/cnc12.png
 
 CAM operation setup
 
-
-Strategy: En esta opción elegimos el proceso 	que se realizará en nuestro objeto, a continuación mostraremos las siguientes estrategias o procesos.
-
+Strategy: En esta opción elegimos el proceso 	que se realizará en nuestro objeto,
+a continuación mostraremos las siguientes estrategias o procesos.
 
 * 	PARALLEL: trayectorias paralelas en cualquier ángulo
 
-
-.. figure:: /imagenes/cnc13.png
-
+                          .. figure:: /imagenes/cnc13.png
 
 * 	CROSS
 
-
-.. figure:: /imagenes/cnc14.png
-
+                          .. figure:: /imagenes/cnc14.png
 
 * 	BLOCK
 
-
-.. figure:: /imagenes/cnc15.png
-
+                          .. figure:: /imagenes/cnc15.png
 
 *   SPIRAL
 
 Adecuado para objetos curvos
 
-
-.. figure:: /imagenes/cnc16.png
-
+                          .. figure:: /imagenes/cnc16.png
 
 * 	CIRCLES
 
 Adecuado para objetos curvos
 
-
-.. figure:: /imagenes/cnc17.png
-
+                          .. figure:: /imagenes/cnc17.png
 
 * 	WATERLINE EXPER.
 
-
 Realiza mejores acabados, pero se define como un proceso experimental para el usuario.
 
-
-.. figure:: /imagenes/cnc18.png
-
+                          .. figure:: /imagenes/cnc18.png
 
 * 	OUTLINE FILL
 
-
-.. figure:: /imagenes/cnc19.png
-
+                          .. figure:: /imagenes/cnc19.png
 
 * 	CUTOUT
 
+Este proceso se utilizará para gravado, ya que marca el contorno dentro, sobre o
+fuera de la línea de nuestro objeto o curva
 
-Este proceso se utilizará para gravado, ya que marca el contorno dentro, sobre o fuera de la línea de nuestro objeto o curva
-
-
-.. figure:: /imagenes/cnc20.png
-
+                          .. figure:: /imagenes/cnc20.png
 
 * 	POCKET
 
-
-.. figure:: /imagenes/cnc21.png
-
+                          .. figure:: /imagenes/cnc21.png
 
 * 	DRILL
 
+Detecta círculos o cuatros en cualquier curva 2D y los convierte en una operación
+de perforación
 
-Detecta círculos o cuatros en cualquier curva 2D y los convierte en una operación de perforación
-
-
-.. figure:: /imagenes/cnc22.png
-
+                          .. figure:: /imagenes/cnc22.png
 
 * 	CARVE
 
-
 Proyecta curvas 2D y 3D en la superficie
 
-
-.. figure:: /imagenes/cnc23.png
-
+                          .. figure:: /imagenes/cnc23.png
 
 Algunas de las operaciones o estrategias combinarán los siguientes parámetros.
 
 
-* 	Distance between toolpaths: Es la distancia que tendrán las trayectorias o los sobrepasos
+* Distance between toolpaths: Es la distancia que tendrán las trayectorias o
+  los sobrepasos
+
+* Distance along toolpaths: Influye en la precisión del mecanizado, es lo denso
+  que será la ruta de operación
+
+* Angle of paths: Este parámetro gira las estrategias paralelas y transversales
+  a la cantidad que se le especifique
+
+* Parallel step back: Esto utiliza el movimiento posterior de la máquina para
+  el acabado de la superficie. Tenga en cuenta que esto también  significa el corte
+  en el  material que pasara con una velocidad doble de la distancia entre trayectorias
+  (Distance between toolpaths), si no sabe que significa todo esto, no utilizar esta
+  función.
+
+* Skin: Genera una capa en la superficie para el acabado
+
+* Inverse milling: Invierte el giro de molienda, en el caso de la impresora MM1
+  se tendrá que hacer un ajuste manual
+
+* Direction: Para el proceso block y spiral decide comenzar desde dentro o fuera
+  del objeto
+
+* Carve depth: Decide que profuncidad debajo de la superficie se destinara la
+  operación tallar
+
+* Don’t merge outlines when cutting: Para la estrategia de cutout genera el no
+  fusionar contornos, es muy útil para PCB ya que no se desea que las líneas se crucen.
+
+* Use bridges: Para la estrategia de cutout, ya que crea puentes automáticamente
+  por unos parametros que aparecerán cocmo: anchura, altura mínima por la curva etc.
+
+CAM optimization
+
+                          .. figure:: /imagenes/cnc24.png
 
 
-* 	Distance along toolpaths: Influye en la precisión del mecanizado, es lo denso que será la ruta de operación
+* Reduce path points: Ayuda a reducir el número de comandos en el código g,
+  por lo que el código es más corto y fácil de procesar por la maquina
+
+* Reduction threshold in un: La dirección de la trayectoria se reducirá a micrómetros
+
+* Sampling raster detail: Este parámetro es muy necesario para el uso de la memoria
+  y sobre todo la velocidad del software. BlenderCAM utiliza pixeles para calcular
+  las posiciones de compensación de corte. Si el objeto mide 1 metro la imagen será
+  10000 x 10000 pixeles, lo que probablemente pueda llenar la memoria de su computadora.
+  compruebe el tamaño del objeto antes de las operaciones de cálculo
+
+* Simulation sampling raster detail: Prácticamente es igual que la opción anterior
+  pero aplicado a la simulación
+
+* Detail of circles used for curve offsets: Es el detalle de los circulos utilizados
+  para desplazamientos de la curva
+
+CAM Material size and position
+
+* Estimate from model: Asumirá que las dimensiones que tiene el objeto, son las
+  mismas que el área de trabajo, si esta opción no está activada  se nos abre una
+  ventana extra para indicar las dimensiones
+
+                          .. figure:: /imagenes/cnc25.png
 
 
-* 	Angle of paths: Este parámetro gira las estrategias paralelas y transversales a la cantidad que se le especifique
+* Position object: Esta opcion es muy útil, ya que automáticamente  envía al
+  objeto al origen del material que hemos definido
 
+                          .. figure:: /imagenes/cnc26.png
 
-* 	Parallel step back: Esto utiliza el movimiento posterior de la máquina para el acabado de la superficie. Tenga en cuenta que esto también  significa el corte en el  material que pasara con una velocidad doble de la distancia entre trayectorias (Distance between toolpaths), si no sabe que significa todo esto, no utilizar esta función.
-
-
-* 	Skin: Genera una capa en la superficie para el acabado
-
-
-* 	Inverse milling: Invierte el giro de molienda, en el caso de la impresora MM1 se tendrá que hacer un ajuste manual
-
-
-* 	Direction: Para el proceso block y spiral decide comenzar desde dentro o fuera del objeto
-
-
-* 	Carve depth: Decide que profuncidad debajo de la superficie se destinara la operación tallar
-
-
-* 	Don’t merge outlines when cutting: Para la estrategia de cutout genera el no fusionar contornos, es muy útil para PCB ya que no se desea que las líneas se crucen.
-
-
-* 	Use bridges: Para la estrategia de cutout, ya que crea puentes automáticamente por unos parametros que aparecerán cocmo: anchura, altura mínima por la curva etc.
-
-
-	CAM optimization
-
-
-.. figure:: /imagenes/cnc24.png
-
-
-*  Reduce path points: Ayuda a reducir el número de comandos en el código g, por lo que el código es más corto y fácil de procesar por la maquina
-
-
-*  Reduction threshold in un: La dirección de la trayectoria se reducirá a micrómetros
-
-*  Sampling raster detail: Este parámetro es muy necesario para el uso de la memoria y sobre todo la velocidad del software.
-   BlenderCAM utiliza pixeles para calcular las posiciones de compensación de corte.
-   Si el objeto mide 1 metro la imagen será 10000 x 10000 pixeles, lo que probablemente pueda llenar la memoria de su computadora. compruebe el tamaño del objeto antes de las operaciones de cálculo
-
-*  Simulation sampling raster detail: Prácticamente es igual que la opción anterior pero aplicado a la simulación
-
-*  Detail of circles used for curve offsets: Es el detalle de los circulos utilizados para desplazamientos de la curva
-
-
-	CAM Material size and position
-
-*  Estimate from model: Asumirá que las dimensiones que tiene el objeto, son las mismas que el área de trabajo, si esta opción no está activada  se nos abre una ventana extra para indicar las dimensiones
-
-
-.. figure:: /imagenes/cnc25.png
-
-
-*  Position object: Esta opcion es muy útil, ya que automáticamente  envía al objeto al origen del material que hemos definido
-
-
-.. figure:: /imagenes/cnc26.png
-
-
-.. figure:: /imagenes/cnc27.png
-
+                          .. figure:: /imagenes/cnc27.png
 
 	CAM Movement
 
+                          .. figure:: /imagenes/cnc28.png
 
-.. figure:: /imagenes/cnc28.png
+* Movement type: Aplica para algunas estrategias, establece como se mueve la
+  cuchilla en el material
 
+1.- Meander: Nos genera un movimiento zigzag no importando la dirección
+2.- Climb: El cortador gira en dirección de la alimentación, puede producir un mejor
+acabado, menos tención en la punta de la herramienta y genera requiere menos energía.
+3.- Conventional: el cortador Gira en contra de la dirección de la alimentación.
+Si la maquina tiene contragolpe que no puede ser compensada entonces esta es la
+mejor opción.
 
-*  Movement type: Aplica para algunas estrategias, establece como se mueve la cuchilla en el material
+* Spindle rotation: Esta operación define la rotación del husillo
 
+* Free movement height: Es la altura de desplazamiento cuando no se está maquinando.
+  Si tenemos una altura muy alta, como resultado es una duración más elevada, ya que
+  genera más tiempo en desplazarse a zonas en el aire
 
-1 	Meander: Nos genera un movimiento zigzag no importando la dirección
+* Stay low if possible: No intenta levantar la cuchilla cuando se pasa de un camino
+  a otro, hay ocasiones que la herramienta va a pasar por caminos los cuales su distancia
+  es más pequeña que el diámetro de la herramienta, esta opción en estas situaciones
+  no daña  ra las paredes de los caminos
 
-
-2 	Climb: El cortador gira en dirección de la alimentación, puede producir un mejor acabado, menos tención en la punta de la herramienta y genera requiere menos energía.
-
-
-3 	Conventional: el cortador Gira en contra de la dirección de la alimentación. Si la maquina tiene contragolpe que no puede ser compensada entonces esta es la mejor opción.
-
-
-*  Spindle rotation: Esta operación define la rotación del husillo
-
-
-*  Free movement height: Es la altura de desplazamiento cuando no se está maquinando. Si tenemos una altura muy alta, como resultado es una duración más elevada, ya que genera más tiempo en desplazarse a zonas en el aire
-
-
-*  Stay low if possible: No intenta levantar la cuchilla cuando se pasa de un camino a otro, hay ocasiones que la herramienta va a pasar por caminos los cuales su distancia es más pequeña que el diámetro de la herramienta, esta opción en estas situaciones no daña  ra las paredes de los caminos
-
-
-*  Protect vertical: Cuando el ángulo de la trayectoria es superior al límite de la verticalidad, el desplazamiento se realizará vertical. de esta manera las superficies verticales no obtendrá una pendiente debido a la distancia entre los puntos de recorrido.
-
+* Protect vertical: Cuando el ángulo de la trayectoria es superior al límite de
+  la verticalidad, el desplazamiento se realizará vertical. de esta manera las
+  superficies verticales no obtendrá una pendiente debido a la distancia entre los
+  puntos de recorrido.
 
 	CAM operation area
 
+                        .. figure:: /imagenes/cnc29.png
 
-.. figure:: /imagenes/cnc29.png
+* Use layers: utiliza capas para la operación
 
+* Step down: Es el grosor de las capas de desbaste
 
-*  Use layers: utiliza capas para la operación
+* Ambient: Es el proceso determinado al material que rodea al objeto
 
++---------------------------------------------------+
+|1.- Around: Se genera una silueta al objeto        |
+|2.- ALL: Se genera un rectángulo al objeto/material|
++---------------------------------------------------+
 
-*  Step down: Es el grosor de las capas de desbaste
-
-
-*  Ambient: Es el proceso determinado al material que rodea al objeto
-
-
-1 	Around: Se genera una silueta al objeto
-
-
-2 	ALL: Se genera un rectángulo al objeto/material
-
-
-*  Depth from objet: Se lleva a profundidad objeto y establece la profundidad total de la operación de la misma. De lo contrario, puede utilizar la profundidad de operación para hacer lo mismo de forma manual.
-
+* Depth from objet: Se lleva a profundidad objeto y establece la profundidad total
+  de la operación de la misma. De lo contrario, puede utilizar la profundidad de operación
+  para hacer lo mismo de forma manual.
 
 CAM federate
 
+                        .. figure:: /imagenes/cnc30.png
 
-.. figure:: /imagenes/cnc30.png
+* Feedrate/minute: Velocidad de avance en un minute
 
+* Plunge speed: La velocidad se reduce a la cantidad especificada, cuando la pendiente
+  de la trayectoria está por encima del ángulo de profundización
 
-*  Feedrate/minute: Velocidad de avance en un minute
+* Plunge angle: Cualquier ángulo mayor  que el angulo de inmersión se activara la
+  velocidad de inmersión
 
-
-*  Plunge speed: La velocidad se reduce a la cantidad especificada, cuando la pendiente de la trayectoria está por encima del ángulo de profundización
-
-
-*  Plunge angle: Cualquier ángulo mayor  que el angulo de inmersión se activara la velocidad de inmersión
-
-
-*  Spindle rpm: Revoluciones por minuto del husillo
-
+* Spindle rpm: Revoluciones por minuto del husillo
 
 CAM cutter
 
+                        .. figure:: /imagenes/cnc31.png
 
-.. figure:: /imagenes/cnc31.png
+* Tool number: Define el número de la herramienta
 
+* Cutter diametrer: Define el diámetro de la herramienta, utilizado para el cálculo de la trayectorias
 
-*  Tool number: Define el número de la herramienta
-
-
-*  Cutter diametrer: Define el diámetro de la herramienta, utilizado para el cálculo de la trayectorias
-
-
-*  Cutter flutes: Este parámetro solo se utiliza para el cálculo del chipload
+* Cutter flutes: Este parámetro solo se utiliza para el cálculo del chipload
 
 
-	CAM Machine
+CAM Machine
 
 
-  .. figure:: /imagenes/cnc32.png
+                        .. figure:: /imagenes/cnc32.png
 
 
-  *  Postprocesador: Define el formateo del archive de salida. Si la maquina no está lista los códigos que generan código-g sin problemas son MACH3, ISO.
+* Postprocesador: Define el formateo del archive de salida. Si la maquina no está
+  lista los códigos que generan código-g sin problemas son MACH3, ISO.
 
+* Unit system: Sistema de unidad métrico o imperial.
 
- 	*  Unit system: Sistema de unidad métrico o imperial.
+* Work area: Aquí se define las dimensiones del material que se desbastará
 
-
- 	*  Work area: Aquí se define las dimensiones del material que se desbastará
-
-
- 	*  Feedrate min/max: Limitará velocidades dadas en el panel de avance
+* Feedrate min/max: Limitará velocidades dadas en el panel de avance
 
 
 CAM chains
 
 
-  .. figure:: /imagenes/cnc33.png
+                        .. figure:: /imagenes/cnc33.png
 
+Es una herramienta que permite encadenar operaciones como simulaciones, es decir,
+tener un conjunto de operaciones y realizarlas de una manera consecutiva, es muy
+práctico desarrollar esta herramienta para el código, si es que se tiene cambiador
+de herramientas automático
 
-Es una herramienta que permite encadenar operaciones como simulaciones, es decir,  tener un conjunto de operaciones y realizarlas de una manera consecutiva, es muy práctico desarrollar esta herramienta para el código, si es que se tiene cambiador de herramientas automático
+A continuación se desarrollará un proceso cutout que nos genera un gravado en la
+superficie del material
 
+1.-	Ejecutamos BlenderaCAM
+2.-	En este ocasión importaremos un archivo .svg
 
-A continuación se desarrollará un proceso cutout que nos genera un gravado en la superficie del material
+                        .. figure:: /imagenes/cnc34.png
+                        .. figure:: /imagenes/cnc35.png
 
+3.- En el panel CAM operations, seleccionamos el objeto, en este caso curva y
+agregaremos una operación. Como siguiente le daremos nombre a la operación y al
+archivo
+4.-	Los parámetros que se utilizaran serán los siguientes
 
-I.	Ejecutamos BlenderaCAM
+                        .. figure:: /imagenes/cnc36.png
 
+El nombre de la operación es cutout, esta parte es opcional al igual que el nombre
+del archivo. Al terminar los parámetros para el proceso, se recomienda calcular la
+trayectoria que funciona también como una simulación, si se quiere exportar el código G
+es necesario calcular la trayectoria (Calculate path).
 
-II.	En este ocasión importaremos un archivo .svg
+                        .. figure:: /imagenes/cnc37.png
 
+La estrategia como se mencionaba es Cutout, en esta ocasión la trayectoria será
+sobre la línea. No es recomendable utilizar Don’t merge outlines… ya que genera
+problemas con el Blender. En esta parte se reduce el número de líneas, además de
+la resolución y simulación. La altura de capa es la misma que el desbaste total,
+generando una sola pasada. Si hubiésemos necesitado dos pasadas la altura de capa
+se dejaría en 2.5mm con un desbaste total de 5mm, se dejó este parámetro ya que
+el material que desbastaremos es un material blando y no tendrá problema
 
-.. figure:: /imagenes/cnc34.png
-
-
-.. figure:: /imagenes/cnc35.png
-
-
-III.	En el panel CAM operations, seleccionamos el objeto, en este caso curva y agregaremos una operación. Como siguiente le daremos nombre a la operación y al archivo
-
-
-IV.	Los parámetros que se utilizaran serán los siguientes
-
-
-.. figure:: /imagenes/cnc36.png
-
-
-El nombre de la operación es cutout, esta parte es opcional al igual que el nombre del archivo.
-Al terminar los parámetros para el proceso, se recomienda calcular la trayectoria que funciona también como una simulación, si se quiere exportar el código G es necesario calcular la trayectoria (Calculate path)
-
-
-.. figure:: /imagenes/cnc37.png
-
-
-La estrategia como se mencionaba es Cutout, en esta ocasión la trayectoria será sobre la línea.
-No es recomendable utilizar Don’t merge outlines… ya que genera problemas con el Blender
-En esta parte se reduce el número de líneas, además de la resolución y simulación.
-La altura de capa es la misma que el desbaste total, generando una sola pasada. Si hubiésemos necesitado dos pasadas la altura de capa se dejaría en 2.5mm con un desbaste total de 5mm, se dejó este parámetro ya que el material que desbastaremos es un material blando y no tendrá problema
-
-
-.. figure:: /imagenes/cnc38.png
-
+                        .. figure:: /imagenes/cnc38.png
 
 El tipo de movimiento que se utilizo fue Meander por la cantidad de trayectorias
-Uno de los datos más importantes es la altura de movimiento libre. 5mm es un excelente parámetro para asegurarnos de que el modulo no chocara con el material y podrá ser óptimo.
+Uno de los datos más importantes es la altura de movimiento libre. 5mm es un excelente
+parámetro para asegurarnos de que el modulo no chocara con el material y podrá ser óptimo.
 
+                        .. figure:: /imagenes/cnc39.png
 
-.. figure:: /imagenes/cnc39.png
-
-
-Es importante definir el área del material en nuestro caso es: 20 x 20 x 3 (cm), después de definir el área es importante situar el objeto en el área correcto, podemos utilizar position objet
-En esta ocasión no se necesito encadenamiento
-Los parámetros finales no se modificaron
-
+Es importante definir el área del material en nuestro caso es: 20 x 20 x 3 (cm),
+después de definir el área es importante situar el objeto en el área correcto,
+podemos utilizar position objet
 
 .. figure:: /imagenes/cnc40.png
 
-
-Para obtener el código G damos clic en exportar g code, que se encuentra en el panel de operaciones.
-El código g se nos genera dentro de la carpeta de instalación de BlenderCam, para la impresora MM1 se tiene que abrir el código G en bloc de notas y modificar lo siguiente:
-
-
-Para obtener el código G damos clic en exportar g code, que se encuentra en el panel de operaciones.
-El código g se nos genera dentro de la carpeta de instalación de BlenderCam, para la impresora MM1 se tiene que abrir el código G en bloc de notas y modificar lo siguiente:
-
-
+Para obtener el código G damos clic en exportar g code, que se encuentra en el
+panel de operaciones. El código g se nos genera dentro de la carpeta de instalación
+de BlenderCam, para la impresora MM1 se tiene que abrir el código G en bloc de
+notas y modificar lo siguiente:
 
 Esta es la parte principal del código g de nuestro colibrí
 
++-------------------------------------------------------+
+|(GCode created using the HeeksCNC Mach3 post processor)|
+|(grabadocolibri.tap)                                   |
+|(G-code generated with BlenderCAM and NC library)      |
+|N10 G17 G21 G90                                        |
+|(Tool change)                                          |
+|N20G43H1                                               |
+|N30T1 M06                                              |
+|N40 G00 X0 Y0 Z4.999 S12000 M03                        |
+|N50 G00 X69.103 Y41.967                                |
+|N60G01 Z-4.999 F500                                    |
+|N70G01 X68.746 Y42.554 F1000                           |
+|N80G01 X68.41 Y43.15                                   |
+|N90G01 X68.102 Y43.737                                 |
+|N100G01 X67.831 Y44.302                                |
+|N110G01 X67.606 Y44.829                                |
+|N120G01 X67.435 Y45.303                                |
++-------------------------------------------------------+
 
-(GCode created using the HeeksCNC Mach3 post processor)
+Checar la numeración de línea ( N100). Cuando vamos a agregar una instrucción,
+esta debe tener la numeración correspondiente, en este código g generado por
+BlenderCAM lleva un seguimiento por decenas
 
+Ejemplo 1:
 
-(grabadocolibri.tap)
-
-
-(G-code generated with BlenderCAM and NC library)
-
-
-N10 G17 G21 G90
-
-
-(Tool change)
-
-
-N20G43H1
-
-
-N30T1 M06
-
-
-N40 G00 X0 Y0 Z4.999 S12000 M03
-
-
-N50 G00 X69.103 Y41.967
-
-
-N60G01 Z-4.999 F500
-
-
-N70G01 X68.746 Y42.554 F1000
-
-
-N80G01 X68.41 Y43.15
-
-
-N90G01 X68.102 Y43.737
-
-
-N100G01 X67.831 Y44.302
-
-
-N110G01 X67.606 Y44.829
-
-
-N120G01 X67.435 Y45.303
-
-
-Checar la numeración de línea ( N100). Cuando vamos a agregar una instrucción, esta debe tener la numeración correspondiente, en este código g generado por BlenderCAM lleva un seguimiento por decenas ejemplo 1:
-
-
-N100 (código generado por BlenderCAM)
-
-
-N101 (código agregado)
-
-
-N102 (código agregado 2)
-
++-------------------------------------+
+|N100 (código generado por BlenderCAM)|
+|N101 (código agregado)               |
+|N102 (código agregado 2)             |
++-------------------------------------+
 
 Ejemplo 2:
 
-
-N98 (código agregado)
-
-
-N99 (código agregado 2)
-
-
-N100 (código generado por BlenderCAM)
-
++-------------------------------------+
+|N98 (código agregado)                |
+|N99 (código agregado 2)              |
+|N100 (código generado por BlenderCAM)|
++-------------------------------------+
 
 Después de la instrucción (N30T1 M06) se agregara lo siguiente:
 
-
-N31 G28 (Esta instrucción manda a HOME a todos los ejes)
-
-
-N32 G4 S3 (esta instrucción espera 3 segundos, para habilitar la comunicación)
-
-
-N33 M280 P2 S10 (esta instrucción apaga el motor, se tiene que apagar antes de prenderlo, no cambiar)
-
-
-N34 G4 S3
-
-
-N35 M280 P2 S90 (esta instrucción prende el motor con una velocidad de 90 rev/s, necesarios para el material formular)
-
-
- N36 G4 S3
-
++------------------------------------------------------------------------------+
+|N31 G28 (Esta instrucción manda a HOME a todos los ejes)                      |
+|N32 G4 S3 (esta instrucción espera 3 segundos, para habilitar la comunicación)|
+|N33 M280 P2 S10 (esta instrucción apaga el motor, se tiene que apagar antes de|
+|prenderlo, no cambiar)                                                        |
+|N34 G4 S3                                                                     |
+|N35 M280 P2 S90 (esta instrucción prende el motor con una velocidad de 90     |
+|rev/s, necesarios para el material formular)                                  |
+|N36 G4 S3                                                                     |
++------------------------------------------------------------------------------+
 
  Esta es la parte final del código G de nuestro colibrí
 
-
- N100940G01 X62.35 Y135.168
-
-
- N100950G01 X62.303 Y135.147
-
-
- N100960G01 X62.259 Y135.122
-
-
- N100970G01 X62.218 Y135.095
-
-
- N100980 G00 Z4.999
-
-
- N100990 M02
-
++----------------------------+
+|N100940G01 X62.35 Y135.168  |
+|N100950G01 X62.303 Y135.147 |
+|N100960G01 X62.259 Y135.122 |
+|N100970G01 X62.218 Y135.095 |
+|N100980 G00 Z4.999          |
+|N100990 M02                 |
++----------------------------+
 
  Antes de la instrucción M02 se agregara lo siguiente:
 
-
- N1009801 G4 S3
-
-
- N1009802 M280 P2 S80
-
-
- N1009803 G4 S3
-
-
- N1009804 M280 P2 S60
-
-
- N1009805 G4 S3
-
++---------------------+
+|N1009801 G4 S3       |
+|N1009802 M280 P2 S80 |
+|N1009803 G4 S3       |
+|N1009804 M280 P2 S60 |
+|N1009805 G4 S3       |
++---------------------+
 
  El código modificado final será el siguiente:
 
-
- Inicio
-
-
- (GCode created using the HeeksCNC Mach3 post processor)
-
-
- (grabadocolibri.tap)
-
-
- (G-code generated with BlenderCAM and NC library)
-
-
- N10 G17 G21 G90
-
-
- (Tool change)
-
-
- N20G43H1
-
-
- N30T1 M06
-
-
- N31 G28
-
-
- N32 G4 S3
-
-
- N33 M280 P2 S10
-
-
- N34 G4 S3
-
-
- N35 M280 P2 S90
-
-
- N36 G4 S3
-
-
- N40 G00 X0 Y0 Z4.999 S12000 M03
-
-
- N50 G00 X69.103 Y41.967
-
-
- N60G01 Z-4.999 F500
-
++-------------------------------------------------------+
+|Inicio                                                 |
+|(GCode created using the HeeksCNC Mach3 post processor)|
+|(grabadocolibri.tap)                                   |
+|(G-code generated with BlenderCAM and NC library)      |
+|N10 G17 G21 G90                                        |
+|(Tool change)                                          |
+|N20G43H1                                               |
+|N30T1 M06                                              |
+|N31 G28                                                |
+|N32 G4 S3                                              |
+|N33 M280 P2 S10                                        |
+|N34 G4 S3                                              |
+|N35 M280 P2 S90                                        |
+|N36 G4 S3                                              |
+|N40 G00 X0 Y0 Z4.999 S12000 M03                        |
+|N50 G00 X69.103 Y41.967                                |
+|N60G01 Z-4.999 F500                                    |
++-------------------------------------------------------+
 
  Final
 
-
- N100960G01 X62.259 Y135.122
-
-
- N100970G01 X62.218 Y135.095
-
-
- N100980 G00 Z4.999
-
-
- N1009801 G4 S3
-
-
- N1009802 M280 P2 S80
-
-
- N1009803 G4 S3
-
-
- N1009804 M280 P2 S60
-
-
- N1009805 G4 S3
-
-
- N100990 M02
-
++---------------------------+
+|N100960G01 X62.259 Y135.122|
+|N100970G01 X62.218 Y135.095|
+|N100980 G00 Z4.999         |
+|N1009801 G4 S3             |
+|N1009802 M280 P2 S80       |
+|N1009803 G4 S3             |
+|N1009804 M280 P2 S60       |
+|N1009805 G4 S3             |
+|N100990 M02                |
++---------------------------+
 
  Al modificar el código G, guardamos como .gcode/todos los archivos para que la impresora lo pueda reconocer.
  Si queremos  cargar el código-g desde el pronterface, tendremos que descargar la siguiente versión:
