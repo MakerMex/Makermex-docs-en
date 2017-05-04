@@ -1779,7 +1779,7 @@ Entrar al modo CAM
                           .. figure:: /imagenes/cnc7.png
 
 
-1.	Ir a la barra superior (User Preference), desplegar la ventana Engine 
+1.	Ir a la barra superior (User Preference), desplegar la ventana Engine
 2.	Seleccionar el modo Blender CAM
 3.	Ir al panel de operaciones y seleccionar el Render
 
@@ -2089,13 +2089,14 @@ es necesario calcular la trayectoria (Calculate path).
 
                         .. figure:: /imagenes/cnc37.png
 
-La estrategia como se mencionaba es Cutout, en esta ocasión la trayectoria será
-sobre la línea. No es recomendable utilizar Don’t merge outlines… ya que genera
-problemas con el Blender. En esta parte se reduce el número de líneas, además de
-la resolución y simulación. La altura de capa es la misma que el desbaste total,
-generando una sola pasada. Si hubiésemos necesitado dos pasadas la altura de capa
-se dejaría en 2.5mm con un desbaste total de 5mm, se dejó este parámetro ya que
-el material que desbastaremos es un material blando y no tendrá problema
+La accion como se mencionaba es Cutout, en esta ocasión la trayectoria será
+sobre la línea. No es recomendable utilizar la opcion de Don’t merge outlines…
+ya que genera problemas con el programa Blender. En esta parte se reduce el número
+de líneas, además de la resolución y simulación. La altura de capa es la misma que
+el desbaste total, generando una sola pasada. Si hubiésemos necesitado dos pasadas
+la altura de capa se dejaría en 2.5mm con un desbaste total de 5mm, se dejó este
+parámetro ya que el material que desbastaremos es un material blando y no tendrá
+problema
 
                         .. figure:: /imagenes/cnc38.png
 
@@ -2107,13 +2108,13 @@ parámetro para asegurarnos de que el modulo no chocara con el material y podrá
 
 Es importante definir el área del material en nuestro caso es: 20 x 20 x 3 (cm),
 después de definir el área es importante situar el objeto en el área correcto,
-podemos utilizar position objet
+podemos utilizar position objet.
 
-.. figure:: /imagenes/cnc40.png
+                        .. figure:: /imagenes/cnc40.png
 
 Para obtener el código G damos clic en exportar g code, que se encuentra en el
 panel de operaciones. El código g se nos genera dentro de la carpeta de instalación
-de BlenderCam, para la impresora MM1 se tiene que abrir el código G en bloc de
+de programa BlenderCam, para la impresora MM1 se tiene que abrir el código G en bloc de
 notas y modificar lo siguiente:
 
 Esta es la parte principal del código g de nuestro colibrí
@@ -2137,7 +2138,7 @@ Esta es la parte principal del código g de nuestro colibrí
 |N120G01 X67.435 Y45.303                                |
 +-------------------------------------------------------+
 
-Checar la numeración de línea ( N100). Cuando vamos a agregar una instrucción,
+Checar la numeración de línea (N100). Cuando vamos a agregar una instrucción,
 esta debe tener la numeración correspondiente, en este código g generado por
 BlenderCAM lleva un seguimiento por decenas
 
@@ -2170,7 +2171,7 @@ Después de la instrucción (N30T1 M06) se agregara lo siguiente:
 |N36 G4 S3                                                                     |
 +------------------------------------------------------------------------------+
 
- Esta es la parte final del código G de nuestro colibrí
+Esta es la parte final del código G de nuestro colibrí
 
 +----------------------------+
 |N100940G01 X62.35 Y135.168  |
@@ -2181,7 +2182,7 @@ Después de la instrucción (N30T1 M06) se agregara lo siguiente:
 |N100990 M02                 |
 +----------------------------+
 
- Antes de la instrucción M02 se agregara lo siguiente:
+Antes de la instrucción M02 se agregara lo siguiente:
 
 +---------------------+
 |N1009801 G4 S3       |
@@ -2191,7 +2192,7 @@ Después de la instrucción (N30T1 M06) se agregara lo siguiente:
 |N1009805 G4 S3       |
 +---------------------+
 
- El código modificado final será el siguiente:
+El código modificado final será el siguiente:
 
 +-------------------------------------------------------+
 |Inicio                                                 |
@@ -2227,808 +2228,600 @@ Después de la instrucción (N30T1 M06) se agregara lo siguiente:
 |N100990 M02                |
 +---------------------------+
 
- Al modificar el código G, guardamos como .gcode/todos los archivos para que la impresora lo pueda reconocer.
- Si queremos  cargar el código-g desde el pronterface, tendremos que descargar la siguiente versión:
- https://github.com/kliment/Printrun
- De no ser así guardamos el .gcode en la memoria SD y lo corremos en la impresora MM1
-
+Al modificar el código G, guardamos como .gcode/ todos los archivos para que la
+impresora lo pueda reconocer. Si queremos  cargar el código g desde el pronterface,
+tendremos que descargar la siguiente versión: https://github.com/kliment/Printrun
+De no ser así guardamos el .gcode en la memoria SD y lo corremos en la impresora MM1
 
 Módulo de Pastas
 ------------------
 
-
-Hola MakerAmigo
-
-les presentamos el módulo de pastas este modulo es muy divertido al usarlo ya que es experimental, y puedes hacer creaciones de pastas y probarlas.
-
+En esta parte del manual  se tomara el punto acerca del módulo de pastas este
+modulo es muy divertido al usarlo ya que es experimental, y puedes hacer creaciones
+de pastas y probarlas. Por lo general este modulo trabaja con cualquier material
+pastoso desde arcilla hasta chocolate.
 
 .. Note::
-   Este módulo funciona con pastas frias.
-
-
+   Un dato importante de este moculo es que solo trabaja con pastas frias.
 
 General
 
+Vamos a comenzar a identificar los componentes de nuestro Módulo de Pastas, este
+se divide en dos partes la estación de bombeo y cabezal, también contiene accesorios
+para poder realizar la inyección de las pastas.
 
-Vamos a comenzar a identificar los componentes de nuestro Módulo de Pastas, este se divide en dos partes la estación de bombeo y cabezal, también contiene accesorios para poder realizar la inyección de las pastas.
+El módulo de pastas se compone de lo siguiente:
 
-
-
-El contenido del módulo de pastas es el siguiente:
-
-
-
-*  1  estación de bombeo + cable de motor.
-
-
-*  1 cabezal de impresión
-
-
-*  2 jeringas
-
-
-*  2 mangueras de nivel de 1/4 x100cm
-
-
-*  2 luer lock rosca hembra
-
-
-*  2 luer lok rosca macho
-
-
-*  2 juegos de 6 puntillas de plástico
-
-
-*  1 juego de 10 puntillas de metal
-
++----------------------------------------+
+|1  estación de bombeo + cable de motor. |
+|1 cabezal de impresión                  |
+|2 jeringas                              |
+|2 mangueras de nivel de 1/4 x100cm      |
+|2 luer lock rosca hembra                |
+|2 luer lok rosca macho                  |
+|2 juegos de 6 puntillas de plástico     |
+|1 juego de 10 puntillas de metal        |
++----------------------------------------+
 
 Estación de bombeo y accesorios.
 
-
-.. figure:: /imagenes/m1p1.jpg
-
+                        .. figure:: /imagenes/m1p1.jpg
 
 Cabezal de impresión.
 
+                        .. figure:: /imagenes/m1p2.jpg
 
-.. figure:: /imagenes/m1p2.jpg
-
-
-Bien ahora vamos a comenzar, antes de realizar la mezcla de alguna pasta preparemos los accesorios que nos ayudaran a realizar la impresión.
-
+Bien ahora vamos a comenzar, antes de realizar la mezcla de alguna pasta preparemos
+los componentes que nos ayudaran a realizar la impresión.
 
 Paso 1
 
+Cortamos una manguera de nivel, a la medida de 50cm de largo
 
-Cortamos una manguera de nivel, a la mitad de 50cm de largo
-
-
-.. figure:: /imagenes/m1p3.jpg
-
+                        .. figure:: /imagenes/m1p3.jpg
 
 Paso 2
 
-
-Ahora vamos a colocar un luer lock  hebra en un extremo y un luer lock macho al otro extremo.
-
+Ahora vamos a colocar un luer lock  hebra en un extremo y un luer lock macho al
+otro extremo.
 
 Luer lock hembra
 
+                        .. figure:: /imagenes/m1p5.jpg
 
-.. figure:: /imagenes/m1p4.jpg
+Luer lock macho
 
+                        .. figure:: /imagenes/m1p7.jpg
 
-.. figure:: /imagenes/m1p5.jpg
+debe de quedar de la siguiente forma, esto nos serira ya que es la manguera de
+nivel de nuestro modulo.
 
-
-luer lock macho
-
-
-.. figure:: /imagenes/m1p6.jpg
-
-
-.. figure:: /imagenes/m1p7.jpg
-
-
-obteniendo así la manguera de nivel.
-
-
-.. figure:: /imagenes/m1p8.jpg
-
+                        .. figure:: /imagenes/m1p8.jpg
 
 Paso 3
 
+Para poder realizar este paso vamos a necesitar una jeringa y esta la tendremos
+que montar en la estación de bombeo, también se colocara la manguera en
+la jeringa y la puntilla.
 
-vamos a sacar una jeringa y vamos  montar la jeringa en la estación de bombeo, también montaremos la manguera en la jeringa y la puntilla.
-
-
-.. figure:: /imagenes/m1p9.jpg
-
-
-Abre el empaque de la jeringa y observa bien como debes de colocar el luer lock macho en la jeringa. como tienen rosca tendrías que girar la puntilla o el luer lock para que se mantenga fijo como se ve en las imágenes.
+                        .. figure:: /imagenes/m1p9.jpg
 
 
-.. figure:: /imagenes/m1p10.jpg
+Abra el empaque de la jeringa y observe bien como se debe de colocar el luer lock
+macho en la jeringa. Como tienen esta ceunta con una rosca se tendra que girar la
+puntilla o el luer lock para que se mantenga.
 
+                        .. figure:: /imagenes/m1p10.jpg
+                        .. figure:: /imagenes/m1p11.jpg
+                        .. figure:: /imagenes/m1p12.jpg
 
-.. figure:: /imagenes/m1p11.jpg
+Una vez que ya has colocado la puntilla y la manguera en la jeringa, ya podras
+retirar o colocar una puntilla u otra cuando se requiera un cambio.Ahora vamos a
+colocar la jeringa en la estación de bombeo. Debemos asegurarnos que la jeringa
+este bien sujeta desde la parte central y hasta el embolo.
 
+                        .. figure:: /imagenes/m1p13.jpg
+                        .. figure:: /imagenes/m1p14.jpg
+                        .. figure:: /imagenes/m1p15.jpg
+                        .. figure:: /imagenes/m1p16.jpg
 
-.. figure:: /imagenes/m1p12.jpg
-
-
-Una vez que ya has colocado la puntilla y la manguera en la jeringa así puedes retirar o colocar una puntilla u otra
-
-
-ahora solo resta colocar observar como colocar la jeringa en la estación de bombeo.
-
-
-Debemos asegurar que la jeringa este bien sujeta desde la parte central y el embolo.
-
-
-.. figure:: /imagenes/m1p13.jpg
-
-
-.. figure:: /imagenes/m1p14.jpg
-
-
-.. figure:: /imagenes/m1p15.jpg
-
-
-.. figure:: /imagenes/m1p16.jpg
-
-
-Y así es como se coloca la jeringa en la estación de bombeo.
+De esta forma es como se coloca la jeringa en la estación de bombeo.
 
 
 .. Note::
-   si la base que esta unida a la varilla roscada, se encuentra muy arriba deberás bajarla para que puedas colocar la jeringa como se muestra en las imágenes anteriores, es muy simple solo tienes que girar el engrane grande en sentido opuesto a las manecillas del reloj para que pueda bajar la base, y así  poder colocar bien el embolo de la jeringa en el orificio de la base plástica.
 
+   Si la base que esta unida a la varilla roscada, se encuentra muy arriba deberás
+   bajarla para que puedas colocar la jeringa, es muy simple solo tienes que girar
+   el engrane grande en sentido opuesto a las manecillas del reloj para que pueda
+   bajar la base, y así poder colocar bien el embolo de la jeringa y en el orificio
+   de la base plástica.
 
+                        .. figure:: /imagenes/m1p17.jpg
 
-.. figure:: /imagenes/m1p17.jpg
+Para terminar con este paso solo deberás conectar el motor de la estación de bombeo.
 
-
-Para terminar con este paso solo deberás conectar el motor de la estación de bombeo observa las imágenes.
-
-
-.. figure:: /imagenes/m1p18.jpg
-
-
-.. figure:: /imagenes/m1p19.jpg
-
-
-.. figure:: /imagenes/m1p20.jpg
-
+                        .. figure:: /imagenes/m1p19.jpg
+                        .. figure:: /imagenes/m1p20.jpg
 
 Paso 4
 
+Vamos a colocar el cabezal de pastas en la impresora, para realizar este paso
+primero retiramos el modulo que esta puesto en la impresora, para poder se retirlo
+es necesario mover el seguro de sujeción, se desmonta el modulo y se empuja hacia
+abajo para lograrlo.
 
-vamos a colocar el cabezal de pastas en la impresora para realizar este paso primero retiramos el modulo que esta puesto que es el sencillo se retira el seguro de sujeción y se desmonta el modulo y se empuja hacia abajo para lograrlo.
+Después se coloca el cabezal como se muestras en las imágenes y se asegura con el
+clip de sujeción.
 
-
- Después se coloca el cabezal como se muestras en las imágenes y se asegura con el clip de sujeción.
-
-
-.. figure:: /imagenes/m1p21.jpg
-
-
-.. figure:: /imagenes/m1p22.jpg
-
-
-.. figure:: /imagenes/m1p23.jpg
-
-
-.. figure:: /imagenes/m1p24.jpg
-
+                        .. figure:: /imagenes/m1p21.jpg
+                        .. figure:: /imagenes/m1p22.jpg
+                        .. figure:: /imagenes/m1p23.jpg
+                        .. figure:: /imagenes/m1p24.jpg
 
 Paso 5
 
+Una vez que el cabezal esta asegurado vamos a conectar sus conectores en este
+cabezal solo se conectan 2 cables y el seguro de la doble extrusora, recuerda
+que los cables deben de pasar por encima de los perfiles superiores.
 
-una vez que el cabezal esta asegurado vamos a conectar sus conectores en este cabezal solo se conectan 2 cables y el seguro de la doble extrusora  como se muestra en la imagen recuerda que los cables deben de pasar por encima de los perfiles superiores.
-
-
-.. figure:: /imagenes/m1p25.jpg
-
+                        .. figure:: /imagenes/m1p25.jpg
 
 Paso 6
 
-
-Después de tener todo conectado vamos a observar como es que vamos a colocar las puntillas cada espacio es para poder colocar un tipo de puntilla ya que podemos utilizar dos tipos de puntillas .
-
+Después de tener todo conectado correctamente procedemos en colocar las
+puntillas, cada ranura es para poder colocar un tipo de puntilla ya que es posible
+utilizar dos tipos de puntillas.
 
 Vamos a colocar una puntilla de plástico.
 
+                        .. figure:: /imagenes/m1p26.jpg
 
-.. figure:: /imagenes/m1p26.jpg
+Se coloca en la parte derecha del modulo viendo el modulo de frente. Y con ayuda
+de unas pinzas de punta empujamos la puntilla junto con la manguera de
+nivel para que estas queden aseguradas.
 
+                        .. figure:: /imagenes/m1p27.jpg
+                        .. figure:: /imagenes/m1p28.jpg
 
-Se coloca en la parte derecha del modulo viendo el modulo de frente. Y con ayuda de unas pinzas de punta empujamos para que la puntilla junto con la manguera de nivel queden aseguradas .
+Debemos empujar hasta que la puntilla este colocada en el fondo del espacio como
+se ve en la imagen
 
+                        .. figure:: /imagenes/m1p29.jpg
 
-.. figure:: /imagenes/m1p27.jpg
+Ahora vamos a colocar la puntilla que tiene la punta de metal, esta puntilla
+se va a colocar en el espacio izquierdo del cabezal como se muestra en la imagen
+y también se utiliza una pinza de punta para poder empujarlo hasta el fondo.
 
+                        .. figure:: /imagenes/m1p30.jpg
+                        .. figure:: /imagenes/m1p31.jpg
 
-.. figure:: /imagenes/m1p28.jpg
+Al igual que la otra puntilla debe de entrar en la ranura disponible.
 
+                        .. figure:: /imagenes/m1p32.jpg
 
-Debemos empujar hasta que la puntilla este colocada en el fondo del espacio como se ve en la imagen
+Entonces nuestro modulo de pastas así tendra que ver.
 
-
-.. figure:: /imagenes/m1p29.jpg
-
-
-Ahora veamos como colocar la puntilla que tiene la punta de metal, esta puntilla se va a colocar en el espacio izquierdo del cabezal como se muestra en la imagen y también se utiliza una pinza de punta para poder empujarlo hasta el fondo.
-
-
-.. figure:: /imagenes/m1p30.jpg
-
-
-.. figure:: /imagenes/m1p31.jpg
-
-
-Y al igual que la otra puntilla debe de entrar y verse como en la imagen.
-
-
-.. figure:: /imagenes/m1p32.jpg
-
-
-Y nuestro modulo de pastas así se coloca en la impresora.
-
-
-.. figure:: /imagenes/m1p33.jpg
-
+                        .. figure:: /imagenes/m1p33.jpg
 
 Paso 7
 
+En este paso mostraremos algunas parámetros de cura con los cuales pueden realizar
+sus pruebas. En este paso indicamos como realizar una mezcla con nutella, para imprimir
+chocolate.
 
-en este paso mostraremos algunas parámetros de cura para que puedan realizar sus pruebas.
-En este paso indicamos como realizar una mezcla con nutella, para imprimir chocolate.
-
-
-Ingredientes que se usaron :
+Ingredientes a utilizar
 Nutella
-Glucosa ( se consigue en lugares de repostería o donde venden materias primas, como azúcar glas,cobertura de chocolate grenetina etc.)
-
+Glucosa ( se consigue en lugares de repostería o donde venden materias primas,
+como azúcar glas,cobertura de chocolate grenetina etc.)
 
 .. tip::
-   se recomienda tener utensilios de medición para gramos y mililitros (bascula, jeringas,tazas medidoras)
 
+   Se recomienda tener utensilios de medición para gramos y mililitros (bascula,
+   jeringas,tazas medidoras)
 
 Preparación de pasta
 
-
 Ingredientes:
 
++------------------+
+|-120gr de nutella.|
+|-10.6gr de glucosa|
++------------------+
 
-*  120gr de nutella.
+En un recipiente se colocan las dos cantidades de materia prima y se mezcla muy
+bien hasta tener una consistencia  mas densa que la de la nutella, asegurándote
+que este bien diluida la glucosa en la nutella.
 
+Una vez que este lista la pasta, puedes depositar en la jeringa, para realizar
+esto te recomiendo que primero quites el embolo de la jeringa y la punta de la
+jeringa este en posición vertical para que puedas introducir la pasta, asegurándonos
+que no se hagan burbujas dentro de la jeringa. Si se llegaran a hacer burbujas en la
+jeringa un momento antes de colocar el embolo, para que salgan estas burbujas,
+sujeta la jeringa con tus dos manos y la haces girar moviendo tus manos hacia
+adelante y atrás como si tuvieses un rodillo pero verticalmente.
 
-*  10.6gr de glucosa
+Este movimiento lo podemos repetir una y otra vez hasta que salgan las burbujas,
+también podemos dar golpes al cuerpo de la jeringa con alguna cuchara para
+que la materia prima que esta dentro vibre un poco y esto hará que salga el aire
+de las burbujas.
 
+Ya que no hay burbujas de aire entonces colocamos la manguera y presionamos para
+que la pasta comienza a recorrer en el interior de la manguera y que salga por
+la puntilla. Tambien los parámetros son importantes para que el modulo funcione
+adecuadamente, otro punto que influye es el flujo de material y los grosores de
+las puntillas que uses.
 
-En un recipiente se colocan las dos cantidades de materia prima y se mezcla muy bien hasta tener una consistencia  mas densa que la del chocolate nutella, asegurándote que este bien disuelta la glucosa en la nutella.
+La velocidad es muy importante depende de la viscosidad de la pasta para un buen
+resultado se recomienda usar velocidades bajas desde 10mm/s hasta max 25mm/s
 
-
-Una vez que este lista la pasta la puedes depositar en la jeringa, para realizar esto te recomiendo que primero quites el embolo de la jeringa y la punta de la jeringa este en posición vertical para que puedas meter la pasta, asegurándonos que no se hagan burbujas dentro de la jeringa.
-Si ya se hicieron burbujas en la jeringa antes de colocar el embolo para asegurarte que salgan estas burbujas,  sujeta la jeringa con tus dos manos y la haces girar moviendo tus manos  hacia  adelante y atrás como si tuvieses un rodillo pero verticalmente.
-
-
-Este movimiento lo podemos repetir una y otra vez hasta que salgan las burbujas, también podemos dar  golpe sitos  al cuerpo de la jeringa con alguna cuchara para que la materia prima que esta dentro, vibre un poco y esto hará que  salga el aire de las burbujas.
-
-
-Ya que no hay burbujas de aire entonces colocamos la manguera y presionamos para que la pasta comienza a recorrer en el interior de la manguera y que salga por la puntilla.
-
-
-Parámetros que son importantes para que el modulo funcione es el flujo de material y los grosores de las puntillas que uses.
-
-
-La velocidad es muy importante depende de la viscosidad de la pasta para un buen resultado se recomienda usar velocidades bajas desde 10mm/s hasta max 25mm/s
-
-
-podemos experimentar con diferentes tipos de pastas frías que es con lo que podemos trabajar
-ejemplos nutella y glucosa, azúcar glass y limón (alfeñiques), pasta azúcar glass y glucosa (fondant) arcilla, silicon, pasta francesa, playdooh con agua, cremas batidas para decorar, en fin hay muchas mas pastas frías lo que nos importa es la viscosidad de la pasta esta debe de ser con la apariencia de pasta de dientes para poder sacar la consistencia que deseamos podemos estar probando con la jeringa poner una  linea encima de otra y ver que no se desplome fácilmente si no que se sostenga.
-
+Podemos experimentar con diferentes tipos de pastas frías que es con lo que podemos
+trabajar,
+Ejemplos nutella y glucosa, azúcar glass y limón (mezcla para alfeñiques),
+pasta azúcar glass y glucosa (fondant) arcilla, silicon, pasta francesa, Play-Doh con agua
+, cremas batidas para decorar, en fin hay muchas mas pastas frías con las cuales
+podremos trabajar, pero lo que nos importa es la viscosidad de la pasta, esta debe
+de ser como la densidad de la pasta para los dientes, para poder obtener la
+consistencia que deseamos, podemos probar con la jeringa poner una linea
+encima de otra y ver que no se desplome fácilmente, si no, que se sostenga.
 
 Parámetros que se usaron para la impresión.
 
-
 Basic
 
-
-*  Layer heigh   .8
-
-
-*  Shell thickness  2.4
-
-
-*  Retracción  no
-
-
-*  Bottom/top thickness  2
-
-
-*  Fill density 30
-
-
-*  Print speed  15
-
-
-*  temperatura  0
-
-
-*  Cama caliente  0
-
-
-*  soporte  none
-
-
-*  Platform adhesion type  none
-
-
-*  diametro  3
-
-
-*  flow  7
-
++-----------------------------+
+|Layer heigh               .8 |
+|Shell thickness          2.4 |
+|Retracción                no |
+|Bottom/top thickness       2 |
+|Fill density              30 |
+|Print speed               15 |
+|Temperatura                0 |
+|Cama caliente              0 |
+|Soporte                 none |
+|Platform adhesion type  none |
+|Diametro                   3 |
+|Flow                       7 |
++-----------------------------+
 
 Advanced
 
++------------------------------+
+|Nozzle size               1.2 |
+|Intal layer thickness      .8 |
+|Intal layer line width    100 |
+|Cut of object bottom        0 |
+|Dual extrusion overlap    .15 |
+|Travel speed               15 |
+|Bottom layer speed         15 |
+|Infill speed                0 |
+|Outer shell speed           0 |
+|Inner shell speed           0 |
+|Enable cooling fan.        Si |
++------------------------------+
 
-*  Nozzle size  1.2
-
-
-*  Intal layer thickness .8
-
-
-*  Intal layer line width  100
-
-
-*  Cut of object bottom  0
-
-
-*  Dual extrusion overlap  .15
-
-
-*  Travel speed  15
-
-
-*  Bottom layer speed 15
+                        .. figure:: /imagenes/m1p34.jpg
+                        .. figure:: /imagenes/m1p35.png
 
 
-*  Infill speed 0
+Tiene que resultar esto
 
-
-*  Outer shell speed  0
-
-
-*  Inner shell speed  0
-
-
-*  Enable cooling fan. Si
-
-
-.. figure:: /imagenes/m1p34.jpg
-
-
-.. figure:: /imagenes/m1p35.png
-
-
-Y este fue nuestro resultado
-
-
-.. figure:: /imagenes/m1p36.jpg
+                        .. figure:: /imagenes/m1p36.jpg
 
 
 Problemas Frecuentes
 ======================
 
-
 Como destapar la boquilla
 --------------------------
 
-
-Hola amigos vamos a revisar este manual que nos enseñara como desmotar la boquilla y poder destapar.
-
-
 Paso 1
 
+Vamos a retirar el filamento que este en la boquilla, recuerda que debes calentar
+la boquilla para poder retirarlo, dependiendo de el tipo de filamento que utilices
+es la temperatura que vas a necesitar para la boquilla, en este caso se atasco con
+PLA así que vamos a calentar a 210°C para que pueda salir mas rápido el material.
 
-vamos a retirar el filamento que este en la boquilla, recuerda que debes de calentar la boquilla para poder retirarlo, en este caso se atasco con PLA así que vamos a calentar a 210°C para que pueda salir mas rápido el material.
+Bien calentamos con la pantalla recuerda da clic a la perilla elige control->
+temperatura-> nozzle y sube a 210°C da clic y listo comenzara a calentar la boquilla.
 
-
-Bien calentamos con la pantalla recuerda da clic a la perilla elige control después temperatura,después nozzle y sube a 210°C da clic y listo comenzara a calentar la boquilla.
-
-
-.. figure:: /imagenes/db1.jpg
-
+                        .. figure:: /imagenes/db1.jpg
 
 cuando la temperatura llegue podemos sacar el filamento que tiene.
 
-
-.. figure:: /imagenes/db2.jpg
-
+                        .. figure:: /imagenes/db2.jpg
 
 Paso 2
 
+Vamos a retirar el tubo Bowden para retirarlo es necesario unas pinzas de punta,
+se colocan las pinzas en la cavidad de la pieza plástica, y solo se va a presionar
+hacia abajo el plástico del conector neumático (es la goma de color azul), toma en
+cuenta que las pinzas no se deben de cerrar solo es de apoyo para poder liberar el tubo.
 
-Vamos a retirar el tubo Bowwden para retirarlo es necesario unas pinzas de punta, se colocan las pinzas en la cavidad de la pieza plástica como se ve en la imagen, y solo se va a presionar hacia abajo, el plástico del conector neumático  y toma en cuenta que  las pinzas no se deben de cerrar solo es de apoyo para poder liberar el tubo.
+Recuerda cuando presiones el plástico del conector neumático debes de jalar el
+tubo hacia arriba para que salga.
 
-
-Recuerda cuando presiones el plástico del conector neumático debes de jalar el tubo hacia arriba para que salga.
-
-
-.. figure:: /imagenes/db3.jpg
-
-
-.. figure:: /imagenes/db4.jpg
-
+                        .. figure:: /imagenes/db3.jpg
+                        .. figure:: /imagenes/db4.jpg
 
 Paso 3
 
+Cuando la boquilla se caliente vamos a introducir un trozo de filamento para
+tratar de purgar la boquilla manualmente y asi poder ver si se resuelve el problema.
 
-Aun estando la boquilla caliente vamos a introducir un trozo de filamento para tratar de purgar la boquilla manualmente y ver si se resuelve el problema.
+Al meter el filamento en la boquilla vamos a presionar para ver si sale si no lo
+hace entonces lo vamos a sacar rápidamente hacia arriba
 
+                        .. figure:: /imagenes/db5.jpg
 
-Al meter el filamento en la boquilla vamos a presionar para ver si sale si no lo hace entonces lo vamos a sacar rápidamente  hacia arriba
+Cuando el material esta atascado en la punta de la boquilla comenzara a pegarse
+a el filamento nuevo. Esta operación la puedes repetir varias veces y hasta que
+veas que ya no sale material carbonizado,
 
+Si esto te funciona y vez que sale material por la parte de la punta de la boquilla,
+puedes volver a colocar el tubo y filamento para volver a realizar una impresión.
 
-.. figure:: /imagenes/db5.jpg
+                        .. figure:: /imagenes/db6.jpg
 
-
-Cuando el material esta atascado en la punta de la boquilla comenzara a pegarse a el filamento nuevo, como se ve en la imagen.
-
-
-Esta operación la puedes repetir varias veces y hasta que veas que ya no sale material carbonizado,
-
-
-si esto te funciona y vez que ya sale material por la parte de la punta de la boquilla, puedes volver a colocar el tubo y filamento para volver a realizar una impresión.
-
-
-.. figure:: /imagenes/db6.jpg
-
-
-Si aun no sale material por la punta de la boquilla, entonces puede ser que este tapada y para destaparla hay que seguir los siguientes pasos
-
+Si aun no sale material por la punta de la boquilla, entonces puede ser que esta
+siga tapada y para destaparla hay que seguir los siguientes pasos
 
 Paso 4
 
+Apaga la impresora, retira el clip de sujeción del modulo y desconecta los conectores
+de la impresora para poder retirar el modulo completo y poder desarmarlo.
 
-apaga la impresora, retira el clip de sujeción del modulo y desconecta los conectores de la impresora para poder retirar el modulo completo y poder desarmarlo.
-
-
-.. figure:: /imagenes/db7.jpg
-
-
-.. figure:: /imagenes/db8.jpg
-
+                        .. figure:: /imagenes/db7.jpg
 
 Desconecta los siguientes conectores
 
+                        .. figure:: /imagenes/db9.jpg
+                        .. figure:: /imagenes/db10.jpg
+                        .. figure:: /imagenes/db11.jpg
 
-.. figure:: /imagenes/db9.jpg
+Solo se dejara conectado el seguro de doble extrusora.
 
+                        .. figure:: /imagenes/db12.jpg
 
-.. figure:: /imagenes/db10.jpg
+Desmontamos el modulo de la cruz
 
-
-.. figure:: /imagenes/db11.jpg
-
-
-Y solo se deja conectado el seguro de doble extrusora.
-
-
-.. figure:: /imagenes/db12.jpg
-
-
-Desmontamos el mòdulo de la cruz
-
-
-.. figure:: /imagenes/db13.jpg
-
+                        .. figure:: /imagenes/db13.jpg
 
 Paso 5
 
+Vamos a desarmar el Módulo, para poder llegar a la boquilla.
 
-vamos a desarmar el Módulo, para poder interactuar con la boquilla.
+                        .. figure:: /imagenes/db14.jpg
 
+Primero debemos retirar los tornillos que sujetan la pieza plástica del sensor
+inductivo, estos tornillos se retiran con ayuda de una llave allen de 2.5mm
 
-.. figure:: /imagenes/db14.jpg
+                        .. figure:: /imagenes/db15.jpg
+                        .. figure:: /imagenes/db16.jpg
 
+Después vamos a retirar los tornillos que sujetan el MDF al módulo, son los que
+se muestran en círculos rojos, son 3 de la parte inferior y 2 de la parte superior
+se retiran con la llave allen de 2.5mm.
 
-Primero debemos retirar los tornillos que sujetan la pieza plástica del sensor inductivo, estos tornillos se retiran con ayuda de una llave allen de 2.5mm
-
-
-.. figure:: /imagenes/db15.jpg
-
-
-.. figure:: /imagenes/db16.jpg
-
-
-Después vamos a retirar los tornillos que sujetan el MDF  al módulo se muestran en círculos rojos
-son 3 de la parte inferior y 2 de la parte superior se retiran con la misma llave allen de 2.5mm
-
-
-.. figure:: /imagenes/db17.jpg
-
-
-.. figure:: /imagenes/db18.jpg
-
-
-.. figure:: /imagenes/db19.jpg
-
-
-.. figure:: /imagenes/db20.jpg
-
-
-.. figure:: /imagenes/db21.jpg
-
-
-.. figure:: /imagenes/db22.jpg
-
+                        .. figure:: /imagenes/db17.jpg
+                        .. figure:: /imagenes/db18.jpg
 
 Paso 6
 
+Vamos a remover el MDF para poder liberar la boquilla se retira  girándolo hacia
+afuera. Esto para poder llegar a ala parte donde se encuentra la boquilla.Sujetamos
+el MDF con el dedo pulgar e indice.
 
-vamos a remover el MDF para poder liberar la boquilla se retira  girándolo como se muestra en las imágenes.  Y así poder maniobrar con la boquilla.
+                        .. figure:: /imagenes/db23.jpg
+                        .. figure:: /imagenes/db24.jpg
 
+Ya que tenemos el MDF en la posición que se muestra solo resta empujarlo como
+indica la flecha esto para que pueda liberarse la boquilla y así poder limpiarla
+mas fácil.
 
-Sujetamos el MDF con el dedo pulgar e indice como se ve en la imagen.
+                        .. figure:: /imagenes/db26.jpg
+                        .. figure:: /imagenes/db27.jpg
 
+Cuando este libre el MDF con mucho cuidado vamos a retirar la boquilla por el
+orificio mas grande del MDF.
 
-.. figure:: /imagenes/db23.jpg
-
-
-Giramos el MDF como se muestra en la imagen.
-
-
-.. figure:: /imagenes/db24.jpg
-
-
-.. figure:: /imagenes/db25.jpg
-
-
-Ya que tenemos el MDF en la posición que se muestra solo resta empujarlo como indica la flecha para que pueda liberarse la boquilla y así poder limpiar la boquilla mas fácil.
-
-
-Observemos la imágenes.
-
-
-.. figure:: /imagenes/db26.jpg
-
-
-.. figure:: /imagenes/db27.jpg
-
-
-Cuando este libre el MDF con mucho cuidado vamos a retirar la boquilla por el orificio mas grande del MDF, como se muestra en las imágenes.
-
-
-.. figure:: /imagenes/db28.jpg
-
-
-.. figure:: /imagenes/db29.jpg
-
+                        .. figure:: /imagenes/db28.jpg
+                        .. figure:: /imagenes/db29.jpg
 
 Paso 7
 
+Vamos a retirar el Conector Neumático de la boquilla, en  este paso vamos a sujetar
+la boquilla con mucho cuidado, con unas pinzas mecánicas, vamos a sujetar
+el conector y aflojarlo para poder retirarlo.
 
-vamos a retirar el Conector Neumático de la boquilla, en  este paso vamos a sujetar la boquilla con mucho cuidado y con unas pinzas mecánicas o de chófer vamos a sujetar el conector y aflojarlo para poder retirarlo.
+                        .. figure:: /imagenes/db30.jpg
+                        .. figure:: /imagenes/db31.jpg
 
+Paso 8
 
-Veamos las imágenes
+Vamos a conectar el ventilador pequeño a la impresora y también el conector de 6
+pines para poder calentar la boquilla.
 
+                        .. figure:: /imagenes/db32.jpg
 
-.. figure:: /imagenes/db30.jpg
+Después de conectar el módulo encendemos la impresora para mandar a calentar la
+boquilla
 
-
-.. figure:: /imagenes/db31.jpg
-
-
-paso 8
-
-
-vamos a conectar el ventilador pequeño a la impresora y también el conector de 6 pines para poder calentar la boquilla.
-
-
-Veamos las imágenes.
+                        .. figure:: /imagenes/db33.jpg
 
 
-.. figure:: /imagenes/db32.jpg
+Pues bien utilizando la pantalla vamos a mandar a calentar la boquilla, según el
+material que este atascado  es decir si es PLA podemos colocar a una temperatura
+desde 200°C a 210°C, si es ABS la temperatura que podemos utilizar es de 220°C
+a 230°C.
 
+En el ejemplo es PLA y para este caso utilizamos una temperatura de 207°C. Una vez
+que esta caliente la boquilla la sujetaremos de la parte superior con las pinzas
+mecánicas.
 
-Después de conectar el módulo encendemos la impresora para mandar a calentar la boquilla
+                        .. figure:: /imagenes/db34.jpg
 
+Ya que esta caliente con ayuda de una broca de 3mm la vamos a introducir dentro
+de la boquilla y con nuestras manos vamos a girar la broca, sin presionar solo
+giramos la broca lento y sacamos para ir retirando los residuos que se adhieran
+a la broca.
 
-.. figure:: /imagenes/db33.jpg
+                        .. figure:: /imagenes/db35.jpg
+                        .. figure:: /imagenes/db37.jpg
+                        .. figure:: /imagenes/db38.jpg
 
+Esta parte podemos realizar la tecnica las veces que sean necesarias hasta que ya no
+tengan residuos la boquilla .
 
-Pues bien utilizando la pantalla vamos a mandar a calentar la boquilla, según el material que este atascado  es decir si es PLA pues podemos colocar a una  temperatura desde 200°C a 210°C, si es ABS pues la temperatura que podemos utilizar es de 220°C a 230°C.
+Después de haber hecho esto con la broca procedemos a limpiar la punta de la boquilla
+con un cabello de cobre de un cable calibre 14 o 12.
 
+                        .. figure:: /imagenes/db39.jpg
 
-En el ejemplo es PLA y para este caso utilizamos una temperatura de 207°C
+En esta parte también podemos introducir varias veces el cable dentro de la punta.
 
-
-una vez que esta caliente la boquilla la sujetaremos de la parte superior con las pinzas mecánicas  o de chófer veamos.
-
-
-.. figure:: /imagenes/db34.jpg
-
-
-Y ya que esta caliente con ayuda de una broca de 3mm la vamos a introducir dentro de la boquilla y con nuestras manos vamos a darle  vueltas sin presionar solo giramos la broca lento y sacamos para ir retirando los residuos que se adhieran a la broca.
-
-
-.. figure:: /imagenes/db35.jpg
-
-
-.. figure:: /imagenes/db36.jpg
-
-
-.. figure:: /imagenes/db37.jpg
-
-
-.. figure:: /imagenes/db38.jpg
-
-
-Esta parte del paso  8 la podemos realizar las veces que sean necesarias hasta que ya no salgan residuos.
-
-
-Después de haber hecho esto con la broca procedemos a limpiar la punta de la boquilla con un cabello de cobre de un cable calibre 14 o 12. veamos
-
-
-.. figure:: /imagenes/db39.jpg
-
-
-En esta parte de este paso también podemos introducir varias veces el cable dentro de la punta.
-
-
-.. figure:: /imagenes/db40.jpg
-
+                        .. figure:: /imagenes/db40.jpg
 
 Paso 9
 
+Después de limpiar y remover los residuos con la broca y el cable de cobre,
+haremos una purga con el filamento así como lo hicimos en el paso 3. Introducimos un
+trozo de filamento presionamos y luego en un solo movimiento lo sacamos, posteriormente
+cortamos el trozo de filamento que tenga residuos. Hacemos esto las veces que sea necesario,
+hasta que  veamos que cuando saquemos el material ya no tenga residuos negros.
 
-Después de limpiar y remover los residuos con la broca y el cable de cobre, haremos una purga con el filamento así como lo hicimos en el paso 3. metemos un trozo de filamento presionamos y luego en un solo movimiento lo sacamos, y cortamos el trozo de filamento que tenga residuos. Hacemos esto las veces que sea necesario, hasta que  veamos que cuando saquemos el material ya no tenga residuos negros.
+                      .. figure:: /imagenes/db41.jpg
+                      .. figure:: /imagenes/db42.jpg
 
+Después de hacer esta purga podemos observar que nuestra boquilla esta limpia y
+que tiene un escape de material libre.
 
-.. figure:: /imagenes/db41.jpg
-
-
-.. figure:: /imagenes/db42.jpg
-
-
-Después de hacer esta purga podemos observar que nuestra boquilla esta limpia como se ve en la imagen que sale material.
-
-
-.. figure:: /imagenes/db43.jpg
-
+                      .. figure:: /imagenes/db43.jpg
 
 Paso 10
 
-
-Una vez que esta destapada la boquilla apagamos sacamos el trozo de filamento, apagamos la impresora durante unos tres segundos y volvemos a encender para que se enfrié la boquilla, ya que esta fría la boquilla se comienza ensamblar como estaba al inicio.
-Veamos las imágenes de como se tiene que ensamblar.
-
+Una vez que esta destapada la boquilla apagamos sacamos el trozo de filamento,
+apagamos la impresora durante unos tres segundos y volvemos a encender para que
+se enfrié la boquilla, ya que esta fría la boquilla se comienza ensamblar como
+estaba al inicio.
 
 Colocamos el conector neumático
 
+                      .. figure:: /imagenes/db44.jpg
 
-.. figure:: /imagenes/db44.jpg
+Colocamos el MDF en la boquilla, asegurate de que entre en la ranura mas pequeña
+para que se mantenga fija la boquilla.
 
+                      .. figure:: /imagenes/db45.jpg
 
-Colocamos el MDF en la boquilla
-y asegurate de que entre en la ranura mas pequeña para que se mantenga fija la boquilla.
+Colocamos la boquilla en el orificio de la pieza plástica y giramos el MDF como
+estaba al principio.
 
+                      .. figure:: /imagenes/db46.jpg
+                      .. figure:: /imagenes/db47.jpg
 
-.. figure:: /imagenes/db45.jpg
+Por ultimo colocamos los 5 tornillos que retiramos  para poder fijar el MDF con
+la pieza plástica. El sensor inductivo y listo nuestro modulo debe de verse así como antes.
 
-
-Colocamos la boquilla en el orificio de la pieza plástica y giramos el MDF como estaba al principio.
-
-
-.. figure:: /imagenes/db46.jpg
-
-
-.. figure:: /imagenes/db47.jpg
-
-
-Por ultimo colocamos los 5 tornillos que retiramos  para poder fijar el MDF con la pieza plástica. El sensor inductivo y listo  nuestro modulo debe de verse así como antes.
-
-
-.. figure:: /imagenes/db48.jpg
-
+                      .. figure:: /imagenes/db48.jpg
 
 Calibración de la cama automático
 -----------------------------------
 
-
 ¿Has tenido problemas de calibración en su plataforma de impresión?
 
+Uno de los problemas más tediosos al tener una impresora 3D es la calibración o
+nivelación de la plataforma de impresión, que generalmente, es mediante la
+compresión de resortes, y esto puede ser bastante tardado si no se tiene la paciencia
+necesaria, y muchas veces no queda bien calibrada.
 
-¿Pierdes mucho tiempo tratando de que su plataforma quede bien nivelada?
+                      .. figure:: /imagenes/an1.jpg
 
+La solución para este problema es que la impresora 3D se auto nivele de manera
+automática durante la impresión, esto se logra modificando el código G de la pieza
+a imprimir.
 
-Uno de los problemas más tediosos al tener una impresora 3D es la calibración o nivelación de la plataforma de impresión, la cual, generalmente, es mediante la compresión de resortes la cual puede ser bastante tardado si no se tiene el temple y la paciencia necesaria, y muchas veces no queda bien calibrada.
-
-
-.. figure:: /imagenes/an1.jpg
-
-
-La solución para este problema es que la impresora 3D se auto nivele de manera automática durante la impresión, esto se logra modificando el código G de la pieza a imprimir.
-
-
-Lo primero es conocer su equipo de impresión 3D, conocer el área de trabajo, ya que auto nivelación se da en algunos puntos que están por defecto en el firmware.
-
-
-Si usted desea configurar los puntos de nivelación del Firmware siga la siguiente configuración.
-
+Lo primero es conocer su equipo de impresión 3D, conocer el área de trabajo,
+ya que auto nivelación se da en algunos puntos que están por defecto en el firmware.
 
 Firmware Marlin
 
+El Firmware Marlin es el programa informático que establece la lógica de más bajo
+nivel que controla los circuitos electrónicos de la impresora 3D, existen muchas
+variantes de Firmware Marlin y esto se debe a la amplia gama de modelos de impresoras
+3D en el mercado, usted debe asegurarse que el firmware Marlin que está usando sea
+el adecuado para su impresora antes de hacer la modificación de la auto nivelación.
 
-El Firmware Marlin es el programa informático que establece la lógica de más bajo nivel que controla los circuitos electrónicos de la impresora 3D, existen muchas variantes de Firmware Marlin y esto se debe a la amplia gama de modelos de impresoras 3D en el mercado, usted debe asegurarse que el firmware Marlin que está usando sea el adecuado para su impresora antes de hacer la modificación de la auto nivelación.
+Todos los Firmware Marlin están divididos en casi 50 secciones o pestañas, la
+pestaña que se modificará será la configuration.h. Esta pestaña está dividida
+en 5 partes (Thermal Settings, Thermal Runaway Protection, Mechanical Settings,
+Bed Auto Leveling, Additional Features), la modificación se efectuará en la sección
+de Bed Auto Leveling, sin embargo es importante definir antes las dimensiones del
+área de trabajo, estás están ubicadas en la parte final de la sección Mechanical
+Settings.
 
+En este ejemplo la impresora a usar tiene un área de trabajo de 400x400x350 milímetros.
 
-Todos los Firmware Marlin están divididos en casi 50 secciones o pestañas, la pestaña que se modificará será la configuration.h. Esta pestaña está dividida en 5 partes (Thermal Settings, Thermal Runaway Protection, Mechanical Settings, Bed Auto Leveling, Additional Features), la modificación se efectuará en la sección de Bed Auto Leveling, sin embargo es importante definir antes las dimensiones del área de trabajo, estás están ubicadas en la parte final de la sección Mechanical Settings.
-
-
-En este ejemplo la impresora a usar tiene un área de trabajo de 400x400x350 milímetros como se muestra en la siguiente imagen.
-
-
-.. figure:: /imagenes/an2.png
+                      .. figure:: /imagenes/an2.png
 
 
 Una vez definida el área de trabajo se procede a definir los puntos de nivelación.
 
 
-En el firmware Marlin se tiene por defecto que son tres puntos para la nivelación, como ya se mencionó está modificación se hará en la sección Bed Auto Leveling de la pestaña configuration.h, en esta parte se encuentra por coordenadas en X y Y los puntos en que se quiere nivelar, el firmware Marlin ya tiene unos puntos seleccionados, sin embargo se pueden modificar al gusto o necesidad del usuario, en este ejemplo se eligieron las siguientes coordenadas para los tres puntos:
+En el firmware Marlin se tiene por defecto que son tres puntos para la nivelación,
+como ya se mencionó está modificación se hará en la sección Bed Auto Leveling de
+la pestaña configuration.h, en esta parte se encuentra por coordenadas en X y Y
+los puntos en que se quiere nivelar, el firmware Marlin ya tiene unos puntos
+seleccionados, sin embargo se pueden modificar al gusto o necesidad del usuario,
+en este ejemplo se eligieron las siguientes coordenadas para los tres puntos:
 
-
-.. figure:: /imagenes/an3.png
-
+                      .. figure:: /imagenes/an3.png
 
 .. Note::
-   Las coordenadas de los puntos no deben exceder el área de trabajo, ya que se puede tener accidentes.
+   Las coordenadas de los puntos no deben exceder el área de trabajo, ya que se
+   puede tener accidentes.
 
+Por último se configura la velocidad de auto nivelación, una velocidad moderada
+es de 1500 mm/min la cual se obtuvo mediante varias pruebas, la línea que se
+modifica se encuentra debajo de la modificación anterior.
 
-Por último se configura la velocidad de auto nivelación, una velocidad moderada es de 1500 mm/min la cual se obtuvo mediante varias pruebas, la línea que se modifica se encuentra debajo de la modificación anterior, dicha línea se observa en la siguiente figura:
-
-
-.. figure:: /imagenes/an4.png
-
+                    .. figure:: /imagenes/an4.png
 
 Ahora sólo se carga este Marlin a la impresora 3D.
 
-
-Una vez configurado el Marlin se procede a configurar el código G, esto se hace mediante un software libre, en este ejemplo el software CURA.
-
+Una vez configurado el Marlin se procede a configurar el código G, esto se hace
+mediante un software libre, en este ejemplo el software CURA.
 
 Configuración en el Software CURA
 
+                    .. figure:: /imagenes/an5.png
 
-.. figure:: /imagenes/an5.png
+Para la auto calibración es necesario hacer una modificación en el Software CURA
+(software que genera código G mediante modelos 3D).
 
-Para la auto calibración es necesario hacer una modificación en el Software CURA (software que genera código G mediante modelos 3D), siga los siguientes pasos:
+1.- Una vez que haya iniciado el programa, asegúrese de tener seleccionada la
+impresora con la que va a trabajar. Para seleccionar su impresora seleccione en
+la barra de herramientas la pestaña Machine y selecciones su modelo de impresora.
+Si usted no cuenta con opciones de impresoras, puede agregar su máquina seleccionando
+Add new machine.
 
+                    .. figure:: /imagenes/an6.png
 
-*  1.Una vez que haya iniciado el programa, asegúrese de tener seleccionada la impresora con la que va a trabajar. Para seleccionar su impresora seleccione en la barra de herramientas la pestaña Machine y selecciones su modelo de impresora. Si usted no cuenta con opciones de impresoras, puede agregar su máquina seleccionando Add new machine.
+2.- Lo siguiente es seleccionar su pieza a imprimir y acomodar los parámetros de
+impresión a sus necesidades (los parámetros de impresión están ubicados en las
+pestañas Basic y Avanced). Cuando termine de configurar los parámetros de impresión,
+diríjase a la pestaña Start/End-GCode y selecciones start.gcode.
 
+                    .. figure:: /imagenes/an7.png
 
-.. figure:: /imagenes/an6.png
+3.- Al haber realizado el paso anterior, se encontrará con la primera parte del
+código G de su pieza en la parte media inferior izquierda de su pantalla, a este
+código se le agregará una línea con el código “G29”, esta línea se agregará después
+de la línea con el código “G28 Z0” y antes de la línea con el código “G1 Z15.0 F”.
 
+                    .. figure:: /imagenes/an8.png
 
-*  2. Lo siguiente es seleccionar su pieza a imprimir y acomodar los parámetros de impresión a sus necesidades (los parámetros de impresión están ubicados en las pestañas Basic y Avanced). Cuando termine de configurar los parámetros de impresión, diríjase a la pestaña Start/End-GCode y selecciones start.gcode.
+4.- Ahora simplemente se guarda el código en la memoria SD presionando el botón
+de Save Toolpath y ya se tendrá el código G con auto nivelación en la memoria SD
+lista para colocarse en la impresora 3D y mandar a imprimir.
 
-
-.. figure:: /imagenes/an7.png
-
-
-*  3. Al haber realizado el paso anterior, se encontrará con la primera parte del código G de su pieza en la parte media inferior izquierda de su pantalla, a este código se le agregará una línea con el código “G29”, esta línea se agregará después de la línea con el código “G28 Z0” y antes de la línea con el código “G1 Z15.0 F”.
-
-
-.. figure:: /imagenes/an8.png
-
-
-*  4. Ahora simplemente se guarda el código en la memoria SD presionando el botón de Save Toolpath y ya se tendrá el código G con auto nivelación en la memoria SD lista para colocarse en la impresora 3D y mandar a imprimir.
-
-
-.. figure:: /imagenes/an9.png
+                    .. figure:: /imagenes/an9.png
