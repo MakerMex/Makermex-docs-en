@@ -14,7 +14,7 @@ General
 +----------------------------------------------------------+---------------------+
 |Peso aproximado: 11 Kilogramos                            |                     |
 +----------------------------------------------------------+                     |
-|Voltaje necsario 12 Volts                                 |                     |
+|Voltaje necesario 12 Volts                                 |                     |
 +----------------------------------------------------------+---------------------+
 
 .. figure:: /imagenes/mm1.png
@@ -23,9 +23,9 @@ General
 
 .. figure:: /imagenes/mm2.png
 
-+------------------------+
-|Que incluye mi impresora|
-+------------------------+
++---------------------------------+
+|¿Qu&eacute; incluye mi impresora?|
++---------------------------------+
 
 1.- Cable USB
 
@@ -63,10 +63,10 @@ General
 .. Note::
 
   Como un comentario adicional se pueden encontrar
-  todos nuestros manuales virtuales, tutoriales descarga de softwares ya sea
+  todos nuestros manuales virtuales, tutoriales, descarga de softwares ya sea
   Cura, Blender y Pronterface. Todo lo mencionado se encuentra disponibles en Wiki MakerMex
-  http://makermex.com/wiki/index.html, tambien se es acredor a dos horas
-  de asesoría/soporte técnico por video-llamada o presencial ( Se agenda con un día de anticipación).
+  http://makermex.com/wiki/index.html, tambi&eacute;n se es acreedor a dos horas
+  de asesoría/soporte técnico por video-llamada o presencial (Se agenda con un día de anticipación).
 
 
 +--------------------+
@@ -101,30 +101,29 @@ Unboxing
 ===========
 
 En el primer paso para poder usar tu impresora es el desempaque de la misma,
-para proceder a desempacar tu MM1 deberás tener a la mano dos herramientas
-un destornillador con punta de cruz, o un taladro con la misma punta y un cutter.
+para proceder a desempacar tu MM1 deberás tener a la mano dos herramientas:
+un destornillador con punta de cruz o un taladro con la misma punta y un cutter.
 
 .. figure:: /imagenes/un1.png
 
 .. Note::
 
-  En caso de contar con un destornillador, puedes usar un desrmador de cruz para retirar las pijas.
+  En caso de contar con un destornillador, puedes usar un desarmador de cruz para retirar las pijas.
 
 Paso 1
 
-Para comenzar el desempaque de la impresora primero se debera realizar una inspecciion rapida,
+Para comenzar el desempaque de la impresora primero se deber&aacute; realizar una inspecci&oacute;n r&aacute;pida,
 debe asegurarse que el paquete se encuentre en buen estado es decir,
-que las cubiertas de madera no estén golpeadas por ninguna parte. De no ser asi se debe realizar un reporte
-de los danos encontrados y enviarlo lo antes posibles a los contactos anexados al final de este manual
+que las cubiertas de madera no estén golpeadas por ninguna parte. De no ser as&iacute; se debe realizar un reporte
+de los daños encontrados y enviarlo lo antes posibles a los contactos anexados al final de este manual
 
 .. figure:: /imagenes/un2.png
 .. figure:: /imagenes/un5.png
 
 Paso 2
 
-Enseguida se debe identificar la tapa del paquete, es decir la parte superior del mismo
-ahora identifique todos los tornillos a retirar y con la ayuda del destornillador o taladro
-retire los tornillos uno a uno.
+Enseguida se debe identificar la tapa del paquete, es decir la parte superior del mismo;
+ahora retire los tornillos uno a uno con ayuda del destornillador o taladro.
 
 .. figure:: /imagenes/un6.png
               :width: 200px
@@ -141,7 +140,7 @@ en la parte interior de la impresora.
 
 .. figure:: /imagenes/un10.png
 
-Una vez retirado los soportes de unicel seguimos con retirar con cuidado
+Una vez retirado los soportes de unicel vamos a quitar con cuidado
 los componentes de la impresora.
 
 .. figure:: /imagenes/un11.png
@@ -155,12 +154,11 @@ los componentes de la impresora.
 
 Paso 4
 
-En este paso realizaramos dos cortes al huele burbuja, debe tener mucho preacuacion
-al momento de realizar los cortes, ya que debe de tomar en cuanta no dañar ni
-cortar los cables que componen dicha impresora. una vez que haya cortado el huele
-burbuja, como se muestra en las imágenes.
-
-Se deben e hacer dos cortes como se muestra a continuacion ya que esto nos facilitara
+En este paso realizaremos dos cortes al huele burbuja, debe tener mucha precauci&oacute;n
+al momento de realizar los cortes, ya que debe de tomar en cuenta no dañar ni
+cortar los cables que componen dicha impresora. Una vez que haya cortado el hule
+burbuja como se muestra en las imágenes, se deben de hacer dos cortes como se muestra
+a continuaci&oacute;n ya que esto nos facilitar&aacute;
 el siguiente paso.
 
 .. figure:: /imagenes/un15.png
@@ -169,15 +167,14 @@ el siguiente paso.
           :width: 300px
 
 .. Note::
-    Es tener una mesa en la cual se va a colocar la impresora, se recomiendo
+    Es tener una mesa en la cual se va a colocar la impresora, te recomiendo
     colocarla en una mesa firme que no tenga vibraciones o movimiento.
 
 Paso 5
 
-Despues de haber realizado el corte con exito, ahora con mucho cuidado colocamos
-nuestras manos sobre el perfil superior de aluminio, recuerda siempre ver la impresora
-desde el frente de la misma. Con mucho cuidado levantaremos la impresora para retirarla de la caja.
-Tal como se ilustra en las imagenes.
+Despu&eacute;s de haber realizado el corte con &eacute;xito, ahora con mucho cuidado colocamos
+nuestras manos sobre los perfiles superiores de aluminio,(recuerda siempre ver la impresora
+desde el frente de la misma) para poder sacar la impresora de la caja, tal como se ilustra en las im&aacute;genes.
 
 .. figure:: /imagenes/un17.png
 .. figure:: /imagenes/un18.png
@@ -185,8 +182,7 @@ Tal como se ilustra en las imagenes.
 
 .. Note::
     Como sugerencia se recomienda colocar todo lo incluido de la impresora dentro
-    de la caja de la misma dentro de la caja. Esto con la finalidad de no genere
-    un desorden.
+    de la caja. Esto con la finalidad de no genere un desorden.
 
 .. figure:: /imagenes/un20.png
           :width: 300px
@@ -195,10 +191,10 @@ Tal como se ilustra en las imagenes.
 
 Paso 6
 
-Posteriormente deberemos de tener un cutter a la mano, ahora con ayuda del cutter
-vamos a retirar el exceso de hule burbuja con mucho cuidado,
-cualquier duda puede guiarse con las imagenes. Consecuentemente observara otra capa
-de hule y unos soportes de unicel, esto tambien se hara con la ayuda del cutter.
+Posteriormente deberemos tener un cutter a la mano, vamos a retirar el exceso de
+hule burbuja con mucho cuidado, cualquier duda puede guiarse con las im&aacute;genes.
+Consecuentemente observar&aacute; otra capa de hule y unos soportes de unicel, esto tambi&eacute;n
+se har&aacute; con la ayuda del cutter.
 
 .. figure:: /imagenes/un23.png
           :width: 300px
@@ -207,18 +203,19 @@ de hule y unos soportes de unicel, esto tambien se hara con la ayuda del cutter.
 
 Paso 7
 
-En este paso se debera identificar los chinchos que esta sujetando partes de la impresora
+En este paso se deber&aacute; identificar los cinchos que est&aacute;n sujetando partes de la impresora
 , ahora con ayuda del cutter vamos a retirar los mismos que sujetan la cruz central.
-Tambien se debe cortar los que estan ubicados en el eje roscado, debe de realizarse con demasiado cuidado
-ya que en esta seccion se encuentran algunas cables importantes para las impresoras.
+Tambi&eacute;n se debe cortar los que est&aacute;n ubicados en el eje roscado, debe
+de realizarse con demasiado cuidado ya que en esta secci&oacute;n se encuentran
+algunos cables importantes para las impresoras.
 
 .. figure:: /imagenes/un28.png
           :width: 300px
 .. figure:: /imagenes/un30.png
           :width: 300px
 
-Una vez que esta libre el eje le damos algunas vueltas para que suba y así poder retirar el
-soporte de color rosa ubicado en la parte inferior de la maquina.
+Una vez que est&aacute; libre el eje le damos algunas vueltas para que suba y así poder retirar el
+soporte de color rosa ubicado en la parte inferior de la m&aacute;quina.
 
 .. figure:: /imagenes/un31.png
           :width: 300px
@@ -228,21 +225,20 @@ soporte de color rosa ubicado en la parte inferior de la maquina.
 Paso 8
 
 Ahora colocaremos la cruz en el centro de nuestra impresora y posteriormente
-vamos a conectar sus cables en los conectores ubicados en el lateral de la impresora
-apropiados, veamos las imágenes.
+vamos a conectar los cables que corresponden a los conectores laterales de la impresora, veamos las imágenes.
 
 .. figure:: /imagenes/un33.png
 
-Pasamos los cables que salen del modulo por encima del perfil superior izquierdo
-viendo la impresora de frente.
+Pasamos los cables que salen del m&oacute;dulo por encima del perfil superior izquierdo
+(viendo la impresora de frente).
 
 .. figure:: /imagenes/un34.png
 
-Para poder asegurarse de que las conecciones fueron realizadas con exito debe de tener
+Para poder asegurarse de que las conecciones fueron realizadas con &eacute;xito debe de tener
 en cuenta los siguientes pasos. Primero que nada debe de identificar cuantos conectores
-son los que se deben conectar. en total son 3 y van de la siguiente manera:
+son los que se deben conectar, en total son 3 y van de la siguiente manera:
 1.- El conector de 6 pines, debe de ir conectado a la entrada con el numero 1.
-2.- El conector de 2 pines, debe de ir conectado a la entrad con el simbolo del ventilador.
+2.- El conector de 2 pines, debe de ir conectado a la entrada con el s&iacute;mbolo del ventilador.
 3.- El conector de 3 pines, hace referencia al sensor del eje Z, este debe de ir
 conectado en la entrada con la letra Z.
 
@@ -259,10 +255,10 @@ Ahora revisemos los accesorios que vienen en nuestra caja plástica.
 
 .. figure:: /imagenes/un41.png
 
-Sacamos todos los accesorios y revisamos. en tu caja plastica debe de venir todo lo menciona
-enseguida o bien lo que se puede observar en la imagen
+Sacamos todos los accesorios y revisamos. En tu caja pl&aacute;stica debe de venir todo lo que se menciona
+enseguida o bien lo que se puede observar en la imagen.
 
-1.- Seguro doble estrusora
+1.- Seguro doble extrusora
 2.- Cable de la fuente
 3.- Cable USB
 4.- Calzas para la base de la impresora
