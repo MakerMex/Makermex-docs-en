@@ -8,125 +8,70 @@ General
 MANUAL DE ENSAMBLADO Mi3
 -------------------------
 
++-------------------+-----------------------------------+
+|Perfil Cuadrado    |Acrílicos                          |
++-------------------+-----------------------------------+
+|2 perfiles de 380mm|4 esquineros de la base de 3mm     |
+|4 perfiles de 390mm|2 laterales de 3mm                 |
+|4 perfiles de 150mm|2 esquineros superiores de 3mm     |
+|                   |1  base rectangular inferior de 3mm|
+|                   |1 cama del eje Y de 6mm            |
++-------------------+-----------------------------------+
 
-+---------------+
-|Perfil Cuadrado|
-+---------------+
++-------------------+-------------------+--------------------+
+|Varilla roscada M5 | Varilla lisa M8   |Varilla roscada 5/16|
++-------------------+-------------------+--------------------+
+|                   |2 varillas de 390mm| 2 varillas de 55mm |
+|2 varillas de 345mm|2 varillas de 340mm| 1 varillas de 77mm |
+|                   |2 varillas de 330mm|                    |
++-------------------+-------------------+--------------------+
 
-* 2 perfiles de 380mm
++----------------------------------+--------------------------+
+|Tornillería                       | Tuercas                  |
++----------------------------------+--------------------------+
+|37 tornillos M3x10mm              |88 tuercas de seguridad M3|
+|21 tornillos M3x16mm              |34 tuercas normales M3    |
+|13 tornillos M3x20mm              |                          |
+|27 tornillos M3x30mm              |                          |
+|49 tornillos M3x35mm              |                          |
+|3  tornillos cabeza plana M3x10mm |                          |
+|5  tornillos cabeza plana M3x35mm |                          |
++----------------------------------+--------------------------+
 
-* 4 perfiles de 390mm
++--------------+--------------------------------+-----------------+---------+
+|Rondanas      |Resortes                        |Baleros          |Piñones  |
++--------------+--------------------------------+-----------------+---------+
+|94 Rondanas M3|4 resortes de 8X20mm            |4 baleros LMK8LUU|1 piñon  |
+|7 Rondanas M4 |1 resorte de acero estirado duro|4 baleros LM8LUU |muleteado|
+|              |                                |1 balero de 608  |         |
+|              |                                |2 baleros de 688 |         |
++--------------+--------------------------------+-----------------+---------+
 
-* 4 perfiles de 150mm
++----------------------------------------------------+
+|Electronicos y Mecanicos                            |
++----------------------------------------------------+
+|5 motores nema 17 con cables                        |
+|1 Kit controlador Rumba + Cama caliente de aluminio |
+|1 Kit de Boquilla Hexagon                           |
+|1 banda T2.0 de 700mm                               |
+|1 banda T2.0 de 860mm                               |
+|2 microswitches mecanicos de rodillo                |
+|2 ventiladores de 25x25x10mm 12V                    |
+|1 fuente de poder  12v 500w                         |
+|2 conectores de manguera neumática                  |
+|1 cable Usb mini                                    |
+|1 kit de pantalla LCD                               |
+|1 malla expandible de 1/2 x 800mm                   |
++----------------------------------------------------+
 
-+-------------------+
-|varilla roscada M5 |
-+-------------------+
-
-* 2 varillas de 345mm
-
-+---------------+
-|varilla lisa M8|
-+---------------+
-
-* 2 varillas de 390mm
-
-* 2 varillas de 340mm
-
-* 2 varillas de 330mm
-
-+--------------------+
-|varilla roscada 5/16|
-+--------------------+
-
-* 2 varillas de 55mm
-* 1 varillas de 77mm
-
-+---------+
-|Acrilicos|
-+---------+
-
-* 4 esquineros de la base de 3mm
-* 2 laterales de 3mm
-* 2 esquineros superiores de 3mm
-* 1  base rectangular inferior de 3mm
-* 1 cama del eje Y de 6mm
-
-+-----------+
-|Tornillería|
-+-----------+
-
-* 37 tornillos M3x10mm
-* 21 tornillos M3x16mm
-* 13 tornillos M3x20mm
-* 27 tornillos M3x30mm
-* 49 tornillos M3x35mm
-* 3  tornillos cabeza plana M3x10mm
-* 5  tornillos cabeza plana M3x35mm
-
-
-+-------+
-|tuercas|
-+-------+
-
-* 88 tuercas de seguridad M3
-* 34 tuercas normales M3
-
-+--------+
-|rondanas|
-+--------+
-
-* 94 Rondanas M3
-* 7 Rondanas M4
-
-+--------+
-|Resortes|
-+--------+
-
-* 4 resortes de 8X20mm
-* 1 resorte de acero estirado duro
-
-+-------+
-|baleros|
-+-------+
-
-* 4 baleros LMK8LUU
-* 4 baleros LM8LUU
-* 1 balero de 608
-* 2 baleros de 688
-
-+-------+
-|piñones|
-+-------+
-
-* 1 piñon muleteado
-
-+------------------------+
-|Electronicos y Mecanicos|
-+------------------------+
-
-* 5 motores nema 17 con cables
-* 1 Kit controlador Rumba + Cama caliente de aluminio
-* 1 Kit de Boquilla Hexagon
-* 1 banda T2.0 de 700mm
-* 1 banda T2.0 de 860mm
-* 2 microswitches mecanicos de rodillo
-* 2 ventiladores de 25x25x10mm 12V
-* 1 fuente de poder  12v 500w
-* 2 conectores de manguera neumática
-* 1 cable Usb mini
-* 1 kit de pantalla LCD
-* 1 malla expandible de 1/2 x 800mm
-
-
-+-----+
-|otros|
-+-----+
-
-* 5 cintillos
-* 4 o- rings
-* 1 tubo bowden de 500mm
-* 2 trozos de manguera neumática de 6x30mm
++-----------------------------------------+
+|otros                                    |
++-----------------------------------------+
+|5 cintillos                              |
+|4 o- rings                               |
+|1 tubo bowden de 500mm                   |
+|2 trozos de manguera neumática de 6x30mm |
++-----------------------------------------+
 
 +----------------+
 |Piezas Plasticas|
@@ -2865,64 +2810,63 @@ adelante una explicación de cada parámetro, y como este puede variar.
  QUALITY.
 
 
-*   Layer Height. Se refiere a la altura que tiene cada capa. Es un ajuste importante para determinar la calidad de la pieza.
-    Un buen   parámetro en relación de calidad/tiempo es 2.0, es lo que nosotros recomendamos y utilizamos en nuestras piezas.
-    El parámetro      máximo recomendado es 0.1 mm, aunque el tiempo de impresión se eleva al doble.
+* Layer Height. Se refiere a la altura que tiene cada capa. Es un ajuste importante para determinar la calidad de la pieza.
+  Un buen   parámetro en relación de calidad/tiempo es 2.0, es lo que nosotros recomendamos y utilizamos en nuestras piezas.
+  El parámetro      máximo recomendado es 0.1 mm, aunque el tiempo de impresión se eleva al doble.
 
-*   Shell Thickness. Es el grosor de la capa externa en dirección horizontal, es decir, se incrementar para realizar piezas con un
-cascarón más resistente en su exterior. Se recomienda dejar los valores predefinidos (0.6 mm) y hasta 1 mm. Este parámetro también
-puede variar según el material con el que se imprime, ya que ciertos materiales requieren sus propios parámetros de impresión.
+* Shell Thickness. Es el grosor de la capa externa en dirección horizontal, es decir, se incrementar para realizar piezas con un
+  cascarón más resistente en su exterior. Se recomienda dejar los valores predefinidos (0.6 mm) y hasta 1 mm. Este parámetro también
+  puede variar según el material con el que se imprime, ya que ciertos materiales requieren sus propios parámetros de impresión.
 
 * Enable Retraction. Se recomienda ampliamente marcar esta casilla. Este ajuste retrae el filamento, es decir, gira los engranes en
-sentido contrario cuando la boquilla se mueve sobre una superficie que no requiere impresión. Esto previene de hilos y rebaba
-excesiva en la pieza final. En ajustes avanzados ajustaremos los parámetros de la retracción.
+  sentido contrario cuando la boquilla se mueve sobre una superficie que no requiere impresión. Esto previene de hilos y rebaba
+  excesiva en la pieza final. En ajustes avanzados ajustaremos los parámetros de la retracción.
 
 FILL.
+
 * Bottom/Top Thickness. Ajusta el grosor de la base y el tope del modelo. Debe ser un valor cercano al Shell Thinckess para que se
-forme una pieza fuerte uniforme en el exterior. Se recomienda dejar los valores predefinidos: 0.6 mm, 0.8 mm y hasta 1 mm.
+  forme una pieza fuerte uniforme en el exterior. Se recomienda dejar los valores predefinidos: 0.6 mm, 0.8 mm y hasta 1 mm.
 
 * Fill Density: Este parámetro es importante para el producto final. Controla el relleno que tendrá la pieza, lo que definirá que tan
-fuerte resulta. Para piezas visuales sin requerimientos de esfuerzo mecánico se puede probar desde 5% o 10% de relleno; para piezas
-mecánicas o que requieren mas resistencia se recomienda entre 20% a 40%, aunque pudiera usarse hasta 60% como máximo recomendado. No
-se recomienda más del 60% ya que sería mucho desperdicio de material y de tiempo de impresión. Es importante recalcar que esto no
-afecta en nada la calidad externa del modelo. Para un punto de referencia: 40% manejan nuestras piezas que reciben uso mecánico.
-
+  fuerte resulta. Para piezas visuales sin requerimientos de esfuerzo mecánico se puede probar desde 5% o 10% de relleno; para piezas
+  mecánicas o que requieren mas resistencia se recomienda entre 20% a 40%, aunque pudiera usarse hasta 60% como máximo recomendado. No
+  se recomienda más del 60% ya que sería mucho desperdicio de material y de tiempo de impresión. Es importante recalcar que esto no
+  afecta en nada la calidad externa del modelo. Para un punto de referencia: 40% manejan nuestras piezas que reciben uso mecánico.
 
  SPEED AND TEMPERATURE.
 
 * Print Speed. Es la velocidad de impresión. Esta velocidad va a depender de varios factores, como calidad y tiempo. 50/60 mm/s es la
-velocidad que utilizamos y recomendamos. Se puede reducir para obtener una mayor calidad de impresión, aunque a mayor tiempo. De
-igual forma se puede aumentar si se busca optimizar tiempo, y la resolución no resulta de mucha importancia.
+  velocidad que utilizamos y recomendamos. Se puede reducir para obtener una mayor calidad de impresión, aunque a mayor tiempo. De
+  igual forma se puede aumentar si se busca optimizar tiempo, y la resolución no resulta de mucha importancia.
 
 
 * Printing Temperature. Es la temperatura a la que se extruye el material. La temperatura depende en gran medida del material a
-utilizar. Los principales son: o PLA. 190°C-210°C según el color del filamento, temperatura ambiente, etc. Ej. El color negor se
-imprime a menor temperatura. Un parámetro promedio recomendado es 207°C. o ABS. 220°C-230°C Al igual que el PLA, algunos factores
-influyen. Un parámetro recomendado para ABS es 220°C.
+  utilizar. Los principales son: o PLA. 190°C-210°C según el color del filamento, temperatura ambiente, etc. Ej. El color negor se
+  imprime a menor temperatura. Un parámetro promedio recomendado es 207°C. o ABS. 220°C-230°C Al igual que el PLA, algunos factores
+  influyen. Un parámetro recomendado para ABS es 220°C.
 
 
 * Bed Temperature. Esta opción sólo aparece en caso de utilizar cama caliente, y haberla activado a la hora de configurar el Cura.
-Es la temperatura a la que se calentará la cama caliente. Es necesario revisar las especificaciones de impresión de cada material
-para definir esta temperatura. En el caso de ABS la temperatura de cama caliente es entre 90-100 °C.
+  Es la temperatura a la que se calentará la cama caliente. Es necesario revisar las especificaciones de impresión de cada material
+  para definir esta temperatura. En el caso de ABS la temperatura de cama caliente es entre 90-100 °C.
 
 SUPPORT.
 
 * Support Type. Se especifica la estructura en la que se construirá el soporte. Estas estructuras son: o None: No deposita material
-de soporte en absoluto. o Touching Buildplate: Deposita material de soporte únicamente en los volados que lo requieran a partir de la
-plataforma de impresión. o Everywhere: Además del "Touching Buildplate", también depositará material incluso sobre las partes del
-modelo impreso, en caso de tener volados que lo requieran.
+  de soporte en absoluto. o Touching Buildplate: Deposita material de soporte únicamente en los volados que lo requieran a partir de la
+  plataforma de impresión. o Everywhere: Además del "Touching Buildplate", también depositará material incluso sobre las partes del
+  modelo impreso, en caso de tener volados que lo requieran.
 
-
- * Platform Adhesion Type. Las plataformas de adhesión, son una capa primaria que crean un perímetro del área de impresión de la
- pieza y facilitan el despegue de ésta. Además funcionan como prevención de que las esquinas se levanten debido al fenómeno "Warping"
- (Contracción al enfriarse el material extruido). Se recomienda el uso de Raft.
+* Platform Adhesion Type. Las plataformas de adhesión, son una capa primaria que crean un perímetro del área de impresión de la
+  pieza y facilitan el despegue de ésta. Además funcionan como prevención de que las esquinas se levanten debido al fenómeno "Warping"
+  (Contracción al enfriarse el material extruido). Se recomienda el uso de Raft.
 
 
 FILAMENT.
 
 
 * Diameter. Se refiere al diámetro del filamento que se utilizará como materia prima. Como medidas estándar se manejan 2: 1.75 mm y
-3.0 mm. Las impresoras MakerMex comúnmente se manejan con material de 3.0 mm.
+  3.0 mm. Las impresoras MakerMex comúnmente se manejan con material de 3.0 mm.
 
 
 * Flow. Se deja el valor predefinido: 100.0 %.
@@ -2933,13 +2877,12 @@ ADVANCED.
 MACHINE.
 
 * Nozzle Size. Se refiere al diámetro de la boquilla extrusora. Las dimensión de las boquillas utilizadas en las impresoras MakerMex
-es comúnmente 0.4 mm. Es importante ajustar el valor correcto, ya que sirve para determinar las líneas de relleno, así como las
-líneas de grosor en la parte externa de la pieza.
-
+  es comúnmente 0.4 mm. Es importante ajustar el valor correcto, ya que sirve para determinar las líneas de relleno, así como las
+  líneas de grosor en la parte externa de la pieza.
 
  RETRACTION.
 
- * Speed. Es la velocidad a la que se hace la retracción de filamento.
+* Speed. Es la velocidad a la que se hace la retracción de filamento.
 
 
 * Distance. Es la distancia que se retraerá el filamento. Ajusta en 0 si quieres ignorar este parámetro.
@@ -2949,7 +2892,7 @@ líneas de grosor en la parte externa de la pieza.
 
 
 * Initial Layer Thickness. Ajusta el grosor de la primera capa de la pieza. Una capa inicial más gruesa permite una mejor adherencia
-a la plataforma. Ajusta en 0 para ignorar este parámetro y la capa inicial tenga el mismo grosor que las demás capas.
+  a la plataforma. Ajusta en 0 para ignorar este parámetro y la capa inicial tenga el mismo grosor que las demás capas.
 
 
 
@@ -2957,40 +2900,39 @@ Cut Off Object Bottom. Sumerge el objeto en la plataforma a la distancia que se 
 errores en el diseño y/o no tengan una cara plana en la base.
 
 * Dual Extrusion Overlap. Añade una cantidad de material sobrepuesta en las impresiones que se hagan con doble extrusora, esto con el
-fin de unir los diferentes colores o materiales en una sola pieza.
+  fin de unir los diferentes colores o materiales en una sola pieza.
 
 
 SPEED.
 
 * Travel Speed. Es la velocidad a la que se mueve la extrusora cuando no está depositando material. El valor predefinido es muy
-recomendable.
+  recomendable.
 
 * Bottom Layer Speed. Esto controla la velocidad a la que se hace la primera capa. al imprimirse más despacio, se adhiere de mejor
-forma sobre la superficie. El valor predefinido es muy recomendable.
+  forma sobre la superficie. El valor predefinido es muy recomendable.
 
 
 * Infill Speed. Es la velocidad a la que se imprime el relleno de la pieza. Se recomienda situar este valor en 0, con esto el relleno
-se deposita a la misma velocidad predefinida en "Print speed".
+  se deposita a la misma velocidad predefinida en "Print speed".
 
 
- * Outer Shell Speed. Controla la velocidad a la que se imprimen la capa exterior de la pieza. Imprimir esta parte a una menor
- velocidad, mejorará el resultado final en cuanto resolución. Al situar este valor en 0, la velocidad a la que se hace es la misma
- que se definió en "Print speed", esto genera buenos resultados.
+* Outer Shell Speed. Controla la velocidad a la que se imprimen la capa exterior de la pieza. Imprimir esta parte a una menor
+  velocidad, mejorará el resultado final en cuanto resolución. Al situar este valor en 0, la velocidad a la que se hace es la misma
+  que se definió en "Print speed", esto genera buenos resultados.
 
 * Inner Shell speed. Controla la velocidad a la que se imprimen la capa interna de la pieza. Al situar este valor en 0, la velocidad
-a la que se hace es la misma que se definió en "Print speed". Es importante que este parámetro y el “Outter Shell Speed” no tengan un
-amplio rango de diferencia.
+  a la que se hace es la misma que se definió en "Print speed". Es importante que este parámetro y el “Outter Shell Speed” no tengan un
+  amplio rango de diferencia.
 
 
 COOL.
 
 * Minimal Layer Time. Es el tiempo mínimo que tardará en realizarse una capa, sin importar que la dimensión de ésta sea muy pequeño.
-Esto permitirá que se enfríe lo suficiente antes de depositar la siguiente capa. El parámetro predefinido (5 seg.) funciona de gran
-forma.
+  Esto permitirá que se enfríe lo suficiente antes de depositar la siguiente capa. El parámetro predefinido (5 seg.) funciona de gran
+  forma.
 
 * Enable Cooling Fan. A menos que el material que se está imprimiendo, es importante que esta casilla se encuentre marcada
-permanentemente, ya que activa la ventilación durante la impresión.
-
+  permanentemente, ya que activa la ventilación durante la impresión.
 
 Es importante recalcar que los parámetros que nosotros especificamos en este documento pueden servir como base, pero cada usuario
 debe experimentar y definir los parámetros que mejor le acomoden a lo que busca en sus piezas, por lo que los exhortamos a realizar
