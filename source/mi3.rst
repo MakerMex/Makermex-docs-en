@@ -8,70 +8,70 @@ General
 MANUAL DE ENSAMBLADO Mi3
 -------------------------
 
-+-----------------*--+------------------------------------+
-|Perfil Cuadrado     |Acrílicos                           |
-+--------------------+------------------------------------+
-| 2 Perfiles de 380mm| 4 Esquineros de la base de 3mm     |
-| 4 Perfiles de 390mm| 2 Laterales de 3mm                 |
-| 4 Perfiles de 150mm| 2 Esquineros superiores de 3mm     |
-|                    | 1 Base rectangular inferior de 3mm |
-|                    | 1 Cama del eje Y de 6mm            |
-+--------------------+------------------------------------+
++-----------------------+--------------------------------------+
+| Perfil Cuadrado       | Acrílicos                            |
++-----------------------+--------------------------------------+
+| * 2 Perfiles de 380mm | * 4 Esquineros de la base de 3mm     |
+| * 4 Perfiles de 390mm | * 2 Laterales de 3mm                 |
+| * 4 Perfiles de 150mm | * 2 Esquineros superiores de 3mm     |
+|                       | * 1 Base rectangular inferior de 3mm |
+|                       | * 1 Cama del eje Y de 6mm            |
++-----------------------+--------------------------------------+
 
-+--------------------+--------------------+---------------------+
-|Varilla roscada M5  | Varilla lisa M8    | Varilla roscada 5/16|
-+--------------------+--------------------+---------------------+
-|                    | 2 Varillas de 390mm| 2 Varillas de 55mm  |
-| 2 Varillas de 345mm| 2 Varillas de 340mm| 1 Varillas de 77mm  |
-|                    | 2 Varillas de 330mm|                     |
-+--------------------+--------------------+---------------------+
++-----------------------+-----------------------+----------------------+
+| Varilla roscada M5    | Varilla lisa M8       | Varilla roscada 5/16 |
++-----------------------+-----------------------+----------------------+
+|                       | * 2 Varillas de 390mm | * 2 Varillas de 55mm |
+| * 2 Varillas de 345mm | * 2 Varillas de 340mm | * 1 Varillas de 77mm |
+|                       | * 2 Varillas de 330mm |                      |
++-----------------------+-----------------------+----------------------+
 
-+-------------------------------------+-----------------------------+
-|Tornillería                          | Tuercas                     |
-+-------------------------------------+-----------------------------+
-| * 37 Tornillos M3x10mm              | * 88 Tuercas de seguridad M3|
-| * 21 Tornillos M3x16mm              | * 34 Tuercas normales M3    |
-| * 13 Tornillos M3x20mm              |                             |
-| * 27 Tornillos M3x30mm              |                             |
-| * 49 Tornillos M3x35mm              |                             |
-| * 3  Tornillos cabeza plana M3x10mm |                             |
-| * 5  Tornillos cabeza plana M3x35mm |                             |
-+-----------------------------------+-------------------------------+
++-------------------------------------+------------------------------+
+|Tornillería                          | Tuercas                      |
++-------------------------------------+------------------------------+
+| * 37 Tornillos M3x10mm              | * 88 Tuercas de seguridad M3 |
+| * 21 Tornillos M3x16mm              | * 34 Tuercas normales M3     |
+| * 13 Tornillos M3x20mm              |                              |
+| * 27 Tornillos M3x30mm              |                              |
+| * 49 Tornillos M3x35mm              |                              |
+| * 3  Tornillos cabeza plana M3x10mm |                              |
+| * 5  Tornillos cabeza plana M3x35mm |                              |
++-------------------------------------+------------------------------+
 
-+--------------+--------------------------------+-----------------+---------+
-|Rondanas      |Resortes                        |Baleros          |Piñones  |
-+--------------+--------------------------------+-----------------+---------+
-|94 Rondanas M3|4 resortes de 8X20mm            |4 baleros LMK8LUU|1 piñon  |
-|7 Rondanas M4 |1 resorte de acero estirado duro|4 baleros LM8LUU |muleteado|
-|              |                                |1 balero de 608  |         |
-|              |                                |2 baleros de 688 |         |
-+--------------+--------------------------------+-----------------+---------+
++------------------+------------------------------------+---------------------+------------+
+| Rondanas         | Resortes                           | Baleros             | Piñones    |
++------------------+------------------------------------+---------------------+------------+
+| * 94 Rondanas M3 | * 4 resortes de 8X20mm             | * 4 baleros LMK8LUU |* 1 piñon   |
+| * 7 Rondanas M4  | * 1 resorte de acero estirado duro | * 4 baleros LM8LUU  |  muleteado |
+|                  |                                    | * 1 balero de 608   |            |
+|                  |                                    | * 2 baleros de 688  |            |
++------------------+------------------------------------+---------------------+------------+
 
-+----------------------------------------------------+
-|Electronicos y Mecanicos                            |
-+----------------------------------------------------+
-|5 motores nema 17 con cables                        |
-|1 Kit controlador Rumba + Cama caliente de aluminio |
-|1 Kit de Boquilla Hexagon                           |
-|1 banda T2.0 de 700mm                               |
-|1 banda T2.0 de 860mm                               |
-|2 microswitches mecanicos de rodillo                |
-|2 ventiladores de 25x25x10mm 12V                    |
-|1 fuente de poder  12v 500w                         |
-|2 conectores de manguera neumática                  |
-|1 cable Usb mini                                    |
-|1 kit de pantalla LCD                               |
-|1 malla expandible de 1/2 x 800mm                   |
-+----------------------------------------------------+
++-------------------------------------------------------+
+| Electronicos y Mecanicos                              |
++-------------------------------------------------------+
+| * 5 motores nema 17 con cables                        |
+| * 1 Kit controlador Rumba + Cama caliente de aluminio |
+| * 1 Kit de Boquilla Hexagon                           |
+| * 1 banda T2.0 de 700mm                               |
+| * 1 banda T2.0 de 860mm                               |
+| * 2 microswitches mecanicos de rodillo                |
+| * 2 ventiladores de 25x25x10mm 12V                    |
+| * 1 fuente de poder  12v 500w                         |
+| * 2 conectores de manguera neumática                  |
+| * 1 cable Usb mini                                    |
+| * 1 kit de pantalla LCD                               |
+| * 1 malla expandible de 1/2 x 800mm                   |
++-------------------------------------------------------+
 
-+-----------------------------------------+
-|otros                                    |
-+-----------------------------------------+
-|5 cintillos                              |
-|4 o- rings                               |
-|1 tubo bowden de 500mm                   |
-|2 trozos de manguera neumática de 6x30mm |
-+-----------------------------------------+
++--------------------------------------------+
+| Otros                                      |
++--------------------------------------------+
+| * 5 cintillos                              |
+| * 4 o- rings                               |
+| * 1 tubo bowden de 500mm                   |
+| * 2 trozos de manguera neumática de 6x30mm |
++--------------------------------------------+
 
 +----------------+
 |Piezas Plasticas|
