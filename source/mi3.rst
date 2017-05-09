@@ -8,35 +8,35 @@ General
 MANUAL DE ENSAMBLADO Mi3
 -------------------------
 
-+-------------------+-----------------------------------+
-|Perfil Cuadrado    |Acrílicos                          |
-+-------------------+-----------------------------------+
-|2 perfiles de 380mm|4 esquineros de la base de 3mm     |
-|4 perfiles de 390mm|2 laterales de 3mm                 |
-|4 perfiles de 150mm|2 esquineros superiores de 3mm     |
-|                   |1  base rectangular inferior de 3mm|
-|                   |1 cama del eje Y de 6mm            |
-+-------------------+-----------------------------------+
++-----------------*--+------------------------------------+
+|Perfil Cuadrado     |Acrílicos                           |
++--------------------+------------------------------------+
+| 2 Perfiles de 380mm| 4 Esquineros de la base de 3mm     |
+| 4 Perfiles de 390mm| 2 Laterales de 3mm                 |
+| 4 Perfiles de 150mm| 2 Esquineros superiores de 3mm     |
+|                    | 1 Base rectangular inferior de 3mm |
+|                    | 1 Cama del eje Y de 6mm            |
++--------------------+------------------------------------+
 
-+-------------------+-------------------+--------------------+
-|Varilla roscada M5 | Varilla lisa M8   |Varilla roscada 5/16|
-+-------------------+-------------------+--------------------+
-|                   |2 varillas de 390mm| 2 varillas de 55mm |
-|2 varillas de 345mm|2 varillas de 340mm| 1 varillas de 77mm |
-|                   |2 varillas de 330mm|                    |
-+-------------------+-------------------+--------------------+
++--------------------+--------------------+---------------------+
+|Varilla roscada M5  | Varilla lisa M8    | Varilla roscada 5/16|
++--------------------+--------------------+---------------------+
+|                    | 2 Varillas de 390mm| 2 Varillas de 55mm  |
+| 2 Varillas de 345mm| 2 Varillas de 340mm| 1 Varillas de 77mm  |
+|                    | 2 Varillas de 330mm|                     |
++--------------------+--------------------+---------------------+
 
-+----------------------------------+--------------------------+
-|Tornillería                       | Tuercas                  |
-+----------------------------------+--------------------------+
-|37 tornillos M3x10mm              |88 tuercas de seguridad M3|
-|21 tornillos M3x16mm              |34 tuercas normales M3    |
-|13 tornillos M3x20mm              |                          |
-|27 tornillos M3x30mm              |                          |
-|49 tornillos M3x35mm              |                          |
-|3  tornillos cabeza plana M3x10mm |                          |
-|5  tornillos cabeza plana M3x35mm |                          |
-+----------------------------------+--------------------------+
++-------------------------------------+-----------------------------+
+|Tornillería                          | Tuercas                     |
++-------------------------------------+-----------------------------+
+| * 37 Tornillos M3x10mm              | * 88 Tuercas de seguridad M3|
+| * 21 Tornillos M3x16mm              | * 34 Tuercas normales M3    |
+| * 13 Tornillos M3x20mm              |                             |
+| * 27 Tornillos M3x30mm              |                             |
+| * 49 Tornillos M3x35mm              |                             |
+| * 3  Tornillos cabeza plana M3x10mm |                             |
+| * 5  Tornillos cabeza plana M3x35mm |                             |
++-----------------------------------+-------------------------------+
 
 +--------------+--------------------------------+-----------------+---------+
 |Rondanas      |Resortes                        |Baleros          |Piñones  |
