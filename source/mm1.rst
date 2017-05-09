@@ -14,7 +14,7 @@ General
 +----------------------------------------------------------+---------------------+
 |Peso aproximado: 11 Kilogramos                            |                     |
 +----------------------------------------------------------+                     |
-|Voltaje necesario 12 Volts                                 |                     |
+|Voltaje necesario 12 Volts                                |                     |
 +----------------------------------------------------------+---------------------+
 
 .. figure:: /imagenes/mm1.png
@@ -264,26 +264,26 @@ enseguida o bien lo que se puede observar en la imagen.
 4.- Calzas para la base de la impresora
 5.- Termoresistores(refacciones)
 6.- Seguros de bandas (refacciones)
-7.- Lector SD (refaccion)
-8.- Tensor de banda(refaccion)
-9.- Guia de cables
-10.- Destornillador ceramico
-11.- Sensor z mecanico
+7.- Lector SD (refacci&oacute;n)
+8.- Tensor de banda(refacci&oacute;n)
+9.- Gu&iacute;a de cables
+10.- Destornillador cer&aacute;mico
+11.- Sensor z mec&aacute;nico
 12.- Kit de cables
 
 .. figure:: /imagenes/un43.png
 
 Paso 10
 
-Ahora un punto importante, tomamos el seguro del doble extrusor, vemos que tambien
+Ahora un punto importante: tomamos el seguro del doble extrusor, vemos que tambi&eacute;n
 cuenta con 6 pines, este debe de ir conectado en la parte indicada con un 2. Es
-importante que coloquemos este seguro ya que tu maquina no podra funcionar, o bien
-te marcara un error en la pantalla.
+importante que coloquemos este seguro ya que tu m&aacute;quina no podr&aacute; funcionar, o bien
+te marcar&aacute; un error en la pantalla.
 
 .. figure:: /imagenes/un45.png
           :width: 300px
 
-Despues de haber realizado todas las conexiones con exito, estas debera lucir
+Despu&eacute;s de haber realizado todas las conexiones con &eacute;xito, estas deber&aacute;n lucir
 como se observa en la imagen.
 
 .. figure:: /imagenes/un46.png
@@ -291,16 +291,16 @@ como se observa en la imagen.
 
 Paso 11
 
-En esta parte del manual vamos a colocar los partes faltantes de nuestra impresora.
+En esta parte del manual vamos a colocar las partes faltantes de nuestra impresora.
 Ahora tomamos el cable de alimentación y lo colocaremos en la parte lateral del lado
-derecho, recuerda siempre viendo la impresora desde el frente.
+derecho (recuerda siempre viendo la impresora desde el frente).
 
 .. figure:: /imagenes/un47.png
           :width: 300px
 
 Consecuentemente colocaremos la varilla en la parte trasera de la impresora,
-para poder saber donde se encuentra la varilla, esta debio de haber llegado en un paquete
-de carton.
+para poder saber donde se encuentra, esta debi&oacute; de haber llegado en un paquete
+de cart&oacute;n.
 
 .. figure:: /imagenes/un49.png
           :width: 300px
@@ -309,9 +309,9 @@ de carton.
 
 Paso 12
 
-Ahora vamos a colocar nuestra guia de cables, lo primero que tenemos que hacer es
-retiramos el material de soporte con ayuda de un cutter. Si tiene que algun problema
-en saber en donde se puede cortar, se puede apoyar con las imagenes.
+Ahora vamos a colocar nuestra gu&iacute;a de cables, lo primero que tenemos que hacer es
+retirar el material de soporte con ayuda de un cutter. Si tiene alg&uacute;n problema
+para saber en donde se puede cortar, se puede apoyar con las im&aacute;genes.
 
 .. figure:: /imagenes/un53.png
           :width: 300px
@@ -321,22 +321,21 @@ en saber en donde se puede cortar, se puede apoyar con las imagenes.
 Paso 13
 
 En este paso colocaremos la extrusora, esta es la encargada de distribuir el filamento
-al momento de imprimir, esta se ubica en la parte trasera de la impresora. para
-poder comenzar primero deberemos tener la caja en la cual llego nuestra extrusora.
+al momento de imprimir, se ubica en la parte trasera de la impresora. Para
+poder comenzar primero deberemos tener la caja en la cual lleg&oacute; nuestra extrusora.
 
-Ahora lo primero es el desempaque del mecanismo. en este paso necesitara de nuevamente
-el cutter, ya que el mecanismo bien envuelto en hule burbuja.
+Ahora lo primero es el desempaque del mecanismo. En este paso necesitar&aacute; de nuevo
+el cutter, ya que viene envuelto en hule burbuja.
 
 .. figure:: /imagenes/un56.png
           :width: 300px
 .. figure:: /imagenes/un57.png
           :width: 300px
 
-Ya que esta descubierto cortamos el cincho del cable de la extrusora y procedemos a montarlo en la
-parte del perfil trasera, se puede saber en cual perfil se cortara visualizando las imagenes.
-Antes de colocar podra observar los tornillos que sobre salen del extrusor, rertirelos
-ahora identifique los orificios a colocar la pieza. posteriormente coloque los tonillos
-para la misma.
+Ya que est&aacute; descubierto cortamos el cincho del cable de la extrusora y procedemos a montarlo en la
+parte del perfil trasero, se puede saber en cual perfil se cortar&aacute; visualizando las im&aacute;genes.
+Antes de colocar podr&aacute; observar los tornillos que sobre salen del extrusor, ret&iacute;relos
+y ahora identifique los orificios donde colocar&aacute; la pieza. Posteriormente coloque los tornillos.
 
 .. figure:: /imagenes/un58.png
           :width: 300px
@@ -347,19 +346,19 @@ para la misma.
 .. figure:: /imagenes/un63.png
           :width: 300px
 
-Con ayuda de una llave allen 2.5mm nos apoyaremos para atornilla los tornillos
-puede observar las imagenes y verificar la informacion. debera de atornillar los tres
-tornillos ubicados en esta parte, esto para que la extrusora quede fija.
+Con ayuda de una llave Allen de 2.5mm nos apoyaremos para atornillar los tornillos
+puede observar las im&aacute;genes y verificar la informaci&oacute;n. Para que la extrusora
+quede fija deber&aacute; atornillar los tres tornillos respectivamente.
 
 .. figure:: /imagenes/un64.png
        :width: 300px
 .. figure:: /imagenes/un66.png
                 :width: 300px
 
-Ahora conectaremos nuestro motor de este mecanismo. En los accesorios de la impresora
-debio de haber llegado los cables para dicho motor. Una vez que tenga dichos cables
-procedemos con colocarlos en el lugar que le corresponde, pueda apoyarse con la ilustraciones
-luego se conectara apartado ubicado en la parte trasera y lleva referencia con el nombre de M1.
+Ahora conectaremos el motor de este mecanismo. En los accesorios que recibi&oacute; de la impresora
+encontrar&aacute; los cables de este motor. Se conectar&aacute; en la parte inferior
+del mecanismo y el otro extremo en la parte trasera de la impresora con referencia M1.
+Se puede apoyar con las siguientes im&aacute;genes.
 
 .. figure:: /imagenes/un67.png
           :width: 300px
@@ -367,8 +366,8 @@ luego se conectara apartado ubicado en la parte trasera y lleva referencia con e
           :width: 300px
 
 Enseguida colocaremos el tubo bowden en el conector de la extrusora. Lo colocamos
-en la parte azul del conector y ejercemos una pequeña precio hacia bajo, esto para
-que quede sujeto al conector. Después de colocarlo revisemos tomandolo y jalandolo hacia arriba
+en la parte azul del conector y ejercemos una pequeña presi&oacute;n hacia abajo, para
+que quede sujeto al conector. Después de colocarlo revisemos tom&aacute;ndolo y jal&aacute;ndolo hacia arriba
 para poder asegurarnos de que este bien sujeto.
 
 .. figure:: /imagenes/un70.png
@@ -376,11 +375,10 @@ para poder asegurarnos de que este bien sujeto.
 
 Paso 14
 
-Vamos a retirar la pieza impresa de muestra que se enviám, en este paso va a necesitar
-una espatula o bien con la ayuda del cutter. Tambien si lo prefiere puede tomar la pieza
-y hacer un pequeño movimiento hacia arriba para observar si la pieza se puede retirar
-facilmente. Si no se puede retirarla tan facilmente, coloque la espatula en la parte
-de abajo de la pieza he introduscala hasta que se levante de la cama.
+Vamos a retirar la pieza impresa de muestra que se env&iacute;a, vas a requerir
+una esp&aacute;tula o un cutter. Puede ser que la pieza se desprenda simplemente haciendo un
+movimiento hacia arriba con la mano. Si no se puede retirar f&aacute;cilmente, coloque la esp&aacute;tula en la parte
+de abajo de la pieza e introd&uacute;zcala hasta que se levante de la cama.
 
 .. figure:: /imagenes/un61.png
            :width: 300px
@@ -389,22 +387,22 @@ de abajo de la pieza he introduscala hasta que se levante de la cama.
 
 Paso 15
 
-Despues de haber retirado la pieza procedemos con identificar donde se colocara nuestra tarjeta SD,
-esto es una parte importante en este proceso ya que con la tajeta SD le cargaremos el codigo G,
+Despu&eacute;s de haber retirado la pieza procedemos con identificar donde se colocar&aacute; la tarjeta SD.
+Esto es una parte importante en este proceso ya que a la tajeta SD le cargaremos el c&oacute;digo G
 o bien las coordenadas de desplazamiento.
 
 .. figure:: /imagenes/un73.png
           :width: 300px
 
-Por ultimo podemos conectar el cable de la fuente y encender la impresora.
+Por &uacute;ltimo podemos conectar el cable de la fuente y encender la impresora.
 
 .. figure:: /imagenes/un74.png
        :width: 300px
 .. figure:: /imagenes/un75.png
        :width: 350px
 
-Si todo lo mencionado en esta parte del manual no a quedado claro, puede revisar
-este video en el cual se puede observar con un poco mas de claridad todos los puntos
+Si todo lo mencionado en esta parte del manual no ha quedado claro, puede revisar
+este video en el cual se puede observar con un poco m&aacute;s de claridad todos los puntos
 antes mencionados.
 
 https://www.youtube.com/watch?v=SFoa9NvYTLU
