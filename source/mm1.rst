@@ -551,8 +551,11 @@ Coloca los parámetros que te recomendamos de utilizar en la pestaña de basic
 
 +-----------------------------------------------------------------+
 |-Temperatura para PLA 200°C a 212°C                              |
++-----------------------------------------------------------------+
 |-Cama caliente 40°C a 60°C                                       |
++-----------------------------------------------------------------+
 |-Temperatura ABS 225°C                                           |
++-----------------------------------------------------------------+
 |-Cama caliente 97°C                                              |
 +-----------------------------------------------------------------+
 +-----------------------------------------------------------------+
@@ -662,9 +665,13 @@ Primero tenemos que identificar nuestros conectores.
 |Conectores       |
 +-----------------+
 | 1.- Extrusora 1 |
++-----------------+
 | 2.- Extrusora 2 |
++-----------------+
 | 3.- Ventilador  |
++-----------------+
 | 4.- Modulo CNC  |
++-----------------+
 | 5.- Sensor Z    |
 +-----------------+
 
@@ -694,11 +701,17 @@ esta puede ir desde:
 | Información de la pantalla                        |
 +---------------------------------------------------+
 | -La temperatura actual de la boquilla             |
++---------------------------------------------------+
 | -La temperatura de un doble extrusor              |
++---------------------------------------------------+
 | -La temperatura actual de la cama                 |
++---------------------------------------------------+
 | -El tiempo trascurrido de impresion               |
++---------------------------------------------------+
 | -El porcentaje de avance en la impresion          |
++---------------------------------------------------+
 | -La velocidad de la impresion dada en porcentaje  |
++---------------------------------------------------+
 | -Un mensaje pre-programado                        |
 +---------------------------------------------------+
 
@@ -712,7 +725,9 @@ por:
 
 +-----------------+
 | -PREPARE        |
++-----------------+
 | -CONTROL        |
++-----------------+
 | -PRINT FROM SD. |
 +-----------------+
 
@@ -727,11 +742,17 @@ por:
 
 +------------------+
 |-Disable steppers |
++------------------+
 |-Auto home        |
++------------------+
 |-Preheat PLA      |
++------------------+
 |-Preaheat ABS     |
++------------------+
 |-CoolDown         |
++------------------+
 |-Switch power off |
++------------------+
 |-Move axis        |
 +------------------+
 
@@ -786,8 +807,11 @@ o cambiar el filamento.
 |Preheat PLA       |
 +------------------+
 | -Preheat ABS 1   |
++------------------+
 | -Preheat ABS 2   |
++------------------+
 | -Preheat ABS A11 |
++------------------+
 | -Preheat ABS Bed |
 +------------------+
 
@@ -858,7 +882,9 @@ En esta opción podemos encontrar:
 
 +------------------+
 |-Temperatura      |
++------------------+
 |-Motion           |
++------------------+
 |-Restore failsafe |
 +------------------+
 
@@ -1297,9 +1323,13 @@ que hacer es tener bien identifiquemos los componentes de este Módulo.
 
 +--------------------------------+
 |1.- Módulo inferior  (boquilla )|
++--------------------------------+
 |2.- Módulo superior (Extrusor)  |
++--------------------------------+
 |3.- Guía de filamento           |
++--------------------------------+
 |4.- Cable de motor para extrusor|
++--------------------------------+
 |5.- Tres tornillos M3x16mm      |
 +--------------------------------+
 
@@ -1404,9 +1434,13 @@ imprimir, para poder meter el filamento a la boquilla usamos los siguientes paso
 | Como comenzar a imprimir                                                     |
 +------------------------------------------------------------------------------+
 | - Enciende la impresora                                                      |
++------------------------------------------------------------------------------+
 | - Da un clic a la perilla, gira la perilla y selecciona control da clic      |
++------------------------------------------------------------------------------+
 | - Una vez dentro del menú de control selecciona temperature y da clic        |
++------------------------------------------------------------------------------+
 | - Selecciona Nozzle y da clic                                                |
++------------------------------------------------------------------------------+
 | - Sebe la temperatura según el material que vayas a usar  y da clic para     |
 |   que comience a calentar.                                                   |
 +------------------------------------------------------------------------------+
@@ -1442,6 +1476,7 @@ que vayamos a usar.
 +------------------------------------------------------------+
 | * Para Ninjaflex y TPE te recomendamos usar la temperatura |
 |   de impresión de 228°C                                    |
++------------------------------------------------------------+
 | * Para el PLA soft te recomendamos usar                    |
 |   la temperatura de impresión de 208°C                     |
 +------------------------------------------------------------+
