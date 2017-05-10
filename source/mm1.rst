@@ -63,7 +63,7 @@ General
   todos nuestros manuales virtuales, tutoriales, descarga de softwares ya sea
   Cura, Blender y Pronterface. Todo lo mencionado se encuentra disponibles en Wiki MakerMex
   http://makermex.com/wiki/index.html, también se es acreedor a dos horas
-  de asesoría/soporte técnico por video-llamada o presencial (Se agenda con un día de anticipación).
+  de asesoría/soporte técnico por vídeo-llamada o presencial (Se agenda con un día de anticipación).
 
 
 +--------------------+
@@ -231,7 +231,8 @@ Pasamos los cables que salen del módulo por encima del perfil superior izquierd
 
 .. figure:: /imagenes/un34.png
 
-Para poder asegurarse de que las conecciones fueron realizadas con éxito debe de tener
+
+Para poder asegurarse de que las conexiones fueron realizadas con éxito debe de tener
 en cuenta los siguientes pasos. Primero que nada debe de identificar cuantos conectores
 son los que se deben conectar, en total son 3 y van de la siguiente manera:
 1.- El conector de 6 pines, debe de ir conectado a la entrada con el numero 1.
@@ -419,9 +420,9 @@ Blender.
 
 ̈́¿Que es Blender?
 
-Blender es un software destinado especialmente al modelado 3D, iluminacion, animacion
-y creacion de graficos tridimensionales. este programa usa la tecnica de procesado de nodos,
-edicion de videos, escultura y pintura digirtal.
+Blender es un software destinado especialmente al modelado 3D, iluminación, animación
+y creación de gráficos tridimensionales. este programa usa la técnica de procesado de nodos,
+edición de vídeos, escultura y pintura digital.
 
 ¿Que es un archivo STL?
 
@@ -436,7 +437,7 @@ El software CURA versión 15.01 es donde pasaras tu diseño. Cura es un software
 que nos va a permitir convertir los archivos STL que contienen nuestro diseño 3D
 en piezas físicas en un solo entorno de trabajo.
 
-Todos los softwares que utilizamos son opens source o codigo libre,
+Todos los softwares que utilizamos son opens source o código libre,
 esto quiere decir que los puedes descargar de la web sin costo.
 
 Descarga de Software
@@ -446,7 +447,7 @@ Descarga de Software
 .. figure:: /imagenes/cu.png
           :width: 150px
 
-te dejamos el link donde lo puedes descargar y te recomendamos la version 14.12
+te dejamos el link donde lo puedes descargar y te recomendamos la versión 14.12
 
 https://ultimaker.com/en/products/cura-software/list
 
@@ -468,16 +469,16 @@ te dejamos el link donde lo puedes descargar
 
 https://www.blender.org/download/
 
-instalacion de cura para la impresora MM1
+instalación de cura para la impresora MM1
 ------------------------------------------
 
 Paso 1
 
-Te recomendamos que entres a nuestra pagina y descarges cura. Encontraras un link
-de descarga y la version que se recomiendo usar.
+Te recomendamos que entres a nuestra pagina y descargues cura. Encontraras un link
+de descarga y la versión que se recomiendo usar.
 
 .. Note::
-    EL link lo podras encontrar en la seccion de ayuda, manuales, ingresas a cualquier
+    EL link lo podrás encontrar en la sección de ayuda, manuales, ingresas a cualquier
     manual y te vas a descargas de softwares.
 
 Comienza a instalar cura
@@ -494,7 +495,8 @@ tener las opciones como se muestran en la imagen.
 
 Paso 3
 
-Una vez que los archivos del software se instalen te aparecerá una ventana, le das siguiente y finalizar
+Una vez que los archivos del software se instalen te aparecerá una ventana, seleccionas
+siguiente y finalizar
 
 .. figure:: /imagenes/curm4.png
 .. figure:: /imagenes/curm5.png
@@ -516,7 +518,7 @@ siguiente. Esto para poder declarar las especificaciones de nuestra maquina.
 
 Paso 6
 
-Despues de haber da en siguiente te mostrara esta ventana selecciona custom y da
+Después de haber da en siguiente te mostrara esta ventana selecciona custom y da
 clic en siguiente.
 
 .. figure:: /imagenes/curm9.png
@@ -524,10 +526,10 @@ clic en siguiente.
 Paso 7
 
 Te aparecerá esta ventana coloca la siguiente información, una vez que lo hagas
-das clic en terminar. Esta es laparte donde colocas las dimensiones de la maquina
-que tipo de boquilla manejas y si cuenta o no coma caliente, tambien aparece un
-recuadro en el cual nos idica si el centro de la impresora esta en las coordenadas
-0,0,0, esto se degara sin seleccionar ya que nuestras impresoras no lo necesitan.
+das clic en terminar. Esta es la parte donde colocas las dimensiones de la maquina
+que tipo de boquilla manejas y si cuenta o no coma caliente, también aparece un
+recuadro en el cual nos indica si el centro de la impresora esta en las coordenadas
+0,0,0, esto se dejara sin seleccionar ya que nuestras impresoras no lo necesitan.
 
 .. figure:: /imagenes/curm10.png
 
@@ -537,8 +539,8 @@ Te aparecerá esta ventana
 
 .. figure:: /imagenes/curm11.png
 
-Las opciones para poder colocar los parametros de impresion se colocaran en estas ventanas,
-usualmente solo se cambian, los parametros de la pestañana basic y advance.
+Las opciones para poder colocar los parámetros de impresión se colocaran en estas ventanas,
+usualmente solo se cambian, los parámetros de la pestañana basic y advance.
 
 .. figure:: /imagenes/curm12.png
 
@@ -593,156 +595,134 @@ de la retracción se puede utilizar :
 Conexiones de la Impresora
 -----------------------------
 
-En este manual podemos observar como se debe conectar correctamente nuestra impresora 3D, es muy importante que llevemos acabo las indicaciones.
-En esta imagen se aprecia el contenido de la caja de plástico trasparente.
-
+En este manual podemos observar como se debe conectar correctamente nuestra impresora 3D,
+es muy importante que llevemos acabo las indicaciones. En esta imagen se aprecia el
+contenido de la caja de plástico trasparente.
 
 .. figure:: /imagenes/A.JPG
 
+Paso 1
 
-* Paso 1
-
-
-Conectar el Módulo Sencillo al tablero de conexiones.
-
-Del módulo sale un conector macho con 6 pines el cual se conecta en el apartado que dice 1, asi como se muestra en la imagen.
-
+Conectar el Módulo Sencillo al tablero de conexiones. Del módulo sale un conector
+macho con 6 pines el cual se conecta en el apartado que dice 1, así como se muestra en la imagen.
 
 .. figure:: /imagenes/B.JPG
 
+Paso 2
 
-* Paso 2
-
-
-Conectar el Sensor inductivo para el "Home de Z"
-
-Del mismo módulo sale un conector de 3 pines el cual se conecta en el apartado que dice Z,asi como se muestra en la imagen.
-
+Conectar el Sensor inductivo para el "Home de Z" del mismo módulo sale un conector
+de 3 pines el cual se conecta en el apartado que dice Z,asi como se muestra en
+la imagen.
 
 .. figure:: /imagenes/C.jpg
           :width: 400px
 
-
-* Paso 3
-
+Paso 3
 
 Colocar el Seguro de doble Extrusora.
 
-Vamos a cenectar el seguro de doble Extrusora en la parte que dice 2, como se ve en la imagen.
-Este seguro solo se coloca cuando se utiliza el módulo sencillo, cuando se usa el módulo doble se retira.
-
+Vamos a conectar el seguro de doble extrusor en la parte indicada con un 2, este seguro
+solo se coloca cuando se utiliza el módulo sencillo, cuando se usa el módulo
+doble se retira.
 
    .. NOTE::
       Si solo esta conectado el módulo sencillo y el seguro  no esta conectado,
-      al enecender la impresora te marcara Error min temp.
-
-
+      al encender la impresora te marcara Error minitemp.
 
 .. figure:: /imagenes/D.JPG
 
+Paso 4
 
-* Paso 4
+Colocar la guía de cables
 
-
- Colocar la guía de cables
-
-la piéza plástica que va en el interior de la caja trasparente se coloca de la siguiente forma como se aprecia en la imagen.
-sirve para poder sostener los cables que salen del módulo sencillo como de la cruz central y sean direccionados a su lugar de conexión.
-
+la piéza plástica que va en el interior de la caja trasparente se coloca de la
+siguiente forma como se aprecia en la imagen. Sirve para poder sostener los cables
+que salen del módulo sencillo como de la cruz central y sean direccionados a su lugar de conexión.
 
 .. figure:: /imagenes/E.jpg
 
+Paso 5
 
-* Paso 5
+Como colocar los Clams y el cristal.
 
+Los clams son los sujetadores del cristal y de la cama de metal, su posición se
+muestra en la imagen.
 
-Como colacar los Clams y el cristal.
-
- Los clams son los sujetadores del cristal y de la cama de metal, su posición se muestra en la imagen.
-
-
- .. figure:: /imagenes/F.jpg
-
+.. figure:: /imagenes/F.jpg
 
 Conexiones de la impresora MM1 V1.5
 ------------------------------------
 
+En este punto podemos observar como se debe conectar correctamente nuestra impresora 3D,
+es muy importante que llevemos acabo las indicaciones.
 
-En este punto podemos observar como se debe conectar correctamente nuestra impresora 3D, es muy importante que llevemos acabo las indicaciones.
+Primero tenemos que identificar nuestros conectores.
 
-
-Primero que nada tenemos que identificar nuestros conectores.
-
-
-1.- Extrusora 1
-
-
-2.- Extrusora 2
-
-
-3.- Ventilador
-
-
-4.- Modulo CNC
-
-
-5.- Sensor Z
-
++-----------------+
+|Conectores       |
++-----------------+
+| 1.- Extrusora 1 |
+| 2.- Extrusora 2 |
+| 3.- Ventilador  |
+| 4.- Modulo CNC  |
+| 5.- Sensor Z    |
++-----------------+
 
 .. figure:: /imagenes/mm4.png
 
 
 Conexión del modulo sencillo.
 
-
 Para poder imprimir con modulo sencillo(modulo que viene de fabrica), es
 necesario conectarlo de esta forma.
 
-
 .. Note::
     Cuando imprimimos con este modulo es muy importante tener conectado
-    el seguro de doble extrusora, si este seguro no se conecta es imposible realizar la impresión
+    el seguro de doble extrusora, si este seguro no se conecta es imposible realizar
+    la impresión
 
     .. figure:: /imagenes/mm5.png
 
 Uso de la pantalla
 ---------------------
 
-al momento de encender nuestra impresora nos aparecera la pantalla principal
-en esta se puede encontrar toda la informacion del transcurso de la impresion,
+al momento de encender nuestra impresora nos aparecerá la pantalla principal
+en esta se puede encontrar toda la información del transcurso de la impresión,
 esta puede ir desde:
 
-+--------------------------------------------------+
-|-La temperatura actual de la boquilla             |
-|-La temperatura de un doble extrusor              |
-|-La temperatura actual de la cama                 |
-|-El tiempo trascurrido de impresion               |
-|-El porcentaje de avance en la impresion          |
-|-La velocidad de la impresion dada en porcentaje  |
-|-Un mensaje pre-programado                        |
-+--------------------------------------------------+
++---------------------------------------------------+
+| Información de la pantalla                        |
++---------------------------------------------------+
+| -La temperatura actual de la boquilla             |
+| -La temperatura de un doble extrusor              |
+| -La temperatura actual de la cama                 |
+| -El tiempo trascurrido de impresion               |
+| -El porcentaje de avance en la impresion          |
+| -La velocidad de la impresion dada en porcentaje  |
+| -Un mensaje pre-programado                        |
++---------------------------------------------------+
 
-La pantalla tiene una perilla multifuncional que peude girar y a su vez seleccionar
- los menús de la pantalla, para acceder a algun menu solo giras y oprimes la perilla.
+La pantalla tiene una perilla multifuncional que puede girar y a su vez seleccionar
+ los menús de la pantalla, para acceder a algún menú solo giras y oprimes la perilla.
 
 .. figure:: /imagenes/p1.png
 
-Ahora al dar clic en la perilla nos aparecera el menú principal, este esta conformado
+Ahora al dar clic en la perilla nos aparecerá el menú principal, este esta conformado
 por:
 
-+----------------+
-|-PREPARE        |
-|-CONTROL        |
-|-PRINT FROM SD. |
-+----------------+
++-----------------+
+| -PREPARE        |
+| -CONTROL        |
+| -PRINT FROM SD. |
++-----------------+
 
 .. figure:: /imagenes/p2.png
 
-Identifiquemos la opcion de PREPARE. giremos la perilla y oprimamosla.
+Identifiquemos la opcin de PREPARE. giremos la perilla y oprimámosla.
 
 .. figure:: /imagenes/p3.png
 
-Al oprimir en la opcion de prepare nos aparecera un menu nuevo, este esta formado
+Al oprimir en la opción de prepare nos aparecerá un menú nuevo, este esta formado
 por:
 
 +------------------+
@@ -760,7 +740,7 @@ por:
 
 -Disable stepper
 
-1 Sirve para purgar la corriente que hay en los motores, es decir cuando encendemos
+1.- Sirve para purgar la corriente que hay en los motores, es decir cuando encendemos
 la impresora, los motores los podemos mover con nuestras manos pero al mandar imprimir
 o mover los ejes con el pronterface o la pantalla, los motores se energizan y ya
 no se pueden mover con las manos pero si queremos volver a moverlos sin tener que
@@ -769,14 +749,14 @@ la corriente que hay en los motores.
 
 -Auto Home
 
-2  Esta opción nos permite mandar los ejes a su posición de origen o cero, al activarlo,
+2.- Esta opción nos permite mandar los ejes a su posición de origen o cero, al activarlo,
 la impresora moverá sus ejes en secuencia, primero el eje X se moverá a la derecha,
 le seguirá el eje Y moviéndose hacia el fondo, y por ultimo el eje Z se moverá hacia
 arriba.
 
 -Preheat PLA
 
-3  Esta opción nos permite calentar la boquilla y la cama caliente para usar PLA
+3.- Esta opción nos permite calentar la boquilla y la cama caliente para usar PLA
 las temperaturas son adecuadas cuando se desea tener lista la boquilla para imprimir
 o cambiar el filamento.
 
@@ -791,44 +771,41 @@ Preheat PLA esta formado por:
 
 .. figure:: /imagenes/p6.png
 
-A  Al activarlo enciende la primer boquilla y cama caliente.
-
-B  Al activarlo encienden las dos boquillas y cama caliente.
-
-C  Al activarlo encienden las dos boquillas y cama caliente.
-
-D  Al activarlo se enciende la cama caliente.
+A.- Al activarlo enciende la primer boquilla y cama caliente.
+B.- Al activarlo encienden la segunda boquillas y cama caliente.
+C.- Al activarlo encienden las dos boquillas y cama caliente.
+D.- Al activarlo se enciende la cama caliente.
 
 -Preaheat ABS
 
-4  Esta opción nos permite calentar la boquilla y la cama caliente para usar ABS
+4.- Esta opción nos permite calentar la boquilla y la cama caliente para usar ABS
 las temperaturas son adecuadas cuando se desea tener lista la boquilla para imprimir
 o cambiar el filamento.
 
-Preheat PLA esta formado por:
-
-+----------------+
-|-Preheat ABS 1  |
-|-Preheat ABS 2  |
-|-Preheat ABS A11|
-|-Preheat ABS Bed|
-+----------------+
++------------------+
+|Preheat PLA       |
++------------------+
+| -Preheat ABS 1   |
+| -Preheat ABS 2   |
+| -Preheat ABS A11 |
+| -Preheat ABS Bed |
++------------------+
 
 .. figure:: /imagenes/p7.png
 
 -Cooldown
 
-5  Esta opción nos permite apagar las indicaciones de los preheat damos clic y se
+5.- Esta opción nos permite apagar las indicaciones de los preheat damos clic y se
 resetea la indicación de calentar. Es decir se cancela.
 
 -Switch power off
 
-6  Esta opción es un interruptor, como un paro de emergencia pero no lo usamos preferimos
+6.- Esta opción es un interruptor, como un paro de emergencia pero no lo usamos preferimos
 usar el que energiza la impresora.
 
 -Move axis
 
-7  Esta opción nos permite interactuar con los ejes y la extrusora es decir que
+7.- Esta opción nos permite interactuar con los ejes y la extrusora es decir que
 los podemos mover con diferentes velocidades, con esta opción podemos calibrar la
 cama de impresión.
 
@@ -849,7 +826,7 @@ a la opción que deseas mover. Y te aparecerá una nueva opción.
 
 .. figure:: /imagenes/p10.png
 
-Al momento de seleccionar la opcion deseada, tendra que aparecer para ambas distancias.
+Al momento de seleccionar la opción deseada, tendrá que aparecer para ambas distancias.
 
 .. figure:: /imagenes/p11.png
           :width: 320px
@@ -875,9 +852,9 @@ Al momento de seleccionar la opcion deseada, tendra que aparecer para ambas dist
    Para poder darle movimiento al eje que seleccionemos,se gira la perilla ya sea
    en sentido positivo o en sentido negativo.
 
-En la opcion de CONTROL se encuentran mas opciones estos ya fueron predeterminados
-por la programacion, es necesartio que se respeten estos parametros.
-En esta opcion podemos encontrar:
+En la opción de CONTROL se encuentran mas opciones estos ya fueron predeterminados
+por la programación, es necesario que se respeten estos parámetros.
+En esta opción podemos encontrar:
 
 +------------------+
 |-Temperatura      |
@@ -898,26 +875,25 @@ interesan.
 .. figure:: /imagenes/p17.png
 .. figure:: /imagenes/p18.png
 
-1  Al darle clic se activa, y girando la perilla podemos colocar una temperatura
+1.- Al darle clic se activa, y girando la perilla podemos colocar una temperatura
 en la primer boquilla, para que esa temperatura sea procesada se da un clic y se
 activa es indicación.
 
-2  Al darle clic se activa, y girando la perilla podemos colocar una temperatura
+2.- Al darle clic se activa, y girando la perilla podemos colocar una temperatura
 en la segunda boquilla, para que esta temperatura sea procesada se da un clic y
 se activa es indicación.
 
-3  Al darle clic se activa, y girando la perilla podemos colocar una temperatura
+3.- Al darle clic se activa, y girando la perilla podemos colocar una temperatura
 en la cama caliente para que esta temperatura sea procesada se da un clic y se
 activa es indicación.
 
-4  Al darle clic se activa, y girando la perilla podemos colocar una velocidad en
+4.- Al darle clic se activa, y girando la perilla podemos colocar una velocidad en
 el ventilador 40x40mm esta opción puede servir para bajar la velocidad o subirla
 y para que sea procesada se da un clic y se activa es indicación.
 
-  .. note::
+  .. Note::
      La pantalla seria nuestro control remoto de la impresora. Pero es de suma
      importancia hacer caso de usar solo las opciones que se mencionan.
-
 
 La opción de PRINT FROM SD es la mas sencilla es donde seleccionamos nuestro código G.
 
@@ -937,17 +913,19 @@ TIPS PARA EL USO DE LA PANTALLA
   velocidad bajara gradualmente.
 
 * Para saber que velocidad tenemos es importante saber que en los parámetros de
-  cura seleccionamos la opcion que nos indique 50 mm/s, y en la pantalla cuando esta
+  cura seleccionamos la opción que nos indique 50 mm/s, y en la pantalla cuando esta
   en la pantalla principal nos aparece un porcentaje de 100% , este porcentaje es
   el indicador de la velocidad que se esta manejando.
 
 Ejemplo.
 
-+--------------+
-|50mm/s = 100% |
-|100mm/s = 200%|
-|150mm/s = 300%|
-+--------------+
++----------------+
+| Velocidad      |
++----------------+
+| 50mm/s = 100%  |
+| 100mm/s = 200% |
+| 150mm/s = 300% |
++----------------+
 
 .. figure:: /imagenes/po19.png
 
@@ -956,7 +934,7 @@ Calibración de la impresora "Distancia cama boquilla"
 
 Paso 1
 
-Aflojar el sensor inductivo con una llave allen de 2.5mm y subirlo como
+Aflojar el sensor inductivo con una llave Allen de 2.5mm y subirlo como
 se muestra.
 
 .. figure:: /imagenes/c1.png
@@ -975,7 +953,7 @@ quede una separación de una tarjeta de presentación.
 
  .. Note::
     la tarjeta debe de quedar rozando entre la boquilla y la cama para que haya
-    una ligera separacion entre estas dos.
+    una ligera separación entre estas dos.
 
 .. figure:: /imagenes/c5.png
               :width: 320px
@@ -995,16 +973,15 @@ En esta el sensor hasta su punto aproximado de detección, para que la
 distancia que esta definida no sea afectada.
 
 1.-Encienda la fuente
-2.-Sosten el eje z a la distancia que ya definiste con la tarjeta.
+2.-Sostén el eje z a la distancia que ya definiste con la tarjeta.
 3.-Ahora como el sensor se encuentra flojo lo vas a bajar lentamente hasta que
-vea que comienza a encender el led rojo que se encuentra en la parte superior.
-4.-Apretar con una llave allen 2.5mm o con unas pinzas de puta apriete hasta que
-que este queda firme, esto ya que el led del sensor este encendido.
+vea que comienza a encender el LED rojo que se encuentra en la parte superior.
+4.-Apretar con una llave Allen 2.5mm o con unas pinzas de puta apriete hasta que
+que este queda firme, esto ya que el LED del sensor este encendido.
 
 .. Note::
-
     Recuerda que nuestra principal importancia es dejar el sensor en la posición
-    adecuada, esto quiere decir justo cuando comience a encender el led.
+    adecuada, esto quiere decir justo cuando comience a encender el LED.
 
                         .. figure:: /imagenes/c8.png
                                   :width: 320px
@@ -1018,7 +995,7 @@ que este queda firme, esto ya que el led del sensor este encendido.
 Paso 4
 
 Una vez que se haya colocado correctamente el sensor vamos a seleccionar la
-opcion de autohome en nuestra impresora esto para poder visualizar si se coloco
+opción de Auto Home en nuestra impresora esto para poder visualizar si se coloco
 en la distancia correcta el sensor.
 
                        .. figure:: /imagenes/c12.png
@@ -1028,14 +1005,14 @@ en la distancia correcta el sensor.
                        .. figure:: /imagenes/c14.png
                                  :width: 320px
 
-Cuando selecciones en Autohome se ira a su origen 0,0,0. Podras observar que el
+Cuando selecciones en Auto Home se ira a su origen 0,0,0. Podrás observar que el
 sensor quedo ligeramente separado de la cama al igual que la boquilla.
 
                        .. figure:: /imagenes/c15.png
 
 Paso 5
 
-Después de a ver dando la opcion de autohome vamos a realizar algunos movimientos
+Después de a ver dando la opción de Auto Home vamos a realizar algunos movimientos
 de los ejes X,Y con la pantalla.
 
                         .. figure:: /imagenes/c16.png
@@ -1056,12 +1033,12 @@ de que la boquilla quede calibrada con las cuatro esquinas de la cama caliente.
                                   :width: 320px
 
 Cuando des la indicación la boquilla se moverá a esta posición, aquí podrás hacer
-el ajuste de la distancia entre la boquilla y la cama, tambien asegurandose que
+el ajuste de la distancia entre la boquilla y la cama, también asegurándose que
 la distancia se la de la tarjeta.
 
-Si por alguna razon el sensor de proximidad no se enciende, tendremos que nivelar
+Si por alguna razón el sensor de proximidad no se enciende, tendremos que nivelar
 la cama en la esquina donde nos encontramos, para poder realizar esto te puedes
-apoyar con tu llave allen de 2.5mm y unas pinzas de punta para sujetar la tuerca
+apoyar con tu llave Allen de 2.5mm y unas pinzas de punta para sujetar la tuerca
 y así ajustar el resorte.
 
 Dependiendo del caso si al momento de mover hacia la esquina tenemos una distancia
@@ -1072,57 +1049,57 @@ tendremos que apretarlo el resorte.
 
    En este paso tienes solo algunos segundos para realizar cada ajuste porque cuando los motores
    dejan de moverse vuelven a su estado natural y el motor del eje Z se puede bajar si esto sucede vuelve
-   a mandar autohome e intenta realizar el ajuste.
+   a mandar Auto Home e intenta realizar el ajuste.
 
 Calibración de impresora "distancia cama-boquilla" MM1 V1.5
 ------------------------------------------------------------
 
 Paso 1
 
-Identificar el sensor Z. En la parte superior se encuentra un led que al detectar
+Identificar el sensor Z. En la parte superior se encuentra un LED que al detectar
 la cama enciende y genera el posicionamiento del eje Z. Por la parte inferior tiene
 una tuerca que al detenerla y girando el cuerpo del sensor podemos subir o bajar
 dicho sensor hasta que quede en una distancia adecuada en relación a la boquilla.
 
                           .. figure:: /imagenes/mm6.png
 
-Una vez identificado el sensor (es la pequeña pieza metalica en la boquilla),
-hacemos un auto home para que se posicione en las coordenadas X0, Y0, Z0.
-Despues manualmente subiremos o bajaremos segun sea el caso, tomaremos el eje Z hasta que
-quede una distancia cama-boqulla milimétrica. Una forma fácil de calibrar la
-distancia cama-boquilla es poner una tarjeta de presentacion o bien un objeto con
-las mismas dimensiones, despues de haber colocado esto en la cama y subir el eje
+Una vez identificado el sensor (es la pequeña pieza metálica en la boquilla),
+hacemos un Auto Home para que se posicione en las coordenadas X0, Y0, Z0.
+Después manualmente subiremos o bajaremos según sea el caso, tomaremos el eje Z hasta que
+quede una distancia cama-boquilla milimétrica. Una forma fácil de calibrar la
+distancia cama-boquilla es poner una tarjeta de presentación o bien un objeto con
+las mismas dimensiones, después de haber colocado esto en la cama y subir el eje
 hasta que la hoja este casi atorada pero que aun se pueda mover.
 
                           .. figure:: /imagenes/mm7.png
 
-Ahora depues de haber obtenido la distancia adecuada aflojamos la tuerca y giramos
-el sensor subiendo o bajando dependiendo donde estaba colocado hasta que el led
+Ahora después de haber obtenido la distancia adecuada aflojamos la tuerca y giramos
+el sensor subiendo o bajando dependiendo donde estaba colocado hasta que el LED
 encienda.
 
                           .. figure:: /imagenes/mm8.png
                           .. figure:: /imagenes/mm9.png
 
-Una vez prendido el led del sensor aseguramos la tuerca que lo compone y listo ya
+Una vez prendido el LED del sensor aseguramos la tuerca que lo compone y listo ya
 tenemos el auto home calibrado. Posteriormente tendremos que revisar todas las
-esquinas de la cama estas deben de estar a la mima distancia que el la posicion
+esquinas de la cama estas deben de estar a la mima distancia que el la posición
 dada en el auto home.
 
                           .. figure:: /imagenes/mm10.png
                           .. figure:: /imagenes/mm11.png
 
 Para calibrar el resto de la cama tendremos que ir a las opciones de la pantalla
-vamos identificar la opcion de move axis esto para poder movernos en la cama por
+vamos identificar la opción de move axis esto para poder movernos en la cama por
 medio de los ejes independientemente.
 
                           .. figure:: /imagenes/mm12.png
 
-Primero moveremos el eje Y hasta la posicon que indica la imagen, si el led se
+Primero moveremos el eje Y hasta la posición que indica la imagen, si el LED se
 apaga quiere decir que no detecta la cama y tenemos que subirla unos cuantos milímetros
-mas hasta que la el led encienda, si fuera el caso de que el led permanece encedido
+mas hasta que la el LED encienda, si fuera el caso de que el LED permanece encendido
 pero la boquilla esta rozando demasiado la cama tendremos que aflojar el resorte
 hasta que la boquilla quede mas liberada, para poder saber de que quedo en la en la
-distancia correcta, esta debe de tener la misma distancia cama-boquilla que en el auto home.
+distancia correcta, esta debe de tener la misma distancia cama-boquilla que en el Auto Home.
 
                           .. figure:: /imagenes/mm13.png
 
@@ -1172,7 +1149,7 @@ en la cruz, sujetarlo con el clip y conectar sus cables.
 
 Paso 2
 
-Despues de haber coloca con exito tu modulo ahora colocaremos el Tubo Bowden
+Después de haber coloca con éxito tu modulo ahora colocaremos el Tubo Bowden
 (es la pequeña manguera blanca) en el conector del sistema extrusor (es un aro de goma azul)
 , posteriormente sacaremos punta al filamento e introduciremos el filamento a la boquilla
 
@@ -1202,7 +1179,7 @@ Despues de haber coloca con exito tu modulo ahora colocaremos el Tubo Bowden
 Paso 3
 
 Encendemos la impresora y calentamos la boquilla recordemos que la temperatura a
-utilizarse en PLA es de 204°C y si se llegara a utilizar ABS se tendria que colocar
+utilizarse en PLA es de 204°C y si se llegara a utilizar ABS se tendría que colocar
 en 230°C.
 
                           .. figure:: /imagenes/pri17.jpg
@@ -1241,7 +1218,7 @@ tu código G como se muestra.
 1.- Abrimos cura y damos clic en Load, se abrirá una ventana en la cual buscaras y
 seleccionaras el archivo STL que previamente has modelado o bien ya tenias a la mano.
 
-Ya seleccionado le damos en la opcion abrir. Inmediatamente en cuanto des clic
+Ya seleccionado le damos en la opción abrir. Inmediatamente en cuanto des clic
 en abrir el archivo STL se cargara en cura
 
                             .. figure:: /imagenes/pri25.png
@@ -1275,8 +1252,8 @@ la misma y mandar a imprimir.
 
 Listo la impresora comenzará a calentar la cama caliente y después la boquilla,
 o solo comenzará a calentar ambas partes, esto se debe a la versión de cura que
-hayas descargado. Tambien tiene mucho que ver los parametros que le coloque a su
-impresion, en esto incluye la temperatura colocada para la impresion.
+hayas descargado. También tiene mucho que ver los parámetros que le coloque a su
+impresión, en esto incluye la temperatura colocada para la impresión.
 
                             .. figure:: /imagenes/pri33.jpg
                                       :width: 320px
@@ -1367,7 +1344,7 @@ El Módulo 2  debe de embonar bien con el Módulo 1
 Paso 4
 
 Ahora colocaremos los tornillos M3x16mm para unir y fijar ambas partes del
-Módulo Flexy. Para poder colocarlos necesitaremos la ayuda de una llave allen
+Módulo Flexy. Para poder colocarlos necesitaremos la ayuda de una llave Allen
 "L" de 2.5mm
 
                             .. figure:: /imagenes/fle8.jpg
@@ -1413,8 +1390,8 @@ Primero conectamos el motor
                             .. figure:: /imagenes/fle16.jpg
 
 Después conectamos este cable en la parte que dice M1 de la parte
-trasera de la impresora, siya cuentas con un cable conectado en esta seccion, solo
-retiralo y conecta el del motor nuevo
+trasera de la impresora, si ya cuentas con un cable conectado en esta sección, solo
+retíralo y conecta el del motor nuevo
 
                             .. figure:: /imagenes/fle17.jpg
 
@@ -1424,15 +1401,17 @@ Por último vamos a colocar el filamento y sacar un código G, de cura para pode
 imprimir, para poder meter el filamento a la boquilla usamos los siguientes pasos
 
 +------------------------------------------------------------------------------+
-|1.- Enciende la impresora                                                     |
-|2.- Da un clic a la perilla, gira la perilla y selecciona control da clic     |
-|3.- Una vez dentro del menú de control selecciona temperature y da clic       |
-|4.- Selecciona Nozzle y da clic                                               |
-|5.- Sebe la temperatura según el material que vayas a usar  y da clic para que|
-|comience a calentar.                                                          |
+| Como comenzar a imprimir                                                     |
++------------------------------------------------------------------------------+
+| - Enciende la impresora                                                      |
+| - Da un clic a la perilla, gira la perilla y selecciona control da clic      |
+| - Una vez dentro del menú de control selecciona temperature y da clic        |
+| - Selecciona Nozzle y da clic                                                |
+| - Sebe la temperatura según el material que vayas a usar  y da clic para     |
+|   que comience a calentar.                                                   |
 +------------------------------------------------------------------------------+
 
-.. Tip::
+.. Note::
 
     a) Ninjaflex y TPE  225°C
     b) PLA soft 208°C
@@ -1454,20 +1433,20 @@ si se deja apagada puede ocasionarnos un atasco porque el calor.
                             .. figure:: /imagenes/fle19.jpg
                                       :width: 320px
 
-
 Paso 9
 
 Colocaremos los parámetros para poder imprimir
-en esta parte es muy importante que coloquemos la temperatura segun el material
+en esta parte es muy importante que coloquemos la temperatura según el material
 que vayamos a usar.
 
-+------------------------------------------------------------------------------+
-|Para Ninjaflex y TPE te recomendamos usar la temperatura de impresión de 228°C|
-|Para el PLA soft te recomendamos usar la temperatura de impresión de 208°C    |
-+------------------------------------------------------------------------------+
++------------------------------------------------------------+
+| * Para Ninjaflex y TPE te recomendamos usar la temperatura |
+|   de impresión de 228°C                                    |
+| * Para el PLA soft te recomendamos usar                    |
+|   la temperatura de impresión de 208°C                     |
++------------------------------------------------------------+
 
 Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
-
 
 .. note::
    solo para el filamento PLA soft se usaran los siguientes parámetros
@@ -1495,28 +1474,29 @@ Módulo Doble
 
 GENERAL
 
-+------------------------------------------------------------------------------+
-|Características técnicas                                                      |
-+------------------------------------------------------------------------------+
-|-Dimensiones físicas:  80mm x 74mm x  96mm                                    |
-|-Temperatura máxima: 300°C                                                    |
-|-Materiales en filamentos:  Nailon(618,645), Policarbonato (PC), ABS, PLA,    |
-|Filamento flexible (TPE, PLA Soft), Lay Wood, PVA, en sí es compatible con la |
-|mayoría de los filamentos que existen en el mercado.                          |
-+------------------------------------------------------------------------------+
++--------------------------------------------------------------------+
+| Características técnicas                                           |
++--------------------------------------------------------------------+
+| - Dimensiones físicas:  80mm x 74mm x  96mm                        |
+| - Temperatura máxima: 300°C                                        |
+| - Materiales en filamentos:  Nailon(618,645), Policarbonato (PC),  |
+|   ABS, PLA, Filamento flexible (TPE, PLA Soft), Lay Wood,          |
+|   PVA, en sí es compatible con la mayoría de los filamentos        |
+|   que existen en el mercado.                                       |
++--------------------------------------------------------------------+
 
-+------------------------------------------------------------------------------+
-|Características generales                                                     |
-+------------------------------------------------------------------------------+
-|-Dos boquillas Hexagon de 0.4mm que permite extruir 2 materiales distintos o  |
-|colores diferentes.                                                           |
-|-Se puede utilizar una boquilla para material de soporte, para lograr mejores |
-|acabados superficiales.                                                       |
-|-Cada boquilla extrusora cuenta con su ducto de ventilación para el material  |
-|depositado propio, por lo que pueden manejarse de manera independiente ambos  |
-|ventiladores, en caso de que alguno de los materiales usados no requiere      |
-|ventilación.                                                                  |
-+------------------------------------------------------------------------------+
++---------------------------------------------------------------------+
+| Características generales                                           |
++---------------------------------------------------------------------+
+| - Dos boquillas Hexagon de 0.4mm que permite extruir 2 materiales   |
+|   distintos o colores diferentes.                                   |
+| - Se puede utilizar una boquilla para material de soporte, para     |
+|   lograr mejores acabados superficiales.                            |
+| - Cada boquilla extrusora cuenta con su ducto de ventilación        |
+|   para el material depositado propio, por lo que pueden manejarse   |
+|   de manera independiente ambos ventiladores, en caso de que alguno |
+|   de los materiales usados no requiere ventilación.                 |
++---------------------------------------------------------------------+
 
 INSTALACIÓN DEL MÓDULO
 
@@ -1547,7 +1527,7 @@ puede hacer esto mediante la modificación de la configuración del equipo de su
 
                           .. figure:: /imagenes/md7.jpg
 
-2.- Una vez en machine diríjase a machine settings y de click.
+2.- Una vez en machine diríjase a machine settings y de clic.
 
                           .. figure:: /imagenes/md8.png
 
@@ -1556,7 +1536,7 @@ el número 2 y seleccionamos OK.
 
                           .. figure:: /imagenes/md9.jpg
 
-4.- Misma página a entAhora volvemos a la rar a machine > machine settings > y
+4.- Misma página a ent ahora volvemos a la rar a machine > machine settings > y
 ahora verificamos que los offset se encuentren en cero.
 
                           .. figure:: /imagenes/md10.jpg
@@ -1587,7 +1567,7 @@ velocidad de impresión.
    para el tipo de soporte.
 
 *  Si se pondrá unas capas en las cuales se adherirá el material y en lo que nos
-   enfocaremos nosotros será en Support dual extrusion en esa parte utilizaremos
+   enfocaremos nosotros será en Support dual extrusión en esa parte utilizaremos
    el second extruder.
 
 *  Ahora bien por primera impresión ocuparemos colocar una palomita en wipe & prime
@@ -1655,28 +1635,28 @@ apreciar la obra que se ha hecho.
 
                           .. figure:: /imagenes/cnc1.png
 
-CARACTERÍSTICAS
-
-+------------------------------------------------------------------------------+
-|-Varias estrategias de fresado para 2D y 3D                                   |
-|-Tipos cortador de bola, plana, v-tallar con varios ángulos, definibles por el|
-|usuario                                                                       |
-|-Trabajar con datos en 3D o imágenes de profundidad                           |
-|-Capas de la piel y para el desbaste.                                         |
-|-Fresado inversa                                                              |
-|-Varias opciones para ambiente alrededor modelo                               |
-|-Protección de superficies verticales                                         |
-|-Mantenerse bajo - opción para el movimiento                                  |
-|-Configuración de tamaño del material                                         |
-|-Simulación de operaciones 3d                                                 |
-|-Antecedentes de computación de las operaciones, por lo que puede seguir      |
-|trabajando                                                                    |
-|-Entrada hélice, retracción de arco, rampa de bajada para algunas de las      |
-|estrategias.                                                                  |
-|-Puentes automáticas para la operación de recorte                             |
-|-La exportación de la cadena y de simulación                                  |
-|-Molienda 3 a 5 ejes                                                          |
-+------------------------------------------------------------------------------+
++---------------------------------------------------------------+
+| CARACTERÍSTICAS                                               |
++---------------------------------------------------------------+
+| - Varias estrategias de fresado para 2D y 3D                  |
+| - Tipos cortador de bola, plana, v-tallar con varios ángulos, |
+|   definibles por el usuario                                   |
+| - Trabajar con datos en 3D o imágenes de profundidad          |
+| - Capas de la piel y para el desbaste.                        |
+| - Fresado inversa                                             |
+| - Varias opciones para ambiente alrededor modelo              |
+| - Protección de superficies verticales                        |
+| - Mantenerse bajo - opción para el movimiento                 |
+| - Configuración de tamaño del material                        |
+| - Simulación de operaciones 3d                                |
+| - Antecedentes de computación de las operaciones, por lo que  |
+|   puede seguir trabajando                                     |
+| - Entrada hélice, retracción de arco, rampa de bajada para    |
+|   algunas de las estrategias.                                 |
+| - Puentes automáticas para la operación de recorte            |
+| - La exportación de la cadena y de simulación                 |
+| - Molienda 3 a 5 ejes                                         |
++---------------------------------------------------------------+
 
 .. Note::
 
