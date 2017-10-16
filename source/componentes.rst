@@ -1,5 +1,13 @@
 **********************
-componentes.
+Problemas frecuentes
 **********************
 
-``esto se presenta como codigo``
+Calibrar Drivers
+==================
+
+Limpieza de boquilla
+==================
+
+
+No prende mi impresora
+=======================
