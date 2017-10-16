@@ -1,5 +1,5 @@
 *******************************
-FILAMENTOS PARA IMPRESORAS 3D
+Filamento para impresora 3D 
 *******************************
 
 PLA
@@ -153,6 +153,48 @@ pintura, lo puedes lijar y darle una aplicación de pintura. Algunas personas  h
 
 *  5 aplican pintura 
    la pintura o laca, puede ser la que mas deseen se han usado pinturas en aerosol,de  agua, de aceite y hasta automotriz.
+
+
+PetG
+-----
+
+Ninjaflex
+----------
+
+Cheetah
+--------
+
+Taulman T-Glase
+----------------
+
+Taulman Nylon 645
+------------------
+
+Protopasta PLA Acero-Inoxidable
+--------------------------------
+
+Protopasta PLA Alloy
+---------------------
+
+Protopasta magnetico
+---------------------
+
+Protopasta Conductivo
+---------------------
+
+Protopasta Fibra de Carbono
+----------------------------
+
+PLA soft
+---------
+
+Laywood
+--------
+
+Laybrick
+---------
+
+
 
 
 
