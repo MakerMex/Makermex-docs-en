@@ -1,0 +1,3504 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, MakerMex SA de CV
+# This file is distributed under the same license as the MakerMex package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MakerMex 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-26 10:24-0500\n"
+"PO-Revision-Date: 2017-10-26 13:22-0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#: ../../source/mm1.rst:3
+msgid "Impresora modular MM1"
+msgstr "MM1 modular 3D printer"
+
+#: ../../source/mm1.rst:6 ../../source/mm1.rst:2253
+msgid "General"
+msgstr "General"
+
+#: ../../source/mm1.rst:9
+msgid "Características Técnicas"
+msgstr "Tecnical  features"
+
+#: ../../source/mm1.rst:9
+msgid "Tarjeta controladora"
+msgstr "Electronic board"
+
+#: ../../source/mm1.rst:11
+msgid "Área de impresión 200 mm x 200 mm x 200 mm"
+msgstr "Printing area 200mm x 200mm x 200 mm"
+
+#: ../../source/mm1.rst:12
+msgid "RUMBA"
+msgstr "RUMBA"
+
+#: ../../source/mm1.rst:13
+msgid "Volumen de impresora (aproximado) 500 mm x 370 mm x 490 mm"
+msgstr "Printer volume (aprox) 500mm x 370 mm x 490 mm"
+
+#: ../../source/mm1.rst:15
+msgid "Peso aproximado: 11 Kilogramos"
+msgstr "Aprox weight: 11 kilogrames"
+
+#: ../../source/mm1.rst:17
+msgid "Voltaje necesario 12 Volts"
+msgstr "Needed voltage 12 volts"
+
+#: ../../source/mm1.rst:24
+msgid "¿Qué incluye mi impresora?"
+msgstr "What is included with my 3D printer?"
+
+#: ../../source/mm1.rst:27
+msgid "1.- Cable USB"
+msgstr "USB Cable"
+
+#: ../../source/mm1.rst:29
+msgid "2.- Cable de fuente"
+msgstr "Power Cable"
+
+#: ../../source/mm1.rst:31
+msgid "3.- Tarjeta SD"
+msgstr "SD Card"
+
+#: ../../source/mm1.rst:33
+msgid "4.- Z mecánico"
+msgstr "Mechanical Z microswitch"
+
+#: ../../source/mm1.rst:35
+msgid "5.- Seguro doble extrusor"
+msgstr "Dual extrusion tumbler"
+
+#: ../../source/mm1.rst:37
+msgid "6.- Soporte filamento"
+msgstr "Filament support"
+
+#: ../../source/mm1.rst:39
+msgid "7.- Kit cable Rep Rap"
+msgstr "Rep Rap cable kit"
+
+#: ../../source/mm1.rst:41
+msgid "8.- Desarmador cerámico"
+msgstr "Ceramic screwdriver"
+
+#: ../../source/mm1.rst:47
+msgid "9.- Kit refacciones de boquilla Hexagón"
+msgstr "Hexagon noozle kit"
+
+#: ../../source/mm1.rst:44
+msgid "Opresores"
+msgstr ""
+
+#: ../../source/mm1.rst:45
+msgid "Llave Allen"
+msgstr "Allen wrench"
+
+#: ../../source/mm1.rst:46
+msgid "Llave española"
+msgstr "Open end wrench"
+
+#: ../../source/mm1.rst:47
+msgid "Placa de aluminio"
+msgstr "Aluminum plate"
+
+#: ../../source/mm1.rst:56
+msgid "10.- Kit refacciones generales"
+msgstr "General spare parts"
+
+#: ../../source/mm1.rst:50
+msgid "Lector tarjeta SD"
+msgstr "SD drive"
+
+#: ../../source/mm1.rst:51
+msgid "Juego de termistores"
+msgstr "Thermistors kit"
+
+#: ../../source/mm1.rst:52
+msgid "Calzas"
+msgstr ""
+
+#: ../../source/mm1.rst:53
+msgid "Piezas K1, K2"
+msgstr ""
+
+#: ../../source/mm1.rst:54
+msgid "2 tensores T"
+msgstr ""
+
+#: ../../source/mm1.rst:55
+msgid "Guía de cables V"
+msgstr "V cables guide"
+
+#: ../../source/mm1.rst:62
+msgid ""
+"Como un comentario adicional se pueden encontrar todos nuestros manuales "
+"virtuales, tutoriales, descarga de softwares ya sea Cura, Blender y "
+"Pronterface. Todo lo mencionado se encuentra disponibles en Wiki MakerMex "
+"http://makermex.com/wiki/index.html, también se es acreedor a dos horas de "
+"asesoría/soporte técnico por vídeo-llamada o presencial (Se agenda con un día "
+"de anticipación)."
+msgstr ""
+"As an aditional comment, all the digital manuals, tutorials and softwares as "
+"Cura, Blender and Pronterface are available for download in the MakerMex Wiki "
+"http://makermex.com/wiki/index.html. Also, as an owner of a MakerMex 3D printer "
+"you have two hours of technical support via video-call or in person (it must be "
+"schedulled with one day anticipation)."
+
+#: ../../source/mm1.rst:70
+msgid "MÓDULOS DE IMPRESIÓN"
+msgstr "PRINTING MODULES"
+
+#: ../../source/mm1.rst:73
+msgid ""
+"Módulo de Pastas (Imprime chocolate, barro, arcilla, cerámica, entre una gran "
+"variedad de materiales pastosos)"
+msgstr ""
+"Paste Module (prints chocolate, clay, ceramic, and a wide variety of pasty "
+"materials)"
+
+#: ../../source/mm1.rst:75
+msgid "Módulo CNC (Devasta materiales blandos)"
+msgstr "CNC Modules (Devastates soft mterials)"
+
+#: ../../source/mm1.rst:77
+msgid "Módulo Dibujo (Crea dibujos técnicos con una alta precisión)"
+msgstr "Drawing module (Creates technical drawings with high pecision)"
+
+#: ../../source/mm1.rst:79
+msgid ""
+"Módulo Flexible (El diseño de este módulo ayuda a imprimir materiales flexibles "
+"como NinjaFlex, TPE y PLA Soft)"
+msgstr ""
+"Flexible Módule (The Design of this module helps to print flexible materials as "
+"NinjaFlex, TPE and PLA Soft)"
+
+#: ../../source/mm1.rst:81
+msgid ""
+"Módulo Doble (Combina con dos materiales de impresión, incluye 2 boquillas "
+"Hexagón)"
+msgstr ""
+"Dul extrusion module (Combines two printing materials, it includes 2 hexagon "
+"noozles)"
+
+#: ../../source/mm1.rst:85
+msgid "VENTAJAS"
+msgstr "ADANTAGES"
+
+#: ../../source/mm1.rst:89
+msgid "Impresión 3D de alta calidad en una amplia gama de materiales"
+msgstr "High quality 3D printing in a wide variety of materials"
+
+#: ../../source/mm1.rst:90
+msgid "Cabezal intercambiable para cada módulo de impresión."
+msgstr "Interchangeable header for each printing module"
+
+#: ../../source/mm1.rst:91
+msgid "Plataforma open source."
+msgstr "Open source plataform"
+
+#: ../../source/mm1.rst:92
+msgid "Facilidad de reemplazo de pieza."
+msgstr "Easy to replace pieces"
+
+#: ../../source/mm1.rst:93
+msgid "Posibilidad de modificar y personalizar."
+msgstr "Posibility to customization"
+
+#: ../../source/mm1.rst:94
+msgid "Soporte personalizado."
+msgstr "Personalized support"
+
+#: ../../source/mm1.rst:98
+msgid "Unboxing"
+msgstr "unboxing"
+
+#: ../../source/mm1.rst:100
+msgid ""
+"En el primer paso para poder usar tu impresora es el desempaque de la misma, "
+"para proceder a desempacar tu MM1 deberás tener a la mano dos herramientas: un "
+"destornillador con punta de cruz o un taladro con la misma punta y un cutter."
+msgstr ""
+"The first step to use your printer is the unboxing of it, to begin you will "
+"need two tools: a manual or electric screwdriver with philips shaft"
+
+#: ../../source/mm1.rst:108
+msgid ""
+"En caso de contar con un destornillador, puedes usar un desarmador de cruz para "
+"retirar las pijas."
+msgstr ""
+
+#: ../../source/mm1.rst:110 ../../source/mm1.rst:475 ../../source/mm1.rst:607
+#: ../../source/mm1.rst:961 ../../source/mm1.rst:1083 ../../source/mm1.rst:1152
+#: ../../source/mm1.rst:1341 ../../source/mm1.rst:2283 ../../source/mm1.rst:2523
+msgid "Paso 1"
+msgstr ""
+
+#: ../../source/mm1.rst:112
+msgid ""
+"Para comenzar el desempaque de la impresora primero se deberá realizar una "
+"insepección rápida, debe asegurarse que el paquete se encuentre en buen estado "
+"es decir, que las cubiertas de madera no estén golpeadas por ninguna parte. De "
+"no ser así; se debe realizar un reporte de los daños encontrados y enviarlo lo "
+"antes posibles a los contactos anexados al final de este manual"
+msgstr ""
+
+#: ../../source/mm1.rst:120 ../../source/mm1.rst:488 ../../source/mm1.rst:614
+#: ../../source/mm1.rst:975 ../../source/mm1.rst:1176 ../../source/mm1.rst:1351
+#: ../../source/mm1.rst:2289 ../../source/mm1.rst:2539
+msgid "Paso 2"
+msgstr ""
+
+#: ../../source/mm1.rst:122
+msgid ""
+"Enseguida se debe identificar la tapa del paquete, es decir la parte superior "
+"del mismo; ahora retire los tornillos uno a uno con ayuda del destornillador o "
+"taladro."
+msgstr ""
+
+#: ../../source/mm1.rst:133 ../../source/mm1.rst:496 ../../source/mm1.rst:623
+#: ../../source/mm1.rst:991 ../../source/mm1.rst:1205 ../../source/mm1.rst:1365
+#: ../../source/mm1.rst:2307 ../../source/mm1.rst:2552
+msgid "Paso 3"
+msgstr ""
+
+#: ../../source/mm1.rst:135
+msgid ""
+"Para este paso se debe identificar los soportes de unicel que se encuentran "
+"sosteniendo en la parte interior de la impresora."
+msgstr ""
+
+#: ../../source/mm1.rst:140
+msgid ""
+"Una vez retirado los soportes de unicel vamos a quitar con cuidado los "
+"componentes de la impresora."
+msgstr ""
+
+#: ../../source/mm1.rst:152 ../../source/mm1.rst:504 ../../source/mm1.rst:637
+#: ../../source/mm1.rst:1021 ../../source/mm1.rst:1218 ../../source/mm1.rst:1374
+#: ../../source/mm1.rst:2352 ../../source/mm1.rst:2574
+msgid "Paso 4"
+msgstr ""
+
+#: ../../source/mm1.rst:154
+msgid ""
+"En este paso realizaremos dos cortes al hule burbuja, debe tener mucha "
+"precaución al momento de realizar los cortes, ya que debe de tomar en cuenta no "
+"dañar ni cortar los cables que componen dicha impresora. Una vez que haya "
+"cortado el hule burbuja como se muestra en las imágenes, se deben de hacer dos "
+"cortes como se muestra a continuación ya que esto nos facilitará el siguiente "
+"paso."
+msgstr ""
+
+#: ../../source/mm1.rst:167
+msgid ""
+"Es tener una mesa en la cual se va a colocar la impresora, te recomiendo "
+"colocarla en una mesa firme que no tenga vibraciones o movimiento."
+msgstr ""
+
+#: ../../source/mm1.rst:170 ../../source/mm1.rst:511 ../../source/mm1.rst:647
+#: ../../source/mm1.rst:1039 ../../source/mm1.rst:1237 ../../source/mm1.rst:1393
+#: ../../source/mm1.rst:2367 ../../source/mm1.rst:2595
+msgid "Paso 5"
+msgstr ""
+
+#: ../../source/mm1.rst:172
+msgid ""
+"Después de haber realizado el corte con éxito, ahora con mucho cuidado "
+"colocamos nuestras manos sobre los perfiles superiores de aluminio,(recuerda "
+"siempre ver la impresora desde el frente de la misma) para poder sacar la "
+"impresora de la caja, tal como se ilustra en las imágenes."
+msgstr ""
+
+#: ../../source/mm1.rst:181
+msgid ""
+"Como sugerencia se recomienda colocar todo lo incluido de la impresora dentro "
+"de la caja. Esto con la finalidad de no genere un desorden."
+msgstr ""
+
+#: ../../source/mm1.rst:189 ../../source/mm1.rst:519 ../../source/mm1.rst:1269
+#: ../../source/mm1.rst:1402 ../../source/mm1.rst:2375 ../../source/mm1.rst:2614
+msgid "Paso 6"
+msgstr ""
+
+#: ../../source/mm1.rst:191
+msgid ""
+"Posteriormente deberemos tener un cutter a la mano, vamos a retirar el exceso "
+"de hule burbuja con mucho cuidado, cualquier duda puede guiarse con las "
+"imágenes. Consecuentemente observará otra capa de hule y unos soportes de "
+"unicel, esto también se hará; con la ayuda del cutter."
+msgstr ""
+
+#: ../../source/mm1.rst:201 ../../source/mm1.rst:526 ../../source/mm1.rst:1410
+#: ../../source/mm1.rst:2412 ../../source/mm1.rst:2636
+msgid "Paso 7"
+msgstr ""
+
+#: ../../source/mm1.rst:203
+msgid ""
+"En este paso se deberá identificar los cinchos que están sujetando partes de la "
+"impresora , ahora con ayuda del cutter vamos a retirar los mismos que sujetan "
+"la cruz central. También se debe cortar los que están ubicados en el eje "
+"roscado, debe de realizarse con demasiado cuidado ya que en esta sección se "
+"encuentran algunos cables importantes para las impresoras."
+msgstr ""
+
+#: ../../source/mm1.rst:214
+msgid ""
+"Una vez que está libre el eje le damos algunas vueltas para que suba y así "
+"poder retirar el soporte de color rosa ubicado en la parte inferior de la "
+"máquina."
+msgstr ""
+
+#: ../../source/mm1.rst:222 ../../source/mm1.rst:536 ../../source/mm1.rst:1428
+#: ../../source/mm1.rst:2645
+msgid "Paso 8"
+msgstr ""
+
+#: ../../source/mm1.rst:224
+msgid ""
+"Ahora colocaremos la cruz en el centro de nuestra impresora y posteriormente "
+"vamos a conectar los cables que corresponden a los conectores laterales de la "
+"impresora, veamos las imágenes."
+msgstr ""
+
+#: ../../source/mm1.rst:229
+msgid ""
+"Pasamos los cables que salen del módulo por encima del perfil superior "
+"izquierdo (viendo la impresora de frente)."
+msgstr ""
+
+#: ../../source/mm1.rst:235
+msgid ""
+"Para poder asegurarse de que las conexiones fueron realizadas con éxito debe de "
+"tener en cuenta los siguientes pasos. Primero que nada debe de identificar "
+"cuantos conectores son los que se deben conectar, en total son 3 y van de la "
+"siguiente manera: 1.- El conector de 6 pines, debe de ir conectado a la entrada "
+"con el numero 1. 2.- El conector de 2 pines, debe de ir conectado a la entrada "
+"con el símbolo del ventilador. 3.- El conector de 3 pines, hace referencia al "
+"sensor del eje Z, este debe de ir conectado en la entrada con la letra Z."
+msgstr ""
+
+#: ../../source/mm1.rst:250 ../../source/mm1.rst:548 ../../source/mm1.rst:1470
+#: ../../source/mm1.rst:2690
+msgid "Paso 9"
+msgstr ""
+
+#: ../../source/mm1.rst:252
+msgid "Ahora revisemos los accesorios que vienen en nuestra caja plástica."
+msgstr ""
+
+#: ../../source/mm1.rst:256
+msgid ""
+"Sacamos todos los accesorios y revisamos. En tu caja plástica debe de venir "
+"todo lo que se menciona enseguida o bien lo que se puede observar en la imagen."
+msgstr ""
+
+#: ../../source/mm1.rst:259
+msgid ""
+"1.- Seguro doble extrusora 2.- Cable de la fuente 3.- Cable USB 4.- Calzas para "
+"la base de la impresora 5.- Termoresistores(refacciones) 6.- Seguros de bandas "
+"(refacciones) 7.- Lector SD (refacción) 8.- Tensor de banda(refacción) 9.- Guía "
+"de cables 10.- Destornillador cerámico 11.- Sensor z mecánico 12.- Kit de cables"
+msgstr ""
+
+#: ../../source/mm1.rst:274 ../../source/mm1.rst:582 ../../source/mm1.rst:2706
+msgid "Paso 10"
+msgstr ""
+
+#: ../../source/mm1.rst:276
+msgid ""
+"Ahora un punto importante: tomamos el seguro del doble extrusor, vemos que "
+"también cuenta con 6 pines, este debe de ir conectado en la parte indicada con "
+"un 2. Es importante que coloquemos este seguro ya que tu máquina no podrá; "
+"funcionar, o bien te marcará un error en la pantalla."
+msgstr ""
+
+#: ../../source/mm1.rst:284
+msgid ""
+"Después de haber realizado todas las conexiones con éxito, estas deberá lucir "
+"como se observa en la imagen."
+msgstr ""
+
+#: ../../source/mm1.rst:290
+msgid "Paso 11"
+msgstr ""
+
+#: ../../source/mm1.rst:292
+msgid ""
+"En esta parte del manual vamos a colocar las partes faltantes de nuestra "
+"impresora. Ahora tomamos el cable de alimentación y lo colocaremos en la parte "
+"lateral del lado derecho (recuerda siempre viendo la impresora desde el frente)."
+msgstr ""
+
+#: ../../source/mm1.rst:299
+msgid ""
+"Consecuentemente colocaremos la varilla en la parte trasera de la impresora, "
+"para poder saber donde se encuentra, esta debió de haber llegado en un paquete "
+"de cartón."
+msgstr ""
+
+#: ../../source/mm1.rst:308
+msgid "Paso 12"
+msgstr ""
+
+#: ../../source/mm1.rst:310
+msgid ""
+"Ahora vamos a colocar nuestra guía de cables, lo primero que tenemos que hacer "
+"es retirar el material de soporte con ayuda de un cutter. Si tiene algún "
+"problema para saber en donde se puede cortar, se puede apoyar con las imágenes."
+msgstr ""
+
+#: ../../source/mm1.rst:319
+msgid "Paso 13"
+msgstr ""
+
+#: ../../source/mm1.rst:321
+msgid ""
+"En este paso colocaremos la extrusora, esta es la encargada de distribuir el "
+"filamento al momento de imprimir, se ubica en la parte trasera de la impresora. "
+"Para poder comenzar primero deberemos tener la caja en la cual llegó nuestra "
+"extrusora."
+msgstr ""
+
+#: ../../source/mm1.rst:325
+msgid ""
+"Ahora lo primero es el desempaque del mecanismo. En este paso necesitará de "
+"nuevo el cutter, ya que viene envuelto en hule burbuja."
+msgstr ""
+
+#: ../../source/mm1.rst:333
+msgid ""
+"Ya que está descubierto cortamos el cincho del cable de la extrusora y "
+"procedemos a montarlo en la parte del perfil trasero, se puede saber en cual "
+"perfil se ccortará visualizando las imágenes. Antes de colocar podrá observar "
+"los tornillos que sobre salen del extrusor, retírelos y ahora identifique los "
+"orificios donde colocará la pieza. Posteriormente coloque los tornillos."
+msgstr ""
+
+#: ../../source/mm1.rst:347
+msgid ""
+"Con ayuda de una llave Allen de 2.5mm nos apoyaremos para atornillar los "
+"tornillos puede observar las imágenes y verificar la información. Para que la "
+"extrusora quede fija deberá atornillar los tres tornillos respectivamente."
+msgstr ""
+
+#: ../../source/mm1.rst:356
+msgid ""
+"Ahora conectaremos el motor de este mecanismo. En los accesorios que recibió de "
+"la impresora encontrará; los cables de este motor. Se conectará en la parte "
+"inferior del mecanismo y el otro extremo en la parte trasera de la impresora "
+"con referencia M1. Se puede apoyar con las siguientes imágenes."
+msgstr ""
+
+#: ../../source/mm1.rst:366
+msgid ""
+"Enseguida colocaremos el tubo bowden en el conector de la extrusora. Lo "
+"colocamos en la parte azul del conector y ejercemos una pequeña presión hacia "
+"abajo, para que quede sujeto al conector. Después de colocarlo revisemos "
+"tomándolo y jalándolo hacia arriba para poder asegurarnos de que este bien "
+"sujeto."
+msgstr ""
+
+#: ../../source/mm1.rst:374
+msgid "Paso 14"
+msgstr ""
+
+#: ../../source/mm1.rst:376
+msgid ""
+"Vamos a retirar la pieza impresa de muestra que se envía, vas a requerir una "
+"espátula o un cutter. Puede ser que la pieza se desprenda simplemente haciendo "
+"un movimiento hacia arriba con la mano. Si no se puede retirar fácilmente, "
+"coloque la espátula en la parte de abajo de la pieza e introdúzcala hasta que "
+"se levante de la cama."
+msgstr ""
+
+#: ../../source/mm1.rst:386
+msgid "Paso 15"
+msgstr ""
+
+#: ../../source/mm1.rst:388
+msgid ""
+"Después de haber retirado la pieza procedemos con identificar donde se colocará "
+"la tarjeta SD. Esto es una parte importante en este proceso ya que a la tajeta "
+"SD le cargaremos el código G o bien las coordenadas de desplazamiento."
+msgstr ""
+
+#: ../../source/mm1.rst:395
+msgid ""
+"Por &uacute;ltimo podemos conectar el cable de la fuente y encender la "
+"impresora."
+msgstr ""
+
+#: ../../source/mm1.rst:402
+msgid ""
+"Si todo lo mencionado en esta parte del manual no ha quedado claro, puede "
+"revisar este vídeo en el cual se puede observar con un poco más de claridad "
+"todos los puntos antes mencionados."
+msgstr ""
+
+#: ../../source/mm1.rst:406
+msgid "https://www.youtube.com/watch?v=SFoa9NvYTLU"
+msgstr ""
+
+#: ../../source/mm1.rst:415
+msgid "Primera Impresión"
+msgstr ""
+
+#: ../../source/mm1.rst:417
+msgid ""
+"Para realizar tu primera impresión antes que nada es necesario descargar un "
+"software de diseño donde te genere un archivo STL, nosotros recomendamos "
+"Blender."
+msgstr ""
+
+#: ../../source/mm1.rst:421
+msgid "̈́¿Que es Blender?"
+msgstr ""
+
+#: ../../source/mm1.rst:423
+msgid ""
+"Blender es un software destinado especialmente al modelado 3D, iluminación, "
+"animación y creación de gráficos tridimensionales. este programa usa la técnica "
+"de procesado de nodos, edición de vídeos, escultura y pintura digital."
+msgstr ""
+
+#: ../../source/mm1.rst:427
+msgid "¿Que es un archivo STL?"
+msgstr ""
+
+#: ../../source/mm1.rst:429
+msgid ""
+"Es un formato de archivo informático de diseño asistido por computadora (CAD) "
+"que define geometría de objetos 3D, excluyendo información como color, texturas "
+"o propiedades físicas que sí incluyen otros formatos CAD."
+msgstr ""
+
+#: ../../source/mm1.rst:433
+msgid ""
+"Una vez teniendo tu diseño en formato STL debes pasar tu diseño a un software "
+"que te genere un código G y pueda ser leído por tu impresora."
+msgstr ""
+
+#: ../../source/mm1.rst:436
+msgid ""
+"El software CURA versión 15.01 es donde pasaras tu diseño. Cura es un software "
+"que nos va a permitir convertir los archivos STL que contienen nuestro diseño "
+"3D en piezas físicas en un solo entorno de trabajo."
+msgstr ""
+
+#: ../../source/mm1.rst:440
+msgid ""
+"Todos los softwares que utilizamos son opens source o código libre, esto quiere "
+"decir que los puedes descargar de la web sin costo."
+msgstr ""
+
+#: ../../source/mm1.rst:444
+msgid "Descarga de Software"
+msgstr ""
+
+#: ../../source/mm1.rst:445
+msgid "-Software Cura"
+msgstr ""
+
+#: ../../source/mm1.rst:450
+msgid ""
+"te dejamos el link donde lo puedes descargar y te recomendamos la versión 14.12"
+msgstr ""
+
+#: ../../source/mm1.rst:452
+msgid "https://ultimaker.com/en/products/cura-software/list"
+msgstr ""
+
+#: ../../source/mm1.rst:454
+msgid "-Software pronterface"
+msgstr ""
+
+#: ../../source/mm1.rst:459 ../../source/mm1.rst:468
+msgid "te dejamos el link donde lo puedes descargar"
+msgstr ""
+
+#: ../../source/mm1.rst:461
+msgid "http://koti.kapsi.fi/~kliment/printrun/"
+msgstr ""
+
+#: ../../source/mm1.rst:463
+msgid "-Software Blender"
+msgstr ""
+
+#: ../../source/mm1.rst:470
+msgid "https://www.blender.org/download/"
+msgstr ""
+
+#: ../../source/mm1.rst:473
+msgid "instalación de cura para la impresora MM1"
+msgstr ""
+
+#: ../../source/mm1.rst:477
+msgid ""
+"Te recomendamos que entres a nuestra pagina y descargues cura. Encontraras un "
+"link de descarga y la versión que se recomiendo usar."
+msgstr ""
+
+#: ../../source/mm1.rst:481
+msgid ""
+"EL link lo podrás encontrar en la sección de ayuda, manuales, ingresas a "
+"cualquier manual y te vas a descargas de softwares."
+msgstr ""
+
+#: ../../source/mm1.rst:484
+msgid "Comienza a instalar cura"
+msgstr ""
+
+#: ../../source/mm1.rst:490
+msgid ""
+"Selecciona los archivos que deseas abrir y da clic en instalar. Se recomienda "
+"tener las opciones como se muestran en la imagen."
+msgstr ""
+
+#: ../../source/mm1.rst:498
+msgid ""
+"Una vez que los archivos del software se instalen te aparecerá una ventana, "
+"seleccionas siguiente y finalizar"
+msgstr ""
+
+#: ../../source/mm1.rst:506
+msgid "Después te aparecerá esta ventana le das siguiente y terminar."
+msgstr ""
+
+#: ../../source/mm1.rst:513
+msgid ""
+"Te aparecerá una ventana para seleccionar el idioma selecciona ingles y das "
+"clic siguiente. Posteriormente te aparecerá esta ventana selecciona other y da "
+"clic en siguiente. Esto para poder declarar las especificaciones de nuestra "
+"maquina."
+msgstr ""
+
+#: ../../source/mm1.rst:521
+msgid ""
+"Después de haber da en siguiente te mostrara esta ventana selecciona custom y "
+"da clic en siguiente."
+msgstr ""
+
+#: ../../source/mm1.rst:528
+msgid ""
+"Te aparecerá esta ventana coloca la siguiente información, una vez que lo hagas "
+"das clic en terminar. Esta es la parte donde colocas las dimensiones de la "
+"maquina que tipo de boquilla manejas y si cuenta o no coma caliente, también "
+"aparece un recuadro en el cual nos indica si el centro de la impresora esta en "
+"las coordenadas 0,0,0, esto se dejara sin seleccionar ya que nuestras "
+"impresoras no lo necesitan."
+msgstr ""
+
+#: ../../source/mm1.rst:538
+msgid "Te aparecerá esta ventana"
+msgstr ""
+
+#: ../../source/mm1.rst:542
+msgid ""
+"Las opciones para poder colocar los parámetros de impresión se colocaran en "
+"estas ventanas, usualmente solo se cambian, los parámetros de la pestañana "
+"basic y advance."
+msgstr ""
+
+#: ../../source/mm1.rst:550
+msgid ""
+"Coloca los parámetros que te recomendamos de utilizar en la pestaña de basic"
+msgstr ""
+
+#: ../../source/mm1.rst:553
+msgid "-Temperatura para PLA 200°C a 212°C"
+msgstr ""
+
+#: ../../source/mm1.rst:555
+msgid "-Cama caliente 40°C a 60°C"
+msgstr ""
+
+#: ../../source/mm1.rst:557
+msgid "-Temperatura ABS 225°C"
+msgstr ""
+
+#: ../../source/mm1.rst:559
+msgid "-Cama caliente 97°C"
+msgstr ""
+
+#: ../../source/mm1.rst:562
+msgid "En Fill Density"
+msgstr ""
+
+#: ../../source/mm1.rst:564
+msgid ""
+"El valor es variable dependiendo de la pieza que vas a realizar si la quieres "
+"frágil debe detener un relleno de entre 0 a 20%"
+msgstr ""
+
+#: ../../source/mm1.rst:568
+msgid "Frágil pero para piezas visuales se recomienda un relleno del 25% a 40%"
+msgstr ""
+
+#: ../../source/mm1.rst:571
+#, python-format
+msgid "Piezas resistentes de 45 a 60% de relleno"
+msgstr ""
+
+#: ../../source/mm1.rst:576
+msgid ""
+"En estas dos casillas se pueden seleccionar los tipos de material de soporte y "
+"de plataforma de adhesión"
+msgstr ""
+
+#: ../../source/mm1.rst:584
+msgid ""
+"Coloca los parámetros que te recomendamos de Advanced como tip en la distancia "
+"de la retracción se puede utilizar : 6 y 8"
+msgstr ""
+
+#: ../../source/mm1.rst:591
+msgid ""
+"Por ultimo en end gcode vas copiar el punto y coma y lo colocaras antes de G90 "
+"para que se quede comentado este paso."
+msgstr ""
+
+#: ../../source/mm1.rst:599
+msgid "Conexiones de la Impresora"
+msgstr ""
+
+#: ../../source/mm1.rst:601
+msgid ""
+"En este manual podemos observar como se debe conectar correctamente nuestra "
+"impresora 3D, es muy importante que llevemos acabo las indicaciones. En esta "
+"imagen se aprecia el contenido de la caja de plástico trasparente."
+msgstr ""
+
+#: ../../source/mm1.rst:609
+msgid ""
+"Conectar el Módulo Sencillo al tablero de conexiones. Del módulo sale un "
+"conector macho con 6 pines el cual se conecta en el apartado que dice 1, así "
+"como se muestra en la imagen."
+msgstr ""
+
+#: ../../source/mm1.rst:616
+msgid ""
+"Conectar el Sensor inductivo para el \"Home de Z\" del mismo módulo sale un "
+"conector de 3 pines el cual se conecta en el apartado que dice Z,asi como se "
+"muestra en la imagen."
+msgstr ""
+
+#: ../../source/mm1.rst:625
+msgid "Colocar el Seguro de doble Extrusora."
+msgstr ""
+
+#: ../../source/mm1.rst:627
+msgid ""
+"Vamos a conectar el seguro de doble extrusor en la parte indicada con un 2, "
+"este seguro solo se coloca cuando se utiliza el módulo sencillo, cuando se usa "
+"el módulo doble se retira."
+msgstr ""
+
+#: ../../source/mm1.rst:632
+msgid ""
+"Si solo esta conectado el módulo sencillo y el seguro  no esta conectado, al "
+"encender la impresora te marcara Error minitemp."
+msgstr ""
+
+#: ../../source/mm1.rst:639
+msgid "Colocar la guía de cables"
+msgstr ""
+
+#: ../../source/mm1.rst:641
+msgid ""
+"la piéza plástica que va en el interior de la caja trasparente se coloca de la "
+"siguiente forma como se aprecia en la imagen. Sirve para poder sostener los "
+"cables que salen del módulo sencillo como de la cruz central y sean "
+"direccionados a su lugar de conexión."
+msgstr ""
+
+#: ../../source/mm1.rst:649
+msgid "Como colocar los Clams y el cristal."
+msgstr ""
+
+#: ../../source/mm1.rst:651
+msgid ""
+"Los clams son los sujetadores del cristal y de la cama de metal, su posición se "
+"muestra en la imagen."
+msgstr ""
+
+#: ../../source/mm1.rst:657
+msgid "Conexiones de la impresora MM1 V1.5"
+msgstr ""
+
+#: ../../source/mm1.rst:659
+msgid ""
+"En este punto podemos observar como se debe conectar correctamente nuestra "
+"impresora 3D, es muy importante que llevemos acabo las indicaciones."
+msgstr ""
+
+#: ../../source/mm1.rst:662
+msgid "Primero tenemos que identificar nuestros conectores."
+msgstr ""
+
+#: ../../source/mm1.rst:665
+msgid "Conectores"
+msgstr ""
+
+#: ../../source/mm1.rst:667
+msgid "1.- Extrusora 1"
+msgstr ""
+
+#: ../../source/mm1.rst:669
+msgid "2.- Extrusora 2"
+msgstr ""
+
+#: ../../source/mm1.rst:671
+msgid "3.- Ventilador"
+msgstr ""
+
+#: ../../source/mm1.rst:673
+msgid "4.- Modulo CNC"
+msgstr ""
+
+#: ../../source/mm1.rst:675
+msgid "5.- Sensor Z"
+msgstr ""
+
+#: ../../source/mm1.rst:681
+msgid "Conexión del modulo sencillo."
+msgstr ""
+
+#: ../../source/mm1.rst:683
+msgid ""
+"Para poder imprimir con modulo sencillo(modulo que viene de fabrica), es "
+"necesario conectarlo de esta forma."
+msgstr ""
+
+#: ../../source/mm1.rst:687
+msgid ""
+"Cuando imprimimos con este modulo es muy importante tener conectado el seguro "
+"de doble extrusora, si este seguro no se conecta es imposible realizar la "
+"impresión"
+msgstr ""
+
+#: ../../source/mm1.rst:694
+msgid "Uso de la pantalla"
+msgstr ""
+
+#: ../../source/mm1.rst:696
+msgid ""
+"al momento de encender nuestra impresora nos aparecerá la pantalla principal en "
+"esta se puede encontrar toda la información del transcurso de la impresión, "
+"esta puede ir desde:"
+msgstr ""
+
+#: ../../source/mm1.rst:701
+msgid "Información de la pantalla"
+msgstr ""
+
+#: ../../source/mm1.rst:703
+msgid "-La temperatura actual de la boquilla"
+msgstr ""
+
+#: ../../source/mm1.rst:705
+msgid "-La temperatura de un doble extrusor"
+msgstr ""
+
+#: ../../source/mm1.rst:707
+msgid "-La temperatura actual de la cama"
+msgstr ""
+
+#: ../../source/mm1.rst:709
+msgid "-El tiempo trascurrido de impresion"
+msgstr ""
+
+#: ../../source/mm1.rst:711
+msgid "-El porcentaje de avance en la impresion"
+msgstr ""
+
+#: ../../source/mm1.rst:713
+msgid "-La velocidad de la impresion dada en porcentaje"
+msgstr ""
+
+#: ../../source/mm1.rst:715
+msgid "-Un mensaje pre-programado"
+msgstr ""
+
+#: ../../source/mm1.rst:719
+msgid ""
+"La pantalla tiene una perilla multifuncional que puede girar y a su vez "
+"seleccionar"
+msgstr ""
+
+#: ../../source/mm1.rst:719
+msgid ""
+"los menús de la pantalla, para acceder a algún menú solo giras y oprimes la "
+"perilla."
+msgstr ""
+
+#: ../../source/mm1.rst:723
+msgid ""
+"Ahora al dar clic en la perilla nos aparecerá el menú principal, este esta "
+"conformado por:"
+msgstr ""
+
+#: ../../source/mm1.rst:727
+msgid "-PREPARE"
+msgstr ""
+
+#: ../../source/mm1.rst:729
+msgid "-CONTROL"
+msgstr ""
+
+#: ../../source/mm1.rst:731
+msgid "-PRINT FROM SD."
+msgstr ""
+
+#: ../../source/mm1.rst:736
+msgid "Identifiquemos la opcin de PREPARE. giremos la perilla y oprimámosla."
+msgstr ""
+
+#: ../../source/mm1.rst:740
+msgid ""
+"Al oprimir en la opción de prepare nos aparecerá un menú nuevo, este esta "
+"formado por:"
+msgstr ""
+
+#: ../../source/mm1.rst:744
+msgid "-Disable steppers"
+msgstr ""
+
+#: ../../source/mm1.rst:746
+msgid "-Auto home"
+msgstr ""
+
+#: ../../source/mm1.rst:748 ../../source/mm1.rst:778
+msgid "-Preheat PLA"
+msgstr ""
+
+#: ../../source/mm1.rst:750 ../../source/mm1.rst:800
+msgid "-Preaheat ABS"
+msgstr ""
+
+#: ../../source/mm1.rst:752
+msgid "-CoolDown"
+msgstr ""
+
+#: ../../source/mm1.rst:754 ../../source/mm1.rst:825
+msgid "-Switch power off"
+msgstr ""
+
+#: ../../source/mm1.rst:756 ../../source/mm1.rst:830
+msgid "-Move axis"
+msgstr ""
+
+#: ../../source/mm1.rst:762
+msgid "-Disable stepper"
+msgstr ""
+
+#: ../../source/mm1.rst:764
+msgid ""
+"1.- Sirve para purgar la corriente que hay en los motores, es decir cuando "
+"encendemos la impresora, los motores los podemos mover con nuestras manos pero "
+"al mandar imprimir o mover los ejes con el pronterface o la pantalla, los "
+"motores se energizan y ya no se pueden mover con las manos pero si queremos "
+"volver a moverlos sin tener que apagar la impresora solo activamos este "
+"parámetro, basta dar un clic y se libera la corriente que hay en los motores."
+msgstr ""
+
+#: ../../source/mm1.rst:771
+msgid "-Auto Home"
+msgstr ""
+
+#: ../../source/mm1.rst:773
+msgid ""
+"2.- Esta opción nos permite mandar los ejes a su posición de origen o cero, al "
+"activarlo, la impresora moverá sus ejes en secuencia, primero el eje X se "
+"moverá a la derecha, le seguirá el eje Y moviéndose hacia el fondo, y por "
+"ultimo el eje Z se moverá hacia arriba."
+msgstr ""
+
+#: ../../source/mm1.rst:780
+msgid ""
+"3.- Esta opción nos permite calentar la boquilla y la cama caliente para usar "
+"PLA las temperaturas son adecuadas cuando se desea tener lista la boquilla para "
+"imprimir o cambiar el filamento."
+msgstr ""
+
+#: ../../source/mm1.rst:784
+msgid "Preheat PLA esta formado por:"
+msgstr ""
+
+#: ../../source/mm1.rst:787
+msgid "-Preheat PLA 1 -Preheat PLA 2 -Preheat PLA A11 -Preheat PLA bed"
+msgstr ""
+
+#: ../../source/mm1.rst:795
+msgid ""
+"A.- Al activarlo enciende la primer boquilla y cama caliente. B.- Al activarlo "
+"encienden la segunda boquillas y cama caliente. C.- Al activarlo encienden las "
+"dos boquillas y cama caliente. D.- Al activarlo se enciende la cama caliente."
+msgstr ""
+
+#: ../../source/mm1.rst:802
+msgid ""
+"4.- Esta opción nos permite calentar la boquilla y la cama caliente para usar "
+"ABS las temperaturas son adecuadas cuando se desea tener lista la boquilla para "
+"imprimir o cambiar el filamento."
+msgstr ""
+
+#: ../../source/mm1.rst:807
+msgid "Preheat PLA"
+msgstr ""
+
+#: ../../source/mm1.rst:809
+msgid "-Preheat ABS 1"
+msgstr ""
+
+#: ../../source/mm1.rst:811
+msgid "-Preheat ABS 2"
+msgstr ""
+
+#: ../../source/mm1.rst:813
+msgid "-Preheat ABS A11"
+msgstr ""
+
+#: ../../source/mm1.rst:815
+msgid "-Preheat ABS Bed"
+msgstr ""
+
+#: ../../source/mm1.rst:820
+msgid "-Cooldown"
+msgstr ""
+
+#: ../../source/mm1.rst:822
+msgid ""
+"5.- Esta opción nos permite apagar las indicaciones de los preheat damos clic y "
+"se resetea la indicación de calentar. Es decir se cancela."
+msgstr ""
+
+#: ../../source/mm1.rst:827
+msgid ""
+"6.- Esta opción es un interruptor, como un paro de emergencia pero no lo usamos "
+"preferimos usar el que energiza la impresora."
+msgstr ""
+
+#: ../../source/mm1.rst:832
+msgid ""
+"7.- Esta opción nos permite interactuar con los ejes y la extrusora es decir "
+"que los podemos mover con diferentes velocidades, con esta opción podemos "
+"calibrar la cama de impresión."
+msgstr ""
+
+#: ../../source/mm1.rst:838
+msgid ""
+"Al dar clic en Move Axis nos abre la siguiente ventana, en ella podemos "
+"seleccionar la distancia que deseamos recorrer por cada giro que demos en la "
+"perilla de la pantalla. Como se ve en la imagen tenemos 3 opciones de distancia."
+msgstr ""
+
+#: ../../source/mm1.rst:844
+msgid ""
+"Cuando seleccionamos la opción de 10mm solo nos dejara mover los ejes X,Y. "
+"Cuando seleccionamos la opción de 1mm o 0.1mm nos permite mover todos los ejes "
+"y la extrusora."
+msgstr ""
+
+#: ../../source/mm1.rst:848
+msgid ""
+"Ya que seleccionaste una distancia puedes ver las siguientes opciones, das clic "
+"a la opción que deseas mover. Y te aparecerá una nueva opción."
+msgstr ""
+
+#: ../../source/mm1.rst:853
+msgid ""
+"Al momento de seleccionar la opción deseada, tendrá que aparecer para ambas "
+"distancias."
+msgstr ""
+
+#: ../../source/mm1.rst:858
+msgid "-Eje X"
+msgstr ""
+
+#: ../../source/mm1.rst:863
+msgid "-Eje Z"
+msgstr ""
+
+#: ../../source/mm1.rst:868
+msgid "-Eje Y"
+msgstr ""
+
+#: ../../source/mm1.rst:873
+msgid "-Extrusora"
+msgstr ""
+
+#: ../../source/mm1.rst:876
+msgid ""
+"Para poder darle movimiento al eje que seleccionemos,se gira la perilla ya sea "
+"en sentido positivo o en sentido negativo."
+msgstr ""
+
+#: ../../source/mm1.rst:879
+msgid ""
+"En la opción de CONTROL se encuentran mas opciones estos ya fueron "
+"predeterminados por la programación, es necesario que se respeten estos "
+"parámetros. En esta opción podemos encontrar:"
+msgstr ""
+
+#: ../../source/mm1.rst:884
+msgid "-Temperatura"
+msgstr ""
+
+#: ../../source/mm1.rst:886
+msgid "-Motion"
+msgstr ""
+
+#: ../../source/mm1.rst:888
+msgid "-Restore failsafe"
+msgstr ""
+
+#: ../../source/mm1.rst:893
+msgid ""
+"En CONTROL podemos encontrar las siguientes opciones. de las cuales solo vamos "
+"a seleccionar una que es la de TEMPERATURE"
+msgstr ""
+
+#: ../../source/mm1.rst:898
+msgid ""
+"En TEMPERATURE encontraremos las siguientes opciones las cuales son las que nos "
+"interesan."
+msgstr ""
+
+#: ../../source/mm1.rst:904
+msgid ""
+"1.- Al darle clic se activa, y girando la perilla podemos colocar una "
+"temperatura en la primer boquilla, para que esa temperatura sea procesada se da "
+"un clic y se activa es indicación."
+msgstr ""
+
+#: ../../source/mm1.rst:908
+msgid ""
+"2.- Al darle clic se activa, y girando la perilla podemos colocar una "
+"temperatura en la segunda boquilla, para que esta temperatura sea procesada se "
+"da un clic y se activa es indicación."
+msgstr ""
+
+#: ../../source/mm1.rst:912
+msgid ""
+"3.- Al darle clic se activa, y girando la perilla podemos colocar una "
+"temperatura en la cama caliente para que esta temperatura sea procesada se da "
+"un clic y se activa es indicación."
+msgstr ""
+
+#: ../../source/mm1.rst:916
+msgid ""
+"4.- Al darle clic se activa, y girando la perilla podemos colocar una velocidad "
+"en el ventilador 40x40mm esta opción puede servir para bajar la velocidad o "
+"subirla y para que sea procesada se da un clic y se activa es indicación."
+msgstr ""
+
+#: ../../source/mm1.rst:921
+msgid ""
+"La pantalla seria nuestro control remoto de la impresora. Pero es de suma "
+"importancia hacer caso de usar solo las opciones que se mencionan."
+msgstr ""
+
+#: ../../source/mm1.rst:924
+msgid ""
+"La opción de PRINT FROM SD es la mas sencilla es donde seleccionamos nuestro "
+"código G."
+msgstr ""
+
+#: ../../source/mm1.rst:926
+msgid "TIPS PARA EL USO DE LA PANTALLA"
+msgstr ""
+
+#: ../../source/mm1.rst:928
+msgid ""
+"Recordemos que la perilla de la pantalla es multifuncional que nos sirve para "
+"seleccionar y activar la acción de cada opción de nuestra pantalla."
+msgstr ""
+
+#: ../../source/mm1.rst:931
+msgid ""
+"Cunado la impresora esta imprimiendo podemos hacer uso de algunas opciones en "
+"especial las de control, que seria subir o bajar la temperatura de la boquilla "
+"que este imprimiendo, o de la cama caliente, o bajar la velocidad del "
+"ventilador."
+msgstr ""
+
+#: ../../source/mm1.rst:935
+msgid ""
+"También con la pantalla podemos controlar la velocidad de impresión, esta "
+"opción es muy simple, cuando la impresora se encuentra en funcionamiento, si se "
+"gira la perilla en sentido de las manecillas del reloj subirá gradualmente la "
+"velocidad, si la giras en sentido contrario a las manecillas del reloj la "
+"velocidad bajara gradualmente."
+msgstr ""
+
+#: ../../source/mm1.rst:941
+msgid ""
+"Para saber que velocidad tenemos es importante saber que en los parámetros de "
+"cura seleccionamos la opción que nos indique 50 mm/s, y en la pantalla cuando "
+"esta en la pantalla principal nos aparece un porcentaje de 100% , este "
+"porcentaje es el indicador de la velocidad que se esta manejando."
+msgstr ""
+
+#: ../../source/mm1.rst:946
+msgid "Ejemplo."
+msgstr ""
+
+#: ../../source/mm1.rst:949
+msgid "Velocidad"
+msgstr ""
+
+#: ../../source/mm1.rst:951
+msgid "50mm/s = 100% 100mm/s = 200% 150mm/s = 300%"
+msgstr ""
+
+#: ../../source/mm1.rst:959
+msgid "Calibración de la impresora \"Distancia cama boquilla\""
+msgstr ""
+
+#: ../../source/mm1.rst:963
+msgid ""
+"Aflojar el sensor inductivo con una llave Allen de 2.5mm y subirlo como se "
+"muestra."
+msgstr ""
+
+#: ../../source/mm1.rst:977
+msgid ""
+"Gira con cuidado el eje z hasta subirlo, logrando que entre la cama y la "
+"boquilla quede una separación de una tarjeta de presentación."
+msgstr ""
+
+#: ../../source/mm1.rst:981
+msgid ""
+"la tarjeta debe de quedar rozando entre la boquilla y la cama para que haya una "
+"ligera separación entre estas dos."
+msgstr ""
+
+#: ../../source/mm1.rst:993
+msgid ""
+"Una vez que ya tienes la separación de una tarjeta entre la cama y la boquilla, "
+"con mucho cuidamos que el eje z se mueva ya que es muy fino y se puede bajar "
+"cuando no se usa, en este paso bajaremos el sensor inductivo para que este en "
+"relación de la distancia que dejamos entre la boquilla y la cama."
+msgstr ""
+
+#: ../../source/mm1.rst:998
+msgid ""
+"En esta el sensor hasta su punto aproximado de detección, para que la distancia "
+"que esta definida no sea afectada."
+msgstr ""
+
+#: ../../source/mm1.rst:1001
+msgid ""
+"1.-Encienda la fuente 2.-Sostén el eje z a la distancia que ya definiste con la "
+"tarjeta. 3.-Ahora como el sensor se encuentra flojo lo vas a bajar lentamente "
+"hasta que vea que comienza a encender el LED rojo que se encuentra en la parte "
+"superior. 4.-Apretar con una llave Allen 2.5mm o con unas pinzas de puta "
+"apriete hasta que que este queda firme, esto ya que el LED del sensor este "
+"encendido."
+msgstr ""
+
+#: ../../source/mm1.rst:1009
+msgid ""
+"Recuerda que nuestra principal importancia es dejar el sensor en la posición "
+"adecuada, esto quiere decir justo cuando comience a encender el LED."
+msgstr ""
+
+#: ../../source/mm1.rst:1023
+msgid ""
+"Una vez que se haya colocado correctamente el sensor vamos a seleccionar la "
+"opción de Auto Home en nuestra impresora esto para poder visualizar si se "
+"coloco en la distancia correcta el sensor."
+msgstr ""
+
+#: ../../source/mm1.rst:1034
+msgid ""
+"Cuando selecciones en Auto Home se ira a su origen 0,0,0. Podrás observar que "
+"el sensor quedo ligeramente separado de la cama al igual que la boquilla."
+msgstr ""
+
+#: ../../source/mm1.rst:1041
+msgid ""
+"Después de a ver dando la opción de Auto Home vamos a realizar algunos "
+"movimientos de los ejes X,Y con la pantalla."
+msgstr ""
+
+#: ../../source/mm1.rst:1053
+msgid ""
+"Ahora aseguremosno de lo siguiente, vamos a mover el eje Y, esto con la "
+"finalidad de que la boquilla quede calibrada con las cuatro esquinas de la cama "
+"caliente."
+msgstr ""
+
+#: ../../source/mm1.rst:1061
+msgid ""
+"Cuando des la indicación la boquilla se moverá a esta posición, aquí podrás "
+"hacer el ajuste de la distancia entre la boquilla y la cama, también "
+"asegurándose que la distancia se la de la tarjeta."
+msgstr ""
+
+#: ../../source/mm1.rst:1065
+msgid ""
+"Si por alguna razón el sensor de proximidad no se enciende, tendremos que "
+"nivelar la cama en la esquina donde nos encontramos, para poder realizar esto "
+"te puedes apoyar con tu llave Allen de 2.5mm y unas pinzas de punta para "
+"sujetar la tuerca y así ajustar el resorte."
+msgstr ""
+
+#: ../../source/mm1.rst:1070
+msgid ""
+"Dependiendo del caso si al momento de mover hacia la esquina tenemos una "
+"distancia muy alta tenemos que liberarlo, en cambio si la boquilla esta rozando "
+"con la cama tendremos que apretarlo el resorte."
+msgstr ""
+
+#: ../../source/mm1.rst:1076
+msgid ""
+"En este paso tienes solo algunos segundos para realizar cada ajuste porque "
+"cuando los motores dejan de moverse vuelven a su estado natural y el motor del "
+"eje Z se puede bajar si esto sucede vuelve a mandar Auto Home e intenta "
+"realizar el ajuste."
+msgstr ""
+
+#: ../../source/mm1.rst:1081
+msgid "Calibración de impresora \"distancia cama-boquilla\" MM1 V1.5"
+msgstr ""
+
+#: ../../source/mm1.rst:1085
+msgid ""
+"Identificar el sensor Z. En la parte superior se encuentra un LED que al "
+"detectar la cama enciende y genera el posicionamiento del eje Z. Por la parte "
+"inferior tiene una tuerca que al detenerla y girando el cuerpo del sensor "
+"podemos subir o bajar dicho sensor hasta que quede en una distancia adecuada en "
+"relación a la boquilla."
+msgstr ""
+
+#: ../../source/mm1.rst:1092
+msgid ""
+"Una vez identificado el sensor (es la pequeña pieza metálica en la boquilla), "
+"hacemos un Auto Home para que se posicione en las coordenadas X0, Y0, Z0. "
+"Después manualmente subiremos o bajaremos según sea el caso, tomaremos el eje Z "
+"hasta que quede una distancia cama-boquilla milimétrica. Una forma fácil de "
+"calibrar la distancia cama-boquilla es poner una tarjeta de presentación o bien "
+"un objeto con las mismas dimensiones, después de haber colocado esto en la cama "
+"y subir el eje hasta que la hoja este casi atorada pero que aun se pueda mover."
+msgstr ""
+
+#: ../../source/mm1.rst:1102
+msgid ""
+"Ahora después de haber obtenido la distancia adecuada aflojamos la tuerca y "
+"giramos el sensor subiendo o bajando dependiendo donde estaba colocado hasta "
+"que el LED encienda."
+msgstr ""
+
+#: ../../source/mm1.rst:1109
+msgid ""
+"Una vez prendido el LED del sensor aseguramos la tuerca que lo compone y listo "
+"ya tenemos el auto home calibrado. Posteriormente tendremos que revisar todas "
+"las esquinas de la cama estas deben de estar a la mima distancia que el la "
+"posición dada en el auto home."
+msgstr ""
+
+#: ../../source/mm1.rst:1117
+msgid ""
+"Para calibrar el resto de la cama tendremos que ir a las opciones de la "
+"pantalla vamos identificar la opción de move axis esto para poder movernos en "
+"la cama por medio de los ejes independientemente."
+msgstr ""
+
+#: ../../source/mm1.rst:1123
+msgid ""
+"Primero moveremos el eje Y hasta la posición que indica la imagen, si el LED se "
+"apaga quiere decir que no detecta la cama y tenemos que subirla unos cuantos "
+"milímetros mas hasta que la el LED encienda, si fuera el caso de que el LED "
+"permanece encendido pero la boquilla esta rozando demasiado la cama tendremos "
+"que aflojar el resorte hasta que la boquilla quede mas liberada, para poder "
+"saber de que quedo en la en la distancia correcta, esta debe de tener la misma "
+"distancia cama-boquilla que en el Auto Home."
+msgstr ""
+
+#: ../../source/mm1.rst:1132
+msgid ""
+"Para subir o bajar la cama nos apoyamos con unas pinzas de punta y una llave "
+"Allen M3, deteniendo la tuerca de seguridad con las pinzas y girando el "
+"tornillo con la llave."
+msgstr ""
+
+#: ../../source/mm1.rst:1138
+msgid ""
+"Una vez calibrando este extremo de la cama nos movemos hacia el otro extremo "
+"sobre el eje X y repetimos el paso anterior."
+msgstr ""
+
+#: ../../source/mm1.rst:1143
+msgid "Repetimos los mismos pasos para el otro extremo."
+msgstr ""
+
+#: ../../source/mm1.rst:1147
+msgid ""
+"Y listo ya tienes tu cama calibrada y tu impresora lista para imprimir tus "
+"diseños."
+msgstr ""
+
+#: ../../source/mm1.rst:1150
+msgid "¡ Ya desempacaste tu impresora ahora vamos a ponerla a imprimir !"
+msgstr ""
+
+#: ../../source/mm1.rst:1154
+msgid ""
+"En esta parte del manual colocaremos el modulo de la impresora, esto solo si tu "
+"módulo esta suelto, cuando decimos la palabra modulo nos referimos a la parte "
+"donde se encuentra la boquilla, para poder colocar se realiza de la siguiente "
+"manera, lo deberás colocar en la cruz, sujetarlo con el clip y conectar sus "
+"cables."
+msgstr ""
+
+#: ../../source/mm1.rst:1178
+msgid ""
+"Después de haber coloca con éxito tu modulo ahora colocaremos el Tubo Bowden "
+"(es la pequeña manguera blanca) en el conector del sistema extrusor (es un aro "
+"de goma azul) , posteriormente sacaremos punta al filamento e introduciremos el "
+"filamento a la boquilla"
+msgstr ""
+
+#: ../../source/mm1.rst:1186
+msgid ""
+"La punta que le sacaremos al filamento es para que sea una guía al momento de "
+"introducirlo en el tubo, lo hacemos de dos maneras: utilizando un sacapuntas de "
+"metal y/o con pinzas de corte"
+msgstr ""
+
+#: ../../source/mm1.rst:1207
+msgid ""
+"Encendemos la impresora y calentamos la boquilla recordemos que la temperatura "
+"a utilizarse en PLA es de 204°C y si se llegara a utilizar ABS se tendría que "
+"colocar en 230°C."
+msgstr ""
+
+#: ../../source/mm1.rst:1220
+msgid ""
+"Una vez que ya subió la temperatura daremos unas vueltas al engrane Grande "
+"ubicado en la parte donde se encuentra colocado el filamento, esto con la "
+"finalidad de que comience a salir material de la boquilla, una vez que el "
+"material ya salio por la punta de la boquilla, ya podremos saber que el "
+"material esta colocado correctamente."
+msgstr ""
+
+#: ../../source/mm1.rst:1228
+msgid ""
+"Este proceso es el mismo para poder retirar el material, se calienta la "
+"boquilla y se retira el filamento girando los engranes en sentido normal a las "
+"manecillas del reloj. Este paso se hace para cambiar el filamento o retirar un "
+"sobrante y colocar un carrete nuevo."
+msgstr ""
+
+#: ../../source/mm1.rst:1239
+msgid ""
+"Mandamos a imprimir desde la tarjeta SD se hace lo siguiente, la tarjeta "
+"llevará un código G, puedes utilizar este código precargado o puedes cargar un "
+"código de una pieza que tu desees, para poder realizar esto no olvides que "
+"tienes que generar tu código G como se muestra."
+msgstr ""
+
+#: ../../source/mm1.rst:1244
+msgid ""
+"1.- Abrimos cura y damos clic en Load, se abrirá una ventana en la cual "
+"buscaras y seleccionaras el archivo STL que previamente has modelado o bien ya "
+"tenias a la mano."
+msgstr ""
+
+#: ../../source/mm1.rst:1247
+msgid ""
+"Ya seleccionado le damos en la opción abrir. Inmediatamente en cuanto des clic "
+"en abrir el archivo STL se cargara en cura"
+msgstr ""
+
+#: ../../source/mm1.rst:1254
+msgid ""
+"2.- Retira la memoria SD de la impresora, e inserta en tu computadora, observa "
+"bien como cambian los iconos al momento de insertar la memoria, en automático "
+"puedes guardar tu código G en la tarjeta SD dando clic sobre el icono en cura "
+"de la tarjeta SD."
+msgstr ""
+
+#: ../../source/mm1.rst:1263
+msgid ""
+"Una vez que das clic en el icono de la tarjeta SD se ha guardado tu código en "
+"la tarjeta y deberás sacarla hasta que te aparezca la leyenda de que se ha "
+"guardo en la tajeta SD."
+msgstr ""
+
+#: ../../source/mm1.rst:1271
+msgid ""
+"Listo puede retirar su tajeta SD y volverla a colocar en la impresora, encender "
+"la misma y mandar a imprimir."
+msgstr ""
+
+#: ../../source/mm1.rst:1279
+msgid ""
+"Listo la impresora comenzará a calentar la cama caliente y después la boquilla, "
+"o solo comenzará a calentar ambas partes, esto se debe a la versión de cura que "
+"hayas descargado. También tiene mucho que ver los parámetros que le coloque a "
+"su impresión, en esto incluye la temperatura colocada para la impresión."
+msgstr ""
+
+#: ../../source/mm1.rst:1289
+msgid ""
+"En cuanto la temperatura que colocamos en el Código G llegue en la pantalla "
+"comenzará a imprimir, lo primero que hará es irse a su origen de los ejes X,Y y "
+"Z. Y sacara un poco de material y se va a hacia el centro, para comenzar a "
+"imprimir."
+msgstr ""
+
+#: ../../source/mm1.rst:1293
+msgid ""
+"La primer capa siempre es la mas importante debe de quedar un poco aplastada "
+"hacia la cama caliente, para ser mas exactos así como se muestra en las "
+"imágenes."
+msgstr ""
+
+#: ../../source/mm1.rst:1303
+msgid ""
+"Ya que termino la impresión solo retiramos la pieza con ayuda de un cutter o "
+"una espátula tratamos de levantar la pieza por una esquina y hacemos una "
+"palanca para que comience a desprenderse, también podemos apoyarnos con las "
+"manos para despegarla."
+msgstr ""
+
+#: ../../source/mm1.rst:1310
+msgid "Módulos"
+msgstr ""
+
+#: ../../source/mm1.rst:1313
+msgid "Módulo Flexy"
+msgstr ""
+
+#: ../../source/mm1.rst:1315
+msgid ""
+"Este módulo te sirve para poder imprimir con materiales flexibles, como el "
+"Ninjaflex, el TPE, PLA Soft entre otros más. Te invitamos a que revises este "
+"pequeño manual para que puedas hacer un buen uso de tu Módulo Flexy."
+msgstr ""
+
+#: ../../source/mm1.rst:1319
+msgid ""
+"En este manual vamos a colocar nuestro módulo Flexy e imprimir lo primero que "
+"tenemos que hacer es tener bien identifiquemos los componentes de este Módulo."
+msgstr ""
+
+#: ../../source/mm1.rst:1325
+msgid "1.- Módulo inferior  (boquilla )"
+msgstr ""
+
+#: ../../source/mm1.rst:1327
+msgid "2.- Módulo superior (Extrusor)"
+msgstr ""
+
+#: ../../source/mm1.rst:1329
+msgid "3.- Guía de filamento"
+msgstr ""
+
+#: ../../source/mm1.rst:1331
+msgid "4.- Cable de motor para extrusor"
+msgstr ""
+
+#: ../../source/mm1.rst:1333
+msgid "5.- Tres tornillos M3x16mm"
+msgstr ""
+
+#: ../../source/mm1.rst:1338
+msgid ""
+"Estas piezas son indispensables y únicas para poder montar y usar tu Módulo "
+"Flexyble."
+msgstr ""
+
+#: ../../source/mm1.rst:1343
+msgid ""
+"Colocaremos el Módulo 1 por debajo de la cruz hasta que llegue a su limite."
+msgstr ""
+
+#: ../../source/mm1.rst:1353
+msgid ""
+"Ahora colocamos nuestro clip de sujeción, este es un paso importante ya que es "
+"legal parte de apoyo entre la cruz y el modulo."
+msgstr ""
+
+#: ../../source/mm1.rst:1363
+msgid "hasta este punto el módulo 1 esta anclado a la cruz central."
+msgstr ""
+
+#: ../../source/mm1.rst:1367
+msgid ""
+"Colocamos el módulo 2 en la parte superior del módulo 1. Es de suma importancia "
+"ya que esta es la parte en donde se distribuye el filamento a utilizar."
+msgstr ""
+
+#: ../../source/mm1.rst:1372
+msgid "El Módulo 2  debe de embonar bien con el Módulo 1"
+msgstr ""
+
+#: ../../source/mm1.rst:1376
+msgid ""
+"Ahora colocaremos los tornillos M3x16mm para unir y fijar ambas partes del "
+"Módulo Flexy. Para poder colocarlos necesitaremos la ayuda de una llave Allen "
+"\"L\" de 2.5mm"
+msgstr ""
+
+#: ../../source/mm1.rst:1382
+msgid ""
+"Gira un poco el engrane grande para poder colocar los dos tornillos que van en "
+"la parte que señala la flecha."
+msgstr ""
+
+#: ../../source/mm1.rst:1395
+msgid ""
+"Colocamos la guía de filamento en el perfil superior trasero como se ve en las "
+"imágenes."
+msgstr ""
+
+#: ../../source/mm1.rst:1404
+msgid ""
+"Vamos a conectar los cables del módulo, pasamos los cables por encima del "
+"perfil superior izquierdo y  conectamos los cables."
+msgstr ""
+
+#: ../../source/mm1.rst:1412
+msgid ""
+"Ya que conectamos todos los conectores pasamos a conectar el motor con su cable."
+msgstr ""
+
+#: ../../source/mm1.rst:1415
+msgid ""
+"recuerda que este cable es diferente al que ya tienes conectado es igual de sus "
+"conectores pero tiene algo exclusivo para el motor del flexy."
+msgstr ""
+
+#: ../../source/mm1.rst:1418
+msgid "Primero conectamos el motor"
+msgstr ""
+
+#: ../../source/mm1.rst:1422
+msgid ""
+"Después conectamos este cable en la parte que dice M1 de la parte trasera de la "
+"impresora, si ya cuentas con un cable conectado en esta sección, solo retíralo "
+"y conecta el del motor nuevo"
+msgstr ""
+
+#: ../../source/mm1.rst:1430
+msgid ""
+"Por último vamos a colocar el filamento y sacar un código G, de cura para poder "
+"imprimir, para poder meter el filamento a la boquilla usamos los siguientes "
+"pasos"
+msgstr ""
+
+#: ../../source/mm1.rst:1434
+msgid "Como comenzar a imprimir"
+msgstr ""
+
+#: ../../source/mm1.rst:1436
+msgid "Enciende la impresora"
+msgstr ""
+
+#: ../../source/mm1.rst:1438
+msgid "Da un clic a la perilla, gira la perilla y selecciona control da clic"
+msgstr ""
+
+#: ../../source/mm1.rst:1440
+msgid "Una vez dentro del menú de control selecciona temperature y da clic"
+msgstr ""
+
+#: ../../source/mm1.rst:1442
+msgid "Selecciona Nozzle y da clic"
+msgstr ""
+
+#: ../../source/mm1.rst:1444
+msgid ""
+"Sebe la temperatura según el material que vayas a usar  y da clic para que "
+"comience a calentar."
+msgstr ""
+
+#: ../../source/mm1.rst:1450
+msgid "Ninjaflex y TPE  225°C"
+msgstr ""
+
+#: ../../source/mm1.rst:1451
+msgid "PLA soft 208°C"
+msgstr ""
+
+#: ../../source/mm1.rst:1453
+msgid ""
+"Una vez que este caliente la boquilla introducimos el filamento por la guía de "
+"filamento lo llevamos hasta el orificio que esta en el módulo 2 y giramos el "
+"engrane grande en sentido normal a las manecillas del reloj, para que el "
+"filamento llegue hasta la boquilla."
+msgstr ""
+
+#: ../../source/mm1.rst:1457
+msgid ""
+"Cuando esto pase se vera que sale como un hilo pequeño de la boquilla y el "
+"filamento estará listo para usarse."
+msgstr ""
+
+#: ../../source/mm1.rst:1460
+msgid ""
+"Ahora apagamos la impresora y la volvemos a encender, esto se hace para que de "
+"un rest la tarjeta madre y deje de calentar al volverla a encender nos ayuda a "
+"que la boquilla se enfrié con ayuda del ventilador pequeño ya que es de metal y "
+"si se deja apagada puede ocasionarnos un atasco porque el calor."
+msgstr ""
+
+#: ../../source/mm1.rst:1472
+msgid ""
+"Colocaremos los parámetros para poder imprimir en esta parte es muy importante "
+"que coloquemos la temperatura según el material que vayamos a usar."
+msgstr ""
+
+#: ../../source/mm1.rst:1477
+msgid ""
+"Para Ninjaflex y TPE te recomendamos usar la temperatura de impresión de 228°C"
+msgstr ""
+
+#: ../../source/mm1.rst:1480
+msgid "Para el PLA soft te recomendamos usar la temperatura de impresión de 208°C"
+msgstr ""
+
+#: ../../source/mm1.rst:1484
+msgid "Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE."
+msgstr ""
+
+#: ../../source/mm1.rst:1487
+msgid "solo para el filamento PLA soft se usaran los siguientes parámetros"
+msgstr ""
+
+#: ../../source/mm1.rst:1503
+msgid ""
+"Listo amigos una vez que tenemos estos parámetros en nuestro cura podemos sacar "
+"nuestro código G en la tarjeta SD y mandar a imprimir como lo hemos hecho en la "
+"primera impresión."
+msgstr ""
+
+#: ../../source/mm1.rst:1508
+msgid "Módulo Doble"
+msgstr ""
+
+#: ../../source/mm1.rst:1510
+msgid "GENERAL"
+msgstr ""
+
+#: ../../source/mm1.rst:1513
+msgid "Características técnicas"
+msgstr ""
+
+#: ../../source/mm1.rst:1515
+msgid "Dimensiones físicas:  80mm x 74mm x  96mm"
+msgstr ""
+
+#: ../../source/mm1.rst:1516
+msgid "Temperatura máxima: 300°C"
+msgstr ""
+
+#: ../../source/mm1.rst:1517
+msgid ""
+"Materiales en filamentos:  Nailon(618,645), Policarbonato (PC), ABS, PLA, "
+"Filamento flexible (TPE, PLA Soft), Lay Wood, PVA, en sí es compatible con la "
+"mayoría de los filamentos que existen en el mercado."
+msgstr ""
+
+#: ../../source/mm1.rst:1524
+msgid "Características generales"
+msgstr ""
+
+#: ../../source/mm1.rst:1526
+msgid ""
+"Dos boquillas Hexagon de 0.4mm que permite extruir 2 materiales distintos o "
+"colores diferentes."
+msgstr ""
+
+#: ../../source/mm1.rst:1528
+msgid ""
+"Se puede utilizar una boquilla para material de soporte, para lograr mejores "
+"acabados superficiales."
+msgstr ""
+
+#: ../../source/mm1.rst:1530
+msgid ""
+"Cada boquilla extrusora cuenta con su ducto de ventilación para el material "
+"depositado propio, por lo que pueden manejarse de manera independiente ambos "
+"ventiladores, en caso de que alguno de los materiales usados no requiere "
+"ventilación."
+msgstr ""
+
+#: ../../source/mm1.rst:1536
+msgid "INSTALACIÓN DEL MÓDULO"
+msgstr ""
+
+#: ../../source/mm1.rst:1538
+msgid ""
+"Con el fin de empezar a imprimir de una manera doble material debe poner el "
+"módulo en el apoyo universal transversal de los módulos por su MM1."
+msgstr ""
+
+#: ../../source/mm1.rst:1544
+msgid ""
+"Vamos a colocar nuestro segundo extrusor como colocamos el primero solo que "
+"este va colocado en la parte derecha."
+msgstr ""
+
+#: ../../source/mm1.rst:1549
+msgid ""
+"Debe conectar el segundo extrusor en el cable de 6 pines con la etiqueta \"2\". "
+"La primera máquina de extrusión y el sensor inductivo se conectan de la misma "
+"manera del módulo individual."
+msgstr ""
+
+#: ../../source/mm1.rst:1556
+msgid "CONFIGURACIÓN DE CURA"
+msgstr ""
+
+#: ../../source/mm1.rst:1558
+msgid ""
+"Usted tendrá que ajustar los parámetros de Cura para el módulo de doble "
+"extrusión. puede hacer esto mediante la modificación de la configuración del "
+"equipo de su MM1."
+msgstr ""
+
+#: ../../source/mm1.rst:1561
+msgid "1.- Diríjase a la etiqueta machine"
+msgstr ""
+
+#: ../../source/mm1.rst:1565
+msgid "2.- Una vez en machine diríjase a machine settings y de clic."
+msgstr ""
+
+#: ../../source/mm1.rst:1569
+msgid ""
+"3.- Diríjase a Extruder count, damos clic en la pestaña de un lado y selecciona "
+"el número 2 y seleccionamos OK."
+msgstr ""
+
+#: ../../source/mm1.rst:1574
+msgid ""
+"4.- Misma página a ent ahora volvemos a la rar a machine > machine settings > y "
+"ahora verificamos que los offset se encuentren en cero."
+msgstr ""
+
+#: ../../source/mm1.rst:1579
+msgid ""
+"5.- Ahora modificaremos lo datos de impresión según el material utilizado y los "
+"parámetros del filamento."
+msgstr ""
+
+#: ../../source/mm1.rst:1584
+msgid ""
+"5.1.- Ahora se modificaran los parámetros de cura con los datos de filamento "
+"las capas las paredes el leyendo y la retracción que se desea hacer así como la "
+"velocidad de impresión."
+msgstr ""
+
+#: ../../source/mm1.rst:1588
+msgid ""
+"En layer height  se selecciona la altura de cada capa y con Shell thickness el "
+"grosor de cada capa"
+msgstr ""
+
+#: ../../source/mm1.rst:1590
+#, python-format
+msgid ""
+"En fill Density se selecciona la densidad de relleno de la figura que está en % "
+"normal mente se utiliza un relleno de 40 para piezas funcionales y un 20 o 15% "
+"si la pieza es para muestra."
+msgstr ""
+
+#: ../../source/mm1.rst:1594
+msgid "Ahora en print Speed seleccionamos la velocidad de impresión en mm/s."
+msgstr ""
+
+#: ../../source/mm1.rst:1596
+msgid ""
+"Y seleccionamos la temperatura con la que trabajara cada boquilla o nozzle esto "
+"de acuerdo al material de impresión así como de la cama nosotros nos "
+"enfocaremos en el poner la temperatura de 2nd temperatura"
+msgstr ""
+
+#: ../../source/mm1.rst:1600
+msgid ""
+"Ahora se definirá si la figura necesita algún soporte este soporte por primera "
+"impresión lo aremos con la segunda boquilla  así que moveremos en support type "
+"para el tipo de soporte."
+msgstr ""
+
+#: ../../source/mm1.rst:1604
+msgid ""
+"Si se pondrá unas capas en las cuales se adherirá el material y en lo que nos "
+"enfocaremos nosotros será en Support dual extrusión en esa parte utilizaremos "
+"el second extruder."
+msgstr ""
+
+#: ../../source/mm1.rst:1608
+msgid ""
+"Ahora bien por primera impresión ocuparemos colocar una palomita en wipe & "
+"prime tower que es una torre que generara con cada capa para verificar que no "
+"tenga desfase la máquina."
+msgstr ""
+
+#: ../../source/mm1.rst:1612
+msgid ""
+"Ahora bien para el diámetro del filamento se modifica el diameter2 (mm) "
+"utilizaremos el mismo que para diameter (mm).que por lo regular se encuentra "
+"entre 2.89 y 3 mm."
+msgstr ""
+
+#: ../../source/mm1.rst:1615
+msgid ""
+"5.2.- Ahora en advanced modificaremos la retracción del material que por lo "
+"común se modificara solo “speed (mm/s)” que normalmente es de 15 a 20 Y en "
+"“distance (mm)” por lo regular se utilizan parámetros de 5 hasta 8 mm."
+msgstr ""
+
+#: ../../source/mm1.rst:1623
+msgid "Estableciendo el perfil de materiales"
+msgstr ""
+
+#: ../../source/mm1.rst:1625
+msgid ""
+"Usted necesitará un modelo que se corta en dos partes, dejando Cura para saber "
+"qué parte va a asignar a cada extrusora. Hay varios ejemplos ya preparados, o "
+"usted puede cortar los modelos por sí mismo con un software de modelado 3D como "
+"Blender."
+msgstr ""
+
+#: ../../source/mm1.rst:1629
+msgid ""
+"En Cura debe importar la primera parte del modelo que se va a imprimir con la "
+"primera extrusora."
+msgstr ""
+
+#: ../../source/mm1.rst:1634
+msgid ""
+"Posteriormente se debe importar la parte del modelo que se va a imprimir con la "
+"segunda extrusora."
+msgstr ""
+
+#: ../../source/mm1.rst:1640
+msgid ""
+"Por último, debe unirlos haciendo clic derecho en el espacio de trabajo en Cura "
+"y seleccionando la opción \"Dual fusión de extrusión\"."
+msgstr ""
+
+#: ../../source/mm1.rst:1645
+msgid "Así queda la figura. la segunda extrusora imprimirá las partes en rojo"
+msgstr ""
+
+#: ../../source/mm1.rst:1649
+msgid ""
+"Ya que esta unida la pieza en el software cura, para poder mandar a imprimir, "
+"es necesario sacar nuestro código en la Tarjeta SD, así como lo hemos hecho en "
+"la primera impresión, guardamos el código en la terjeta SD la introducimos en "
+"la impresora, encendemos la impresora seleccionamos el código para poder mandar "
+"a imprimir."
+msgstr ""
+
+#: ../../source/mm1.rst:1655
+msgid "Módulo CNC"
+msgstr ""
+
+#: ../../source/mm1.rst:1657
+msgid "MANUAL DE GRAVADO CON EL MÓDULO CNC con BlenderCAM"
+msgstr ""
+
+#: ../../source/mm1.rst:1659
+msgid "DESCRPCIÓN DEL SOFTWARE"
+msgstr ""
+
+#: ../../source/mm1.rst:1661
+msgid "¿Que es BlenderCAM?"
+msgstr ""
+
+#: ../../source/mm1.rst:1663
+msgid ""
+"BlenderCAM es una solución de código abierto para la CAM artístico - "
+"Informática mecanizado asistido - una herramienta de generación de código G. "
+"BlenderCAM es una extensión para el paquete de código abierto Blender 3D "
+"gratis. Se ha utilizado durante muchos proyectos de fresado, y está "
+"desarrollado activamente. Si usted es un desarrollador que le gustaría ayudar, "
+"no dudes en contactarnos. Esta extensión es gratis, sin embargo se puede donar "
+"para apoyar el desarrollo y apreciar la obra que se ha hecho."
+msgstr ""
+
+#: ../../source/mm1.rst:1674
+msgid "CARACTERÍSTICAS"
+msgstr ""
+
+#: ../../source/mm1.rst:1676
+msgid "Varias estrategias de fresado para 2D y 3D"
+msgstr ""
+
+#: ../../source/mm1.rst:1677
+msgid ""
+"Tipos cortador de bola, plana, v-tallar con varios ángulos, definibles por el "
+"usuario"
+msgstr ""
+
+#: ../../source/mm1.rst:1679
+msgid "Trabajar con datos en 3D o imágenes de profundidad"
+msgstr ""
+
+#: ../../source/mm1.rst:1680
+msgid "Capas de la piel y para el desbaste."
+msgstr ""
+
+#: ../../source/mm1.rst:1681
+msgid "Fresado inversa"
+msgstr ""
+
+#: ../../source/mm1.rst:1682
+msgid "Varias opciones para ambiente alrededor modelo"
+msgstr ""
+
+#: ../../source/mm1.rst:1683
+msgid "Protección de superficies verticales"
+msgstr ""
+
+#: ../../source/mm1.rst:1684
+msgid "Mantenerse bajo - opción para el movimiento"
+msgstr ""
+
+#: ../../source/mm1.rst:1685
+msgid "Configuración de tamaño del material"
+msgstr ""
+
+#: ../../source/mm1.rst:1686
+msgid "Simulación de operaciones 3d"
+msgstr ""
+
+#: ../../source/mm1.rst:1687
+msgid ""
+"Antecedentes de computación de las operaciones, por lo que puede seguir "
+"trabajando"
+msgstr ""
+
+#: ../../source/mm1.rst:1689
+msgid ""
+"Entrada hélice, retracción de arco, rampa de bajada para algunas de las "
+"estrategias."
+msgstr ""
+
+#: ../../source/mm1.rst:1691
+msgid "Puentes automáticas para la operación de recorte"
+msgstr ""
+
+#: ../../source/mm1.rst:1692
+msgid "La exportación de la cadena y de simulación"
+msgstr ""
+
+#: ../../source/mm1.rst:1693
+msgid "Molienda 3 a 5 ejes"
+msgstr ""
+
+#: ../../source/mm1.rst:1698
+msgid "Más información: http://blendercam.blogspot.mx"
+msgstr ""
+
+#: ../../source/mm1.rst:1701
+msgid "INSTALACIÓN DE BLENDER-CAM"
+msgstr ""
+
+#: ../../source/mm1.rst:1704
+msgid ""
+"Para instalar BlenderCAM hacemos clic en el link que nos envía a la página "
+"oficial del software."
+msgstr ""
+
+#: ../../source/mm1.rst:1708
+msgid ""
+"Link  de descarga http://blendercam.blogspot.mx/p/download-and-installation.html"
+msgstr ""
+
+#: ../../source/mm1.rst:1712
+msgid ""
+"Abrimos la pestaña: Download and installation Damos clic en: Google Drive "
+"repository"
+msgstr ""
+
+#: ../../source/mm1.rst:1717
+msgid ""
+"En la pestaña siguiente seleccionamos el BlenderCAM de acuerdo a nuestro "
+"sistema operativo."
+msgstr ""
+
+#: ../../source/mm1.rst:1722
+msgid "DESCRIPCIÓN DEL ÁREA DE TRABAJO"
+msgstr ""
+
+#: ../../source/mm1.rst:1726
+msgid ""
+"En la imagen 1, se muestra la pantalla de inicio de BlenderCAM versión 2.70 a. "
+"a continuación se describirá las áreas de trabajo de una forma básica."
+msgstr ""
+
+#: ../../source/mm1.rst:1729
+msgid ""
+"1.- Es el panel de herramientas y su atajo es la tecla [T], en el cual podremos "
+"crear una figura primaria, mover, escalar, rotar entre otras, sin modificar la "
+"forma o estructura del objeto 2.- Es el área de trabajo, la cruz negra es el "
+"cursor que al crear una figura u objeto el punto donde se encuentre "
+"posicionado  será su origen al nacer o su centro, la posición del cursor  puede "
+"ser modificar en el panel de propiedades (3) o con clic izquierdo Dentro del "
+"área."
+msgstr ""
+
+#: ../../source/mm1.rst:1737
+msgid ""
+"Con clic derecho podemos seleccionar los objetos además de moverlos de una "
+"forma libre. Podemos hacer zoom moviendo el scroll."
+msgstr ""
+
+#: ../../source/mm1.rst:1740
+msgid ""
+"3.- Es el panel de propiedades y su atajo es la letra [N], en donde encontramos "
+"y podemos modificar la posición del objeto y el cursor  en el espacio,  las "
+"dimensiones, el sombreado con multitexturas entre otros. 4.- Es el árbol de "
+"operaciones en donde encontramos cada objeto en el área y tipo de operación, "
+"aquí podemos modificar la visualización a modo transparente, hacer extracciones "
+"de Renderizado y seleccionar el objeto. 5.- Es la ventana de preferencias del "
+"usuario aquí podemos hacer modificaciones en el entorno de Blender, propiedades "
+"del documento, importar/exportar, cambiar el tipo de ventana etc. 6.- Es la "
+"ventana de visión 3D donde podemos modificar la visualización de los elementos, "
+"objetos en modo alambre, el mapa de las capas (layers) y algunas herramientas "
+"para el modelado como SNAP. 7.- Es el panel de operaciones, parámetros y "
+"encadenado CAM, en algunas ocasiones, después de la instalación de BlenderCAM "
+"puede no aparecer el modo CAM, a continuación se explicara como entrar en el "
+"modo CAM, seguido de  activar el BlenderCAM complemento para un mejor "
+"aprovechamiento del software."
+msgstr ""
+
+#: ../../source/mm1.rst:1759
+msgid ""
+"8.- Ir a al panel User Preference , seleccionar File y abrir la carpeta User "
+"Preferences. También se puede llegar con el siguiente comando Ctrl+Alt+U. 9.- "
+"En la parte superior de la ventana seleccionar la tabla Add-ons. 10.- "
+"Seleccionaren las categorías scene. 11.- En esta parte nos aparece el "
+"complemento CAM, para activarlo damos clic en el cuadro hasta ser marcado como "
+"en la imagen. 12.- Asegurarnos de que la dirección coincida con la de la imagen "
+"para el Add-on completo."
+msgstr ""
+
+#: ../../source/mm1.rst:1768
+msgid ""
+"El segundo paso es guiar a BlenderCAM a buscar una ruta alternativa, para los "
+"complementos. Cuando BlenderCAM se ejecute, buscara la ruta para Add-ons "
+"correspondiente a los scrips, de esta manera una fuente externa Add-on, se "
+"puede utilizar en Blender."
+msgstr ""
+
+#: ../../source/mm1.rst:1774
+msgid ""
+"13.- Ir a al panel User Preference , seleccionar File y abrir la carpeta User "
+"Preferences. También se puede llegar con el siguiente comando Ctrl+Alt+U. 14.- "
+"En la parte superior de la ventana seleccionar la tabla File. 15.- Ir al "
+"segmento scripts y seleccionar la carpeta con la ruta de BlenderCAM /scripts "
+"directorio. 16.- Al terminar, seleccionar Save User Settings, para quer "
+"nuestros ajustes queden guardados. 17.- Como paso final, reiniciar Blender."
+msgstr ""
+
+#: ../../source/mm1.rst:1783
+msgid "Entrar al modo CAM"
+msgstr ""
+
+#: ../../source/mm1.rst:1788
+msgid "Ir a la barra superior (User Preference), desplegar la ventana Engine"
+msgstr ""
+
+#: ../../source/mm1.rst:1789
+msgid "Seleccionar el modo Blender CAM"
+msgstr ""
+
+#: ../../source/mm1.rst:1790
+msgid "Ir al panel de operaciones y seleccionar el Render"
+msgstr ""
+
+#: ../../source/mm1.rst:1793
+msgid ""
+"Con el modo BlenderCAM podemos empezar a trabajar, en esta ocasión solo se "
+"llevara a cabo el proceso de gravado."
+msgstr ""
+
+#: ../../source/mm1.rst:1800
+msgid "Descripción de los parámetros CAM"
+msgstr ""
+
+#: ../../source/mm1.rst:1802
+msgid "CAM operations"
+msgstr ""
+
+#: ../../source/mm1.rst:1806
+msgid ""
+"Calculate path: Calcula la operación que se realizará, además nos muestra una "
+"Simulación gráfica del recorrido que llevara nuestro CNC. Para ello debemos "
+"agregar una operación seleccionando el objeto, el botón se mantiene presionado "
+"y hay que esperar unos segundos."
+msgstr ""
+
+#: ../../source/mm1.rst:1811
+msgid ""
+"Calculate path in background: Esta función calcula la ruta, mientras se puede "
+"seguir trabajando en la creación de otras operaciones, es importante guardar el "
+"documento antes de realizar cualquier cálculo."
+msgstr ""
+
+#: ../../source/mm1.rst:1815
+msgid ""
+"Simulate this operation: Al generar esta simulación se nos crea un objeto "
+"encima de nuestro modelo, el cual lo podemos mover en cualquier eje deseado. El "
+"objeto se puede subdividir, escalar, aumentar la resolución en el panel de "
+"optimización."
+msgstr ""
+
+#: ../../source/mm1.rst:1819
+msgid ""
+"Operation name: En este campo se puede cambiar el nombre de la operación "
+"seleccionada"
+msgstr ""
+
+#: ../../source/mm1.rst:1822
+msgid ""
+"File name: Es el nombre del archivo gcode generado, la extensión de archivo "
+"utilizado será determinado por el porstprocesador g-código seleccionado"
+msgstr ""
+
+#: ../../source/mm1.rst:1825
+msgid ""
+"Auto export: Si esta activada la opción, el G-codigo se generará "
+"automáticamente y se guardara en el archivo después del cálculo de"
+msgstr ""
+
+#: ../../source/mm1.rst:1828
+msgid ""
+"La operación, en la misma carpeta donde se ejecutó el BlenderCAM antes de "
+"instalarlo"
+msgstr ""
+
+#: ../../source/mm1.rst:1830
+msgid ""
+"Source of dates: Aquí se selecciona el conjunto y tipo de objetos, puede ser "
+"una imagen, un grupo de objetos o un objeto"
+msgstr ""
+
+#: ../../source/mm1.rst:1833
+msgid "Objet: Aparece la malla o curva que se está trabajando"
+msgstr ""
+
+#: ../../source/mm1.rst:1835
+msgid "CAM info & warnings"
+msgstr ""
+
+#: ../../source/mm1.rst:1839
+msgid "CAM operation setup"
+msgstr ""
+
+#: ../../source/mm1.rst:1841
+msgid ""
+"Strategy: En esta opción elegimos el proceso    que se realizará en nuestro "
+"objeto, a continuación mostraremos las siguientes estrategias o procesos."
+msgstr ""
+
+#: ../../source/mm1.rst:1844
+msgid "PARALLEL: trayectorias paralelas en cualquier ángulo"
+msgstr ""
+
+#: ../../source/mm1.rst:1848
+msgid "CROSS"
+msgstr ""
+
+#: ../../source/mm1.rst:1852
+msgid "BLOCK"
+msgstr ""
+
+#: ../../source/mm1.rst:1856
+msgid "SPIRAL"
+msgstr ""
+
+#: ../../source/mm1.rst:1858 ../../source/mm1.rst:1864
+msgid "Adecuado para objetos curvos"
+msgstr ""
+
+#: ../../source/mm1.rst:1862
+msgid "CIRCLES"
+msgstr ""
+
+#: ../../source/mm1.rst:1868
+msgid "WATERLINE EXPER."
+msgstr ""
+
+#: ../../source/mm1.rst:1870
+msgid ""
+"Realiza mejores acabados, pero se define como un proceso experimental para el "
+"usuario."
+msgstr ""
+
+#: ../../source/mm1.rst:1874
+msgid "OUTLINE FILL"
+msgstr ""
+
+#: ../../source/mm1.rst:1878
+msgid "CUTOUT"
+msgstr ""
+
+#: ../../source/mm1.rst:1880
+msgid ""
+"Este proceso se utilizará para gravado, ya que marca el contorno dentro, sobre "
+"o fuera de la línea de nuestro objeto o curva"
+msgstr ""
+
+#: ../../source/mm1.rst:1885
+msgid "POCKET"
+msgstr ""
+
+#: ../../source/mm1.rst:1889
+msgid "DRILL"
+msgstr ""
+
+#: ../../source/mm1.rst:1891
+msgid ""
+"Detecta círculos o cuatros en cualquier curva 2D y los convierte en una "
+"operación de perforación"
+msgstr ""
+
+#: ../../source/mm1.rst:1896
+msgid "CARVE"
+msgstr ""
+
+#: ../../source/mm1.rst:1898
+msgid "Proyecta curvas 2D y 3D en la superficie"
+msgstr ""
+
+#: ../../source/mm1.rst:1902
+msgid ""
+"Algunas de las operaciones o estrategias combinarán los siguientes parámetros."
+msgstr ""
+
+#: ../../source/mm1.rst:1905
+msgid ""
+"Distance between toolpaths: Es la distancia que tendrán las trayectorias o los "
+"sobrepasos"
+msgstr ""
+
+#: ../../source/mm1.rst:1908
+msgid ""
+"Distance along toolpaths: Influye en la precisión del mecanizado, es lo denso "
+"que será la ruta de operación"
+msgstr ""
+
+#: ../../source/mm1.rst:1911
+msgid ""
+"Angle of paths: Este parámetro gira las estrategias paralelas y transversales a "
+"la cantidad que se le especifique"
+msgstr ""
+
+#: ../../source/mm1.rst:1914
+msgid ""
+"Parallel step back: Esto utiliza el movimiento posterior de la máquina para el "
+"acabado de la superficie. Tenga en cuenta que esto también  significa el corte "
+"en el  material que pasara con una velocidad doble de la distancia entre "
+"trayectorias (Distance between toolpaths), si no sabe que significa todo esto, "
+"no utilizar esta función."
+msgstr ""
+
+#: ../../source/mm1.rst:1920
+msgid "Skin: Genera una capa en la superficie para el acabado"
+msgstr ""
+
+#: ../../source/mm1.rst:1922
+msgid ""
+"Inverse milling: Invierte el giro de molienda, en el caso de la impresora MM1 "
+"se tendrá que hacer un ajuste manual"
+msgstr ""
+
+#: ../../source/mm1.rst:1925
+msgid ""
+"Direction: Para el proceso block y spiral decide comenzar desde dentro o fuera "
+"del objeto"
+msgstr ""
+
+#: ../../source/mm1.rst:1928
+msgid ""
+"Carve depth: Decide que profuncidad debajo de la superficie se destinara la "
+"operación tallar"
+msgstr ""
+
+#: ../../source/mm1.rst:1931
+msgid ""
+"Don’t merge outlines when cutting: Para la estrategia de cutout genera el no "
+"fusionar contornos, es muy útil para PCB ya que no se desea que las líneas se "
+"crucen."
+msgstr ""
+
+#: ../../source/mm1.rst:1934
+msgid ""
+"Use bridges: Para la estrategia de cutout, ya que crea puentes automáticamente "
+"por unos parametros que aparecerán cocmo: anchura, altura mínima por la curva "
+"etc."
+msgstr ""
+
+#: ../../source/mm1.rst:1937
+msgid "CAM optimization"
+msgstr ""
+
+#: ../../source/mm1.rst:1942
+msgid ""
+"Reduce path points: Ayuda a reducir el número de comandos en el código g, por "
+"lo que el código es más corto y fácil de procesar por la maquina"
+msgstr ""
+
+#: ../../source/mm1.rst:1945
+msgid ""
+"Reduction threshold in un: La dirección de la trayectoria se reducirá a "
+"micrómetros"
+msgstr ""
+
+#: ../../source/mm1.rst:1947
+msgid ""
+"Sampling raster detail: Este parámetro es muy necesario para el uso de la "
+"memoria y sobre todo la velocidad del software. BlenderCAM utiliza pixeles para "
+"calcular las posiciones de compensación de corte. Si el objeto mide 1 metro la "
+"imagen será 10000 x 10000 pixeles, lo que probablemente pueda llenar la memoria "
+"de su computadora. compruebe el tamaño del objeto antes de las operaciones de "
+"cálculo"
+msgstr ""
+
+#: ../../source/mm1.rst:1953
+msgid ""
+"Simulation sampling raster detail: Prácticamente es igual que la opción "
+"anterior pero aplicado a la simulación"
+msgstr ""
+
+#: ../../source/mm1.rst:1956
+msgid ""
+"Detail of circles used for curve offsets: Es el detalle de los circulos "
+"utilizados para desplazamientos de la curva"
+msgstr ""
+
+#: ../../source/mm1.rst:1959
+msgid "CAM Material size and position"
+msgstr ""
+
+#: ../../source/mm1.rst:1961
+msgid ""
+"Estimate from model: Asumirá que las dimensiones que tiene el objeto, son las "
+"mismas que el área de trabajo, si esta opción no está activada  se nos abre una "
+"ventana extra para indicar las dimensiones"
+msgstr ""
+
+#: ../../source/mm1.rst:1968
+msgid ""
+"Position object: Esta opcion es muy útil, ya que automáticamente  envía al "
+"objeto al origen del material que hemos definido"
+msgstr ""
+
+#: ../../source/mm1.rst:1975
+msgid "CAM Movement"
+msgstr ""
+
+#: ../../source/mm1.rst:1979
+msgid ""
+"Movement type: Aplica para algunas estrategias, establece como se mueve la "
+"cuchilla en el material"
+msgstr ""
+
+#: ../../source/mm1.rst:1982
+msgid ""
+"1.- Meander: Nos genera un movimiento zigzag no importando la dirección 2.- "
+"Climb: El cortador gira en dirección de la alimentación, puede producir un "
+"mejor acabado, menos tención en la punta de la herramienta y genera requiere "
+"menos energía. 3.- Conventional: el cortador Gira en contra de la dirección de "
+"la alimentación. Si la maquina tiene contragolpe que no puede ser compensada "
+"entonces esta es la mejor opción."
+msgstr ""
+
+#: ../../source/mm1.rst:1989
+msgid "Spindle rotation: Esta operación define la rotación del husillo"
+msgstr ""
+
+#: ../../source/mm1.rst:1991
+msgid ""
+"Free movement height: Es la altura de desplazamiento cuando no se está "
+"maquinando. Si tenemos una altura muy alta, como resultado es una duración más "
+"elevada, ya que genera más tiempo en desplazarse a zonas en el aire"
+msgstr ""
+
+#: ../../source/mm1.rst:1995
+msgid ""
+"Stay low if possible: No intenta levantar la cuchilla cuando se pasa de un "
+"camino a otro, hay ocasiones que la herramienta va a pasar por caminos los "
+"cuales su distancia es más pequeña que el diámetro de la herramienta, esta "
+"opción en estas situaciones no daña  ra las paredes de los caminos"
+msgstr ""
+
+#: ../../source/mm1.rst:2000
+msgid ""
+"Protect vertical: Cuando el ángulo de la trayectoria es superior al límite de "
+"la verticalidad, el desplazamiento se realizará vertical. de esta manera las "
+"superficies verticales no obtendrá una pendiente debido a la distancia entre "
+"los puntos de recorrido."
+msgstr ""
+
+#: ../../source/mm1.rst:2005
+msgid "CAM operation area"
+msgstr ""
+
+#: ../../source/mm1.rst:2009
+msgid "Use layers: utiliza capas para la operación"
+msgstr ""
+
+#: ../../source/mm1.rst:2011
+msgid "Step down: Es el grosor de las capas de desbaste"
+msgstr ""
+
+#: ../../source/mm1.rst:2013
+msgid "Ambient: Es el proceso determinado al material que rodea al objeto"
+msgstr ""
+
+#: ../../source/mm1.rst:2016
+msgid ""
+"1.- Around: Se genera una silueta al objeto 2.- ALL: Se genera un rectángulo al "
+"objeto/material"
+msgstr ""
+
+#: ../../source/mm1.rst:2020
+msgid ""
+"Depth from objet: Se lleva a profundidad objeto y establece la profundidad "
+"total de la operación de la misma. De lo contrario, puede utilizar la "
+"profundidad de operación para hacer lo mismo de forma manual."
+msgstr ""
+
+#: ../../source/mm1.rst:2024
+msgid "CAM federate"
+msgstr ""
+
+#: ../../source/mm1.rst:2028
+msgid "Feedrate/minute: Velocidad de avance en un minute"
+msgstr ""
+
+#: ../../source/mm1.rst:2030
+msgid ""
+"Plunge speed: La velocidad se reduce a la cantidad especificada, cuando la "
+"pendiente de la trayectoria está por encima del ángulo de profundización"
+msgstr ""
+
+#: ../../source/mm1.rst:2033
+msgid ""
+"Plunge angle: Cualquier ángulo mayor  que el angulo de inmersión se activara la "
+"velocidad de inmersión"
+msgstr ""
+
+#: ../../source/mm1.rst:2036
+msgid "Spindle rpm: Revoluciones por minuto del husillo"
+msgstr ""
+
+#: ../../source/mm1.rst:2038
+msgid "CAM cutter"
+msgstr ""
+
+#: ../../source/mm1.rst:2042
+msgid "Tool number: Define el número de la herramienta"
+msgstr ""
+
+#: ../../source/mm1.rst:2044
+msgid ""
+"Cutter diametrer: Define el diámetro de la herramienta, utilizado para el "
+"cálculo de la trayectorias"
+msgstr ""
+
+#: ../../source/mm1.rst:2046
+msgid "Cutter flutes: Este parámetro solo se utiliza para el cálculo del chipload"
+msgstr ""
+
+#: ../../source/mm1.rst:2049
+msgid "CAM Machine"
+msgstr ""
+
+#: ../../source/mm1.rst:2055
+msgid ""
+"Postprocesador: Define el formateo del archive de salida. Si la maquina no está "
+"lista los códigos que generan código-g sin problemas son MACH3, ISO."
+msgstr ""
+
+#: ../../source/mm1.rst:2058
+msgid "Unit system: Sistema de unidad métrico o imperial."
+msgstr ""
+
+#: ../../source/mm1.rst:2060
+msgid "Work area: Aquí se define las dimensiones del material que se desbastará"
+msgstr ""
+
+#: ../../source/mm1.rst:2062
+msgid "Feedrate min/max: Limitará velocidades dadas en el panel de avance"
+msgstr ""
+
+#: ../../source/mm1.rst:2065
+msgid "CAM chains"
+msgstr ""
+
+#: ../../source/mm1.rst:2070
+msgid ""
+"Es una herramienta que permite encadenar operaciones como simulaciones, es "
+"decir, tener un conjunto de operaciones y realizarlas de una manera "
+"consecutiva, es muy práctico desarrollar esta herramienta para el código, si es "
+"que se tiene cambiador de herramientas automático"
+msgstr ""
+
+#: ../../source/mm1.rst:2075
+msgid ""
+"A continuación se desarrollará un proceso cutout que nos genera un gravado en "
+"la superficie del material"
+msgstr ""
+
+#: ../../source/mm1.rst:2078
+msgid ""
+"1.-     Ejecutamos BlenderaCAM 2.-     En este ocasión importaremos un archivo ."
+"svg"
+msgstr ""
+
+#: ../../source/mm1.rst:2084
+msgid ""
+"3.- En el panel CAM operations, seleccionamos el objeto, en este caso curva y "
+"agregaremos una operación. Como siguiente le daremos nombre a la operación y al "
+"archivo 4.-     Los parámetros que se utilizaran serán los siguientes"
+msgstr ""
+
+#: ../../source/mm1.rst:2091
+msgid ""
+"El nombre de la operación es cutout, esta parte es opcional al igual que el "
+"nombre del archivo. Al terminar los parámetros para el proceso, se recomienda "
+"calcular la trayectoria que funciona también como una simulación, si se quiere "
+"exportar el código G es necesario calcular la trayectoria (Calculate path)."
+msgstr ""
+
+#: ../../source/mm1.rst:2098
+msgid ""
+"La accion como se mencionaba es Cutout, en esta ocasión la trayectoria será "
+"sobre la línea. No es recomendable utilizar la opcion de Don’t merge outlines… "
+"ya que genera problemas con el programa Blender. En esta parte se reduce el "
+"número de líneas, además de la resolución y simulación. La altura de capa es la "
+"misma que el desbaste total, generando una sola pasada. Si hubiésemos "
+"necesitado dos pasadas la altura de capa se dejaría en 2.5mm con un desbaste "
+"total de 5mm, se dejó este parámetro ya que el material que desbastaremos es un "
+"material blando y no tendrá problema"
+msgstr ""
+
+#: ../../source/mm1.rst:2109
+msgid ""
+"El tipo de movimiento que se utilizo fue Meander por la cantidad de "
+"trayectorias Uno de los datos más importantes es la altura de movimiento libre. "
+"5mm es un excelente parámetro para asegurarnos de que el modulo no chocara con "
+"el material y podrá ser óptimo."
+msgstr ""
+
+#: ../../source/mm1.rst:2115
+msgid ""
+"Es importante definir el área del material en nuestro caso es: 20 x 20 x 3 "
+"(cm), después de definir el área es importante situar el objeto en el área "
+"correcto, podemos utilizar position objet."
+msgstr ""
+
+#: ../../source/mm1.rst:2121
+msgid ""
+"Para obtener el código G damos clic en exportar g code, que se encuentra en el "
+"panel de operaciones. El código g se nos genera dentro de la carpeta de "
+"instalación de programa BlenderCam, para la impresora MM1 se tiene que abrir el "
+"código G en bloc de notas y modificar lo siguiente:"
+msgstr ""
+
+#: ../../source/mm1.rst:2126
+msgid "Esta es la parte principal del código g de nuestro colibrí"
+msgstr ""
+
+#: ../../source/mm1.rst:2129
+msgid ""
+"(GCode created using the HeeksCNC Mach3 post processor) (grabadocolibri.tap) (G-"
+"code generated with BlenderCAM and NC library) N10 G17 G21 G90 (Tool change) "
+"N20G43H1 N30T1 M06 N40 G00 X0 Y0 Z4.999 S12000 M03 N50 G00 X69.103 Y41.967 "
+"N60G01 Z-4.999 F500 N70G01 X68.746 Y42.554 F1000 N80G01 X68.41 Y43.15 N90G01 "
+"X68.102 Y43.737 N100G01 X67.831 Y44.302 N110G01 X67.606 Y44.829 N120G01 X67.435 "
+"Y45.303"
+msgstr ""
+
+#: ../../source/mm1.rst:2147
+msgid ""
+"Checar la numeración de línea (N100). Cuando vamos a agregar una instrucción, "
+"esta debe tener la numeración correspondiente, en este código g generado por "
+"BlenderCAM lleva un seguimiento por decenas"
+msgstr ""
+
+#: ../../source/mm1.rst:2151
+msgid "Ejemplo 1:"
+msgstr ""
+
+#: ../../source/mm1.rst:2154
+msgid ""
+"N100 (código generado por BlenderCAM) N101 (código agregado) N102 (código "
+"agregado 2)"
+msgstr ""
+
+#: ../../source/mm1.rst:2159
+msgid "Ejemplo 2:"
+msgstr ""
+
+#: ../../source/mm1.rst:2162
+msgid ""
+"N98 (código agregado) N99 (código agregado 2) N100 (código generado por "
+"BlenderCAM)"
+msgstr ""
+
+#: ../../source/mm1.rst:2167
+msgid "Después de la instrucción (N30T1 M06) se agregara lo siguiente:"
+msgstr ""
+
+#: ../../source/mm1.rst:2170
+msgid ""
+"N31 G28 (Esta instrucción manda a HOME a todos los ejes) N32 G4 S3 (esta "
+"instrucción espera 3 segundos, para habilitar la comunicación) N33 M280 P2 S10 "
+"(esta instrucción apaga el motor, se tiene que apagar antes de prenderlo, no "
+"cambiar) N34 G4 S3 N35 M280 P2 S90 (esta instrucción prende el motor con una "
+"velocidad de 90 rev/s, necesarios para el material formular) N36 G4 S3"
+msgstr ""
+
+#: ../../source/mm1.rst:2180
+msgid "Esta es la parte final del código G de nuestro colibrí"
+msgstr ""
+
+#: ../../source/mm1.rst:2183
+msgid ""
+"N100940G01 X62.35 Y135.168 N100950G01 X62.303 Y135.147 N100960G01 X62.259 "
+"Y135.122 N100970G01 X62.218 Y135.095 N100980 G00 Z4.999 N100990 M02"
+msgstr ""
+
+#: ../../source/mm1.rst:2191
+msgid "Antes de la instrucción M02 se agregara lo siguiente:"
+msgstr ""
+
+#: ../../source/mm1.rst:2194
+msgid ""
+"N1009801 G4 S3 N1009802 M280 P2 S80 N1009803 G4 S3 N1009804 M280 P2 S60 "
+"N1009805 G4 S3"
+msgstr ""
+
+#: ../../source/mm1.rst:2201
+msgid "El código modificado final será el siguiente:"
+msgstr ""
+
+#: ../../source/mm1.rst:2204
+msgid ""
+"Inicio (GCode created using the HeeksCNC Mach3 post processor) (grabadocolibri."
+"tap) (G-code generated with BlenderCAM and NC library) N10 G17 G21 G90 (Tool "
+"change) N20G43H1 N30T1 M06 N31 G28 N32 G4 S3 N33 M280 P2 S10 N34 G4 S3 N35 M280 "
+"P2 S90 N36 G4 S3 N40 G00 X0 Y0 Z4.999 S12000 M03 N50 G00 X69.103 Y41.967 N60G01 "
+"Z-4.999 F500"
+msgstr ""
+
+#: ../../source/mm1.rst:2223
+msgid "Final"
+msgstr ""
+
+#: ../../source/mm1.rst:2226
+msgid ""
+"N100960G01 X62.259 Y135.122 N100970G01 X62.218 Y135.095 N100980 G00 Z4.999 "
+"N1009801 G4 S3 N1009802 M280 P2 S80 N1009803 G4 S3 N1009804 M280 P2 S60 "
+"N1009805 G4 S3 N100990 M02"
+msgstr ""
+
+#: ../../source/mm1.rst:2237
+msgid ""
+"Al modificar el código G, guardamos como .gcode/ todos los archivos para que la "
+"impresora lo pueda reconocer. Si queremos  cargar el código g desde el "
+"pronterface, tendremos que descargar la siguiente versión: https://github.com/"
+"kliment/Printrun De no ser así guardamos el .gcode en la memoria SD y lo "
+"corremos en la impresora MM1"
+msgstr ""
+
+#: ../../source/mm1.rst:2243
+msgid "Módulo de Pastas"
+msgstr ""
+
+#: ../../source/mm1.rst:2245
+msgid ""
+"En esta parte del manual  se tomara el punto acerca del módulo de pastas este "
+"modulo es muy divertido al usarlo ya que es experimental, y puedes hacer "
+"creaciones de pastas y probarlas. Por lo general este modulo trabaja con "
+"cualquier material pastoso desde arcilla hasta chocolate."
+msgstr ""
+
+#: ../../source/mm1.rst:2251
+msgid "Un dato importante de este moculo es que solo trabaja con pastas frias."
+msgstr ""
+
+#: ../../source/mm1.rst:2255
+msgid ""
+"Vamos a comenzar a identificar los componentes de nuestro Módulo de Pastas, "
+"este se divide en dos partes la estación de bombeo y cabezal, también contiene "
+"accesorios para poder realizar la inyección de las pastas."
+msgstr ""
+
+#: ../../source/mm1.rst:2259
+msgid "El módulo de pastas se compone de lo siguiente:"
+msgstr ""
+
+#: ../../source/mm1.rst:2262
+msgid ""
+"1  estación de bombeo + cable de motor. 1 cabezal de impresión 2 jeringas 2 "
+"mangueras de nivel de 1/4 x100cm 2 luer lock rosca hembra 2 luer lok rosca "
+"macho 2 juegos de 6 puntillas de plástico 1 juego de 10 puntillas de metal"
+msgstr ""
+
+#: ../../source/mm1.rst:2272
+msgid "Estación de bombeo y accesorios."
+msgstr ""
+
+#: ../../source/mm1.rst:2276
+msgid "Cabezal de impresión."
+msgstr ""
+
+#: ../../source/mm1.rst:2280
+msgid ""
+"Bien ahora vamos a comenzar, antes de realizar la mezcla de alguna pasta "
+"preparemos los componentes que nos ayudaran a realizar la impresión."
+msgstr ""
+
+#: ../../source/mm1.rst:2285
+msgid "Cortamos una manguera de nivel, a la medida de 50cm de largo"
+msgstr ""
+
+#: ../../source/mm1.rst:2291
+msgid ""
+"Ahora vamos a colocar un luer lock  hebra en un extremo y un luer lock macho al "
+"otro extremo."
+msgstr ""
+
+#: ../../source/mm1.rst:2294
+msgid "Luer lock hembra"
+msgstr ""
+
+#: ../../source/mm1.rst:2298
+msgid "Luer lock macho"
+msgstr ""
+
+#: ../../source/mm1.rst:2302
+msgid ""
+"debe de quedar de la siguiente forma, esto nos serira ya que es la manguera de "
+"nivel de nuestro modulo."
+msgstr ""
+
+#: ../../source/mm1.rst:2309
+msgid ""
+"Para poder realizar este paso vamos a necesitar una jeringa y esta la tendremos "
+"que montar en la estación de bombeo, también se colocara la manguera en la "
+"jeringa y la puntilla."
+msgstr ""
+
+#: ../../source/mm1.rst:2316
+msgid ""
+"Abra el empaque de la jeringa y observe bien como se debe de colocar el luer "
+"lock macho en la jeringa. Como tienen esta ceunta con una rosca se tendra que "
+"girar la puntilla o el luer lock para que se mantenga."
+msgstr ""
+
+#: ../../source/mm1.rst:2324
+msgid ""
+"Una vez que ya has colocado la puntilla y la manguera en la jeringa, ya podras "
+"retirar o colocar una puntilla u otra cuando se requiera un cambio.Ahora vamos "
+"a colocar la jeringa en la estación de bombeo. Debemos asegurarnos que la "
+"jeringa este bien sujeta desde la parte central y hasta el embolo."
+msgstr ""
+
+#: ../../source/mm1.rst:2334
+msgid "De esta forma es como se coloca la jeringa en la estación de bombeo."
+msgstr ""
+
+#: ../../source/mm1.rst:2339
+msgid ""
+"Si la base que esta unida a la varilla roscada, se encuentra muy arriba deberás "
+"bajarla para que puedas colocar la jeringa, es muy simple solo tienes que girar "
+"el engrane grande en sentido opuesto a las manecillas del reloj para que pueda "
+"bajar la base, y así poder colocar bien el embolo de la jeringa y en el "
+"orificio de la base plástica."
+msgstr ""
+
+#: ../../source/mm1.rst:2347
+msgid ""
+"Para terminar con este paso solo deberás conectar el motor de la estación de "
+"bombeo."
+msgstr ""
+
+#: ../../source/mm1.rst:2354
+msgid ""
+"Vamos a colocar el cabezal de pastas en la impresora, para realizar este paso "
+"primero retiramos el modulo que esta puesto en la impresora, para poder se "
+"retirlo es necesario mover el seguro de sujeción, se desmonta el modulo y se "
+"empuja hacia abajo para lograrlo."
+msgstr ""
+
+#: ../../source/mm1.rst:2359
+msgid ""
+"Después se coloca el cabezal como se muestras en las imágenes y se asegura con "
+"el clip de sujeción."
+msgstr ""
+
+#: ../../source/mm1.rst:2369
+msgid ""
+"Una vez que el cabezal esta asegurado vamos a conectar sus conectores en este "
+"cabezal solo se conectan 2 cables y el seguro de la doble extrusora, recuerda "
+"que los cables deben de pasar por encima de los perfiles superiores."
+msgstr ""
+
+#: ../../source/mm1.rst:2377
+msgid ""
+"Después de tener todo conectado correctamente procedemos en colocar las "
+"puntillas, cada ranura es para poder colocar un tipo de puntilla ya que es "
+"posible utilizar dos tipos de puntillas."
+msgstr ""
+
+#: ../../source/mm1.rst:2381
+msgid "Vamos a colocar una puntilla de plástico."
+msgstr ""
+
+#: ../../source/mm1.rst:2385
+msgid ""
+"Se coloca en la parte derecha del modulo viendo el modulo de frente. Y con "
+"ayuda de unas pinzas de punta empujamos la puntilla junto con la manguera de "
+"nivel para que estas queden aseguradas."
+msgstr ""
+
+#: ../../source/mm1.rst:2392
+msgid ""
+"Debemos empujar hasta que la puntilla este colocada en el fondo del espacio "
+"como se ve en la imagen"
+msgstr ""
+
+#: ../../source/mm1.rst:2397
+msgid ""
+"Ahora vamos a colocar la puntilla que tiene la punta de metal, esta puntilla se "
+"va a colocar en el espacio izquierdo del cabezal como se muestra en la imagen y "
+"también se utiliza una pinza de punta para poder empujarlo hasta el fondo."
+msgstr ""
+
+#: ../../source/mm1.rst:2404
+msgid "Al igual que la otra puntilla debe de entrar en la ranura disponible."
+msgstr ""
+
+#: ../../source/mm1.rst:2408
+msgid "Entonces nuestro modulo de pastas así tendra que ver."
+msgstr ""
+
+#: ../../source/mm1.rst:2414
+msgid ""
+"En este paso mostraremos algunas parámetros de cura con los cuales pueden "
+"realizar sus pruebas. En este paso indicamos como realizar una mezcla con "
+"nutella, para imprimir chocolate."
+msgstr ""
+
+#: ../../source/mm1.rst:2418
+msgid ""
+"Ingredientes a utilizar Nutella Glucosa ( se consigue en lugares de repostería "
+"o donde venden materias primas, como azúcar glas,cobertura de chocolate "
+"grenetina etc.)"
+msgstr ""
+
+#: ../../source/mm1.rst:2425
+msgid ""
+"Se recomienda tener utensilios de medición para gramos y mililitros (bascula, "
+"jeringas,tazas medidoras)"
+msgstr ""
+
+#: ../../source/mm1.rst:2428
+msgid "Preparación de pasta"
+msgstr ""
+
+#: ../../source/mm1.rst:2430
+msgid "Ingredientes:"
+msgstr ""
+
+#: ../../source/mm1.rst:2433
+msgid "-120gr de nutella. -10.6gr de glucosa"
+msgstr ""
+
+#: ../../source/mm1.rst:2437
+msgid ""
+"En un recipiente se colocan las dos cantidades de materia prima y se mezcla muy "
+"bien hasta tener una consistencia  mas densa que la de la nutella, asegurándote "
+"que este bien diluida la glucosa en la nutella."
+msgstr ""
+
+#: ../../source/mm1.rst:2441
+msgid ""
+"Una vez que este lista la pasta, puedes depositar en la jeringa, para realizar "
+"esto te recomiendo que primero quites el embolo de la jeringa y la punta de la "
+"jeringa este en posición vertical para que puedas introducir la pasta, "
+"asegurándonos que no se hagan burbujas dentro de la jeringa. Si se llegaran a "
+"hacer burbujas en la jeringa un momento antes de colocar el embolo, para que "
+"salgan estas burbujas, sujeta la jeringa con tus dos manos y la haces girar "
+"moviendo tus manos hacia adelante y atrás como si tuvieses un rodillo pero "
+"verticalmente."
+msgstr ""
+
+#: ../../source/mm1.rst:2449
+msgid ""
+"Este movimiento lo podemos repetir una y otra vez hasta que salgan las "
+"burbujas, también podemos dar golpes al cuerpo de la jeringa con alguna cuchara "
+"para que la materia prima que esta dentro vibre un poco y esto hará que salga "
+"el aire de las burbujas."
+msgstr ""
+
+#: ../../source/mm1.rst:2454
+msgid ""
+"Ya que no hay burbujas de aire entonces colocamos la manguera y presionamos "
+"para que la pasta comienza a recorrer en el interior de la manguera y que salga "
+"por la puntilla. Tambien los parámetros son importantes para que el modulo "
+"funcione adecuadamente, otro punto que influye es el flujo de material y los "
+"grosores de las puntillas que uses."
+msgstr ""
+
+#: ../../source/mm1.rst:2460
+msgid ""
+"La velocidad es muy importante depende de la viscosidad de la pasta para un "
+"buen resultado se recomienda usar velocidades bajas desde 10mm/s hasta max 25mm/"
+"s"
+msgstr ""
+
+#: ../../source/mm1.rst:2463
+msgid ""
+"Podemos experimentar con diferentes tipos de pastas frías que es con lo que "
+"podemos trabajar, Ejemplos nutella y glucosa, azúcar glass y limón (mezcla para "
+"alfeñiques), pasta azúcar glass y glucosa (fondant) arcilla, silicon, pasta "
+"francesa, Play-Doh con agua , cremas batidas para decorar, en fin hay muchas "
+"mas pastas frías con las cuales podremos trabajar, pero lo que nos importa es "
+"la viscosidad de la pasta, esta debe de ser como la densidad de la pasta para "
+"los dientes, para poder obtener la consistencia que deseamos, podemos probar "
+"con la jeringa poner una linea encima de otra y ver que no se desplome "
+"fácilmente, si no, que se sostenga."
+msgstr ""
+
+#: ../../source/mm1.rst:2473
+msgid "Parámetros que se usaron para la impresión."
+msgstr ""
+
+#: ../../source/mm1.rst:2475
+msgid "Basic"
+msgstr ""
+
+#: ../../source/mm1.rst:2478
+msgid ""
+"Layer heigh               .8 Shell thickness          2.4 "
+"Retracción                no Bottom/top thickness       2 Fill "
+"density              30 Print speed               15 Temperatura                "
+"0 Cama caliente              0 Soporte                 none Platform adhesion "
+"type  none Diametro                   3 Flow                       7"
+msgstr ""
+
+#: ../../source/mm1.rst:2492
+msgid "Advanced"
+msgstr ""
+
+#: ../../source/mm1.rst:2495
+msgid ""
+"Nozzle size               1.2 Intal layer thickness      .8 Intal layer line "
+"width    100 Cut of object bottom        0 Dual extrusion overlap    .15 Travel "
+"speed               15 Bottom layer speed         15 Infill "
+"speed                0 Outer shell speed           0 Inner shell "
+"speed           0 Enable cooling fan.        Si"
+msgstr ""
+
+#: ../../source/mm1.rst:2512
+msgid "Tiene que resultar esto"
+msgstr ""
+
+#: ../../source/mm1.rst:2518
+msgid "Problemas Frecuentes"
+msgstr ""
+
+#: ../../source/mm1.rst:2521
+msgid "Como destapar la boquilla"
+msgstr ""
+
+#: ../../source/mm1.rst:2525
+msgid ""
+"Vamos a retirar el filamento que este en la boquilla, recuerda que debes "
+"calentar la boquilla para poder retirarlo, dependiendo de el tipo de filamento "
+"que utilices es la temperatura que vas a necesitar para la boquilla, en este "
+"caso se atasco con PLA así que vamos a calentar a 210°C para que pueda salir "
+"mas rápido el material."
+msgstr ""
+
+#: ../../source/mm1.rst:2530
+msgid ""
+"Bien calentamos con la pantalla recuerda da clic a la perilla elige control-> "
+"temperatura-> nozzle y sube a 210°C da clic y listo comenzara a calentar la "
+"boquilla."
+msgstr ""
+
+#: ../../source/mm1.rst:2535
+msgid "cuando la temperatura llegue podemos sacar el filamento que tiene."
+msgstr ""
+
+#: ../../source/mm1.rst:2541
+msgid ""
+"Vamos a retirar el tubo Bowden para retirarlo es necesario unas pinzas de "
+"punta, se colocan las pinzas en la cavidad de la pieza plástica, y solo se va a "
+"presionar hacia abajo el plástico del conector neumático (es la goma de color "
+"azul), toma en cuenta que las pinzas no se deben de cerrar solo es de apoyo "
+"para poder liberar el tubo."
+msgstr ""
+
+#: ../../source/mm1.rst:2546
+msgid ""
+"Recuerda cuando presiones el plástico del conector neumático debes de jalar el "
+"tubo hacia arriba para que salga."
+msgstr ""
+
+#: ../../source/mm1.rst:2554
+msgid ""
+"Cuando la boquilla se caliente vamos a introducir un trozo de filamento para "
+"tratar de purgar la boquilla manualmente y asi poder ver si se resuelve el "
+"problema."
+msgstr ""
+
+#: ../../source/mm1.rst:2557
+msgid ""
+"Al meter el filamento en la boquilla vamos a presionar para ver si sale si no "
+"lo hace entonces lo vamos a sacar rápidamente hacia arriba"
+msgstr ""
+
+#: ../../source/mm1.rst:2562
+msgid ""
+"Cuando el material esta atascado en la punta de la boquilla comenzara a pegarse "
+"a el filamento nuevo. Esta operación la puedes repetir varias veces y hasta que "
+"veas que ya no sale material carbonizado,"
+msgstr ""
+
+#: ../../source/mm1.rst:2566
+msgid ""
+"Si esto te funciona y vez que sale material por la parte de la punta de la "
+"boquilla, puedes volver a colocar el tubo y filamento para volver a realizar "
+"una impresión."
+msgstr ""
+
+#: ../../source/mm1.rst:2571
+msgid ""
+"Si aun no sale material por la punta de la boquilla, entonces puede ser que "
+"esta siga tapada y para destaparla hay que seguir los siguientes pasos"
+msgstr ""
+
+#: ../../source/mm1.rst:2576
+msgid ""
+"Apaga la impresora, retira el clip de sujeción del modulo y desconecta los "
+"conectores de la impresora para poder retirar el modulo completo y poder "
+"desarmarlo."
+msgstr ""
+
+#: ../../source/mm1.rst:2581
+msgid "Desconecta los siguientes conectores"
+msgstr ""
+
+#: ../../source/mm1.rst:2587
+msgid "Solo se dejara conectado el seguro de doble extrusora."
+msgstr ""
+
+#: ../../source/mm1.rst:2591
+msgid "Desmontamos el modulo de la cruz"
+msgstr ""
+
+#: ../../source/mm1.rst:2597
+msgid "Vamos a desarmar el Módulo, para poder llegar a la boquilla."
+msgstr ""
+
+#: ../../source/mm1.rst:2601
+msgid ""
+"Primero debemos retirar los tornillos que sujetan la pieza plástica del sensor "
+"inductivo, estos tornillos se retiran con ayuda de una llave allen de 2.5mm"
+msgstr ""
+
+#: ../../source/mm1.rst:2607
+msgid ""
+"Después vamos a retirar los tornillos que sujetan el MDF al módulo, son los que "
+"se muestran en círculos rojos, son 3 de la parte inferior y 2 de la parte "
+"superior se retiran con la llave allen de 2.5mm."
+msgstr ""
+
+#: ../../source/mm1.rst:2616
+msgid ""
+"Vamos a remover el MDF para poder liberar la boquilla se retira  girándolo "
+"hacia afuera. Esto para poder llegar a ala parte donde se encuentra la boquilla."
+"Sujetamos el MDF con el dedo pulgar e indice."
+msgstr ""
+
+#: ../../source/mm1.rst:2623
+msgid ""
+"Ya que tenemos el MDF en la posición que se muestra solo resta empujarlo como "
+"indica la flecha esto para que pueda liberarse la boquilla y así poder "
+"limpiarla mas fácil."
+msgstr ""
+
+#: ../../source/mm1.rst:2630
+msgid ""
+"Cuando este libre el MDF con mucho cuidado vamos a retirar la boquilla por el "
+"orificio mas grande del MDF."
+msgstr ""
+
+#: ../../source/mm1.rst:2638
+msgid ""
+"Vamos a retirar el Conector Neumático de la boquilla, en  este paso vamos a "
+"sujetar la boquilla con mucho cuidado, con unas pinzas mecánicas, vamos a "
+"sujetar el conector y aflojarlo para poder retirarlo."
+msgstr ""
+
+#: ../../source/mm1.rst:2647
+msgid ""
+"Vamos a conectar el ventilador pequeño a la impresora y también el conector de "
+"6 pines para poder calentar la boquilla."
+msgstr ""
+
+#: ../../source/mm1.rst:2652
+msgid ""
+"Después de conectar el módulo encendemos la impresora para mandar a calentar la "
+"boquilla"
+msgstr ""
+
+#: ../../source/mm1.rst:2658
+msgid ""
+"Pues bien utilizando la pantalla vamos a mandar a calentar la boquilla, según "
+"el material que este atascado  es decir si es PLA podemos colocar a una "
+"temperatura desde 200°C a 210°C, si es ABS la temperatura que podemos utilizar "
+"es de 220°C a 230°C."
+msgstr ""
+
+#: ../../source/mm1.rst:2663
+msgid ""
+"En el ejemplo es PLA y para este caso utilizamos una temperatura de 207°C. Una "
+"vez que esta caliente la boquilla la sujetaremos de la parte superior con las "
+"pinzas mecánicas."
+msgstr ""
+
+#: ../../source/mm1.rst:2669
+msgid ""
+"Ya que esta caliente con ayuda de una broca de 3mm la vamos a introducir dentro "
+"de la boquilla y con nuestras manos vamos a girar la broca, sin presionar solo "
+"giramos la broca lento y sacamos para ir retirando los residuos que se adhieran "
+"a la broca."
+msgstr ""
+
+#: ../../source/mm1.rst:2678
+msgid ""
+"Esta parte podemos realizar la tecnica las veces que sean necesarias hasta que "
+"ya no tengan residuos la boquilla ."
+msgstr ""
+
+#: ../../source/mm1.rst:2681
+msgid ""
+"Después de haber hecho esto con la broca procedemos a limpiar la punta de la "
+"boquilla con un cabello de cobre de un cable calibre 14 o 12."
+msgstr ""
+
+#: ../../source/mm1.rst:2686
+msgid ""
+"En esta parte también podemos introducir varias veces el cable dentro de la "
+"punta."
+msgstr ""
+
+#: ../../source/mm1.rst:2692
+msgid ""
+"Después de limpiar y remover los residuos con la broca y el cable de cobre, "
+"haremos una purga con el filamento así como lo hicimos en el paso 3. "
+"Introducimos un trozo de filamento presionamos y luego en un solo movimiento lo "
+"sacamos, posteriormente cortamos el trozo de filamento que tenga residuos. "
+"Hacemos esto las veces que sea necesario, hasta que  veamos que cuando saquemos "
+"el material ya no tenga residuos negros."
+msgstr ""
+
+#: ../../source/mm1.rst:2701
+msgid ""
+"Después de hacer esta purga podemos observar que nuestra boquilla esta limpia y "
+"que tiene un escape de material libre."
+msgstr ""
+
+#: ../../source/mm1.rst:2708
+msgid ""
+"Una vez que esta destapada la boquilla apagamos sacamos el trozo de filamento, "
+"apagamos la impresora durante unos tres segundos y volvemos a encender para que "
+"se enfrié la boquilla, ya que esta fría la boquilla se comienza ensamblar como "
+"estaba al inicio."
+msgstr ""
+
+#: ../../source/mm1.rst:2713
+msgid "Colocamos el conector neumático"
+msgstr ""
+
+#: ../../source/mm1.rst:2717
+msgid ""
+"Colocamos el MDF en la boquilla, asegurate de que entre en la ranura mas "
+"pequeña para que se mantenga fija la boquilla."
+msgstr ""
+
+#: ../../source/mm1.rst:2722
+msgid ""
+"Colocamos la boquilla en el orificio de la pieza plástica y giramos el MDF como "
+"estaba al principio."
+msgstr ""
+
+#: ../../source/mm1.rst:2728
+msgid ""
+"Por ultimo colocamos los 5 tornillos que retiramos  para poder fijar el MDF con "
+"la pieza plástica. El sensor inductivo y listo nuestro modulo debe de verse así "
+"como antes."
+msgstr ""
+
+#: ../../source/mm1.rst:2734
+msgid "Calibración de la cama automático"
+msgstr ""
+
+#: ../../source/mm1.rst:2736
+msgid "¿Has tenido problemas de calibración en su plataforma de impresión?"
+msgstr ""
+
+#: ../../source/mm1.rst:2738
+msgid ""
+"Uno de los problemas más tediosos al tener una impresora 3D es la calibración o "
+"nivelación de la plataforma de impresión, que generalmente, es mediante la "
+"compresión de resortes, y esto puede ser bastante tardado si no se tiene la "
+"paciencia necesaria, y muchas veces no queda bien calibrada."
+msgstr ""
+
+#: ../../source/mm1.rst:2745
+msgid ""
+"La solución para este problema es que la impresora 3D se auto nivele de manera "
+"automática durante la impresión, esto se logra modificando el código G de la "
+"pieza a imprimir."
+msgstr ""
+
+#: ../../source/mm1.rst:2749
+msgid ""
+"Lo primero es conocer su equipo de impresión 3D, conocer el área de trabajo, ya "
+"que auto nivelación se da en algunos puntos que están por defecto en el "
+"firmware."
+msgstr ""
+
+#: ../../source/mm1.rst:2752
+msgid "Firmware Marlin"
+msgstr ""
+
+#: ../../source/mm1.rst:2754
+msgid ""
+"El Firmware Marlin es el programa informático que establece la lógica de más "
+"bajo nivel que controla los circuitos electrónicos de la impresora 3D, existen "
+"muchas variantes de Firmware Marlin y esto se debe a la amplia gama de modelos "
+"de impresoras 3D en el mercado, usted debe asegurarse que el firmware Marlin "
+"que está usando sea el adecuado para su impresora antes de hacer la "
+"modificación de la auto nivelación."
+msgstr ""
+
+#: ../../source/mm1.rst:2760
+msgid ""
+"Todos los Firmware Marlin están divididos en casi 50 secciones o pestañas, la "
+"pestaña que se modificará será la configuration.h. Esta pestaña está dividida "
+"en 5 partes (Thermal Settings, Thermal Runaway Protection, Mechanical Settings, "
+"Bed Auto Leveling, Additional Features), la modificación se efectuará en la "
+"sección de Bed Auto Leveling, sin embargo es importante definir antes las "
+"dimensiones del área de trabajo, estás están ubicadas en la parte final de la "
+"sección Mechanical Settings."
+msgstr ""
+
+#: ../../source/mm1.rst:2768
+msgid ""
+"En este ejemplo la impresora a usar tiene un área de trabajo de 400x400x350 "
+"milímetros."
+msgstr ""
+
+#: ../../source/mm1.rst:2773
+msgid ""
+"Una vez definida el área de trabajo se procede a definir los puntos de "
+"nivelación."
+msgstr ""
+
+#: ../../source/mm1.rst:2776
+msgid ""
+"En el firmware Marlin se tiene por defecto que son tres puntos para la "
+"nivelación, como ya se mencionó está modificación se hará en la sección Bed "
+"Auto Leveling de la pestaña configuration.h, en esta parte se encuentra por "
+"coordenadas en X y Y los puntos en que se quiere nivelar, el firmware Marlin ya "
+"tiene unos puntos seleccionados, sin embargo se pueden modificar al gusto o "
+"necesidad del usuario, en este ejemplo se eligieron las siguientes coordenadas "
+"para los tres puntos:"
+msgstr ""
+
+#: ../../source/mm1.rst:2786
+msgid ""
+"Las coordenadas de los puntos no deben exceder el área de trabajo, ya que se "
+"puede tener accidentes."
+msgstr ""
+
+#: ../../source/mm1.rst:2789
+msgid ""
+"Por último se configura la velocidad de auto nivelación, una velocidad moderada "
+"es de 1500 mm/min la cual se obtuvo mediante varias pruebas, la línea que se "
+"modifica se encuentra debajo de la modificación anterior."
+msgstr ""
+
+#: ../../source/mm1.rst:2795
+msgid "Ahora sólo se carga este Marlin a la impresora 3D."
+msgstr ""
+
+#: ../../source/mm1.rst:2797
+msgid ""
+"Una vez configurado el Marlin se procede a configurar el código G, esto se hace "
+"mediante un software libre, en este ejemplo el software CURA."
+msgstr ""
+
+#: ../../source/mm1.rst:2800
+msgid "Configuración en el Software CURA"
+msgstr ""
+
+#: ../../source/mm1.rst:2804
+msgid ""
+"Para la auto calibración es necesario hacer una modificación en el Software "
+"CURA (software que genera código G mediante modelos 3D)."
+msgstr ""
+
+#: ../../source/mm1.rst:2807
+msgid ""
+"1.- Una vez que haya iniciado el programa, asegúrese de tener seleccionada la "
+"impresora con la que va a trabajar. Para seleccionar su impresora seleccione en "
+"la barra de herramientas la pestaña Machine y selecciones su modelo de "
+"impresora. Si usted no cuenta con opciones de impresoras, puede agregar su "
+"máquina seleccionando Add new machine."
+msgstr ""
+
+#: ../../source/mm1.rst:2815
+msgid ""
+"2.- Lo siguiente es seleccionar su pieza a imprimir y acomodar los parámetros "
+"de impresión a sus necesidades (los parámetros de impresión están ubicados en "
+"las pestañas Basic y Avanced). Cuando termine de configurar los parámetros de "
+"impresión, diríjase a la pestaña Start/End-GCode y selecciones start.gcode."
+msgstr ""
+
+#: ../../source/mm1.rst:2822
+msgid ""
+"3.- Al haber realizado el paso anterior, se encontrará con la primera parte del "
+"código G de su pieza en la parte media inferior izquierda de su pantalla, a "
+"este código se le agregará una línea con el código “G29”, esta línea se "
+"agregará después de la línea con el código “G28 Z0” y antes de la línea con el "
+"código “G1 Z15.0 F”."
+msgstr ""
+
+#: ../../source/mm1.rst:2829
+msgid ""
+"4.- Ahora simplemente se guarda el código en la memoria SD presionando el botón "
+"de Save Toolpath y ya se tendrá el código G con auto nivelación en la memoria "
+"SD lista para colocarse en la impresora 3D y mandar a imprimir."
+msgstr ""
