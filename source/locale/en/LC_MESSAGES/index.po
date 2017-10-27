@@ -22,11 +22,11 @@ msgid "Bienvenido a MakerMex!"
 msgstr ""
 
 #: ../../source/index.rst:9
-msgid "Contents:"
+msgid "Contenido:"
 msgstr ""
 
 #: ../../source/index.rst:24
-msgid "Indices and tables"
+msgid "Indices y tablas"
 msgstr ""
 
 #: ../../source/index.rst:26

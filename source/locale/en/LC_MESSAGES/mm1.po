@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MakerMex 1.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-26 10:24-0500\n"
-"PO-Revision-Date: 2017-10-26 13:22-0500\n"
+"PO-Revision-Date: 2017-10-27 16:49-0500\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -128,7 +128,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:53
 msgid "Piezas K1, K2"
-msgstr ""
+msgstr "K1, K2 parts"
 
 #: ../../source/mm1.rst:54
 msgid "2 tensores T"
@@ -191,7 +191,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:85
 msgid "VENTAJAS"
-msgstr "ADANTAGES"
+msgstr "ADVANTAGES"
 
 #: ../../source/mm1.rst:89
 msgid "Impresión 3D de alta calidad en una amplia gama de materiales"
@@ -235,12 +235,14 @@ msgid ""
 "En caso de contar con un destornillador, puedes usar un desarmador de cruz para "
 "retirar las pijas."
 msgstr ""
+"In case you dont have a screwdriver, you can use a philips bit to remove the "
+"screws."
 
 #: ../../source/mm1.rst:110 ../../source/mm1.rst:475 ../../source/mm1.rst:607
 #: ../../source/mm1.rst:961 ../../source/mm1.rst:1083 ../../source/mm1.rst:1152
 #: ../../source/mm1.rst:1341 ../../source/mm1.rst:2283 ../../source/mm1.rst:2523
 msgid "Paso 1"
-msgstr ""
+msgstr "Step 1"
 
 #: ../../source/mm1.rst:112
 msgid ""
@@ -250,12 +252,15 @@ msgid ""
 "no ser así; se debe realizar un reporte de los daños encontrados y enviarlo lo "
 "antes posibles a los contactos anexados al final de este manual"
 msgstr ""
+"To begin with the unboxing of the pinter, first you have to make a quick "
+"inspection to ensure that the package is in good order, if the wooden box is "
+"damged please report the damage to the address listed at the end of this manual"
 
 #: ../../source/mm1.rst:120 ../../source/mm1.rst:488 ../../source/mm1.rst:614
 #: ../../source/mm1.rst:975 ../../source/mm1.rst:1176 ../../source/mm1.rst:1351
 #: ../../source/mm1.rst:2289 ../../source/mm1.rst:2539
 msgid "Paso 2"
-msgstr ""
+msgstr "Step 2"
 
 #: ../../source/mm1.rst:122
 msgid ""
@@ -263,30 +268,36 @@ msgid ""
 "del mismo; ahora retire los tornillos uno a uno con ayuda del destornillador o "
 "taladro."
 msgstr ""
+"Next, identify the top part of the packge and remove te screws one by one with "
+"a manual or electric screwdriver."
 
 #: ../../source/mm1.rst:133 ../../source/mm1.rst:496 ../../source/mm1.rst:623
 #: ../../source/mm1.rst:991 ../../source/mm1.rst:1205 ../../source/mm1.rst:1365
 #: ../../source/mm1.rst:2307 ../../source/mm1.rst:2552
 msgid "Paso 3"
-msgstr ""
+msgstr "Step 3"
 
 #: ../../source/mm1.rst:135
 msgid ""
 "Para este paso se debe identificar los soportes de unicel que se encuentran "
 "sosteniendo en la parte interior de la impresora."
 msgstr ""
+"In this step you have to identify the EPS foam supports at the bottom of the "
+"printer"
 
 #: ../../source/mm1.rst:140
 msgid ""
 "Una vez retirado los soportes de unicel vamos a quitar con cuidado los "
 "componentes de la impresora."
 msgstr ""
+"Once you have removed EPS Foam, lets gently take the printer components out of "
+"the box"
 
 #: ../../source/mm1.rst:152 ../../source/mm1.rst:504 ../../source/mm1.rst:637
 #: ../../source/mm1.rst:1021 ../../source/mm1.rst:1218 ../../source/mm1.rst:1374
 #: ../../source/mm1.rst:2352 ../../source/mm1.rst:2574
 msgid "Paso 4"
-msgstr ""
+msgstr "Step 4"
 
 #: ../../source/mm1.rst:154
 msgid ""
@@ -308,7 +319,7 @@ msgstr ""
 #: ../../source/mm1.rst:1039 ../../source/mm1.rst:1237 ../../source/mm1.rst:1393
 #: ../../source/mm1.rst:2367 ../../source/mm1.rst:2595
 msgid "Paso 5"
-msgstr ""
+msgstr "Step 5"
 
 #: ../../source/mm1.rst:172
 msgid ""
@@ -327,7 +338,7 @@ msgstr ""
 #: ../../source/mm1.rst:189 ../../source/mm1.rst:519 ../../source/mm1.rst:1269
 #: ../../source/mm1.rst:1402 ../../source/mm1.rst:2375 ../../source/mm1.rst:2614
 msgid "Paso 6"
-msgstr ""
+msgstr "Step 6"
 
 #: ../../source/mm1.rst:191
 msgid ""
@@ -340,7 +351,7 @@ msgstr ""
 #: ../../source/mm1.rst:201 ../../source/mm1.rst:526 ../../source/mm1.rst:1410
 #: ../../source/mm1.rst:2412 ../../source/mm1.rst:2636
 msgid "Paso 7"
-msgstr ""
+msgstr "Step 7"
 
 #: ../../source/mm1.rst:203
 msgid ""
@@ -361,7 +372,7 @@ msgstr ""
 #: ../../source/mm1.rst:222 ../../source/mm1.rst:536 ../../source/mm1.rst:1428
 #: ../../source/mm1.rst:2645
 msgid "Paso 8"
-msgstr ""
+msgstr "Step 8"
 
 #: ../../source/mm1.rst:224
 msgid ""
@@ -390,7 +401,7 @@ msgstr ""
 #: ../../source/mm1.rst:250 ../../source/mm1.rst:548 ../../source/mm1.rst:1470
 #: ../../source/mm1.rst:2690
 msgid "Paso 9"
-msgstr ""
+msgstr "Step 9"
 
 #: ../../source/mm1.rst:252
 msgid "Ahora revisemos los accesorios que vienen en nuestra caja plástica."
@@ -412,7 +423,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:274 ../../source/mm1.rst:582 ../../source/mm1.rst:2706
 msgid "Paso 10"
-msgstr ""
+msgstr "Step 10"
 
 #: ../../source/mm1.rst:276
 msgid ""
@@ -430,7 +441,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:290
 msgid "Paso 11"
-msgstr ""
+msgstr "Step 11"
 
 #: ../../source/mm1.rst:292
 msgid ""
@@ -448,7 +459,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:308
 msgid "Paso 12"
-msgstr ""
+msgstr "Step 12"
 
 #: ../../source/mm1.rst:310
 msgid ""
@@ -459,7 +470,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:319
 msgid "Paso 13"
-msgstr ""
+msgstr "Step 13"
 
 #: ../../source/mm1.rst:321
 msgid ""
@@ -510,7 +521,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:374
 msgid "Paso 14"
-msgstr ""
+msgstr "Step 14"
 
 #: ../../source/mm1.rst:376
 msgid ""
@@ -523,7 +534,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:386
 msgid "Paso 15"
-msgstr ""
+msgstr "Step 15"
 
 #: ../../source/mm1.rst:388
 msgid ""
@@ -562,7 +573,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:421
 msgid "̈́¿Que es Blender?"
-msgstr ""
+msgstr "What is Blender"
 
 #: ../../source/mm1.rst:423
 msgid ""
@@ -573,7 +584,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:427
 msgid "¿Que es un archivo STL?"
-msgstr ""
+msgstr "What is an STL file?"
 
 #: ../../source/mm1.rst:429
 msgid ""
@@ -603,11 +614,11 @@ msgstr ""
 
 #: ../../source/mm1.rst:444
 msgid "Descarga de Software"
-msgstr ""
+msgstr "Software downoads"
 
 #: ../../source/mm1.rst:445
 msgid "-Software Cura"
-msgstr ""
+msgstr "- Cura Software"
 
 #: ../../source/mm1.rst:450
 msgid ""
@@ -620,7 +631,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:454
 msgid "-Software pronterface"
-msgstr ""
+msgstr "-Pronterface Software"
 
 #: ../../source/mm1.rst:459 ../../source/mm1.rst:468
 msgid "te dejamos el link donde lo puedes descargar"
