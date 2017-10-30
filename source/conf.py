@@ -334,5 +334,5 @@ texinfo_documents = [
 # texinfo_no_detailmenu = False
 
 #Internationalization
-locale_dirs = ['locale/']   # path is example but recommended.
+locale_dirs = ['../build/locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
