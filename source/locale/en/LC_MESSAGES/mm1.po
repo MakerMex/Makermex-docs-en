@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MakerMex 1.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-26 10:24-0500\n"
-"PO-Revision-Date: 2017-10-31 22:37-0600\n"
+"PO-Revision-Date: 2017-11-02 11:46-0600\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -839,7 +839,7 @@ msgstr "Temperature for ABS 225°C"
 
 #: ../../source/mm1.rst:559
 msgid "-Cama caliente 97°C"
-msgstr "Hot bed97°C"
+msgstr "Hot bed 97°C"
 
 #: ../../source/mm1.rst:562
 msgid "En Fill Density"
@@ -859,7 +859,7 @@ msgstr "The recomended density is between 25% to 40%"
 #: ../../source/mm1.rst:571
 #, python-format
 msgid "Piezas resistentes de 45 a 60% de relleno"
-msgstr "For Strong pieces,use a density of 45% to 60%"
+msgstr "Use 45 to 60% infill density for strong pieces"
 
 #: ../../source/mm1.rst:576
 msgid ""
@@ -1012,6 +1012,8 @@ msgid ""
 "Para poder imprimir con modulo sencillo(modulo que viene de fabrica), es "
 "necesario conectarlo de esta forma."
 msgstr ""
+"To be able to print with the single module (included by default), you need to "
+"connect it this way."
 
 #: ../../source/mm1.rst:687
 msgid ""
@@ -1019,10 +1021,12 @@ msgid ""
 "de doble extrusora, si este seguro no se conecta es imposible realizar la "
 "impresión"
 msgstr ""
+"Is very important to connect the dual extrusion tumber, if it is unplugged it "
+"will be impossible to print."
 
 #: ../../source/mm1.rst:694
 msgid "Uso de la pantalla"
-msgstr ""
+msgstr "Usage of the screen"
 
 #: ../../source/mm1.rst:696
 msgid ""
@@ -1030,30 +1034,32 @@ msgid ""
 "esta se puede encontrar toda la información del transcurso de la impresión, "
 "esta puede ir desde:"
 msgstr ""
+"After you start the 3D printer you will see the main screen of the LCD where "
+"you can find all the printing information."
 
 #: ../../source/mm1.rst:701
 msgid "Información de la pantalla"
-msgstr ""
+msgstr "Information of the screen"
 
 #: ../../source/mm1.rst:703
 msgid "-La temperatura actual de la boquilla"
-msgstr ""
+msgstr "Noozle temperature"
 
 #: ../../source/mm1.rst:705
 msgid "-La temperatura de un doble extrusor"
-msgstr ""
+msgstr "Noozle of the second extruder (if installed)"
 
 #: ../../source/mm1.rst:707
 msgid "-La temperatura actual de la cama"
-msgstr ""
+msgstr "Hotbed temperature"
 
 #: ../../source/mm1.rst:709
 msgid "-El tiempo trascurrido de impresion"
-msgstr ""
+msgstr "Printing time"
 
 #: ../../source/mm1.rst:711
 msgid "-El porcentaje de avance en la impresion"
-msgstr ""
+msgstr "Printing progress percentage"
 
 #: ../../source/mm1.rst:713
 msgid "-La velocidad de la impresion dada en porcentaje"
@@ -1061,25 +1067,27 @@ msgstr ""
 
 #: ../../source/mm1.rst:715
 msgid "-Un mensaje pre-programado"
-msgstr ""
+msgstr "A pre-configured message"
 
 #: ../../source/mm1.rst:719
 msgid ""
 "La pantalla tiene una perilla multifuncional que puede girar y a su vez "
 "seleccionar"
-msgstr ""
+msgstr "The LCD screen has a multifunction knob that you can turn and press."
 
 #: ../../source/mm1.rst:719
 msgid ""
 "los menús de la pantalla, para acceder a algún menú solo giras y oprimes la "
 "perilla."
 msgstr ""
+"To enter a menu on the screen simply select it by turning the knob and then "
+"press it."
 
 #: ../../source/mm1.rst:723
 msgid ""
 "Ahora al dar clic en la perilla nos aparecerá el menú principal, este esta "
 "conformado por:"
-msgstr ""
+msgstr "The main menu incudes:"
 
 #: ../../source/mm1.rst:727
 msgid "-PREPARE"
@@ -1095,13 +1103,13 @@ msgstr "-PRINT FROM SD."
 
 #: ../../source/mm1.rst:736
 msgid "Identifiquemos la opcin de PREPARE. giremos la perilla y oprimámosla."
-msgstr ""
+msgstr "Turn the knob t select the PREPARE option, and then press t select it"
 
 #: ../../source/mm1.rst:740
 msgid ""
 "Al oprimir en la opción de prepare nos aparecerá un menú nuevo, este esta "
 "formado por:"
-msgstr ""
+msgstr "A new menu will appear, that includes:"
 
 #: ../../source/mm1.rst:744
 msgid "-Disable steppers"
@@ -1144,6 +1152,10 @@ msgid ""
 "volver a moverlos sin tener que apagar la impresora solo activamos este "
 "parámetro, basta dar un clic y se libera la corriente que hay en los motores."
 msgstr ""
+"1.- It is used to unlock the motors, when you turn yur printer on, you can move "
+"the axis with your hands, but when you start printing or use the LCD control or "
+"the pronterface to move the axis you are not able to move them by handuntil yu "
+"use this option or turn of the printer."
 
 #: ../../source/mm1.rst:771
 msgid "-Auto Home"
@@ -1156,6 +1168,9 @@ msgid ""
 "moverá a la derecha, le seguirá el eje Y moviéndose hacia el fondo, y por "
 "ultimo el eje Z se moverá hacia arriba."
 msgstr ""
+"2.- With this option you will get the axis to the zero position (origin). After "
+"activting this option, X axis will move first to the right, then Y axis will "
+"move backwards and Z axis will move to top."
 
 #: ../../source/mm1.rst:780
 msgid ""
@@ -1163,14 +1178,16 @@ msgid ""
 "PLA las temperaturas son adecuadas cuando se desea tener lista la boquilla para "
 "imprimir o cambiar el filamento."
 msgstr ""
+"3.- This option will heat up the nozzle and hot bed to the temperatures needed "
+"to print PLA, use it to change PLA filament or to prepare for printing"
 
 #: ../../source/mm1.rst:784
 msgid "Preheat PLA esta formado por:"
-msgstr ""
+msgstr "Preheat PLA has the following options:"
 
 #: ../../source/mm1.rst:787
 msgid "-Preheat PLA 1 -Preheat PLA 2 -Preheat PLA A11 -Preheat PLA bed"
-msgstr ""
+msgstr "A.- Preheat PLA 1 2.-Preheat PLA 2 3.-Preheat PLA A11 4.-Preheat PLA bed"
 
 #: ../../source/mm1.rst:795
 msgid ""
@@ -1178,6 +1195,9 @@ msgid ""
 "encienden la segunda boquillas y cama caliente. C.- Al activarlo encienden las "
 "dos boquillas y cama caliente. D.- Al activarlo se enciende la cama caliente."
 msgstr ""
+"A.- activating it, start to heat the noozle 1 and the hotbed, B.- Activating it "
+"start to heat noozle two and the hotbed, C.- Activating it will start to heat "
+"the two noozles and hotbed, D.- Activating it will heat the bed"
 
 #: ../../source/mm1.rst:802
 msgid ""
@@ -1185,10 +1205,13 @@ msgid ""
 "ABS las temperaturas son adecuadas cuando se desea tener lista la boquilla para "
 "imprimir o cambiar el filamento."
 msgstr ""
+"4.- Tis option will heat the noozle and hotbed with the temperature needed to "
+"print the ABS, yu can use it to change the ABS filament or to prepare for "
+"printing."
 
 #: ../../source/mm1.rst:807
 msgid "Preheat PLA"
-msgstr "Preheat PLA"
+msgstr "Preheat ABS"
 
 #: ../../source/mm1.rst:809
 msgid "-Preheat ABS 1"
@@ -1214,13 +1237,14 @@ msgstr "-Cooldown"
 msgid ""
 "5.- Esta opción nos permite apagar las indicaciones de los preheat damos clic y "
 "se resetea la indicación de calentar. Es decir se cancela."
-msgstr ""
+msgstr "5.- This option will deactivate or cancel the heating of noozle and bed."
 
 #: ../../source/mm1.rst:827
 msgid ""
 "6.- Esta opción es un interruptor, como un paro de emergencia pero no lo usamos "
 "preferimos usar el que energiza la impresora."
 msgstr ""
+"6.- This option es acts as an emergency stop, we prefer to use the power source "
 
 #: ../../source/mm1.rst:832
 msgid ""
@@ -1228,6 +1252,8 @@ msgid ""
 "que los podemos mover con diferentes velocidades, con esta opción podemos "
 "calibrar la cama de impresión."
 msgstr ""
+"7.- This option allows to ineract with the ais, it means that we ca move them t "
+"diferent velocities to calibrate the bed."
 
 #: ../../source/mm1.rst:838
 msgid ""
@@ -1235,6 +1261,8 @@ msgid ""
 "seleccionar la distancia que deseamos recorrer por cada giro que demos en la "
 "perilla de la pantalla. Como se ve en la imagen tenemos 3 opciones de distancia."
 msgstr ""
+"Clickin on the \"Move Axis\" option will show the following screen, where we "
+"can select the distance that we want to move turning the knob, we have 3 option:"
 
 #: ../../source/mm1.rst:844
 msgid ""
@@ -1242,51 +1270,55 @@ msgid ""
 "Cuando seleccionamos la opción de 1mm o 0.1mm nos permite mover todos los ejes "
 "y la extrusora."
 msgstr ""
+"When we select 10mm we can only move the X or Y axis, when we select 1mm option "
+"or 0.1mm we will be able to move every axis or the extruder."
 
 #: ../../source/mm1.rst:848
 msgid ""
 "Ya que seleccionaste una distancia puedes ver las siguientes opciones, das clic "
 "a la opción que deseas mover. Y te aparecerá una nueva opción."
-msgstr ""
+msgstr "After you select the distance, you can se a new screen with options."
 
 #: ../../source/mm1.rst:853
 msgid ""
 "Al momento de seleccionar la opción deseada, tendrá que aparecer para ambas "
 "distancias."
-msgstr ""
+msgstr "After selecting the desired option it will show the 3 axis."
 
 #: ../../source/mm1.rst:858
 msgid "-Eje X"
-msgstr ""
+msgstr "X axis"
 
 #: ../../source/mm1.rst:863
 msgid "-Eje Z"
-msgstr ""
+msgstr "Y axis"
 
 #: ../../source/mm1.rst:868
 msgid "-Eje Y"
-msgstr ""
+msgstr "Z axis"
 
 #: ../../source/mm1.rst:873
 msgid "-Extrusora"
-msgstr ""
+msgstr "Extruder"
 
 #: ../../source/mm1.rst:876
 msgid ""
 "Para poder darle movimiento al eje que seleccionemos,se gira la perilla ya sea "
 "en sentido positivo o en sentido negativo."
 msgstr ""
+"You can turn the knob clockwise or counterclock to move the axis to the "
+"positive or to the negative."
 
 #: ../../source/mm1.rst:879
 msgid ""
 "En la opción de CONTROL se encuentran mas opciones estos ya fueron "
 "predeterminados por la programación, es necesario que se respeten estos "
 "parámetros. En esta opción podemos encontrar:"
-msgstr ""
+msgstr "The CONTROL menu contains the following options:"
 
 #: ../../source/mm1.rst:884
 msgid "-Temperatura"
-msgstr ""
+msgstr "Temperature"
 
 #: ../../source/mm1.rst:886
 msgid "-Motion"
@@ -1300,13 +1332,13 @@ msgstr "-Restore failsafe"
 msgid ""
 "En CONTROL podemos encontrar las siguientes opciones. de las cuales solo vamos "
 "a seleccionar una que es la de TEMPERATURE"
-msgstr ""
+msgstr "Usually we only need the TEMPERATURE option"
 
 #: ../../source/mm1.rst:898
 msgid ""
 "En TEMPERATURE encontraremos las siguientes opciones las cuales son las que nos "
 "interesan."
-msgstr ""
+msgstr "The TEMPERATURE menu has the following options"
 
 #: ../../source/mm1.rst:904
 msgid ""
@@ -1314,6 +1346,8 @@ msgid ""
 "temperatura en la primer boquilla, para que esa temperatura sea procesada se da "
 "un clic y se activa es indicación."
 msgstr ""
+"1.- Click to activate it, then turn the knob to apply a temerature to noozle 1, "
+"click again."
 
 #: ../../source/mm1.rst:908
 msgid ""
@@ -1321,6 +1355,8 @@ msgid ""
 "temperatura en la segunda boquilla, para que esta temperatura sea procesada se "
 "da un clic y se activa es indicación."
 msgstr ""
+"2.- Click to activate it, then turn the knob to apply a temerature to noozle 2, "
+"click again."
 
 #: ../../source/mm1.rst:912
 msgid ""
@@ -1328,6 +1364,8 @@ msgid ""
 "temperatura en la cama caliente para que esta temperatura sea procesada se da "
 "un clic y se activa es indicación."
 msgstr ""
+"3.- Click to activate it, then turn the knob to apply a temerature to the "
+"hotbed, click again."
 
 #: ../../source/mm1.rst:916
 msgid ""
@@ -1335,28 +1373,35 @@ msgid ""
 "en el ventilador 40x40mm esta opción puede servir para bajar la velocidad o "
 "subirla y para que sea procesada se da un clic y se activa es indicación."
 msgstr ""
+"4.- Click to activate it, then turn the knob to apply a temerature to noozle 1, "
+"click again."
 
 #: ../../source/mm1.rst:921
 msgid ""
 "La pantalla seria nuestro control remoto de la impresora. Pero es de suma "
 "importancia hacer caso de usar solo las opciones que se mencionan."
 msgstr ""
+"The LCD screen is the controller for the print, is very important to use only "
+"the options detailed in this manual"
 
 #: ../../source/mm1.rst:924
 msgid ""
 "La opción de PRINT FROM SD es la mas sencilla es donde seleccionamos nuestro "
 "código G."
 msgstr ""
+"The PRINT from SD option allows to select a G code from the SD card to print"
 
 #: ../../source/mm1.rst:926
 msgid "TIPS PARA EL USO DE LA PANTALLA"
-msgstr ""
+msgstr "TIPS FOR SSCREEN USAGE"
 
 #: ../../source/mm1.rst:928
 msgid ""
 "Recordemos que la perilla de la pantalla es multifuncional que nos sirve para "
 "seleccionar y activar la acción de cada opción de nuestra pantalla."
 msgstr ""
+"Remember that the knob is multifunctional, it allows us to select and activate "
+"each option on the screen."
 
 #: ../../source/mm1.rst:931
 msgid ""
@@ -1365,6 +1410,8 @@ msgid ""
 "que este imprimiendo, o de la cama caliente, o bajar la velocidad del "
 "ventilador."
 msgstr ""
+"While the machine prints we can use some options, like turn up nd down the "
+"temperture of the noozles or the bed, or speed up and down the cooling fan"
 
 #: ../../source/mm1.rst:935
 msgid ""
@@ -1374,6 +1421,9 @@ msgid ""
 "velocidad, si la giras en sentido contrario a las manecillas del reloj la "
 "velocidad bajara gradualmente."
 msgstr ""
+"With the screen we can also modify the printng speed, to do this simply turn "
+"the knob while printing, if you click clockwise the speed will increase, if you "
+"turn counterclock it will decrease. "
 
 #: ../../source/mm1.rst:941
 msgid ""
@@ -1382,14 +1432,16 @@ msgid ""
 "esta en la pantalla principal nos aparece un porcentaje de 100% , este "
 "porcentaje es el indicador de la velocidad que se esta manejando."
 msgstr ""
+"You can find the printing speed in the screen as a porcentage, 100% means that "
+"we are printing at the speed configured in cura (usually 50 mm/s)."
 
 #: ../../source/mm1.rst:946
 msgid "Ejemplo."
-msgstr ""
+msgstr "Example"
 
 #: ../../source/mm1.rst:949
 msgid "Velocidad"
-msgstr ""
+msgstr "Speed"
 
 #: ../../source/mm1.rst:951
 msgid "50mm/s = 100% 100mm/s = 200% 150mm/s = 300%"
@@ -1397,25 +1449,31 @@ msgstr "50mm/s = 100% 100mm/s = 200% 150mm/s = 300%"
 
 #: ../../source/mm1.rst:959
 msgid "Calibración de la impresora \"Distancia cama boquilla\""
-msgstr ""
+msgstr "Printer calibration (distance between the noozle and the hotbed)"
 
 #: ../../source/mm1.rst:963
 msgid ""
 "Aflojar el sensor inductivo con una llave Allen de 2.5mm y subirlo como se "
 "muestra."
 msgstr ""
+"unscrew the inductive sensor with an 2.5mm allen wrench and move it upwards as "
+"shown in the image"
 
 #: ../../source/mm1.rst:977
 msgid ""
 "Gira con cuidado el eje z hasta subirlo, logrando que entre la cama y la "
 "boquilla quede una separación de una tarjeta de presentación."
 msgstr ""
+"turn gently the Z axis so it moves upward, we need that the distance between "
+"the noozle and the hotbed is equivalent to the thickness of a business card"
 
 #: ../../source/mm1.rst:981
 msgid ""
 "la tarjeta debe de quedar rozando entre la boquilla y la cama para que haya una "
 "ligera separación entre estas dos."
 msgstr ""
+"The business card need to touch gently the bed and the noozle to ensure the "
+"distance is correct"
 
 #: ../../source/mm1.rst:993
 msgid ""
@@ -1424,12 +1482,15 @@ msgid ""
 "cuando no se usa, en este paso bajaremos el sensor inductivo para que este en "
 "relación de la distancia que dejamos entre la boquilla y la cama."
 msgstr ""
+"Once we made sure the distance between the noozle and the bed is correct we wil "
+"adjust the inductive sensor very carefully to ensure the Z axis doesn't move "
+"downwards."
 
 #: ../../source/mm1.rst:998
 msgid ""
 "En esta el sensor hasta su punto aproximado de detección, para que la distancia "
 "que esta definida no sea afectada."
-msgstr ""
+msgstr "We need to djust the sensor to the detection point."
 
 #: ../../source/mm1.rst:1001
 msgid ""
@@ -1440,12 +1501,17 @@ msgid ""
 "apriete hasta que que este queda firme, esto ya que el LED del sensor este "
 "encendido."
 msgstr ""
+"1.- Turn the power source on, 2.-Hold the Z axis to mantain the distance. 3.- "
+"Move the sensor until the LED is activated in red. 4.- Screw with a 2.5mm Allen "
+"wrench or with a chain nose jaw plier to hold firmly, make sure the LED is on."
 
 #: ../../source/mm1.rst:1009
 msgid ""
 "Recuerda que nuestra principal importancia es dejar el sensor en la posición "
 "adecuada, esto quiere decir justo cuando comience a encender el LED."
 msgstr ""
+"The most important thing is to get the inductive sensor in the correct "
+"position, it s just when the led turns on."
 
 #: ../../source/mm1.rst:1023
 msgid ""
@@ -1453,18 +1519,22 @@ msgid ""
 "opción de Auto Home en nuestra impresora esto para poder visualizar si se "
 "coloco en la distancia correcta el sensor."
 msgstr ""
+"As an aditional test we will select the \"autohome\" option in the screen to "
+"ensure the calibration went fine."
 
 #: ../../source/mm1.rst:1034
 msgid ""
 "Cuando selecciones en Auto Home se ira a su origen 0,0,0. Podrás observar que "
 "el sensor quedo ligeramente separado de la cama al igual que la boquilla."
 msgstr ""
+"Once in home (0,0,0) position you can see a very small distance between noozle "
+"and bed."
 
 #: ../../source/mm1.rst:1041
 msgid ""
 "Después de a ver dando la opción de Auto Home vamos a realizar algunos "
 "movimientos de los ejes X,Y con la pantalla."
-msgstr ""
+msgstr "Now we will move the X, and Y axis using the screen."
 
 #: ../../source/mm1.rst:1053
 msgid ""
@@ -1472,13 +1542,15 @@ msgid ""
 "finalidad de que la boquilla quede calibrada con las cuatro esquinas de la cama "
 "caliente."
 msgstr ""
+"Lets start moving the Y axis to ensure the bed is calibrated in its four "
+"corners."
 
 #: ../../source/mm1.rst:1061
 msgid ""
 "Cuando des la indicación la boquilla se moverá a esta posición, aquí podrás "
 "hacer el ajuste de la distancia entre la boquilla y la cama, también "
 "asegurándose que la distancia se la de la tarjeta."
-msgstr ""
+msgstr "Always use the business card to compare the correct distance."
 
 #: ../../source/mm1.rst:1065
 msgid ""
@@ -1487,6 +1559,9 @@ msgid ""
 "te puedes apoyar con tu llave Allen de 2.5mm y unas pinzas de punta para "
 "sujetar la tuerca y así ajustar el resorte."
 msgstr ""
+"If the LED of he sensor does not turn on, we will need to adjust the springs of "
+"the bed using a 2.5mm allen wrench and a  chain nose jaw plier to adjust the "
+"nut.  "
 
 #: ../../source/mm1.rst:1070
 msgid ""
@@ -1494,6 +1569,8 @@ msgid ""
 "distancia muy alta tenemos que liberarlo, en cambio si la boquilla esta rozando "
 "con la cama tendremos que apretarlo el resorte."
 msgstr ""
+"If the distance in a corner is bigger than the correct we have to unscrew, if "
+"the distance is to short we have to screw."
 
 #: ../../source/mm1.rst:1076
 msgid ""
@@ -1502,10 +1579,11 @@ msgid ""
 "eje Z se puede bajar si esto sucede vuelve a mandar Auto Home e intenta "
 "realizar el ajuste."
 msgstr ""
+"If Z axis moves down you can select autohome again to continue calibrating."
 
 #: ../../source/mm1.rst:1081
 msgid "Calibración de impresora \"distancia cama-boquilla\" MM1 V1.5"
-msgstr ""
+msgstr "Printer Calibration (noozle-bed distance) MM1 V1.5"
 
 #: ../../source/mm1.rst:1085
 msgid ""
@@ -1515,6 +1593,9 @@ msgid ""
 "podemos subir o bajar dicho sensor hasta que quede en una distancia adecuada en "
 "relación a la boquilla."
 msgstr ""
+"Identify the Z sensor, on the top it has a LED that turns on when detects the "
+"hotbed, in the bottom part it has a nut that you can unscrew to release the "
+"sensor to adjust the distance. "
 
 #: ../../source/mm1.rst:1092
 msgid ""
@@ -1526,6 +1607,10 @@ msgid ""
 "un objeto con las mismas dimensiones, después de haber colocado esto en la cama "
 "y subir el eje hasta que la hoja este casi atorada pero que aun se pueda mover."
 msgstr ""
+"once we have identified the sensor we will go to autohome using the screen (X0,"
+"Y0,Z0) then we can manually move z axis up or down as needed to get the "
+"distance of the thicknes of a business card or a similar object between the "
+"noozle and the bed."
 
 #: ../../source/mm1.rst:1102
 msgid ""
@@ -1533,6 +1618,8 @@ msgid ""
 "giramos el sensor subiendo o bajando dependiendo donde estaba colocado hasta "
 "que el LED encienda."
 msgstr ""
+"now we unscrew the nut of the sensor to move it up or down as needed to make "
+"the LED turn ON"
 
 #: ../../source/mm1.rst:1109
 msgid ""
@@ -1541,6 +1628,8 @@ msgid ""
 "las esquinas de la cama estas deben de estar a la mima distancia que el la "
 "posición dada en el auto home."
 msgstr ""
+"Once the LED is on, we adjust the nut, and the calibration is ready. Next we "
+"will check the four corners of the bed to see if it is well leveled."
 
 #: ../../source/mm1.rst:1117
 msgid ""
@@ -1548,6 +1637,8 @@ msgid ""
 "pantalla vamos identificar la opción de move axis esto para poder movernos en "
 "la cama por medio de los ejes independientemente."
 msgstr ""
+"To calibrate the four corners of the bed we have to use the \"Move axis\" "
+"option to move on X and Y separately."
 
 #: ../../source/mm1.rst:1123
 msgid ""
@@ -1559,6 +1650,11 @@ msgid ""
 "saber de que quedo en la en la distancia correcta, esta debe de tener la misma "
 "distancia cama-boquilla que en el Auto Home."
 msgstr ""
+"First we will move the Y axis to the position shown in the image, if the LED "
+"turns off it means that the bed is not being detected, we have to move that "
+"corner upwards until the led turns on, if the LED is on but the noozle touches "
+"the bed we have to move down that corner of the bed to give more distance. The "
+"distance must be the same on each corner."
 
 #: ../../source/mm1.rst:1132
 msgid ""
@@ -1566,22 +1662,24 @@ msgid ""
 "Allen M3, deteniendo la tuerca de seguridad con las pinzas y girando el "
 "tornillo con la llave."
 msgstr ""
+"To move the bed up or down you can use a chain nose jaw plier and a M3 allen "
+"wrench, holding the nut with the pliers and screwing with the wrench"
 
 #: ../../source/mm1.rst:1138
 msgid ""
 "Una vez calibrando este extremo de la cama nos movemos hacia el otro extremo "
 "sobre el eje X y repetimos el paso anterior."
-msgstr ""
+msgstr "Repeat the steps on the X axis."
 
 #: ../../source/mm1.rst:1143
 msgid "Repetimos los mismos pasos para el otro extremo."
-msgstr ""
+msgstr "Repeat to the other side"
 
 #: ../../source/mm1.rst:1147
 msgid ""
 "Y listo ya tienes tu cama calibrada y tu impresora lista para imprimir tus "
 "diseños."
-msgstr ""
+msgstr "Ready, you have your bed clibrated to print your designs!"
 
 #: ../../source/mm1.rst:1150
 msgid "¡ Ya desempacaste tu impresora ahora vamos a ponerla a imprimir !"
@@ -1595,6 +1693,9 @@ msgid ""
 "manera, lo deberás colocar en la cruz, sujetarlo con el clip y conectar sus "
 "cables."
 msgstr ""
+"On this part of the manual we will install the printing module if is not "
+"already installed; the module is the part where the noozle is, t must be "
+"installed in the cross, then you have to put the clip and conect the wires."
 
 #: ../../source/mm1.rst:1178
 msgid ""
@@ -1603,6 +1704,8 @@ msgid ""
 "de goma azul) , posteriormente sacaremos punta al filamento e introduciremos el "
 "filamento a la boquilla"
 msgstr ""
+"Now, we have to connect the bowden tube (the white tube) in the blue connector, "
+"now we need to sharp the filament to get it into the noozle."
 
 #: ../../source/mm1.rst:1186
 msgid ""
@@ -1610,13 +1713,15 @@ msgid ""
 "introducirlo en el tubo, lo hacemos de dos maneras: utilizando un sacapuntas de "
 "metal y/o con pinzas de corte"
 msgstr ""
+"The sharp we got in the filment will guide it throug the noozle, we can sharpe "
+"it using a pencil sharpener or jaw pliers."
 
 #: ../../source/mm1.rst:1207
 msgid ""
 "Encendemos la impresora y calentamos la boquilla recordemos que la temperatura "
 "a utilizarse en PLA es de 204°C y si se llegara a utilizar ABS se tendría que "
 "colocar en 230°C."
-msgstr ""
+msgstr "Turn on the printer, heat the noozle to 204°C for PLA or 230°C for ABS"
 
 #: ../../source/mm1.rst:1220
 msgid ""
@@ -1626,6 +1731,9 @@ msgid ""
 "material ya salio por la punta de la boquilla, ya podremos saber que el "
 "material esta colocado correctamente."
 msgstr ""
+"When the noozle reaches the temperature, turn the big ger of the extruder in "
+"order to make some of the filament get out of the noozle. When the material "
+"comes out of the noozle then we are sure that is well loaded."
 
 #: ../../source/mm1.rst:1228
 msgid ""
@@ -1634,6 +1742,8 @@ msgid ""
 "manecillas del reloj. Este paso se hace para cambiar el filamento o retirar un "
 "sobrante y colocar un carrete nuevo."
 msgstr ""
+"To unload the filament the proces is similar; heat up the npzle and then turn "
+"the engine clockwise until all the filament is unloaded."
 
 #: ../../source/mm1.rst:1239
 msgid ""
@@ -1642,6 +1752,8 @@ msgid ""
 "código de una pieza que tu desees, para poder realizar esto no olvides que "
 "tienes que generar tu código G como se muestra."
 msgstr ""
+"To print form an SD card we have to save a GCode on it, we can generate a GCode "
+"with the following steps:"
 
 #: ../../source/mm1.rst:1244
 msgid ""
@@ -1649,12 +1761,14 @@ msgid ""
 "buscaras y seleccionaras el archivo STL que previamente has modelado o bien ya "
 "tenias a la mano."
 msgstr ""
+"1.- Open Cur and click on \"Load\", it will open a window where you will find "
+"an STL."
 
 #: ../../source/mm1.rst:1247
 msgid ""
 "Ya seleccionado le damos en la opción abrir. Inmediatamente en cuanto des clic "
 "en abrir el archivo STL se cargara en cura"
-msgstr ""
+msgstr "Select an STL and click on \"open\", it will load the model on Cura"
 
 #: ../../source/mm1.rst:1254
 msgid ""
@@ -1663,6 +1777,9 @@ msgid ""
 "puedes guardar tu código G en la tarjeta SD dando clic sobre el icono en cura "
 "de la tarjeta SD."
 msgstr ""
+"Remove the SD card from the printer and insert it in your computer, observe "
+"that the icons change when you insert the SD, click on the save icon to save "
+"the GCode on the SD card."
 
 #: ../../source/mm1.rst:1263
 msgid ""
@@ -1670,12 +1787,16 @@ msgid ""
 "la tarjeta y deberás sacarla hasta que te aparezca la leyenda de que se ha "
 "guardo en la tajeta SD."
 msgstr ""
+"Now, you hve to wait to the \"Saved as...\" message to remove the card from the "
+"computer."
 
 #: ../../source/mm1.rst:1271
 msgid ""
 "Listo puede retirar su tajeta SD y volverla a colocar en la impresora, encender "
 "la misma y mandar a imprimir."
 msgstr ""
+"Now you can inert the SD on your printer, turn it on, select \"Pringt from SD\" "
+"on the sccreen, and select the model you want to print"
 
 #: ../../source/mm1.rst:1279
 msgid ""
@@ -1684,6 +1805,8 @@ msgid ""
 "hayas descargado. También tiene mucho que ver los parámetros que le coloque a "
 "su impresión, en esto incluye la temperatura colocada para la impresión."
 msgstr ""
+"The printer wil start to heat the hot bed and then the noozle according to the "
+"parameters configuring in cura."
 
 #: ../../source/mm1.rst:1289
 msgid ""
@@ -1692,6 +1815,9 @@ msgid ""
 "Z. Y sacara un poco de material y se va a hacia el centro, para comenzar a "
 "imprimir."
 msgstr ""
+"When the noozle and bed reach the temperature configured the printing will "
+"start, the first thing it will do is to move to home and will purge some "
+"material, then will go to the enter of the bed to beging the print."
 
 #: ../../source/mm1.rst:1293
 msgid ""
@@ -1699,6 +1825,8 @@ msgid ""
 "hacia la cama caliente, para ser mas exactos así como se muestra en las "
 "imágenes."
 msgstr ""
+"The first layer is the most important it need to be well stiked to the bed, see "
+"the image as a reference."
 
 #: ../../source/mm1.rst:1303
 msgid ""
@@ -1707,6 +1835,8 @@ msgid ""
 "palanca para que comience a desprenderse, también podemos apoyarnos con las "
 "manos para despegarla."
 msgstr ""
+"When the print has finished we need a knife to remove the final piece from the "
+"bed."
 
 #: ../../source/mm1.rst:1310
 msgid "Módulos"
@@ -1722,63 +1852,68 @@ msgid ""
 "Ninjaflex, el TPE, PLA Soft entre otros más. Te invitamos a que revises este "
 "pequeño manual para que puedas hacer un buen uso de tu Módulo Flexy."
 msgstr ""
+"With this module you can print flexible materials, like Ninjlex, TPE, PLA soft "
+"and other more. Follow these instructions to learn how to use your flexy module."
 
 #: ../../source/mm1.rst:1319
 msgid ""
 "En este manual vamos a colocar nuestro módulo Flexy e imprimir lo primero que "
 "tenemos que hacer es tener bien identifiquemos los componentes de este Módulo."
-msgstr ""
+msgstr "We will identify the componets of the module to install it correctly,"
 
 #: ../../source/mm1.rst:1325
 msgid "1.- Módulo inferior  (boquilla )"
-msgstr ""
+msgstr "1.- Lower module (noozle)"
 
 #: ../../source/mm1.rst:1327
 msgid "2.- Módulo superior (Extrusor)"
-msgstr ""
+msgstr "2.- Superior Module (Extruder)"
 
 #: ../../source/mm1.rst:1329
 msgid "3.- Guía de filamento"
-msgstr ""
+msgstr "3.- Filament Guide"
 
 #: ../../source/mm1.rst:1331
 msgid "4.- Cable de motor para extrusor"
-msgstr ""
+msgstr "4.- Extruder motor Wire"
 
 #: ../../source/mm1.rst:1333
 msgid "5.- Tres tornillos M3x16mm"
-msgstr ""
+msgstr "5.- Three M3x16mm screws"
 
 #: ../../source/mm1.rst:1338
 msgid ""
 "Estas piezas son indispensables y únicas para poder montar y usar tu Módulo "
 "Flexyble."
 msgstr ""
+"All thes part are unique and fundamentals to install and use the Flexy module."
 
 #: ../../source/mm1.rst:1343
 msgid ""
 "Colocaremos el Módulo 1 por debajo de la cruz hasta que llegue a su limite."
-msgstr ""
+msgstr "Put the Lower Module under the cross until it reaches to the limit."
 
 #: ../../source/mm1.rst:1353
 msgid ""
 "Ahora colocamos nuestro clip de sujeción, este es un paso importante ya que es "
 "legal parte de apoyo entre la cruz y el modulo."
-msgstr ""
+msgstr "Insert the clip to hold the module on the cross."
 
 #: ../../source/mm1.rst:1363
 msgid "hasta este punto el módulo 1 esta anclado a la cruz central."
-msgstr ""
+msgstr "At this point the lower module is attached to the cross."
 
 #: ../../source/mm1.rst:1367
 msgid ""
 "Colocamos el módulo 2 en la parte superior del módulo 1. Es de suma importancia "
 "ya que esta es la parte en donde se distribuye el filamento a utilizar."
 msgstr ""
+"Put the Higher module over the lower module. This part i very mportant because "
+"is the part that provides the filament to the noozle."
 
 #: ../../source/mm1.rst:1372
 msgid "El Módulo 2  debe de embonar bien con el Módulo 1"
-msgstr ""
+msgstr "Higher module must fix perfectly on lower module."
 
 #: ../../source/mm1.rst:1376
 msgid ""
@@ -1786,39 +1921,47 @@ msgid ""
 "Módulo Flexy. Para poder colocarlos necesitaremos la ayuda de una llave Allen "
 "\"L\" de 2.5mm"
 msgstr ""
+"Now, put the M3x16mm screws to hold the two parts of the Flexy Module. use an "
+"\"L\" 2.5mm Allen wrench."
 
 #: ../../source/mm1.rst:1382
 msgid ""
 "Gira un poco el engrane grande para poder colocar los dos tornillos que van en "
 "la parte que señala la flecha."
 msgstr ""
+"Turn the gear a little to be abe to insert the screws in the part showed on the "
+"picture."
 
 #: ../../source/mm1.rst:1395
 msgid ""
 "Colocamos la guía de filamento en el perfil superior trasero como se ve en las "
 "imágenes."
-msgstr ""
+msgstr "Put the filment guide on the top back profile as shown in the images."
 
 #: ../../source/mm1.rst:1404
 msgid ""
 "Vamos a conectar los cables del módulo, pasamos los cables por encima del "
 "perfil superior izquierdo y  conectamos los cables."
 msgstr ""
+"Conect the wire of the module, ass the cabless over the top left profile and "
+"plug them."
 
 #: ../../source/mm1.rst:1412
 msgid ""
 "Ya que conectamos todos los conectores pasamos a conectar el motor con su cable."
-msgstr ""
+msgstr "Now conect the motor with its cable"
 
 #: ../../source/mm1.rst:1415
 msgid ""
 "recuerda que este cable es diferente al que ya tienes conectado es igual de sus "
 "conectores pero tiene algo exclusivo para el motor del flexy."
 msgstr ""
+"Remember that this cable is diferent to the one is already connected, is a "
+"motor cable but has a paticular feature for the flexy module."
 
 #: ../../source/mm1.rst:1418
 msgid "Primero conectamos el motor"
-msgstr ""
+msgstr "First we connect the motor"
 
 #: ../../source/mm1.rst:1422
 msgid ""
@@ -1826,6 +1969,9 @@ msgid ""
 "impresora, si ya cuentas con un cable conectado en esta sección, solo retíralo "
 "y conecta el del motor nuevo"
 msgstr ""
+"Now we connect the cable in the input marked as \"M1\" in the back of the "
+"printer, if there s already connected a cable unplug it and connect the cable "
+"that comes with the module."
 
 #: ../../source/mm1.rst:1430
 msgid ""
@@ -1833,36 +1979,38 @@ msgid ""
 "imprimir, para poder meter el filamento a la boquilla usamos los siguientes "
 "pasos"
 msgstr ""
+"Lastly, we load the filment and a G code to print, follow the steps below to "
+"oad the filament in the noozle."
 
 #: ../../source/mm1.rst:1434
 msgid "Como comenzar a imprimir"
-msgstr ""
+msgstr "How to start to print"
 
 #: ../../source/mm1.rst:1436
 msgid "Enciende la impresora"
-msgstr ""
+msgstr "Turn on the printer"
 
 #: ../../source/mm1.rst:1438
 msgid "Da un clic a la perilla, gira la perilla y selecciona control da clic"
-msgstr ""
+msgstr "Click on the knob, turn it, select CONTROL and click again."
 
 #: ../../source/mm1.rst:1440
 msgid "Una vez dentro del menú de control selecciona temperature y da clic"
-msgstr ""
+msgstr "Once you are in CONTROL menu select TEMPERATURE and click"
 
 #: ../../source/mm1.rst:1442
 msgid "Selecciona Nozzle y da clic"
-msgstr ""
+msgstr "Select NOOZLE and click"
 
 #: ../../source/mm1.rst:1444
 msgid ""
 "Sebe la temperatura según el material que vayas a usar  y da clic para que "
 "comience a calentar."
-msgstr ""
+msgstr "Set he temperature to the material to use and click to start heating"
 
 #: ../../source/mm1.rst:1450
 msgid "Ninjaflex y TPE  225°C"
-msgstr ""
+msgstr "Ninjaflex and TPE  225°C"
 
 #: ../../source/mm1.rst:1451
 msgid "PLA soft 208°C"
@@ -1875,12 +2023,17 @@ msgid ""
 "engrane grande en sentido normal a las manecillas del reloj, para que el "
 "filamento llegue hasta la boquilla."
 msgstr ""
+"When the noozle reaches the temperature, put the filament into the filament "
+"guide until the hole of the top module, then turn the gear clockwise until the "
+"filament reaches the noozle."
 
 #: ../../source/mm1.rst:1457
 msgid ""
 "Cuando esto pase se vera que sale como un hilo pequeño de la boquilla y el "
 "filamento estará listo para usarse."
 msgstr ""
+"When a litle thread of filament comes out of the noozle, the filament is ready "
+"to use."
 
 #: ../../source/mm1.rst:1460
 msgid ""
@@ -1889,29 +2042,34 @@ msgid ""
 "que la boquilla se enfrié con ayuda del ventilador pequeño ya que es de metal y "
 "si se deja apagada puede ocasionarnos un atasco porque el calor."
 msgstr ""
+"Now turn off the printer and turn it on again, this will reset the electronic "
+"board and will cooldown the noozle with the fan, it is important to dont turn "
+"down until the nooze cools down to avoid a filament jam."
 
 #: ../../source/mm1.rst:1472
 msgid ""
 "Colocaremos los parámetros para poder imprimir en esta parte es muy importante "
 "que coloquemos la temperatura según el material que vayamos a usar."
 msgstr ""
+"In this part we will configure the printing parameters, remember that "
+"temperature depend on the material to use."
 
 #: ../../source/mm1.rst:1477
 msgid ""
 "Para Ninjaflex y TPE te recomendamos usar la temperatura de impresión de 228°C"
-msgstr ""
+msgstr "For Ninjaflex and TPE the recommended temperaature is 228°C"
 
 #: ../../source/mm1.rst:1480
 msgid "Para el PLA soft te recomendamos usar la temperatura de impresión de 208°C"
-msgstr ""
+msgstr "For PLA soft the recommended temperature is 208°C"
 
 #: ../../source/mm1.rst:1484
 msgid "Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE."
-msgstr ""
+msgstr "Here you are the rest of the parameters"
 
 #: ../../source/mm1.rst:1487
 msgid "solo para el filamento PLA soft se usaran los siguientes parámetros"
-msgstr ""
+msgstr "For PLA soft we use these parameters."
 
 #: ../../source/mm1.rst:1503
 msgid ""
@@ -1919,10 +2077,12 @@ msgid ""
 "nuestro código G en la tarjeta SD y mandar a imprimir como lo hemos hecho en la "
 "primera impresión."
 msgstr ""
+"With these parmeters whe are ready to save a G Code in our SD and print from "
+"itas we did in the First print section."
 
 #: ../../source/mm1.rst:1508
 msgid "Módulo Doble"
-msgstr ""
+msgstr "Dual Extrusion Module"
 
 #: ../../source/mm1.rst:1510
 msgid "GENERAL"
@@ -1930,15 +2090,15 @@ msgstr "GENERAL"
 
 #: ../../source/mm1.rst:1513
 msgid "Características técnicas"
-msgstr ""
+msgstr "Thecnical features"
 
 #: ../../source/mm1.rst:1515
 msgid "Dimensiones físicas:  80mm x 74mm x  96mm"
-msgstr ""
+msgstr "Physical dimentions:  80mm x 74mm x  96mm"
 
 #: ../../source/mm1.rst:1516
 msgid "Temperatura máxima: 300°C"
-msgstr ""
+msgstr "Maximum temperature: 300°C"
 
 #: ../../source/mm1.rst:1517
 msgid ""
@@ -1946,22 +2106,27 @@ msgid ""
 "Filamento flexible (TPE, PLA Soft), Lay Wood, PVA, en sí es compatible con la "
 "mayoría de los filamentos que existen en el mercado."
 msgstr ""
+"Materiales en filamentos:  Nailon(618,645), Policarbonato (PC), ABS, PLA, "
+"Filamento flexible (TPE, PLA Soft), Lay Wood, PVA, en sí es compatible con la "
+"mayoría de los filamentos que existen en el mercado."
 
 #: ../../source/mm1.rst:1524
 msgid "Características generales"
-msgstr ""
+msgstr "General features"
 
 #: ../../source/mm1.rst:1526
 msgid ""
 "Dos boquillas Hexagon de 0.4mm que permite extruir 2 materiales distintos o "
 "colores diferentes."
 msgstr ""
+"Two Hexagon 0.4mm hotends that allws to extrude 2 different materials or two "
+"colors."
 
 #: ../../source/mm1.rst:1528
 msgid ""
 "Se puede utilizar una boquilla para material de soporte, para lograr mejores "
 "acabados superficiales."
-msgstr ""
+msgstr "You can use one noozle for support, to get best results"
 
 #: ../../source/mm1.rst:1530
 msgid ""
@@ -1970,22 +2135,28 @@ msgid ""
 "ventiladores, en caso de que alguno de los materiales usados no requiere "
 "ventilación."
 msgstr ""
+"Each noozle comes with its own cooling system, so you can use each one "
+"seprately in case that cooling is not needed for one of the materials."
 
 #: ../../source/mm1.rst:1536
 msgid "INSTALACIÓN DEL MÓDULO"
-msgstr ""
+msgstr "MODULE INSTALLATION"
 
 #: ../../source/mm1.rst:1538
 msgid ""
 "Con el fin de empezar a imprimir de una manera doble material debe poner el "
 "módulo en el apoyo universal transversal de los módulos por su MM1."
 msgstr ""
+"To start printing with two materials you must install the dual extrusion module "
+"in the module support of the MM1"
 
 #: ../../source/mm1.rst:1544
 msgid ""
 "Vamos a colocar nuestro segundo extrusor como colocamos el primero solo que "
 "este va colocado en la parte derecha."
 msgstr ""
+"We will nstall the sec extruder the same way we instlled the first one, the "
+"difference is that this one goes to the right."
 
 #: ../../source/mm1.rst:1549
 msgid ""
@@ -1993,10 +2164,13 @@ msgid ""
 "La primera máquina de extrusión y el sensor inductivo se conectan de la misma "
 "manera del módulo individual."
 msgstr ""
+"you must connect the second extruder in the 6 pin cable with the label \"2\". "
+"The extrusion gear and the inductive sensor must be installed the same way than "
+"the single module."
 
 #: ../../source/mm1.rst:1556
 msgid "CONFIGURACIÓN DE CURA"
-msgstr ""
+msgstr "CURA CONFIGURATION"
 
 #: ../../source/mm1.rst:1558
 msgid ""
@@ -2004,32 +2178,38 @@ msgid ""
 "extrusión. puede hacer esto mediante la modificación de la configuración del "
 "equipo de su MM1."
 msgstr ""
+"You have to adjust the machine parameters in Cura in order to use the dual "
+"extrusion module"
 
 #: ../../source/mm1.rst:1561
 msgid "1.- Diríjase a la etiqueta machine"
-msgstr ""
+msgstr "1.- Go to de \"Machine\" menu."
 
 #: ../../source/mm1.rst:1565
 msgid "2.- Una vez en machine diríjase a machine settings y de clic."
-msgstr ""
+msgstr "2.- Once in \"Machine\", go to \"Machine settings\" and click."
 
 #: ../../source/mm1.rst:1569
 msgid ""
 "3.- Diríjase a Extruder count, damos clic en la pestaña de un lado y selecciona "
 "el número 2 y seleccionamos OK."
 msgstr ""
+"Go to Extruder Count, click the dropdown, select the number 2 and click OK."
 
 #: ../../source/mm1.rst:1574
 msgid ""
 "4.- Misma página a ent ahora volvemos a la rar a machine > machine settings > y "
 "ahora verificamos que los offset se encuentren en cero."
 msgstr ""
+"4.- In the same screen, Machine > machine settings > verify that the offset is "
+"zero."
 
 #: ../../source/mm1.rst:1579
 msgid ""
 "5.- Ahora modificaremos lo datos de impresión según el material utilizado y los "
 "parámetros del filamento."
 msgstr ""
+"5,. Now we will modify the printing parameters according to the material to use"
 
 #: ../../source/mm1.rst:1584
 msgid ""
@@ -2037,12 +2217,16 @@ msgid ""
 "las capas las paredes el leyendo y la retracción que se desea hacer así como la "
 "velocidad de impresión."
 msgstr ""
+"5.1, Now we will modify theshell thickness, the infill, the retraction, and the "
+"printing speed."
 
 #: ../../source/mm1.rst:1588
 msgid ""
 "En layer height  se selecciona la altura de cada capa y con Shell thickness el "
 "grosor de cada capa"
 msgstr ""
+"The Layer height is the height of each layer and the shell thickness is the "
+"thicknes of the wall."
 
 #: ../../source/mm1.rst:1590
 #, python-format
@@ -2051,10 +2235,12 @@ msgid ""
 "normal mente se utiliza un relleno de 40 para piezas funcionales y un 20 o 15% "
 "si la pieza es para muestra."
 msgstr ""
+"Fill density is the material used inside the printed figure, usually we put "
+"40% for functional parts; and 15% to 20% for visual prototypes."
 
 #: ../../source/mm1.rst:1594
 msgid "Ahora en print Speed seleccionamos la velocidad de impresión en mm/s."
-msgstr ""
+msgstr "Now we configure the printing Speed in mm/s."
 
 #: ../../source/mm1.rst:1596
 msgid ""
@@ -2062,6 +2248,8 @@ msgid ""
 "de acuerdo al material de impresión así como de la cama nosotros nos "
 "enfocaremos en el poner la temperatura de 2nd temperatura"
 msgstr ""
+"Select te temperature of each noozle according to the printing material. as "
+"well as the bed temperature."
 
 #: ../../source/mm1.rst:1600
 msgid ""
@@ -2069,6 +2257,8 @@ msgid ""
 "impresión lo aremos con la segunda boquilla  así que moveremos en support type "
 "para el tipo de soporte."
 msgstr ""
+"Now lets define if some support is needed, for this example we will do the "
+"support with the second noozle, go to \"support type\"."
 
 #: ../../source/mm1.rst:1604
 msgid ""
@@ -2076,6 +2266,7 @@ msgid ""
 "enfocaremos nosotros será en Support dual extrusión en esa parte utilizaremos "
 "el second extruder."
 msgstr ""
+"Go to the \"Support dual extrusion\" option and select \"second extruder\"."
 
 #: ../../source/mm1.rst:1608
 msgid ""
@@ -2083,6 +2274,8 @@ msgid ""
 "prime tower que es una torre que generara con cada capa para verificar que no "
 "tenga desfase la máquina."
 msgstr ""
+"For this print we will check the \"wipe & prime tower\" option, that is a "
+"support tower used to verify that we dont have layer shifting "
 
 #: ../../source/mm1.rst:1612
 msgid ""
@@ -2090,6 +2283,8 @@ msgid ""
 "utilizaremos el mismo que para diameter (mm).que por lo regular se encuentra "
 "entre 2.89 y 3 mm."
 msgstr ""
+"Now, we will modify the default filament diameter (2 mm), we will use the same "
+"diameter than the used in noozle 1 (2.89mm or 3mm)"
 
 #: ../../source/mm1.rst:1615
 msgid ""
@@ -2097,10 +2292,12 @@ msgid ""
 "común se modificara solo “speed (mm/s)” que normalmente es de 15 a 20 Y en "
 "“distance (mm)” por lo regular se utilizan parámetros de 5 hasta 8 mm."
 msgstr ""
+"5.2.- Now, go to \"Advanced\" to set the retraction speed, usualy it should be "
+"15 or 20mm,  the distance hould be between 5mm to 8mm. "
 
 #: ../../source/mm1.rst:1623
 msgid "Estableciendo el perfil de materiales"
-msgstr ""
+msgstr "Setting mterial profiles"
 
 #: ../../source/mm1.rst:1625
 msgid ""
@@ -2109,28 +2306,38 @@ msgid ""
 "usted puede cortar los modelos por sí mismo con un software de modelado 3D como "
 "Blender."
 msgstr ""
+"You will need a model separated in two parts, making Cura to know wich part "
+"will print each extruder. There are many models ready t print, or you can make "
+"and prepare your own model using a 3D modeling software like Blender."
 
 #: ../../source/mm1.rst:1629
 msgid ""
 "En Cura debe importar la primera parte del modelo que se va a imprimir con la "
 "primera extrusora."
 msgstr ""
+"Import the first part of the model in cura, that will be printed in the first "
+"extruder."
 
 #: ../../source/mm1.rst:1634
 msgid ""
 "Posteriormente se debe importar la parte del modelo que se va a imprimir con la "
 "segunda extrusora."
 msgstr ""
+"Next, import the second part of the model, that will be printed with the second "
+"etruder"
 
 #: ../../source/mm1.rst:1640
 msgid ""
 "Por último, debe unirlos haciendo clic derecho en el espacio de trabajo en Cura "
 "y seleccionando la opción \"Dual fusión de extrusión\"."
 msgstr ""
+"Lastly, we right click on the Cura workspace and then select \"Dual fusion de "
+"extrusión\", this will join the two parts in a single model."
 
 #: ../../source/mm1.rst:1645
 msgid "Así queda la figura. la segunda extrusora imprimirá las partes en rojo"
 msgstr ""
+"The piece must look like the image, the second extruder will print in red."
 
 #: ../../source/mm1.rst:1649
 msgid ""
@@ -2140,22 +2347,24 @@ msgid ""
 "la impresora, encendemos la impresora seleccionamos el código para poder mandar "
 "a imprimir."
 msgstr ""
+"Now, we have to save the Gcode in an SD card, the same way we did it in our "
+"first print. turn on the printer and plug the SD card to print from it."
 
 #: ../../source/mm1.rst:1655
 msgid "Módulo CNC"
-msgstr ""
+msgstr "CNC Module"
 
 #: ../../source/mm1.rst:1657
 msgid "MANUAL DE GRAVADO CON EL MÓDULO CNC con BlenderCAM"
-msgstr ""
+msgstr "MANUAL FOR MACHINING WITH CNC MODULE using BlenderCAM"
 
 #: ../../source/mm1.rst:1659
 msgid "DESCRPCIÓN DEL SOFTWARE"
-msgstr ""
+msgstr "SOFTWARE DESCRIPTION"
 
 #: ../../source/mm1.rst:1661
 msgid "¿Que es BlenderCAM?"
-msgstr ""
+msgstr "What is BlenderCAM?"
 
 #: ../../source/mm1.rst:1663
 msgid ""
@@ -2181,17 +2390,17 @@ msgstr "FEATURES"
 
 #: ../../source/mm1.rst:1676
 msgid "Varias estrategias de fresado para 2D y 3D"
-msgstr ""
+msgstr "Milling strategies for 2D and 3D projects"
 
 #: ../../source/mm1.rst:1677
 msgid ""
 "Tipos cortador de bola, plana, v-tallar con varios ángulos, definibles por el "
 "usuario"
-msgstr ""
+msgstr "Ball-carving, V-carving to various uer defined angles"
 
 #: ../../source/mm1.rst:1679
 msgid "Trabajar con datos en 3D o imágenes de profundidad"
-msgstr ""
+msgstr "Works with 3D data or depth images"
 
 #: ../../source/mm1.rst:1680
 msgid "Capas de la piel y para el desbaste."
@@ -2199,15 +2408,15 @@ msgstr ""
 
 #: ../../source/mm1.rst:1681
 msgid "Fresado inversa"
-msgstr ""
+msgstr "Inverse miling"
 
 #: ../../source/mm1.rst:1682
 msgid "Varias opciones para ambiente alrededor modelo"
-msgstr ""
+msgstr "Various environment options around model"
 
 #: ../../source/mm1.rst:1683
 msgid "Protección de superficies verticales"
-msgstr ""
+msgstr "Vertical surfaces protection"
 
 #: ../../source/mm1.rst:1684
 msgid "Mantenerse bajo - opción para el movimiento"
@@ -2215,11 +2424,11 @@ msgstr ""
 
 #: ../../source/mm1.rst:1685
 msgid "Configuración de tamaño del material"
-msgstr ""
+msgstr "Material size configuration"
 
 #: ../../source/mm1.rst:1686
 msgid "Simulación de operaciones 3d"
-msgstr ""
+msgstr "3D operations simulation"
 
 #: ../../source/mm1.rst:1687
 msgid ""
@@ -2235,7 +2444,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:1691
 msgid "Puentes automáticas para la operación de recorte"
-msgstr ""
+msgstr "Automatic bridges with a group of curves"
 
 #: ../../source/mm1.rst:1692
 msgid "La exportación de la cadena y de simulación"
@@ -2243,48 +2452,51 @@ msgstr ""
 
 #: ../../source/mm1.rst:1693
 msgid "Molienda 3 a 5 ejes"
-msgstr ""
+msgstr "3 to 5 axis miling"
 
 #: ../../source/mm1.rst:1698
 msgid "Más información: http://blendercam.blogspot.mx"
-msgstr ""
+msgstr "More information in http://blendercam.blogspot.mx"
 
 #: ../../source/mm1.rst:1701
 msgid "INSTALACIÓN DE BLENDER-CAM"
-msgstr ""
+msgstr "BLENDER-CAM INSTALLATION"
 
 #: ../../source/mm1.rst:1704
 msgid ""
 "Para instalar BlenderCAM hacemos clic en el link que nos envía a la página "
 "oficial del software."
-msgstr ""
+msgstr "To install BlenderCAM, clic on the link to de software official website"
 
 #: ../../source/mm1.rst:1708
 msgid ""
 "Link  de descarga http://blendercam.blogspot.mx/p/download-and-installation.html"
 msgstr ""
+"Link  de descarga http://blendercam.blogspot.mx/p/download-and-installation.html"
 
 #: ../../source/mm1.rst:1712
 msgid ""
 "Abrimos la pestaña: Download and installation Damos clic en: Google Drive "
 "repository"
 msgstr ""
+"Open the tab: \"Download and installation\" then clic on \"Google Drive "
+"repository\"."
 
 #: ../../source/mm1.rst:1717
 msgid ""
 "En la pestaña siguiente seleccionamos el BlenderCAM de acuerdo a nuestro "
 "sistema operativo."
-msgstr ""
+msgstr "In the next tab we select BlenderCam for our Operating System"
 
 #: ../../source/mm1.rst:1722
 msgid "DESCRIPCIÓN DEL ÁREA DE TRABAJO"
-msgstr ""
+msgstr "WORK AREA DESCRIPTION"
 
 #: ../../source/mm1.rst:1726
 msgid ""
 "En la imagen 1, se muestra la pantalla de inicio de BlenderCAM versión 2.70 a. "
 "a continuación se describirá las áreas de trabajo de una forma básica."
-msgstr ""
+msgstr "On the image 1, you can"
 
 #: ../../source/mm1.rst:1729
 msgid ""
