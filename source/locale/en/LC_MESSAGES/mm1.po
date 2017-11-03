@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MakerMex 1.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-26 10:24-0500\n"
-"PO-Revision-Date: 2017-11-02 12:34-0600\n"
+"PO-Revision-Date: 2017-11-02 14:13-0600\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -28,7 +28,7 @@ msgstr "General"
 
 #: ../../source/mm1.rst:9
 msgid "Características Técnicas"
-msgstr "Tecnical  features"
+msgstr "Technical  features"
 
 #: ../../source/mm1.rst:9
 msgid "Tarjeta controladora"
@@ -60,39 +60,39 @@ msgstr "What is included with my 3D printer?"
 
 #: ../../source/mm1.rst:27
 msgid "1.- Cable USB"
-msgstr "USB Cable"
+msgstr "1.- USB Cable"
 
 #: ../../source/mm1.rst:29
 msgid "2.- Cable de fuente"
-msgstr "Power Cable"
+msgstr "2.- Power Cable"
 
 #: ../../source/mm1.rst:31
 msgid "3.- Tarjeta SD"
-msgstr "SD Card"
+msgstr "3.- SD Card"
 
 #: ../../source/mm1.rst:33
 msgid "4.- Z mecánico"
-msgstr "Mechanical Z microswitch"
+msgstr "4.- Mechanical Z microswitch"
 
 #: ../../source/mm1.rst:35
 msgid "5.- Seguro doble extrusor"
-msgstr "Dual extrusion tumbler"
+msgstr "5.- Dual extrusion tumbler"
 
 #: ../../source/mm1.rst:37
 msgid "6.- Soporte filamento"
-msgstr "Filament support"
+msgstr "6.- Filament support"
 
 #: ../../source/mm1.rst:39
 msgid "7.- Kit cable Rep Rap"
-msgstr "Rep Rap cable kit"
+msgstr "7.- Rep Rap cable kit"
 
 #: ../../source/mm1.rst:41
 msgid "8.- Desarmador cerámico"
-msgstr "Ceramic screwdriver"
+msgstr "8.- Ceramic screwdriver"
 
 #: ../../source/mm1.rst:47
 msgid "9.- Kit refacciones de boquilla Hexagón"
-msgstr "Hexagon noozle kit"
+msgstr "9.- Hexagon noozle kit"
 
 #: ../../source/mm1.rst:44
 msgid "Opresores"
@@ -132,7 +132,7 @@ msgstr "K1, K2 parts"
 
 #: ../../source/mm1.rst:54
 msgid "2 tensores T"
-msgstr ""
+msgstr "2 T tensors for the rubber belt"
 
 #: ../../source/mm1.rst:55
 msgid "Guía de cables V"
@@ -167,7 +167,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:75
 msgid "Módulo CNC (Devasta materiales blandos)"
-msgstr "CNC Modules (Devastates soft mterials)"
+msgstr "CNC Modules (Devastates soft materials)"
 
 #: ../../source/mm1.rst:77
 msgid "Módulo Dibujo (Crea dibujos técnicos con una alta precisión)"
@@ -442,7 +442,7 @@ msgid ""
 "Sacamos todos los accesorios y revisamos. En tu caja plástica debe de venir "
 "todo lo que se menciona enseguida o bien lo que se puede observar en la imagen."
 msgstr ""
-"Get all the accesories out of the box, it should iclude all the components "
+"Get all the accesories out of the box, it should include all the components "
 "listed below and shown in the images."
 
 #: ../../source/mm1.rst:259
@@ -469,7 +469,7 @@ msgid ""
 "funcionar, o bien te marcará un error en la pantalla."
 msgstr ""
 "Is very important to plug the dual extrusion clock, the  pins conector must be "
-"pluged with the input marked with the number 2. If we dont usse this clock, the "
+"pluged with the input marked with the number 2. If we dont use this clock, the "
 "printer wll show an error or simply won't work,"
 
 #: ../../source/mm1.rst:284
@@ -514,7 +514,7 @@ msgid ""
 "problema para saber en donde se puede cortar, se puede apoyar con las imágenes."
 msgstr ""
 "Now we will put the cable guide, first we remove the support material with an "
-"utility knife. Use the images as reference to now where to cut."
+"utility knife. Use the images as reference to know where to cut."
 
 #: ../../source/mm1.rst:319
 msgid "Paso 13"
@@ -527,9 +527,9 @@ msgid ""
 "Para poder comenzar primero deberemos tener la caja en la cual llegó nuestra "
 "extrusora."
 msgstr ""
-"I these step we mount the extrusor, this part pushes the filament when "
-"printing, must be located on the back part of the printer. To begin, we have to "
-"get ready with the box containing the extrusor."
+"In these step we mount the extrusor, this part pushes the filament when "
+"printing, it must be located on the back part of the printer. To begin, we have "
+"to get ready with the box containing the extrusor."
 
 #: ../../source/mm1.rst:325
 msgid ""
@@ -548,9 +548,9 @@ msgid ""
 "orificios donde colocará la pieza. Posteriormente coloque los tornillos."
 msgstr ""
 "Once unwrapped, we will cut the plastic belt from the extruder wire and proceed "
-"to mount th extruder in the back profile, show the image for reference. Before "
+"to mount the extruder in the back profile, show the image for reference. Before "
 "mounting, you can show the screws out of the extruder, remove them, now "
-"identify the holes where the picewill be placed, and then, put the screws."
+"identify the holes where the pice will be placed, and then, put the screws."
 
 #: ../../source/mm1.rst:347
 msgid ""
@@ -558,8 +558,9 @@ msgid ""
 "tornillos puede observar las imágenes y verificar la información. Para que la "
 "extrusora quede fija deberá atornillar los tres tornillos respectivamente."
 msgstr ""
-"With a 2.5mm allen wrench we will hold the nuts and we  will screw, you can how "
-"the images as reference. we need t screw the 3 screws to it firmly the extruder."
+"With a 2.5mm allen wrench we will hold the nuts and we will screw, you can see "
+"the images as reference. we need to screw the 3 screws to hold it firmly the "
+"extruder."
 
 #: ../../source/mm1.rst:356
 msgid ""
@@ -580,7 +581,7 @@ msgid ""
 "tomándolo y jalándolo hacia arriba para poder asegurarnos de que este bien "
 "sujeto."
 msgstr ""
-"Now plug the bowden tube in the blue part of the connector pessing it down to "
+"Now plug the bowden tube in the blue part of the connector pressing it down to "
 "hold it. now we can reviwew the connection pulling up the tube, it must remain "
 "connected."
 
@@ -596,8 +597,8 @@ msgid ""
 "coloque la espátula en la parte de abajo de la pieza e introdúzcala hasta que "
 "se levante de la cama."
 msgstr ""
-"Remove the examplle printed part from the printing plate, for this step you may "
-"need a knife, it is possible t remove the piece by simply pulling it up, i it "
+"Remove the example printed part from the printing plate, for this step you may "
+"need a knife, it is possible to remove the piece by simply pulling it up, i it "
 "is sticked to strong, then use the knife."
 
 #: ../../source/mm1.rst:386
@@ -640,8 +641,8 @@ msgid ""
 "software de diseño donde te genere un archivo STL, nosotros recomendamos "
 "Blender."
 msgstr ""
-"In order to make your first print,you have to download a 3D odeling software to "
-"generate an STL file, we recommend Blender."
+"In order to make your first print,you have to download a 3D modeling software "
+"to generate an STL file, we recommend Blender."
 
 #: ../../source/mm1.rst:421
 msgid "̈́¿Que es Blender?"
@@ -667,7 +668,7 @@ msgid ""
 "que define geometría de objetos 3D, excluyendo información como color, texturas "
 "o propiedades físicas que sí incluyen otros formatos CAD."
 msgstr ""
-"Is a file fprmat for computer asisted design (CAD) that defines 3D bjects "
+"Is a file format for computer assisted design (CAD) that defines 3D bjects "
 "geometry, excluding color, textures and other physical properties that other "
 "formats includes."
 
@@ -697,7 +698,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:444
 msgid "Descarga de Software"
-msgstr "Software downoads"
+msgstr "Software downloads"
 
 #: ../../source/mm1.rst:445
 msgid "-Software Cura"
@@ -1795,8 +1796,8 @@ msgid ""
 "Listo puede retirar su tajeta SD y volverla a colocar en la impresora, encender "
 "la misma y mandar a imprimir."
 msgstr ""
-"Now you can inert the SD on your printer, turn it on, select \"Pringt from SD\" "
-"on the sccreen, and select the model you want to print"
+"Now you can insert the SD on your printer, turn it on, select \"Print from SD\" "
+"on the sccreen, and select the model you want to print."
 
 #: ../../source/mm1.rst:1279
 msgid ""
@@ -1956,8 +1957,8 @@ msgid ""
 "recuerda que este cable es diferente al que ya tienes conectado es igual de sus "
 "conectores pero tiene algo exclusivo para el motor del flexy."
 msgstr ""
-"Remember that this cable is diferent to the one is already connected, is a "
-"motor cable but has a paticular feature for the flexy module."
+"Remember that this cable is different to the one already connected, is a motor "
+"cable but has a paticular feature for the flexy module."
 
 #: ../../source/mm1.rst:1418
 msgid "Primero conectamos el motor"
@@ -2155,7 +2156,7 @@ msgid ""
 "Vamos a colocar nuestro segundo extrusor como colocamos el primero solo que "
 "este va colocado en la parte derecha."
 msgstr ""
-"We will nstall the sec extruder the same way we instlled the first one, the "
+"We will nstall the second extruder the same way we instlled the first one, the "
 "difference is that this one goes to the right."
 
 #: ../../source/mm1.rst:1549
@@ -2307,7 +2308,7 @@ msgid ""
 "Blender."
 msgstr ""
 "You will need a model separated in two parts, making Cura to know wich part "
-"will print each extruder. There are many models ready t print, or you can make "
+"will print each extruder. There are many models ready to print, or you can make "
 "and prepare your own model using a 3D modeling software like Blender."
 
 #: ../../source/mm1.rst:1629
@@ -2324,7 +2325,7 @@ msgid ""
 "segunda extrusora."
 msgstr ""
 "Next, import the second part of the model, that will be printed with the second "
-"etruder"
+"extruder."
 
 #: ../../source/mm1.rst:1640
 msgid ""
