@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MakerMex 1.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-26 10:24-0500\n"
-"PO-Revision-Date: 2017-11-02 14:13-0600\n"
+"PO-Revision-Date: 2017-11-03 13:51-0600\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1064,7 +1064,7 @@ msgstr "Printing progress percentage"
 
 #: ../../source/mm1.rst:713
 msgid "-La velocidad de la impresion dada en porcentaje"
-msgstr ""
+msgstr "The printing seed in percentage"
 
 #: ../../source/mm1.rst:715
 msgid "-Un mensaje pre-programado"
@@ -2405,7 +2405,7 @@ msgstr "Works with 3D data or depth images"
 
 #: ../../source/mm1.rst:1680
 msgid "Capas de la piel y para el desbaste."
-msgstr ""
+msgstr "skin layers for the roughing"
 
 #: ../../source/mm1.rst:1681
 msgid "Fresado inversa"
@@ -2421,7 +2421,7 @@ msgstr "Vertical surfaces protection"
 
 #: ../../source/mm1.rst:1684
 msgid "Mantenerse bajo - opción para el movimiento"
-msgstr ""
+msgstr "keep low-option movement."
 
 #: ../../source/mm1.rst:1685
 msgid "Configuración de tamaño del material"
@@ -2435,13 +2435,13 @@ msgstr "3D operations simulation"
 msgid ""
 "Antecedentes de computación de las operaciones, por lo que puede seguir "
 "trabajando"
-msgstr ""
+msgstr "Background Computing, gving you the posibility to continue working"
 
 #: ../../source/mm1.rst:1689
 msgid ""
 "Entrada hélice, retracción de arco, rampa de bajada para algunas de las "
 "estrategias."
-msgstr ""
+msgstr "propeller input, arc retraction, descending ramp for some strategies"
 
 #: ../../source/mm1.rst:1691
 msgid "Puentes automáticas para la operación de recorte"
@@ -2449,7 +2449,7 @@ msgstr "Automatic bridges with a group of curves"
 
 #: ../../source/mm1.rst:1692
 msgid "La exportación de la cadena y de simulación"
-msgstr ""
+msgstr "Exporting of the chain and simulation"
 
 #: ../../source/mm1.rst:1693
 msgid "Molienda 3 a 5 ejes"
@@ -2522,6 +2522,8 @@ msgid ""
 "Con clic derecho podemos seleccionar los objetos además de moverlos de una "
 "forma libre. Podemos hacer zoom moviendo el scroll."
 msgstr ""
+"Right clicking in an object we can select, rotate ormove them freely. we zoom  "
+"with the mouse scroll."
 
 #: ../../source/mm1.rst:1740
 msgid ""
@@ -2541,6 +2543,18 @@ msgid ""
 "modo CAM, seguido de  activar el BlenderCAM complemento para un mejor "
 "aprovechamiento del software."
 msgstr ""
+"3.- Is the properties panel, its shrotcut is the [N] key; on this panel we can "
+"modify the position of the object and cursor on the workspace, you can modify "
+"multitexture shading, and other options. 4.- This is the operations tree, where "
+"we can find each object in the area an the operation type. Here we can chamge "
+"the vie to transparent, select objects and extract renders. 5,-Is the "
+"preferences window, here we can modify the Blender environment, document "
+"propertie, import/export, change de window type etc. 6.- Is the 3D view window, "
+"where we can modify the elements view, wireframe mode, layer map, and some "
+"modeling tools like SNAP. 7.- Is the operations panel, CAM chains, in some "
+"times after the installation of BlenderCAM the CAM Mode is not shown, now we "
+"will explain how to access CAM mode and how to activate the CAM plugin to the "
+"best exploitation of the software. "
 
 #: ../../source/mm1.rst:1759
 msgid ""
@@ -2552,6 +2566,11 @@ msgid ""
 "en la imagen. 12.- Asegurarnos de que la dirección coincida con la de la imagen "
 "para el Add-on completo."
 msgstr ""
+"8.- Go to user preferences Panel, select File, open the User Preferences "
+"folder. Also you can use 'Ctrl + Alt + U.' 9.- In the bottom part you can "
+"select the Add-ons Tab. 10.- Select the Scene categorie. 11.-In this part you "
+"can find the CAM Add-on, to activate t click on the box as shown in the image. "
+"12.- be sure the path belongs to the one of the Add-on in the image."
 
 #: ../../source/mm1.rst:1768
 msgid ""
@@ -2560,6 +2579,9 @@ msgid ""
 "correspondiente a los scrips, de esta manera una fuente externa Add-on, se "
 "puede utilizar en Blender."
 msgstr ""
+"The second step is to guide BlenderCAM to find an alterntive path for the Add-"
+"ons. When BlenderCam is executed, it will look into the Add-ons pathfor the "
+"scripts, this way you can use an  Add-ons  external source in Blender."
 
 #: ../../source/mm1.rst:1774
 msgid ""
@@ -2573,33 +2595,35 @@ msgstr ""
 
 #: ../../source/mm1.rst:1783
 msgid "Entrar al modo CAM"
-msgstr ""
+msgstr "Enter CAM mode"
 
 #: ../../source/mm1.rst:1788
 msgid "Ir a la barra superior (User Preference), desplegar la ventana Engine"
-msgstr ""
+msgstr "Go to the top bar (User preferences), open the \"Engine\" window"
 
 #: ../../source/mm1.rst:1789
 msgid "Seleccionar el modo Blender CAM"
-msgstr ""
+msgstr "Select Blender CAM mode"
 
 #: ../../source/mm1.rst:1790
 msgid "Ir al panel de operaciones y seleccionar el Render"
-msgstr ""
+msgstr "Go to the operations paneland select the render."
 
 #: ../../source/mm1.rst:1793
 msgid ""
 "Con el modo BlenderCAM podemos empezar a trabajar, en esta ocasión solo se "
 "llevara a cabo el proceso de gravado."
 msgstr ""
+"We can start to work with BlenderCAM mode , in this example we only make the "
+"graving process."
 
 #: ../../source/mm1.rst:1800
 msgid "Descripción de los parámetros CAM"
-msgstr ""
+msgstr "CAM parameters description"
 
 #: ../../source/mm1.rst:1802
 msgid "CAM operations"
-msgstr ""
+msgstr "CM operations"
 
 #: ../../source/mm1.rst:1806
 msgid ""
@@ -2629,141 +2653,159 @@ msgid ""
 "Operation name: En este campo se puede cambiar el nombre de la operación "
 "seleccionada"
 msgstr ""
+"Operation name: In this field you an cange the name of the selected operation."
 
 #: ../../source/mm1.rst:1822
 msgid ""
 "File name: Es el nombre del archivo gcode generado, la extensión de archivo "
 "utilizado será determinado por el porstprocesador g-código seleccionado"
 msgstr ""
+"File name: This is the nameof the generated gcode, the file extension will be "
+"determined for the selected g-code postprocessor."
 
 #: ../../source/mm1.rst:1825
 msgid ""
 "Auto export: Si esta activada la opción, el G-codigo se generará "
 "automáticamente y se guardara en el archivo después del cálculo de"
 msgstr ""
+"Auto export: if this option is activated, the G-code will be automatically "
+"generated and the file will be saved fter the calculations"
 
 #: ../../source/mm1.rst:1828
 msgid ""
 "La operación, en la misma carpeta donde se ejecutó el BlenderCAM antes de "
 "instalarlo"
-msgstr ""
+msgstr "of the operation in the same folder where BlenderCAM is saved."
 
 #: ../../source/mm1.rst:1830
 msgid ""
 "Source of dates: Aquí se selecciona el conjunto y tipo de objetos, puede ser "
 "una imagen, un grupo de objetos o un objeto"
 msgstr ""
+"Source of dates: Here you select the set nd type of objects, it can be aan "
+"image or an objects group or a single object."
 
 #: ../../source/mm1.rst:1833
 msgid "Objet: Aparece la malla o curva que se está trabajando"
-msgstr ""
+msgstr "Object, here appears the  mesh or curve you are workig on"
 
 #: ../../source/mm1.rst:1835
 msgid "CAM info & warnings"
-msgstr ""
+msgstr "CAM info & warnings"
 
 #: ../../source/mm1.rst:1839
 msgid "CAM operation setup"
-msgstr ""
+msgstr "CAM operation setup"
 
 #: ../../source/mm1.rst:1841
 msgid ""
 "Strategy: En esta opción elegimos el proceso    que se realizará en nuestro "
 "objeto, a continuación mostraremos las siguientes estrategias o procesos."
 msgstr ""
+"Strategy, in this option we choose the process that will be executed in our "
+"object, next we will show the following stratgies or processes."
 
 #: ../../source/mm1.rst:1844
 msgid "PARALLEL: trayectorias paralelas en cualquier ángulo"
-msgstr ""
+msgstr "PARALLEL: paralel paths in any angle."
 
 #: ../../source/mm1.rst:1848
 msgid "CROSS"
-msgstr ""
+msgstr "CROSS"
 
 #: ../../source/mm1.rst:1852
 msgid "BLOCK"
-msgstr ""
+msgstr "BLOCK"
 
 #: ../../source/mm1.rst:1856
 msgid "SPIRAL"
-msgstr ""
+msgstr "SPIRAL"
 
 #: ../../source/mm1.rst:1858 ../../source/mm1.rst:1864
 msgid "Adecuado para objetos curvos"
-msgstr ""
+msgstr "Right for curve objects"
 
 #: ../../source/mm1.rst:1862
 msgid "CIRCLES"
-msgstr ""
+msgstr "CIRCLES"
 
 #: ../../source/mm1.rst:1868
 msgid "WATERLINE EXPER."
-msgstr ""
+msgstr "WATERLINE EXPER."
 
 #: ../../source/mm1.rst:1870
 msgid ""
 "Realiza mejores acabados, pero se define como un proceso experimental para el "
 "usuario."
-msgstr ""
+msgstr "Perform better finishes, is an experimental user process."
 
 #: ../../source/mm1.rst:1874
 msgid "OUTLINE FILL"
-msgstr ""
+msgstr "OUTLINE FILL"
 
 #: ../../source/mm1.rst:1878
 msgid "CUTOUT"
-msgstr ""
+msgstr "CUTOUT"
 
 #: ../../source/mm1.rst:1880
 msgid ""
 "Este proceso se utilizará para gravado, ya que marca el contorno dentro, sobre "
 "o fuera de la línea de nuestro objeto o curva"
 msgstr ""
+"This process will be used for graving, this marks the contour inside, over or "
+"outside the line of our object or curve"
 
 #: ../../source/mm1.rst:1885
 msgid "POCKET"
-msgstr ""
+msgstr "POCKET"
 
 #: ../../source/mm1.rst:1889
 msgid "DRILL"
-msgstr ""
+msgstr "DRILL"
 
 #: ../../source/mm1.rst:1891
 msgid ""
 "Detecta círculos o cuatros en cualquier curva 2D y los convierte en una "
 "operación de perforación"
 msgstr ""
+"Detects circles or squares in any 2D curve and converts them into a drilling "
+"operation"
 
 #: ../../source/mm1.rst:1896
 msgid "CARVE"
-msgstr ""
+msgstr "CARVE"
 
 #: ../../source/mm1.rst:1898
 msgid "Proyecta curvas 2D y 3D en la superficie"
-msgstr ""
+msgstr "Proyects 2D or 3D curves in the surface."
 
 #: ../../source/mm1.rst:1902
 msgid ""
 "Algunas de las operaciones o estrategias combinarán los siguientes parámetros."
 msgstr ""
+"Some of the operations or estrategies combine with the following parameters."
 
 #: ../../source/mm1.rst:1905
 msgid ""
 "Distance between toolpaths: Es la distancia que tendrán las trayectorias o los "
 "sobrepasos"
-msgstr ""
+msgstr "Distance between toolpaths: Is the distance that will hve the paths."
 
 #: ../../source/mm1.rst:1908
 msgid ""
 "Distance along toolpaths: Influye en la precisión del mecanizado, es lo denso "
 "que será la ruta de operación"
 msgstr ""
+"Distance along toolpaths: Influides in the mechaning precission, is the density "
+"of the path of the operation."
 
 #: ../../source/mm1.rst:1911
 msgid ""
 "Angle of paths: Este parámetro gira las estrategias paralelas y transversales a "
 "la cantidad que se le especifique"
 msgstr ""
+"Angle of paths: this parameter turns the paralell and transverse strategiesto "
+"the specified amount."
 
 #: ../../source/mm1.rst:1914
 msgid ""
@@ -2776,7 +2818,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:1920
 msgid "Skin: Genera una capa en la superficie para el acabado"
-msgstr ""
+msgstr "Skin: Generates a layer in the surface for the finishing"
 
 #: ../../source/mm1.rst:1922
 msgid ""
@@ -2812,7 +2854,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:1937
 msgid "CAM optimization"
-msgstr ""
+msgstr "CAM optimization"
 
 #: ../../source/mm1.rst:1942
 msgid ""
@@ -2850,7 +2892,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:1959
 msgid "CAM Material size and position"
-msgstr ""
+msgstr "CAM Material size and position"
 
 #: ../../source/mm1.rst:1961
 msgid ""
@@ -2867,7 +2909,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:1975
 msgid "CAM Movement"
-msgstr ""
+msgstr "CAM Movement"
 
 #: ../../source/mm1.rst:1979
 msgid ""
@@ -2914,7 +2956,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:2005
 msgid "CAM operation area"
-msgstr ""
+msgstr "CAM operation area"
 
 #: ../../source/mm1.rst:2009
 msgid "Use layers: utiliza capas para la operación"
@@ -2943,7 +2985,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:2024
 msgid "CAM federate"
-msgstr ""
+msgstr "CAM federate"
 
 #: ../../source/mm1.rst:2028
 msgid "Feedrate/minute: Velocidad de avance en un minute"
@@ -2967,7 +3009,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:2038
 msgid "CAM cutter"
-msgstr ""
+msgstr "CAM cutter"
 
 #: ../../source/mm1.rst:2042
 msgid "Tool number: Define el número de la herramienta"
@@ -2985,7 +3027,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:2049
 msgid "CAM Machine"
-msgstr ""
+msgstr "CAM Machine"
 
 #: ../../source/mm1.rst:2055
 msgid ""
@@ -3007,7 +3049,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:2065
 msgid "CAM chains"
-msgstr ""
+msgstr "CAM chains"
 
 #: ../../source/mm1.rst:2070
 msgid ""
@@ -3102,7 +3144,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:2151
 msgid "Ejemplo 1:"
-msgstr ""
+msgstr "Example 1:"
 
 #: ../../source/mm1.rst:2154
 msgid ""
@@ -3112,7 +3154,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:2159
 msgid "Ejemplo 2:"
-msgstr ""
+msgstr "Example 2"
 
 #: ../../source/mm1.rst:2162
 msgid ""
@@ -3142,6 +3184,8 @@ msgid ""
 "N100940G01 X62.35 Y135.168 N100950G01 X62.303 Y135.147 N100960G01 X62.259 "
 "Y135.122 N100970G01 X62.218 Y135.095 N100980 G00 Z4.999 N100990 M02"
 msgstr ""
+"N100940G01 X62.35 Y135.168 N100950G01 X62.303 Y135.147 N100960G01 X62.259 "
+"Y135.122 N100970G01 X62.218 Y135.095 N100980 G00 Z4.999 N100990 M02"
 
 #: ../../source/mm1.rst:2191
 msgid "Antes de la instrucción M02 se agregara lo siguiente:"
@@ -3152,6 +3196,8 @@ msgid ""
 "N1009801 G4 S3 N1009802 M280 P2 S80 N1009803 G4 S3 N1009804 M280 P2 S60 "
 "N1009805 G4 S3"
 msgstr ""
+"N1009801 G4 S3 N1009802 M280 P2 S80 N1009803 G4 S3 N1009804 M280 P2 S60 "
+"N1009805 G4 S3"
 
 #: ../../source/mm1.rst:2201
 msgid "El código modificado final será el siguiente:"
@@ -3165,10 +3211,15 @@ msgid ""
 "P2 S90 N36 G4 S3 N40 G00 X0 Y0 Z4.999 S12000 M03 N50 G00 X69.103 Y41.967 N60G01 "
 "Z-4.999 F500"
 msgstr ""
+"Start (GCode created using the HeeksCNC Mach3 post processor) (grabadocolibri."
+"tap) (G-code generated with BlenderCAM and NC library) N10 G17 G21 G90 (Tool "
+"change) N20G43H1 N30T1 M06 N31 G28 N32 G4 S3 N33 M280 P2 S10 N34 G4 S3 N35 M280 "
+"P2 S90 N36 G4 S3 N40 G00 X0 Y0 Z4.999 S12000 M03 N50 G00 X69.103 Y41.967 N60G01 "
+"Z-4.999 F500"
 
 #: ../../source/mm1.rst:2223
 msgid "Final"
-msgstr ""
+msgstr "Final"
 
 #: ../../source/mm1.rst:2226
 msgid ""
@@ -3176,6 +3227,9 @@ msgid ""
 "N1009801 G4 S3 N1009802 M280 P2 S80 N1009803 G4 S3 N1009804 M280 P2 S60 "
 "N1009805 G4 S3 N100990 M02"
 msgstr ""
+"N100960G01 X62.259 Y135.122 N100970G01 X62.218 Y135.095 N100980 G00 Z4.999 "
+"N1009801 G4 S3 N1009802 M280 P2 S80 N1009803 G4 S3 N1009804 M280 P2 S60 "
+"N1009805 G4 S3 N100990 M02"
 
 #: ../../source/mm1.rst:2237
 msgid ""
@@ -3185,10 +3239,14 @@ msgid ""
 "kliment/Printrun De no ser así guardamos el .gcode en la memoria SD y lo "
 "corremos en la impresora MM1"
 msgstr ""
+"After the modifications to the Gcode we save it as .gcode all the files that "
+"the printer can read. If we want to load the gcode from pronterface we have "
+"todownload the following version: https://github.com/kliment/Printrun , if not, "
+"simply save the gcode in the SD card and load it to the MM1"
 
 #: ../../source/mm1.rst:2243
 msgid "Módulo de Pastas"
-msgstr ""
+msgstr "PASTA MODULE"
 
 #: ../../source/mm1.rst:2245
 msgid ""
@@ -3385,7 +3443,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:2430
 msgid "Ingredientes:"
-msgstr ""
+msgstr "Ingredients:"
 
 #: ../../source/mm1.rst:2433
 msgid "-120gr de nutella. -10.6gr de glucosa"
@@ -3489,15 +3547,15 @@ msgstr ""
 
 #: ../../source/mm1.rst:2512
 msgid "Tiene que resultar esto"
-msgstr ""
+msgstr "Thi must be the result"
 
 #: ../../source/mm1.rst:2518
 msgid "Problemas Frecuentes"
-msgstr ""
+msgstr "Frequent problems"
 
 #: ../../source/mm1.rst:2521
 msgid "Como destapar la boquilla"
-msgstr ""
+msgstr "How to clear a noozle jam"
 
 #: ../../source/mm1.rst:2525
 msgid ""
@@ -3507,6 +3565,10 @@ msgid ""
 "caso se atasco con PLA así que vamos a calentar a 210°C para que pueda salir "
 "mas rápido el material."
 msgstr ""
+"Lets lean the filament out of the nnoozle, remember to heat up the noozle "
+"before removing it, adjust the temperature depending on the filament material, "
+"in this case we havea PLA jam, so, heat u to 210°C so the material can be "
+"unloaded."
 
 #: ../../source/mm1.rst:2530
 msgid ""
@@ -3514,10 +3576,12 @@ msgid ""
 "temperatura-> nozzle y sube a 210°C da clic y listo comenzara a calentar la "
 "boquilla."
 msgstr ""
+"In the the LCD control go to Control -> Temperature -> Noozle, and move it up "
+"to 210°C and click."
 
 #: ../../source/mm1.rst:2535
 msgid "cuando la temperatura llegue podemos sacar el filamento que tiene."
-msgstr ""
+msgstr "When the noozle reaches the temperature we can remove the filament."
 
 #: ../../source/mm1.rst:2541
 msgid ""
@@ -3527,12 +3591,17 @@ msgid ""
 "azul), toma en cuenta que las pinzas no se deben de cerrar solo es de apoyo "
 "para poder liberar el tubo."
 msgstr ""
+"Lets unplug the Bowden tube, use Chain Nose Jaw Pliers, put the pliers under "
+"the plastic piece hole and press the blue rubber of the neumatic connector, "
+"dont close the pliers, use them only to press down the connector."
 
 #: ../../source/mm1.rst:2546
 msgid ""
 "Recuerda cuando presiones el plástico del conector neumático debes de jalar el "
 "tubo hacia arriba para que salga."
 msgstr ""
+"While you press the rubber of the neumatic connecyoryou have to pull u the "
+"Bowden tube to unplug it."
 
 #: ../../source/mm1.rst:2554
 msgid ""
@@ -3540,12 +3609,17 @@ msgid ""
 "tratar de purgar la boquilla manualmente y asi poder ver si se resuelve el "
 "problema."
 msgstr ""
+"Once the noozle is hot and the bowden is unplugged, put a piece of filament to "
+"purge the noozle manually, and check if the problem solves."
 
 #: ../../source/mm1.rst:2557
 msgid ""
 "Al meter el filamento en la boquilla vamos a presionar para ver si sale si no "
 "lo hace entonces lo vamos a sacar rápidamente hacia arriba"
 msgstr ""
+"While you put the piece of filament into the noozle press  down trying to get "
+"the jammed filament out, if it doesn´t come out, quickly pull up the piece of "
+"filament."
 
 #: ../../source/mm1.rst:2562
 msgid ""
@@ -3553,6 +3627,9 @@ msgid ""
 "a el filamento nuevo. Esta operación la puedes repetir varias veces y hasta que "
 "veas que ya no sale material carbonizado,"
 msgstr ""
+"When the material is jammed in the end of the nooze it will begin to stick to "
+"the new filament. repeat this operation until no more carbonized filament comes "
+"out."
 
 #: ../../source/mm1.rst:2566
 msgid ""
@@ -3560,12 +3637,16 @@ msgid ""
 "boquilla, puedes volver a colocar el tubo y filamento para volver a realizar "
 "una impresión."
 msgstr ""
+"If it works and the filament comes out from the end of the noozle, you can plug "
+"the bowden tube again and print."
 
 #: ../../source/mm1.rst:2571
 msgid ""
 "Si aun no sale material por la punta de la boquilla, entonces puede ser que "
 "esta siga tapada y para destaparla hay que seguir los siguientes pasos"
 msgstr ""
+"If the material doesn´t come out, maybe is still jammed, to clean you have t "
+"follow these steps:"
 
 #: ../../source/mm1.rst:2576
 msgid ""
@@ -3573,28 +3654,32 @@ msgid ""
 "conectores de la impresora para poder retirar el modulo completo y poder "
 "desarmarlo."
 msgstr ""
+"Turn off the printer, remove the module clip and unplug the wires to remove the "
+"whole module and disasemble."
 
 #: ../../source/mm1.rst:2581
 msgid "Desconecta los siguientes conectores"
-msgstr ""
+msgstr "Unplug the following connectors"
 
 #: ../../source/mm1.rst:2587
 msgid "Solo se dejara conectado el seguro de doble extrusora."
-msgstr ""
+msgstr "Only leave the double extrusion clock"
 
 #: ../../source/mm1.rst:2591
 msgid "Desmontamos el modulo de la cruz"
-msgstr ""
+msgstr "Dismount the module of the cross."
 
 #: ../../source/mm1.rst:2597
 msgid "Vamos a desarmar el Módulo, para poder llegar a la boquilla."
-msgstr ""
+msgstr "Lets disasemble the módule, to get access to the noozle."
 
 #: ../../source/mm1.rst:2601
 msgid ""
 "Primero debemos retirar los tornillos que sujetan la pieza plástica del sensor "
 "inductivo, estos tornillos se retiran con ayuda de una llave allen de 2.5mm"
 msgstr ""
+"First we have to remove the screws fro the plastic piece of the inductive "
+"sensor, these screws must be removed using a 2.5mm allen wrench "
 
 #: ../../source/mm1.rst:2607
 msgid ""
@@ -3602,6 +3687,9 @@ msgid ""
 "se muestran en círculos rojos, son 3 de la parte inferior y 2 de la parte "
 "superior se retiran con la llave allen de 2.5mm."
 msgstr ""
+"Lets remove the screws that hold te the MDF to the module, in the image are "
+"marked with red circle, there are 3 in the bottom part and 2 more in the top "
+"part. use a 2.5mm allen wrench"
 
 #: ../../source/mm1.rst:2616
 msgid ""
@@ -3609,6 +3697,8 @@ msgid ""
 "hacia afuera. Esto para poder llegar a ala parte donde se encuentra la boquilla."
 "Sujetamos el MDF con el dedo pulgar e indice."
 msgstr ""
+"Lets remove the MDF to release the noozle, turn the MDF outside while you hold "
+"the MDF with the tumb and index finger."
 
 #: ../../source/mm1.rst:2623
 msgid ""
@@ -3616,12 +3706,14 @@ msgid ""
 "indica la flecha esto para que pueda liberarse la boquilla y así poder "
 "limpiarla mas fácil."
 msgstr ""
+"When the MDF is in the position shown in the picture push it following the row "
+"to release the nozzle and make easier to clean it up."
 
 #: ../../source/mm1.rst:2630
 msgid ""
 "Cuando este libre el MDF con mucho cuidado vamos a retirar la boquilla por el "
 "orificio mas grande del MDF."
-msgstr ""
+msgstr "Be very careful to remove the noozle trough the biggest hole of the MDF."
 
 #: ../../source/mm1.rst:2638
 msgid ""
@@ -3629,18 +3721,23 @@ msgid ""
 "sujetar la boquilla con mucho cuidado, con unas pinzas mecánicas, vamos a "
 "sujetar el conector y aflojarlo para poder retirarlo."
 msgstr ""
+"Remove the neumatic connector of the noozle, in this step we will hold the "
+"noozle very carfuly, use slip joint pliers to hold it and then unscrew the "
+"connector."
 
 #: ../../source/mm1.rst:2647
 msgid ""
 "Vamos a conectar el ventilador pequeño a la impresora y también el conector de "
 "6 pines para poder calentar la boquilla."
 msgstr ""
+"Lets plug the small fan to the printer and als the 6 i connector to heat up the "
+"noozle."
 
 #: ../../source/mm1.rst:2652
 msgid ""
 "Después de conectar el módulo encendemos la impresora para mandar a calentar la "
 "boquilla"
-msgstr ""
+msgstr "After we connevt gthe module, turn on the printer."
 
 #: ../../source/mm1.rst:2658
 msgid ""
@@ -3649,6 +3746,9 @@ msgid ""
 "temperatura desde 200°C a 210°C, si es ABS la temperatura que podemos utilizar "
 "es de 220°C a 230°C."
 msgstr ""
+"Using the LCD screen heat up the noozle to the temperature recomended for the "
+"jammed mterial, for PLA between 200°C and 210°C, if ABS the temperature is "
+"220°C to 230°C."
 
 #: ../../source/mm1.rst:2663
 msgid ""
@@ -3656,6 +3756,8 @@ msgid ""
 "vez que esta caliente la boquilla la sujetaremos de la parte superior con las "
 "pinzas mecánicas."
 msgstr ""
+"In this example is PLA, so lets use a temperature  of 207°C. when is hot, hold "
+"the noozle with the pliers."
 
 #: ../../source/mm1.rst:2669
 msgid ""
@@ -3664,24 +3766,29 @@ msgid ""
 "giramos la broca lento y sacamos para ir retirando los residuos que se adhieran "
 "a la broca."
 msgstr ""
+"Put a 3mm drill bit into the hot noozle and turn it by hand, dont press, only "
+"twist it slowly and pull up to remove the material that sticks to the drill tip."
 
 #: ../../source/mm1.rst:2678
 msgid ""
 "Esta parte podemos realizar la tecnica las veces que sean necesarias hasta que "
 "ya no tengan residuos la boquilla ."
 msgstr ""
+"Repeat the steps until you remove all the remanent of filament from the noozle."
 
 #: ../../source/mm1.rst:2681
 msgid ""
 "Después de haber hecho esto con la broca procedemos a limpiar la punta de la "
 "boquilla con un cabello de cobre de un cable calibre 14 o 12."
 msgstr ""
+"Now we clean the end of the noozle with a thead of a 12 or 14 cupper wire."
 
 #: ../../source/mm1.rst:2686
 msgid ""
 "En esta parte también podemos introducir varias veces el cable dentro de la "
 "punta."
 msgstr ""
+"Again, repeat that operation as many times as you need to clean the noozle."
 
 #: ../../source/mm1.rst:2692
 msgid ""
@@ -3692,12 +3799,20 @@ msgid ""
 "Hacemos esto las veces que sea necesario, hasta que  veamos que cuando saquemos "
 "el material ya no tenga residuos negros."
 msgstr ""
+"After cleaning and removing the remanents with the drill bit and the cupper "
+"thread, we will purge with a piece of filment, as we did in the step 3, put the "
+"piece of filament into the noozle, press down and pull up with a fast movement. "
+"cut the part of the filament piece that has remanents sticked to it. Do this as "
+"many times as needed, until there are not black dots of carbonized filament in "
+"the piece."
 
 #: ../../source/mm1.rst:2701
 msgid ""
 "Después de hacer esta purga podemos observar que nuestra boquilla esta limpia y "
 "que tiene un escape de material libre."
 msgstr ""
+"After the purge we can observe that the noozle is clean and mterial comes out "
+"freely."
 
 #: ../../source/mm1.rst:2708
 msgid ""
@@ -3706,22 +3821,30 @@ msgid ""
 "se enfrié la boquilla, ya que esta fría la boquilla se comienza ensamblar como "
 "estaba al inicio."
 msgstr ""
+"Once we cleaned the noozle, turn down the printer, get the piece of filament "
+"out and after a few seconds turn down the printer again. This will cooldown the "
+"noozle, when you look in the LCD screen that the noozle reached room "
+"temperature assemble the module as originally."
 
 #: ../../source/mm1.rst:2713
 msgid "Colocamos el conector neumático"
-msgstr ""
+msgstr "Screw the neumatic connector"
 
 #: ../../source/mm1.rst:2717
 msgid ""
 "Colocamos el MDF en la boquilla, asegurate de que entre en la ranura mas "
 "pequeña para que se mantenga fija la boquilla."
 msgstr ""
+"Put the MDF in the noozle, ensure that the smallest hole remains holding the "
+"noozle"
 
 #: ../../source/mm1.rst:2722
 msgid ""
 "Colocamos la boquilla en el orificio de la pieza plástica y giramos el MDF como "
 "estaba al principio."
 msgstr ""
+"put the noozle into the plastic piece hole and turn the MDF to their original "
+"position."
 
 #: ../../source/mm1.rst:2728
 msgid ""
@@ -3729,14 +3852,16 @@ msgid ""
 "la pieza plástica. El sensor inductivo y listo nuestro modulo debe de verse así "
 "como antes."
 msgstr ""
+"Lastly, put the 5 screws to hold the MDF to the plastic piece. put the "
+"inductive sensor ans then the mdule will be ready. to use"
 
 #: ../../source/mm1.rst:2734
 msgid "Calibración de la cama automático"
-msgstr ""
+msgstr "Automatic bed calibration"
 
 #: ../../source/mm1.rst:2736
 msgid "¿Has tenido problemas de calibración en su plataforma de impresión?"
-msgstr ""
+msgstr "Have you had calibration problems with your printing plate?"
 
 #: ../../source/mm1.rst:2738
 msgid ""
@@ -3745,6 +3870,9 @@ msgid ""
 "compresión de resortes, y esto puede ser bastante tardado si no se tiene la "
 "paciencia necesaria, y muchas veces no queda bien calibrada."
 msgstr ""
+"One of the must frustrating problems when you have a 3D printer is the bed "
+"leveling, this is a matter of patens to get the correct compression of all the "
+"springs to get it well calibrated."
 
 #: ../../source/mm1.rst:2745
 msgid ""
@@ -3752,6 +3880,8 @@ msgid ""
 "automática durante la impresión, esto se logra modificando el código G de la "
 "pieza a imprimir."
 msgstr ""
+"The best solution to these problem is the autoleveling of the printer, to get "
+"this you have to modify the Gcode of the model to print."
 
 #: ../../source/mm1.rst:2749
 msgid ""
@@ -3759,10 +3889,12 @@ msgid ""
 "que auto nivelación se da en algunos puntos que están por defecto en el "
 "firmware."
 msgstr ""
+"The first step is to know your printingcmachine and its working space, because "
+"the auto leveling works with some points predefined in the firmware."
 
 #: ../../source/mm1.rst:2752
 msgid "Firmware Marlin"
-msgstr ""
+msgstr "Marlin Firmware"
 
 #: ../../source/mm1.rst:2754
 msgid ""
@@ -3773,6 +3905,10 @@ msgid ""
 "que está usando sea el adecuado para su impresora antes de hacer la "
 "modificación de la auto nivelación."
 msgstr ""
+"Marlin firmware is an informatic program that controls the 3D printer "
+"electronic board at the lowest level, there are many variations of Marlin "
+"Firmware as soon as there are many models of 3D printers on the market, you hve "
+"to be sure you are using the correct Marlin Version for your 3D printer."
 
 #: ../../source/mm1.rst:2760
 msgid ""
@@ -3784,18 +3920,24 @@ msgid ""
 "dimensiones del área de trabajo, estás están ubicadas en la parte final de la "
 "sección Mechanical Settings."
 msgstr ""
+"Every Marlin Firmware is divided by 50 sections or files, the fle that we will "
+"modify is configuration is configuration.h This file is divided in 5 parts "
+"(Thermal Settings, Thermal Runaway Protection, Mechanical Settings, Bed Auto "
+"Leveling, Additional Features), we will modify the Bed Auto Leveling section, "
+"but first you have to define the working area dimentions, these are defined in "
+"the Mechanical Settings section"
 
 #: ../../source/mm1.rst:2768
 msgid ""
 "En este ejemplo la impresora a usar tiene un área de trabajo de 400x400x350 "
 "milímetros."
-msgstr ""
+msgstr "In this example the printer has a working area of 400x400x350 milímeters."
 
 #: ../../source/mm1.rst:2773
 msgid ""
 "Una vez definida el área de trabajo se procede a definir los puntos de "
 "nivelación."
-msgstr ""
+msgstr "Once you define the working area you have t define the leveling points"
 
 #: ../../source/mm1.rst:2776
 msgid ""
@@ -3807,12 +3949,17 @@ msgid ""
 "necesidad del usuario, en este ejemplo se eligieron las siguientes coordenadas "
 "para los tres puntos:"
 msgstr ""
+"By default Marlin have defined 3 leveling points in the Bed Autoleveling "
+"section of the configuration.h file, you can modify the X and Y coordinates  as "
+"needed. in this example we used the follwing coordinates for the 3 points:"
 
 #: ../../source/mm1.rst:2786
 msgid ""
 "Las coordenadas de los puntos no deben exceder el área de trabajo, ya que se "
 "puede tener accidentes."
 msgstr ""
+"The coordinates of the points must be inside the limits of the working are to "
+"avoid accidents."
 
 #: ../../source/mm1.rst:2789
 msgid ""
@@ -3820,26 +3967,32 @@ msgid ""
 "es de 1500 mm/min la cual se obtuvo mediante varias pruebas, la línea que se "
 "modifica se encuentra debajo de la modificación anterior."
 msgstr ""
+"Last step is to configure the auto leveling speed, a moderated speed is 1500 mm/"
+"min. this is defined under the coordinates config."
 
 #: ../../source/mm1.rst:2795
 msgid "Ahora sólo se carga este Marlin a la impresora 3D."
-msgstr ""
+msgstr "Now just load the modified Marlin to the 3D printer."
 
 #: ../../source/mm1.rst:2797
 msgid ""
 "Una vez configurado el Marlin se procede a configurar el código G, esto se hace "
 "mediante un software libre, en este ejemplo el software CURA."
 msgstr ""
+"After you have configured te Marlin you have to configure the GCode, we use the "
+"free software CURA."
 
 #: ../../source/mm1.rst:2800
 msgid "Configuración en el Software CURA"
-msgstr ""
+msgstr "Configuration of Cura software"
 
 #: ../../source/mm1.rst:2804
 msgid ""
 "Para la auto calibración es necesario hacer una modificación en el Software "
 "CURA (software que genera código G mediante modelos 3D)."
 msgstr ""
+"You have to modify the configuration of Cura software for the auto leveling "
+"feature (The software to converts a 3D model to Gcode)."
 
 #: ../../source/mm1.rst:2807
 msgid ""
@@ -3849,6 +4002,9 @@ msgid ""
 "impresora. Si usted no cuenta con opciones de impresoras, puede agregar su "
 "máquina seleccionando Add new machine."
 msgstr ""
+"1.-Open Cura, select the printer you want to use. To select the printer go to "
+"the tools menu and go to the \"Machine\" tab. If you dont have added your "
+"printer press \"Add new machine\" and configure it."
 
 #: ../../source/mm1.rst:2815
 msgid ""
@@ -3857,6 +4013,9 @@ msgid ""
 "las pestañas Basic y Avanced). Cuando termine de configurar los parámetros de "
 "impresión, diríjase a la pestaña Start/End-GCode y selecciones start.gcode."
 msgstr ""
+"2.- now you have to select the model to print and set the printing parameters "
+"(\"Basic\" and \"Advanced\" tab). Then go t the \"Start/End GCode\" tab and "
+"select \"start.gcode\"."
 
 #: ../../source/mm1.rst:2822
 msgid ""
@@ -3866,6 +4025,9 @@ msgid ""
 "agregará después de la línea con el código “G28 Z0” y antes de la línea con el "
 "código “G1 Z15.0 F”."
 msgstr ""
+"3.- In the left of the screen  you have the first part of the G Code add a new "
+"line in the code between the line that says “G28 Z0”  and the line thaat says "
+"“G1 Z15.0 F” the new line must say \"G29\"."
 
 #: ../../source/mm1.rst:2829
 msgid ""
@@ -3873,3 +4035,6 @@ msgid ""
 "de Save Toolpath y ya se tendrá el código G con auto nivelación en la memoria "
 "SD lista para colocarse en la impresora 3D y mandar a imprimir."
 msgstr ""
+"4.-Now simply save the GCode in the printer pressing the \"Save Toolpath\" "
+"button, now put the SD card into the printer and you will have the autolevel "
+"ready."
