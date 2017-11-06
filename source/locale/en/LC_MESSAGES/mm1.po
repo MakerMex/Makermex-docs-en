@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MakerMex 1.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-26 10:24-0500\n"
-"PO-Revision-Date: 2017-11-03 13:51-0600\n"
+"PO-Revision-Date: 2017-11-06 13:46-0600\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -167,7 +167,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:75
 msgid "Módulo CNC (Devasta materiales blandos)"
-msgstr "CNC Modules (Devastates soft materials)"
+msgstr "CNC Modules (Rough soft materials)"
 
 #: ../../source/mm1.rst:77
 msgid "Módulo Dibujo (Crea dibujos técnicos con una alta precisión)"
@@ -1684,7 +1684,7 @@ msgstr "Ready, you have your bed clibrated to print your designs!"
 
 #: ../../source/mm1.rst:1150
 msgid "¡ Ya desempacaste tu impresora ahora vamos a ponerla a imprimir !"
-msgstr ""
+msgstr "You hav already unpacked your 3D printer, now, lets make it to print!"
 
 #: ../../source/mm1.rst:1154
 msgid ""
@@ -2592,6 +2592,11 @@ msgid ""
 "directorio. 16.- Al terminar, seleccionar Save User Settings, para quer "
 "nuestros ajustes queden guardados. 17.- Como paso final, reiniciar Blender."
 msgstr ""
+"13.- Go to User \"Preferences panel\", select \"File\" and open the folder "
+"\"User Preferences\", also, you can use the following command: Ctrl+Alt+U. 14.- "
+"In the top part of thw widow select the \"File\" Tab. 15.-Go tp segment \"script"
+"\" and select the folder of the Blender CAM scripts. 16,. After tha, select "
+"\"Save User Settings\" to keep these configuration. 17.- Finay restart Bender."
 
 #: ../../source/mm1.rst:1783
 msgid "Entrar al modo CAM"
@@ -2632,6 +2637,9 @@ msgid ""
 "agregar una operación seleccionando el objeto, el botón se mantiene presionado "
 "y hay que esperar unos segundos."
 msgstr ""
+"Calculte Path: Calculates the operation to perform, also it shows a graphic "
+"simulation of the CNC path. Fo that, we have to add the operation selectig the "
+"object. hold the button pressed and wait a few seconds."
 
 #: ../../source/mm1.rst:1811
 msgid ""
@@ -2639,6 +2647,9 @@ msgid ""
 "seguir trabajando en la creación de otras operaciones, es importante guardar el "
 "documento antes de realizar cualquier cálculo."
 msgstr ""
+"Calculate path in background: this unction calculates the path, while allows "
+"you to continue working on other operations, is important to save the document "
+"before you realice any calculation."
 
 #: ../../source/mm1.rst:1815
 msgid ""
@@ -2647,6 +2658,9 @@ msgid ""
 "objeto se puede subdividir, escalar, aumentar la resolución en el panel de "
 "optimización."
 msgstr ""
+"Simulate this operation: To generate this simulation, a new object is created "
+"over our model that we can move on any desired axis. This object can be scaled, "
+"subdvided and its resoluton can be increased in the optimiztion panel."
 
 #: ../../source/mm1.rst:1819
 msgid ""
@@ -2815,6 +2829,10 @@ msgid ""
 "trayectorias (Distance between toolpaths), si no sabe que significa todo esto, "
 "no utilizar esta función."
 msgstr ""
+"Paralell step back: This uses a posterior movement of the machine for the "
+"finishing of the surface. tke in count that this will slice the aterial at "
+"duble speed than the dstance between paths, if you dont know ahat al this "
+"means, don't use this option."
 
 #: ../../source/mm1.rst:1920
 msgid "Skin: Genera una capa en la superficie para el acabado"
@@ -2825,18 +2843,23 @@ msgid ""
 "Inverse milling: Invierte el giro de molienda, en el caso de la impresora MM1 "
 "se tendrá que hacer un ajuste manual"
 msgstr ""
+"Inverse milling: invert de rotation of the drill, on the MM1 printer, you need "
+"a manual adjustment for this."
 
 #: ../../source/mm1.rst:1925
 msgid ""
 "Direction: Para el proceso block y spiral decide comenzar desde dentro o fuera "
 "del objeto"
 msgstr ""
+"Direction: this makes an spiral block process, it begins from inside to outside "
+"f the object."
 
 #: ../../source/mm1.rst:1928
 msgid ""
 "Carve depth: Decide que profuncidad debajo de la superficie se destinara la "
 "operación tallar"
 msgstr ""
+"Carve depth: Decide the depth under the surface that will rough the operation."
 
 #: ../../source/mm1.rst:1931
 msgid ""
@@ -2844,6 +2867,8 @@ msgid ""
 "fusionar contornos, es muy útil para PCB ya que no se desea que las líneas se "
 "crucen."
 msgstr ""
+"Don’t merge outlines when cutting: For this strategy it won't fuse outlines, is "
+"very useful for PCB because you dont want to cross the lines."
 
 #: ../../source/mm1.rst:1934
 msgid ""
@@ -2851,6 +2876,8 @@ msgid ""
 "por unos parametros que aparecerán cocmo: anchura, altura mínima por la curva "
 "etc."
 msgstr ""
+"Use bridges: Cutout strategy that creates bridges automatically by parameters "
+"tht appear as: width,minimum height for the curve, etc."
 
 #: ../../source/mm1.rst:1937
 msgid "CAM optimization"
@@ -2861,12 +2888,15 @@ msgid ""
 "Reduce path points: Ayuda a reducir el número de comandos en el código g, por "
 "lo que el código es más corto y fácil de procesar por la maquina"
 msgstr ""
+"Reduce path pints: Hels to rdce the number f commands in he Gcode. making the "
+"code shrter and easer to process for the machine."
 
 #: ../../source/mm1.rst:1945
 msgid ""
 "Reduction threshold in un: La dirección de la trayectoria se reducirá a "
 "micrómetros"
 msgstr ""
+"Reduction threshold in un: The direction of the path wll reduce to micrometers."
 
 #: ../../source/mm1.rst:1947
 msgid ""
@@ -2877,18 +2907,25 @@ msgid ""
 "de su computadora. compruebe el tamaño del objeto antes de las operaciones de "
 "cálculo"
 msgstr ""
+"Sampling raster detail: This is a very important for the memory use, and the "
+"speed of the software. BlenderCAM uses pixels to calculate the compensation "
+"positions of the cuts. If the object is 1 meter, the mage will be 10000 x 10000 "
+"pixels, that probbly will consume all the memory of your computer. verify the "
+"dimentions of the object before any operation."
 
 #: ../../source/mm1.rst:1953
 msgid ""
 "Simulation sampling raster detail: Prácticamente es igual que la opción "
 "anterior pero aplicado a la simulación"
 msgstr ""
+"Simulation sampling raster detail: Practicaly the same as the last operation "
+"but applied to simulation."
 
 #: ../../source/mm1.rst:1956
 msgid ""
 "Detail of circles used for curve offsets: Es el detalle de los circulos "
 "utilizados para desplazamientos de la curva"
-msgstr ""
+msgstr "Detail of circles used for curve offsets."
 
 #: ../../source/mm1.rst:1959
 msgid "CAM Material size and position"
@@ -2900,12 +2937,17 @@ msgid ""
 "mismas que el área de trabajo, si esta opción no está activada  se nos abre una "
 "ventana extra para indicar las dimensiones"
 msgstr ""
+"Estomate from model: It assumes tat the dimentions of the object are the same "
+"than the working area, if this option is not activated an extra window opens "
+"tho set the dimentions."
 
 #: ../../source/mm1.rst:1968
 msgid ""
 "Position object: Esta opcion es muy útil, ya que automáticamente  envía al "
 "objeto al origen del material que hemos definido"
 msgstr ""
+"Position object, this option is very useful, it automaticaly send the object to "
+"the origin of the defined material."
 
 #: ../../source/mm1.rst:1975
 msgid "CAM Movement"
@@ -2916,6 +2958,8 @@ msgid ""
 "Movement type: Aplica para algunas estrategias, establece como se mueve la "
 "cuchilla en el material"
 msgstr ""
+"Movement type: It applies t som strategies, establis how the blade moves to the "
+"material."
 
 #: ../../source/mm1.rst:1982
 msgid ""
@@ -2926,10 +2970,15 @@ msgid ""
 "la alimentación. Si la maquina tiene contragolpe que no puede ser compensada "
 "entonces esta es la mejor opción."
 msgstr ""
+"1.- Meander: It will generate a zigzag moement in ny direction 2.-Climb: the "
+"cutter will turn to the feeding drection to produce a better finishing, less "
+"tention in the in the of the tool and require less energy to generate. 3.- "
+"Conventional: the cutter turns to the feeding direction. if the machne has "
+"kikcback that cannot be compensatted, then this is the best option."
 
 #: ../../source/mm1.rst:1989
 msgid "Spindle rotation: Esta operación define la rotación del husillo"
-msgstr ""
+msgstr "Spindle rotation: thisperation defines the rotation of the spindle."
 
 #: ../../source/mm1.rst:1991
 msgid ""
@@ -2937,6 +2986,9 @@ msgid ""
 "maquinando. Si tenemos una altura muy alta, como resultado es una duración más "
 "elevada, ya que genera más tiempo en desplazarse a zonas en el aire"
 msgstr ""
+"Free movement height: It is the height when is not machiniing. If we have a "
+"very high height the ressut is a very high duration because it takess more time "
+"to move at height."
 
 #: ../../source/mm1.rst:1995
 msgid ""
@@ -2945,6 +2997,10 @@ msgid ""
 "cuales su distancia es más pequeña que el diámetro de la herramienta, esta "
 "opción en estas situaciones no daña  ra las paredes de los caminos"
 msgstr ""
+"Stay low if possible: Dont try toelevate the blade when it pass from one pth to "
+"nother, there ar some times when the tool fllow ways where the distance is "
+"smaller than the diameter o the tool, in this ocations ths opion will not "
+"damage the walls of the paths."
 
 #: ../../source/mm1.rst:2000
 msgid ""
@@ -2953,6 +3009,9 @@ msgid ""
 "superficies verticales no obtendrá una pendiente debido a la distancia entre "
 "los puntos de recorrido."
 msgstr ""
+"Proect Vertical: When the angle of the path is superior to the limit of "
+"verticalness, the movement will be vertical, this way the vertical surfarce "
+"will nt have inlination because of the distnce between the points of the path."
 
 #: ../../source/mm1.rst:2005
 msgid "CAM operation area"
@@ -2960,21 +3019,24 @@ msgstr "CAM operation area"
 
 #: ../../source/mm1.rst:2009
 msgid "Use layers: utiliza capas para la operación"
-msgstr ""
+msgstr "Use layers: it uses layer for the operation"
 
 #: ../../source/mm1.rst:2011
 msgid "Step down: Es el grosor de las capas de desbaste"
-msgstr ""
+msgstr "Step down: this is the thicknes o the roughing layers."
 
 #: ../../source/mm1.rst:2013
 msgid "Ambient: Es el proceso determinado al material que rodea al objeto"
 msgstr ""
+"Ambient: is the process accordding to the material that surrounds the object"
 
 #: ../../source/mm1.rst:2016
 msgid ""
 "1.- Around: Se genera una silueta al objeto 2.- ALL: Se genera un rectángulo al "
 "objeto/material"
 msgstr ""
+"1.- Around: this generates an outline to the object 2.- All: It generates a "
+"rectangle to the object/material"
 
 #: ../../source/mm1.rst:2020
 msgid ""
@@ -2982,6 +3044,9 @@ msgid ""
 "total de la operación de la misma. De lo contrario, puede utilizar la "
 "profundidad de operación para hacer lo mismo de forma manual."
 msgstr ""
+"Depth from object: Establish the ddepth of the object and the totl depth of the "
+"opertion itself. Otherwise it can use the operations depth to do the ame "
+"manually"
 
 #: ../../source/mm1.rst:2024
 msgid "CAM federate"
@@ -2989,23 +3054,27 @@ msgstr "CAM federate"
 
 #: ../../source/mm1.rst:2028
 msgid "Feedrate/minute: Velocidad de avance en un minute"
-msgstr ""
+msgstr "Feedrate/minute: Speed of advance in a minute"
 
 #: ../../source/mm1.rst:2030
 msgid ""
 "Plunge speed: La velocidad se reduce a la cantidad especificada, cuando la "
 "pendiente de la trayectoria está por encima del ángulo de profundización"
 msgstr ""
+"plunge Speed: the speed reduced to the specified quantity, when the inclination "
+"of the path is over the depth angle."
 
 #: ../../source/mm1.rst:2033
 msgid ""
 "Plunge angle: Cualquier ángulo mayor  que el angulo de inmersión se activara la "
 "velocidad de inmersión"
 msgstr ""
+"Plunge angle: Any angle bigger than the inmerson angle will activate the "
+"inmersion speed"
 
 #: ../../source/mm1.rst:2036
 msgid "Spindle rpm: Revoluciones por minuto del husillo"
-msgstr ""
+msgstr "Spindle RPM: revolutions per minute of the spindle"
 
 #: ../../source/mm1.rst:2038
 msgid "CAM cutter"
@@ -3013,17 +3082,18 @@ msgstr "CAM cutter"
 
 #: ../../source/mm1.rst:2042
 msgid "Tool number: Define el número de la herramienta"
-msgstr ""
+msgstr "Total number: Define the number of the tool"
 
 #: ../../source/mm1.rst:2044
 msgid ""
 "Cutter diametrer: Define el diámetro de la herramienta, utilizado para el "
 "cálculo de la trayectorias"
 msgstr ""
+"Cutter diametter: Defines the dimeter of the tool, used for the path calculus"
 
 #: ../../source/mm1.rst:2046
 msgid "Cutter flutes: Este parámetro solo se utiliza para el cálculo del chipload"
-msgstr ""
+msgstr "Cutter Fluttes: this parameter only is used for the chipload calculation"
 
 #: ../../source/mm1.rst:2049
 msgid "CAM Machine"
@@ -3034,18 +3104,21 @@ msgid ""
 "Postprocesador: Define el formateo del archive de salida. Si la maquina no está "
 "lista los códigos que generan código-g sin problemas son MACH3, ISO."
 msgstr ""
+"Postprocesssor: Defiines the format of the output file. if the machne is not "
+"eady, the codes tht generate gcode are MACH3, ISO."
 
 #: ../../source/mm1.rst:2058
 msgid "Unit system: Sistema de unidad métrico o imperial."
-msgstr ""
+msgstr "Unit System. Metric or Imperial units system."
 
 #: ../../source/mm1.rst:2060
 msgid "Work area: Aquí se define las dimensiones del material que se desbastará"
 msgstr ""
+"Work area: here are defined the dimentions of the material that wil be roughed"
 
 #: ../../source/mm1.rst:2062
 msgid "Feedrate min/max: Limitará velocidades dadas en el panel de avance"
-msgstr ""
+msgstr "Feedrate min/max: It wil limit the given speed onthe advane panel."
 
 #: ../../source/mm1.rst:2065
 msgid "CAM chains"
@@ -3058,18 +3131,23 @@ msgid ""
 "consecutiva, es muy práctico desarrollar esta herramienta para el código, si es "
 "que se tiene cambiador de herramientas automático"
 msgstr ""
+"Is a tools that allows to chain operations like simulations, it means having a "
+"set of operations and execute them consecutively, is a very practical tool for "
+"code if you have automatic tool swapping."
 
 #: ../../source/mm1.rst:2075
 msgid ""
 "A continuación se desarrollará un proceso cutout que nos genera un gravado en "
 "la superficie del material"
 msgstr ""
+"Now we will develop a cutout process that will generates an engraving of the "
+"surfaceof the material"
 
 #: ../../source/mm1.rst:2078
 msgid ""
 "1.-     Ejecutamos BlenderaCAM 2.-     En este ocasión importaremos un archivo ."
 "svg"
-msgstr ""
+msgstr "1.- Excecute BlenderCAM 2.- This time we import an .svg file"
 
 #: ../../source/mm1.rst:2084
 msgid ""
@@ -3077,6 +3155,9 @@ msgid ""
 "agregaremos una operación. Como siguiente le daremos nombre a la operación y al "
 "archivo 4.-     Los parámetros que se utilizaran serán los siguientes"
 msgstr ""
+"3.- In CAM operations Panel, selecct the object, in this cae  curve and dd it "
+"to an operation. next give a name to the operation and file 4.- the parameters "
+"to use are the following"
 
 #: ../../source/mm1.rst:2091
 msgid ""
@@ -3085,6 +3166,9 @@ msgid ""
 "calcular la trayectoria que funciona también como una simulación, si se quiere "
 "exportar el código G es necesario calcular la trayectoria (Calculate path)."
 msgstr ""
+"The name of the operation is cutout, this part, and the filename are optional, "
+"After setting this parameters we recommend to calculate the path, it will serve "
+"a simulation, if you eed to export gcode you need to calculate path."
 
 #: ../../source/mm1.rst:2098
 msgid ""
@@ -3097,6 +3181,13 @@ msgid ""
 "total de 5mm, se dejó este parámetro ya que el material que desbastaremos es un "
 "material blando y no tendrá problema"
 msgstr ""
+"The action is cutout, this time the path will be over the line. we dont "
+"recommend the option \"Dont merge outlies...\" because it gives problems with "
+"blender. This part reduces the lines nmber as well as the reolution and "
+"simuation. the layer height is the same than the total roughing, generating a "
+"single pass. If we had needed two passes,the layer heigh must be 2.5mm, with a "
+"totaal roughingof mm, forthis material we wont have problem because  we will "
+"rough a soft material. "
 
 #: ../../source/mm1.rst:2109
 msgid ""
@@ -3105,6 +3196,10 @@ msgid ""
 "5mm es un excelente parámetro para asegurarnos de que el modulo no chocara con "
 "el material y podrá ser óptimo."
 msgstr ""
+"The type of movement used was mender because of the quantity of paths. One of "
+"the most important settings is the height of free movement. 5mm is an excelent "
+"value to enure that the module will not hit the material and the reult will be "
+"optimal"
 
 #: ../../source/mm1.rst:2115
 msgid ""
@@ -3189,7 +3284,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:2191
 msgid "Antes de la instrucción M02 se agregara lo siguiente:"
-msgstr ""
+msgstr "Before the M02 instruction the following wil be added:"
 
 #: ../../source/mm1.rst:2194
 msgid ""
@@ -3246,7 +3341,7 @@ msgstr ""
 
 #: ../../source/mm1.rst:2243
 msgid "Módulo de Pastas"
-msgstr "PASTA MODULE"
+msgstr "PASTE MODULE"
 
 #: ../../source/mm1.rst:2245
 msgid ""
@@ -3255,10 +3350,13 @@ msgid ""
 "creaciones de pastas y probarlas. Por lo general este modulo trabaja con "
 "cualquier material pastoso desde arcilla hasta chocolate."
 msgstr ""
+"In this section of the manual, e will talk about a very exciting module, de "
+"paste module, this is an experimental module to work with any pasty material,; "
+"from clay, to chocolate."
 
 #: ../../source/mm1.rst:2251
 msgid "Un dato importante de este moculo es que solo trabaja con pastas frias."
-msgstr ""
+msgstr "An important thing is that this module only works with cold paste."
 
 #: ../../source/mm1.rst:2255
 msgid ""
@@ -3266,17 +3364,20 @@ msgid ""
 "este se divide en dos partes la estación de bombeo y cabezal, también contiene "
 "accesorios para poder realizar la inyección de las pastas."
 msgstr ""
+"First, we will identify the comonents of our pastemodule, it is divided in two "
+"parts; the pumping station and the head. it also contains some accesories for "
+"the pasta injection."
 
 #: ../../source/mm1.rst:2259
 msgid "El módulo de pastas se compone de lo siguiente:"
-msgstr ""
+msgstr "The paste module contains the following"
 
 #: ../../source/mm1.rst:2262
 msgid ""
 "1  estación de bombeo + cable de motor. 1 cabezal de impresión 2 jeringas 2 "
 "mangueras de nivel de 1/4 x100cm 2 luer lock rosca hembra 2 luer lok rosca "
 "macho 2 juegos de 6 puntillas de plástico 1 juego de 10 puntillas de metal"
-msgstr ""
+msgstr "1 Pumping statin + motor cable"
 
 #: ../../source/mm1.rst:2272
 msgid "Estación de bombeo y accesorios."
