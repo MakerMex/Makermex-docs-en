@@ -182,7 +182,12 @@ msgid ""
 " contacto con el equipo de soporte a traves de nuestro `foro "
 "<http://makermex.com/forum>`_ ."
 msgstr ""
-"From the 3D printer with serial number 198 and above, dual extrusion tumbler is not necessary for the machin or any module, and is not included, this feature is now included in the controller firmware; if the serial number of your machine is lower than 198 and you want to update the firmware please contact our support team via the `forum <http://makermex.com/forum>`_ ."
+"From the 3D printer with serial number 198 and above, dual extrusion "
+"tumbler is not necessary for the machine or any module, and is not "
+"included, this feature is now included in the controller firmware; if the"
+" serial number of your machine is lower than 198 and you want to update "
+"the firmware please contact our support team via the `forum "
+"<http://makermex.com/forum>`_ ."
 
 # 139c1962a0ca4343aca45e02465e741c
 #: ../../source/mm1.rst:65
@@ -1185,7 +1190,14 @@ msgid ""
 "puedes ponerte en contacto con el equipo de soporte a traves de nuestro "
 "`foro <http://makermex.com/forum>`_ ."
 msgstr ""
-"If the single module is connected and the dual extrusion tumbler is unplugged, a mintemp error will appear. (printers before serial number 198). From the 3D printer with serial number 198 and above, dual extrusion tumbler is not necessary for the machine or any module, and is not included, this feature is now included in the controller firmware; if the serial number of your machine is lower than 198 and you want to update the firmware please contact our support team via the `forum <http://makermex.com/forum>`_ ."
+"If the single module is connected and the dual extrusion tumbler is "
+"unplugged, a mintemp error will appear. (printers before serial number "
+"198). From the 3D printer with serial number 198 and above, dual "
+"extrusion tumbler is not necessary for the machine or any module, and is "
+"not included, this feature is now included in the controller firmware; if"
+" the serial number of your machine is lower than 198 and you want to "
+"update the firmware please contact our support team via the `forum "
+"<http://makermex.com/forum>`_ ."
 
 # 88780899cd3243009167c2fa5e7174ad
 #: ../../source/mm1.rst:644
@@ -1283,19 +1295,27 @@ msgstr ""
 
 # 76b7483a8f864e57b73ec79fa839ef61
 #: ../../source/mm1.rst:692
+#, fuzzy
 msgid ""
 "Cuando imprimimos con este modulo es muy importante tener conectado el "
 "seguro de doble extrusora, si este seguro no se conecta es imposible "
 "realizar la impresión (impresoras anteriores a la 198). A partir de la "
 "impresora con número de serie 198, el seguro de doble extrusor ya no es "
-"necesario ni se incluye en el equipo ni en ninguno de los  módulos, ya"
+"necesario ni se incluye en el equipo ni en ninguno de los     módulos, ya"
 " que se ha logrado incluir esta característica en el firmware de la "
 "tarjeta controladora; si el número de tu equipo es anterior al mencionado"
 " y deseas actualizar el firmware, puedes ponerte en contacto con el "
 "equipo de soporte a traves de nuestro `foro <http://makermex.com/forum>`_"
 " ."
 msgstr ""
-"When we print with this module is important to plug the dual extrusion tumbler, if the tumbler is not connected it won't be impossible to print (printers with serial number lower than 198). From the 3D printer with serial number 198 and above, dual extrusion tumbler is not necessary for the machine or any module, and is not included, this feature is now included in the controller firmware; if the serial number of your machine is lower than 198 and you want to update the firmware please contact our support team via the `forum <http://makermex.com/forum>`_ ."
+"When we print with this module is important to plug the dual extrusion "
+"tumbler, if the tumbler is not connected it won't be impossible to print "
+"(printers with serial number lower than 198). From the 3D printer with "
+"serial number 198 and above, dual extrusion tumbler is not necessary for "
+"the machine or any module, and is not included, this feature is now "
+"included in the controller firmware; if the serial number of your machine"
+" is lower than 198 and you want to update the firmware please contact our"
+" support team via the `forum <http://makermex.com/forum>`_ ."
 
 # f9aa5268aae5417f84883444c71398aa
 #: ../../source/mm1.rst:700
