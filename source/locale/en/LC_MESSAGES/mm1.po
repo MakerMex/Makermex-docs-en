@@ -1156,6 +1156,8 @@ msgid ""
 " al encender la impresora te marcara Error minitemp (impresoras "
 "anteriores a la 198)."
 msgstr ""
+"If only the single module is connected and"
+" the tumbler is not connected, the LCD screen will show \"Error Mintemp (in printers before 198)."
 
 # 88780899cd3243009167c2fa5e7174ad
 #: ../../source/mm1.rst:645
@@ -1199,7 +1201,7 @@ msgid ""
 "nuestra impresora 3D, es muy importante que llevemos acabo las "
 "indicaciones."
 msgstr ""
-"Here we can observe how to connevt our 3D printer, is very important to "
+"Here we can observe how to connect our 3D printer, is very important to "
 "follow the indications."
 
 # c17ba26f5679481a95f567683c1f41ad
@@ -1258,7 +1260,7 @@ msgid ""
 "seguro de doble extrusora, si este seguro no se conecta es imposible "
 "realizar la impresión (impresoras anteriores a la 198)."
 msgstr "When printing with this module is very important to have the dual extrusion tumbler connected, "
-"if this tumbler is not plugged in is impossible to print (printers with serial number later than 198)"
+"if this tumbler is not plugged in is impossible to print (printers with serial number before 198)"
 
 # f9aa5268aae5417f84883444c71398aa
 #: ../../source/mm1.rst:703
