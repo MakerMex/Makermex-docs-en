@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MakerMex 1.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-07 12:05-0600\n"
+"POT-Creation-Date: 2017-12-08 10:33-0600\n"
 "PO-Revision-Date: 2017-11-07 01:42-0600\n"
 "Last-Translator: \n"
 "Language: en\n"
@@ -25,7 +25,7 @@ msgstr "MM1 modular 3D printer"
 
 # 0cea4de0aad347adb6b82f8345992fab
 # e3e0e2ec4c934a3aaa3a257f284f8db1
-#: ../../source/mm1.rst:6 ../../source/mm1.rst:2259
+#: ../../source/mm1.rst:6 ../../source/mm1.rst:2262
 msgid "General"
 msgstr "General"
 
@@ -170,13 +170,14 @@ msgid "Guía de cables V"
 msgstr "V cables guide"
 
 # b918cdc1f21041c39879b98ad536d731
-# 03fdfc6843f9430ca1758621a056519b
 # 18bcc541f9994086817b9a340f16a766
-#: ../../source/mm1.rst:59 ../../source/mm1.rst:2383 ../../source/mm1.rst:2603
+#: ../../source/mm1.rst:58 ../../source/mm1.rst:638 ../../source/mm1.rst:698
+#: ../../source/mm1.rst:2605
+#, fuzzy
 msgid ""
 "A partir de la impresora con número de serie 198, el seguro de doble "
 "extrusor ya no es necesario ni se incluye en el equipo ni en ninguno de "
-"los     módulos, ya que se ha logrado incluir esta característica en el "
+"los módulos, ya que se ha logrado incluir esta característica en el "
 "firmware de la tarjeta controladora; si el número de tu equipo es "
 "anterior al mencionado y deseas actualizar el firmware, puedes ponerte en"
 " contacto con el equipo de soporte a traves de nuestro `foro "
@@ -190,7 +191,7 @@ msgstr ""
 "<http://makermex.com/forum>`_ ."
 
 # 139c1962a0ca4343aca45e02465e741c
-#: ../../source/mm1.rst:65
+#: ../../source/mm1.rst:64
 msgid ""
 "Como un comentario adicional se pueden encontrar todos nuestros manuales "
 "virtuales, tutoriales, descarga de softwares ya sea Cura, Blender y "
@@ -206,12 +207,12 @@ msgstr ""
 "call or in person (it must be schedulled with one day anticipation)."
 
 # e6b5d5dd5a3d47a89918c38d8e71f74d
-#: ../../source/mm1.rst:73
+#: ../../source/mm1.rst:72
 msgid "MÓDULOS DE IMPRESIÓN"
 msgstr "PRINTING MODULES"
 
 # 6323e3e60bf24985b44de68dc66df609
-#: ../../source/mm1.rst:76
+#: ../../source/mm1.rst:75
 msgid ""
 "Módulo de Pastas (Imprime chocolate, barro, arcilla, cerámica, entre una "
 "gran variedad de materiales pastosos)"
@@ -220,17 +221,17 @@ msgstr ""
 "pasty materials)"
 
 # 9d940c3835c54ff1b298b2a905fd8ec6
-#: ../../source/mm1.rst:78
+#: ../../source/mm1.rst:77
 msgid "Módulo CNC (Devasta materiales blandos)"
 msgstr "CNC Modules (Rough soft materials)"
 
 # 17896c675943424e9672fc639c6ebb0d
-#: ../../source/mm1.rst:80
+#: ../../source/mm1.rst:79
 msgid "Módulo Dibujo (Crea dibujos técnicos con una alta precisión)"
 msgstr "Drawing module (Creates technical drawings with high pecision)"
 
 # b0b3c4380ef04011a5f47841496041c7
-#: ../../source/mm1.rst:82
+#: ../../source/mm1.rst:81
 msgid ""
 "Módulo Flexible (El diseño de este módulo ayuda a imprimir materiales "
 "flexibles como NinjaFlex, TPE y PLA Soft)"
@@ -239,7 +240,7 @@ msgstr ""
 "materials as NinjaFlex, TPE and PLA Soft)"
 
 # 4e2a72715c744f8b846e2c00a3860f21
-#: ../../source/mm1.rst:84
+#: ../../source/mm1.rst:83
 msgid ""
 "Módulo Doble (Combina con dos materiales de impresión, incluye 2 "
 "boquillas Hexagón)"
@@ -248,47 +249,47 @@ msgstr ""
 "hexagon noozles)"
 
 # 754301723ac84308ac258383f181b595
-#: ../../source/mm1.rst:88
+#: ../../source/mm1.rst:87
 msgid "VENTAJAS"
 msgstr "ADVANTAGES"
 
 # 87986399cac3412a86b8025903138ace
-#: ../../source/mm1.rst:92
+#: ../../source/mm1.rst:91
 msgid "Impresión 3D de alta calidad en una amplia gama de materiales"
 msgstr "High quality 3D printing in a wide variety of materials"
 
 # d11c3c460cc04389a7ee6976bf59651c
-#: ../../source/mm1.rst:93
+#: ../../source/mm1.rst:92
 msgid "Cabezal intercambiable para cada módulo de impresión."
 msgstr "Interchangeable header for each printing module."
 
 # 0fa4cf1d5c05487083d7fcb208e4050e
-#: ../../source/mm1.rst:94
+#: ../../source/mm1.rst:93
 msgid "Plataforma open source."
 msgstr "Open source plataform."
 
 # a1f7586407c648189d61970df22bc51f
-#: ../../source/mm1.rst:95
+#: ../../source/mm1.rst:94
 msgid "Facilidad de reemplazo de pieza."
 msgstr "Easy to replace pieces."
 
 # bf408e16e5e349098c85676dc2938401
-#: ../../source/mm1.rst:96
+#: ../../source/mm1.rst:95
 msgid "Posibilidad de modificar y personalizar."
 msgstr "Posibility to customization."
 
 # 503d86b358b14d928f15fabc41d55fcc
-#: ../../source/mm1.rst:97
+#: ../../source/mm1.rst:96
 msgid "Soporte personalizado."
 msgstr "Personalized support."
 
 # 1d7dfd07b6324e25a15502d7ba39f8e1
-#: ../../source/mm1.rst:101
+#: ../../source/mm1.rst:100
 msgid "Unboxing"
 msgstr "Unboxing"
 
 # 8caa07d3adba448b954d7a827b86bb3f
-#: ../../source/mm1.rst:103
+#: ../../source/mm1.rst:102
 msgid ""
 "En el primer paso para poder usar tu impresora es el desempaque de la "
 "misma, para proceder a desempacar tu MM1 deberás tener a la mano dos "
@@ -299,7 +300,7 @@ msgstr ""
 "will need two tools: a manual or electric screwdriver with philips shaft."
 
 # 02f8c994adfc46baa756abe4f2857724
-#: ../../source/mm1.rst:111
+#: ../../source/mm1.rst:110
 msgid ""
 "En caso de contar con un destornillador, puedes usar un desarmador de "
 "cruz para retirar las pijas."
@@ -311,20 +312,15 @@ msgstr ""
 # 6c6579b5f07f409282939d2a75cb82a0
 # 1481da771c764ccf95e0310875880a87
 # ab88b67b2e2143afb627ab6fa6f501cb
-# 1671a258618745ada00f6bdb6cb3d980
-# 33647c48b35f40aeaacb88d10608deb7
-# fd362c383f1540fbb9c66188c4915912
-# 5e8ce9ede4934bc5bf93998f93d75956
-# 101cd07e95894a129a83b6dff3a332e3
-#: ../../source/mm1.rst:113 ../../source/mm1.rst:478 ../../source/mm1.rst:610
-#: ../../source/mm1.rst:967 ../../source/mm1.rst:1089 ../../source/mm1.rst:1158
-#: ../../source/mm1.rst:1347 ../../source/mm1.rst:2289
-#: ../../source/mm1.rst:2533
+#: ../../source/mm1.rst:112 ../../source/mm1.rst:477 ../../source/mm1.rst:609
+#: ../../source/mm1.rst:970 ../../source/mm1.rst:1092 ../../source/mm1.rst:1161
+#: ../../source/mm1.rst:1350 ../../source/mm1.rst:2292
+#: ../../source/mm1.rst:2535
 msgid "Paso 1"
 msgstr "Step 1"
 
 # 29955050bb5f4bf3856c8c6acbe578b7
-#: ../../source/mm1.rst:115
+#: ../../source/mm1.rst:114
 msgid ""
 "Para comenzar el desempaque de la impresora primero se deberá realizar "
 "una insepección rápida, debe asegurarse que el paquete se encuentre en "
@@ -342,18 +338,14 @@ msgstr ""
 # 6e4be5f460f847d39e93483a293b3d17
 # e1342579cfa2490a98993be88d0024c4
 # f2cc1e9879264f9ea055cb3806bc5a78
-# 0826616583b84bfa99abf259d25fc2a8
-# 0449c552833c4df28624bbe69f4cb473
-# 2b131657fde54b209360d8f7e8702cb0
-# 4fb626bd69c74744ae798c7ed7e0d816
-#: ../../source/mm1.rst:123 ../../source/mm1.rst:491 ../../source/mm1.rst:617
-#: ../../source/mm1.rst:981 ../../source/mm1.rst:1182 ../../source/mm1.rst:1357
-#: ../../source/mm1.rst:2295 ../../source/mm1.rst:2549
+#: ../../source/mm1.rst:122 ../../source/mm1.rst:490 ../../source/mm1.rst:616
+#: ../../source/mm1.rst:984 ../../source/mm1.rst:1185 ../../source/mm1.rst:1360
+#: ../../source/mm1.rst:2298 ../../source/mm1.rst:2551
 msgid "Paso 2"
 msgstr "Step 2"
 
 # 320cfc9ded6d4bf0a4e967640a117bcc
-#: ../../source/mm1.rst:125
+#: ../../source/mm1.rst:124
 msgid ""
 "Enseguida se debe identificar la tapa del paquete, es decir la parte "
 "superior del mismo; ahora retire los tornillos uno a uno con ayuda del "
@@ -366,18 +358,15 @@ msgstr ""
 # 51e7cf8eb5e649edaaa525bb49bdb35f
 # a79b55dd962246e28ccf60d754483e06
 # 955111e242ce4176973332081ef7d03b
-# a95271d17898454fb4bdebef92a03654
-# 1a77a62065fa459cbeb613d9dd3926bf
-# eba78882de8d4c9d9a676c11863cf3f8
-# 6ab6bc2d06b3474881d58e5d391414e1
-#: ../../source/mm1.rst:136 ../../source/mm1.rst:499 ../../source/mm1.rst:626
-#: ../../source/mm1.rst:997 ../../source/mm1.rst:1211 ../../source/mm1.rst:1371
-#: ../../source/mm1.rst:2313 ../../source/mm1.rst:2562
+#: ../../source/mm1.rst:135 ../../source/mm1.rst:498 ../../source/mm1.rst:625
+#: ../../source/mm1.rst:1000 ../../source/mm1.rst:1214
+#: ../../source/mm1.rst:1374 ../../source/mm1.rst:2316
+#: ../../source/mm1.rst:2564
 msgid "Paso 3"
 msgstr "Step 3"
 
 # 10b713adecb743b389a69b999b459c2e
-#: ../../source/mm1.rst:138
+#: ../../source/mm1.rst:137
 msgid ""
 "Para este paso se debe identificar los soportes de unicel que se "
 "encuentran sosteniendo en la parte interior de la impresora."
@@ -386,7 +375,7 @@ msgstr ""
 "the printer."
 
 # e78d3fc406bc45f78bfaa03112d4825d
-#: ../../source/mm1.rst:143
+#: ../../source/mm1.rst:142
 msgid ""
 "Una vez retirado los soportes de unicel vamos a quitar con cuidado los "
 "componentes de la impresora."
@@ -397,20 +386,15 @@ msgstr ""
 # bd73bc3ee5024db982ed42db480de3de
 # 090c6a379c9246e781e0557469ba7d87
 # 7975456272504deb985bf78978b4f0b1
-# 15bf79230d1741b987cf01ea766c3af5
-# bd985494131e465ab02dcf2e9659fc47
-# 40347d8b5a2442ae86bee1237fbd8dd7
-# 6aee72c5f477419582c179d3c8b7932d
-# 16def4095741463185c9f4d19282c17d
-#: ../../source/mm1.rst:155 ../../source/mm1.rst:507 ../../source/mm1.rst:642
-#: ../../source/mm1.rst:1027 ../../source/mm1.rst:1224
-#: ../../source/mm1.rst:1380 ../../source/mm1.rst:2358
-#: ../../source/mm1.rst:2584
+#: ../../source/mm1.rst:154 ../../source/mm1.rst:506 ../../source/mm1.rst:643
+#: ../../source/mm1.rst:1030 ../../source/mm1.rst:1227
+#: ../../source/mm1.rst:1383 ../../source/mm1.rst:2361
+#: ../../source/mm1.rst:2586
 msgid "Paso 4"
 msgstr "Step 4"
 
 # b689fea6ae18457694c78ccaf945ee58
-#: ../../source/mm1.rst:157
+#: ../../source/mm1.rst:156
 msgid ""
 "En este paso realizaremos dos cortes al hule burbuja, debe tener mucha "
 "precaución al momento de realizar los cortes, ya que debe de tomar en "
@@ -425,7 +409,7 @@ msgstr ""
 "cuts as shown, this will make the next step easier for us."
 
 # 605f256035284fadafd94d082967eada
-#: ../../source/mm1.rst:170
+#: ../../source/mm1.rst:169
 msgid ""
 "Es tener una mesa en la cual se va a colocar la impresora, te recomiendo "
 "colocarla en una mesa firme que no tenga vibraciones o movimiento."
@@ -436,20 +420,15 @@ msgstr ""
 # ee31c8c11946439bbecb90a2440fd56c
 # 541e1ad8cc3243d0b5be45743904ec5b
 # 1330291d67154da685613055a82a0d40
-# b799c31e7a354a87bae122af48969f71
-# 910687a45e37486f8abc66f4d6da32e0
-# d0504a42b2cc4b998e49876a8bc76e24
-# fa37ddfdf54e46b2a5cc029fd1386314
-# 6f9e0f885e5d4e6dbd1160e173d96f85
-#: ../../source/mm1.rst:173 ../../source/mm1.rst:514 ../../source/mm1.rst:652
-#: ../../source/mm1.rst:1045 ../../source/mm1.rst:1243
-#: ../../source/mm1.rst:1399 ../../source/mm1.rst:2373
-#: ../../source/mm1.rst:2609
+#: ../../source/mm1.rst:172 ../../source/mm1.rst:513 ../../source/mm1.rst:653
+#: ../../source/mm1.rst:1048 ../../source/mm1.rst:1246
+#: ../../source/mm1.rst:1402 ../../source/mm1.rst:2376
+#: ../../source/mm1.rst:2611
 msgid "Paso 5"
 msgstr "Step 5"
 
 # 82ede27438ba4a1f81bb041a80d28741
-#: ../../source/mm1.rst:175
+#: ../../source/mm1.rst:174
 msgid ""
 "Después de haber realizado el corte con éxito, ahora con mucho cuidado "
 "colocamos nuestras manos sobre los perfiles superiores de "
@@ -462,7 +441,7 @@ msgstr ""
 " the printer out of the box, as shown in the images."
 
 # da9fc3f2e7e14fe3a93c733a5ad3e863
-#: ../../source/mm1.rst:184
+#: ../../source/mm1.rst:183
 msgid ""
 "Como sugerencia se recomienda colocar todo lo incluido de la impresora "
 "dentro de la caja. Esto con la finalidad de no genere un desorden."
@@ -473,17 +452,14 @@ msgstr ""
 # 670786808f334fd58bc3757aac2d3d01
 # 2f3de3f9a1a84ed09198c2667132061d
 # 14f5142635fe491da9d4f774d28502ce
-# 7dc3f38279bf43ffa45b065212451382
-# 5fe49337a27c4db68084e2e662c2ed7d
-# 5c4658f756f44786bc20c62d2b585e73
-#: ../../source/mm1.rst:192 ../../source/mm1.rst:522 ../../source/mm1.rst:1275
-#: ../../source/mm1.rst:1408 ../../source/mm1.rst:2385
-#: ../../source/mm1.rst:2628
+#: ../../source/mm1.rst:191 ../../source/mm1.rst:521 ../../source/mm1.rst:1278
+#: ../../source/mm1.rst:1411 ../../source/mm1.rst:2387
+#: ../../source/mm1.rst:2630
 msgid "Paso 6"
 msgstr "Step 6"
 
 # dcc47e31fcd042788be4b2f9bcf26bcb
-#: ../../source/mm1.rst:194
+#: ../../source/mm1.rst:193
 msgid ""
 "Posteriormente deberemos tener un cutter a la mano, vamos a retirar el "
 "exceso de hule burbuja con mucho cuidado, cualquier duda puede guiarse "
@@ -497,15 +473,13 @@ msgstr ""
 # 82190d69d2924b2489a5d43f07a4f549
 # 4bddfbfdfbbc499aa91a98dabbe32edc
 # e1e87490ac8c436392fdd4aa714f518b
-# ef1e0ccf5344454f925e9f1f94bcb78f
-# 666406549cae40adaa1d9163b0a25bfa
-#: ../../source/mm1.rst:204 ../../source/mm1.rst:529 ../../source/mm1.rst:1416
-#: ../../source/mm1.rst:2422 ../../source/mm1.rst:2650
+#: ../../source/mm1.rst:203 ../../source/mm1.rst:528 ../../source/mm1.rst:1419
+#: ../../source/mm1.rst:2424 ../../source/mm1.rst:2652
 msgid "Paso 7"
 msgstr "Step 7"
 
 # a57061d68edd481590fec9ae63f0ca5a
-#: ../../source/mm1.rst:206
+#: ../../source/mm1.rst:205
 msgid ""
 "En este paso se deberá identificar los cinchos que están sujetando partes"
 " de la impresora , ahora con ayuda del cutter vamos a retirar los mismos "
@@ -520,7 +494,7 @@ msgstr ""
 "be very carefull to make sure you dont cut any of the the wires."
 
 # c40aba02cb204d3c9b5897f562063bc9
-#: ../../source/mm1.rst:217
+#: ../../source/mm1.rst:216
 msgid ""
 "Una vez que está libre el eje le damos algunas vueltas para que suba y "
 "así poder retirar el soporte de color rosa ubicado en la parte inferior "
@@ -532,14 +506,13 @@ msgstr ""
 # e5a87c4ad88340449b12ea633fac13a6
 # dc18da79e1df407394a983422e7f613d
 # 46e59f1714194af29c20d6651182d91b
-# fb50dab0fdc0489da3e92f1628ca70db
-#: ../../source/mm1.rst:225 ../../source/mm1.rst:539 ../../source/mm1.rst:1434
-#: ../../source/mm1.rst:2659
+#: ../../source/mm1.rst:224 ../../source/mm1.rst:538 ../../source/mm1.rst:1437
+#: ../../source/mm1.rst:2661
 msgid "Paso 8"
 msgstr "Step 8"
 
 # 4a3769408a3245ddbf53d98e73b0c7de
-#: ../../source/mm1.rst:227
+#: ../../source/mm1.rst:226
 msgid ""
 "Ahora colocaremos la cruz en el centro de nuestra impresora y "
 "posteriormente vamos a conectar los cables que corresponden a los "
@@ -550,7 +523,7 @@ msgstr ""
 "lets see the images below."
 
 # c9ae0150315f4bec83806e71a485d272
-#: ../../source/mm1.rst:232
+#: ../../source/mm1.rst:231
 msgid ""
 "Pasamos los cables que salen del módulo por encima del perfil superior "
 "izquierdo (viendo la impresora de frente)."
@@ -559,7 +532,7 @@ msgstr ""
 "the front of the printer)."
 
 # 6d54303d5d8d41209f28eb244b8ae500
-#: ../../source/mm1.rst:238
+#: ../../source/mm1.rst:237
 msgid ""
 "Para poder asegurarse de que las conexiones fueron realizadas con éxito "
 "debe de tener en cuenta los siguientes pasos. Primero que nada debe de "
@@ -581,19 +554,18 @@ msgstr ""
 # 947027f0eddd4b24a799ca2fa0b1c08e
 # 274deb41c03f4ff0854123612b651316
 # 77ebc9b13c6a4739a8d7f1938c3e354f
-# 90b08f096a9b4e88b1f9af4f160dce83
-#: ../../source/mm1.rst:253 ../../source/mm1.rst:551 ../../source/mm1.rst:1476
-#: ../../source/mm1.rst:2704
+#: ../../source/mm1.rst:252 ../../source/mm1.rst:550 ../../source/mm1.rst:1479
+#: ../../source/mm1.rst:2706
 msgid "Paso 9"
 msgstr "Step 9"
 
 # 90961a1d6e5145d1a6ca509f3fcbd1c3
-#: ../../source/mm1.rst:255
+#: ../../source/mm1.rst:254
 msgid "Ahora revisemos los accesorios que vienen en nuestra caja plástica."
 msgstr "Now, lets review the accesories of the plastic box."
 
 # ecfcfd6c95884b899a047f92babda67f
-#: ../../source/mm1.rst:259
+#: ../../source/mm1.rst:258
 msgid ""
 "Sacamos todos los accesorios y revisamos. En tu caja plástica debe de "
 "venir todo lo que se menciona enseguida o bien lo que se puede observar "
@@ -603,7 +575,7 @@ msgstr ""
 "components listed below and shown in the images."
 
 # 012a7f049abd4667bd47939110d13efc
-#: ../../source/mm1.rst:262
+#: ../../source/mm1.rst:261
 msgid ""
 "1.- Seguro doble extrusora 2.- Cable de la fuente 3.- Cable USB 4.- "
 "Calzas para la base de la impresora 5.- Termoresistores(refacciones) 6.- "
@@ -620,12 +592,12 @@ msgstr ""
 # f04b497836074798a85d4d304e3fceeb
 # 0d5334687b444fe1afecaa6cf8655f10
 # 237c86550b2b427b8d96c2caf0305919
-#: ../../source/mm1.rst:277 ../../source/mm1.rst:585 ../../source/mm1.rst:2720
+#: ../../source/mm1.rst:276 ../../source/mm1.rst:584 ../../source/mm1.rst:2722
 msgid "Paso 10"
 msgstr "Step 10"
 
 # 6663f0ab4fe541eb8e448d3db97fc009
-#: ../../source/mm1.rst:279
+#: ../../source/mm1.rst:278
 msgid ""
 "Ahora un punto importante: tomamos el seguro del doble extrusor, vemos "
 "que también cuenta con 6 pines, este debe de ir conectado en la parte "
@@ -637,7 +609,7 @@ msgstr ""
 "this clock, the printer wll show an error or simply won't work."
 
 # 4c54bd84b7854e2b98cfb2576c135ec5
-#: ../../source/mm1.rst:287
+#: ../../source/mm1.rst:286
 msgid ""
 "Después de haber realizado todas las conexiones con éxito, estas deberá "
 "lucir como se observa en la imagen."
@@ -646,12 +618,12 @@ msgstr ""
 "image below."
 
 # 5a45cf57dbf1492abd23da690920131c
-#: ../../source/mm1.rst:293
+#: ../../source/mm1.rst:292
 msgid "Paso 11"
 msgstr "Step 11"
 
 # ca6b9f73b8ee4a4b8e7e392580423ebb
-#: ../../source/mm1.rst:295
+#: ../../source/mm1.rst:294
 msgid ""
 "En esta parte del manual vamos a colocar las partes faltantes de nuestra "
 "impresora. Ahora tomamos el cable de alimentación y lo colocaremos en la "
@@ -663,7 +635,7 @@ msgstr ""
 " the printer)."
 
 # 2da8ad8ad1b1405d8718fb52cede68e8
-#: ../../source/mm1.rst:302
+#: ../../source/mm1.rst:301
 msgid ""
 "Consecuentemente colocaremos la varilla en la parte trasera de la "
 "impresora, para poder saber donde se encuentra, esta debió de haber "
@@ -673,12 +645,12 @@ msgstr ""
 " come in a paperboard package."
 
 # 41c0ebf0e386402698431d58964781d8
-#: ../../source/mm1.rst:311
+#: ../../source/mm1.rst:310
 msgid "Paso 12"
 msgstr "Step 12"
 
 # 21b53c637b51461ea3478fb7dcf58c9c
-#: ../../source/mm1.rst:313
+#: ../../source/mm1.rst:312
 msgid ""
 "Ahora vamos a colocar nuestra guía de cables, lo primero que tenemos que "
 "hacer es retirar el material de soporte con ayuda de un cutter. Si tiene "
@@ -689,12 +661,12 @@ msgstr ""
 "with an utility knife. Use the images as reference to know where to cut."
 
 # 43608411eeff4d6baf1552d564cb0b69
-#: ../../source/mm1.rst:322
+#: ../../source/mm1.rst:321
 msgid "Paso 13"
 msgstr "Step 13"
 
 # ed9ebdfe65e246ab89e0564c622a2c84
-#: ../../source/mm1.rst:324
+#: ../../source/mm1.rst:323
 msgid ""
 "En este paso colocaremos la extrusora, esta es la encargada de distribuir"
 " el filamento al momento de imprimir, se ubica en la parte trasera de la "
@@ -706,7 +678,7 @@ msgstr ""
 "we have to get ready with the box containing the extrusor."
 
 # 8fefe2beef4e4246b310cdfcd3c7517c
-#: ../../source/mm1.rst:328
+#: ../../source/mm1.rst:327
 msgid ""
 "Ahora lo primero es el desempaque del mecanismo. En este paso necesitará "
 "de nuevo el cutter, ya que viene envuelto en hule burbuja."
@@ -715,7 +687,7 @@ msgstr ""
 "need the utility knife again."
 
 # 13a4adfdcf4b4342b13985931d8f66f0
-#: ../../source/mm1.rst:336
+#: ../../source/mm1.rst:335
 msgid ""
 "Ya que está descubierto cortamos el cincho del cable de la extrusora y "
 "procedemos a montarlo en la parte del perfil trasero, se puede saber en "
@@ -731,7 +703,7 @@ msgstr ""
 "then, put the screws."
 
 # 2dde5ed3f8ce47a48b9d9ba3f35e3e1d
-#: ../../source/mm1.rst:350
+#: ../../source/mm1.rst:349
 msgid ""
 "Con ayuda de una llave Allen de 2.5mm nos apoyaremos para atornillar los "
 "tornillos puede observar las imágenes y verificar la información. Para "
@@ -743,7 +715,7 @@ msgstr ""
 " firmly the extruder."
 
 # b9f4f7c66f6f4bcb916cec4514eb1073
-#: ../../source/mm1.rst:359
+#: ../../source/mm1.rst:358
 msgid ""
 "Ahora conectaremos el motor de este mecanismo. En los accesorios que "
 "recibió de la impresora encontrará; los cables de este motor. Se "
@@ -756,7 +728,7 @@ msgstr ""
 " reference."
 
 # 26406a5d6d9a4d6391eb3e40dc434312
-#: ../../source/mm1.rst:369
+#: ../../source/mm1.rst:368
 msgid ""
 "Enseguida colocaremos el tubo bowden en el conector de la extrusora. Lo "
 "colocamos en la parte azul del conector y ejercemos una pequeña presión "
@@ -769,12 +741,12 @@ msgstr ""
 "it must remain connected."
 
 # 7190b1aa2b7549d0afea784810fd9cf3
-#: ../../source/mm1.rst:377
+#: ../../source/mm1.rst:376
 msgid "Paso 14"
 msgstr "Step 14"
 
 # b1a83a95b58145da98e5524309e1846c
-#: ../../source/mm1.rst:379
+#: ../../source/mm1.rst:378
 msgid ""
 "Vamos a retirar la pieza impresa de muestra que se envía, vas a requerir "
 "una espátula o un cutter. Puede ser que la pieza se desprenda simplemente"
@@ -787,12 +759,12 @@ msgstr ""
 "pulling it up, i it is sticked to strong, then use the knife."
 
 # ead95398790a4b39a1f55e2165c290dd
-#: ../../source/mm1.rst:389
+#: ../../source/mm1.rst:388
 msgid "Paso 15"
 msgstr "Step 15"
 
 # b5859278caca418cbf99b5fc0305102c
-#: ../../source/mm1.rst:391
+#: ../../source/mm1.rst:390
 msgid ""
 "Después de haber retirado la pieza procedemos con identificar donde se "
 "colocará la tarjeta SD. Esto es una parte importante en este proceso ya "
@@ -803,14 +775,14 @@ msgstr ""
 " card is where we will save the gcode with instructions for the printer."
 
 # 948ab91f3b48483ea9dcd2b738e816f2
-#: ../../source/mm1.rst:398
+#: ../../source/mm1.rst:397
 msgid ""
 "Por &uacute;ltimo podemos conectar el cable de la fuente y encender la "
 "impresora."
 msgstr "Lastly, connect the power cable and turn the printer on."
 
 # adefdd9af0694b3db96ca4f2cf7051f1
-#: ../../source/mm1.rst:405
+#: ../../source/mm1.rst:404
 msgid ""
 "Si todo lo mencionado en esta parte del manual no ha quedado claro, puede"
 " revisar este vídeo en el cual se puede observar con un poco más de "
@@ -818,17 +790,17 @@ msgid ""
 msgstr "You can watch the following video to review the past steps more clearly."
 
 # 3c6afc1b4ae3401d9efe3d6167ec18ed
-#: ../../source/mm1.rst:409
+#: ../../source/mm1.rst:408
 msgid "https://www.youtube.com/watch?v=SFoa9NvYTLU"
 msgstr "https://www.youtube.com/watch?v=SFoa9NvYTLU"
 
 # 05a58f6112e74b7ea62d243d78535889
-#: ../../source/mm1.rst:418
+#: ../../source/mm1.rst:417
 msgid "Primera Impresión"
 msgstr "My First Print"
 
 # a282fe0308074c9490f791dba36a4766
-#: ../../source/mm1.rst:420
+#: ../../source/mm1.rst:419
 msgid ""
 "Para realizar tu primera impresión antes que nada es necesario descargar "
 "un software de diseño donde te genere un archivo STL, nosotros "
@@ -838,12 +810,12 @@ msgstr ""
 "software to generate an STL file, we recommend Blender."
 
 # 2b4a16cec37f415b83893043d6455bfb
-#: ../../source/mm1.rst:424
+#: ../../source/mm1.rst:423
 msgid "̈́¿Que es Blender?"
 msgstr "What is Blender?"
 
 # 80ec09945fd94f1aaf4ff999ca0b950b
-#: ../../source/mm1.rst:426
+#: ../../source/mm1.rst:425
 msgid ""
 "Blender es un software destinado especialmente al modelado 3D, "
 "iluminación, animación y creación de gráficos tridimensionales. este "
@@ -856,12 +828,12 @@ msgstr ""
 "sculpting."
 
 # 779ee23761b84141adac9c95d95e33b3
-#: ../../source/mm1.rst:430
+#: ../../source/mm1.rst:429
 msgid "¿Que es un archivo STL?"
 msgstr "What is an STL file?"
 
 # 0a1aa5e468f048ae9f15018ceab2a0ac
-#: ../../source/mm1.rst:432
+#: ../../source/mm1.rst:431
 msgid ""
 "Es un formato de archivo informático de diseño asistido por computadora "
 "(CAD) que define geometría de objetos 3D, excluyendo información como "
@@ -872,7 +844,7 @@ msgstr ""
 "that other formats includes."
 
 # 46333f2ddbc245f5a255291c8995edc8
-#: ../../source/mm1.rst:436
+#: ../../source/mm1.rst:435
 msgid ""
 "Una vez teniendo tu diseño en formato STL debes pasar tu diseño a un "
 "software que te genere un código G y pueda ser leído por tu impresora."
@@ -881,7 +853,7 @@ msgstr ""
 "by your printer."
 
 # 737650dafd0141e6a3b536153d81f1e5
-#: ../../source/mm1.rst:439
+#: ../../source/mm1.rst:438
 msgid ""
 "El software CURA versión 15.01 es donde pasaras tu diseño. Cura es un "
 "software que nos va a permitir convertir los archivos STL que contienen "
@@ -889,7 +861,7 @@ msgid ""
 msgstr "Cura 15.01 is the software you will use to get G code from your STL."
 
 # 3e9fd5498c004eb5a25d4f44ddaef891
-#: ../../source/mm1.rst:443
+#: ../../source/mm1.rst:442
 msgid ""
 "Todos los softwares que utilizamos son opens source o código libre, esto "
 "quiere decir que los puedes descargar de la web sin costo."
@@ -899,60 +871,60 @@ msgstr ""
 "code to extend the functionality."
 
 # 986d7259efa14b8985e393809ebdc4ae
-#: ../../source/mm1.rst:447
+#: ../../source/mm1.rst:446
 msgid "Descarga de Software"
 msgstr "Software downloads"
 
 # 49098b7fb2d5434993fc7ec6f7c20d01
-#: ../../source/mm1.rst:448
+#: ../../source/mm1.rst:447
 msgid "-Software Cura"
 msgstr "- Cura Software"
 
 # b3b106cba8a54f6094835aa11666931f
-#: ../../source/mm1.rst:453
+#: ../../source/mm1.rst:452
 msgid ""
 "te dejamos el link donde lo puedes descargar y te recomendamos la versión"
 " 14.12"
 msgstr "Here is the download link, we strongly recommend 14.12 version."
 
 # 17fce30613d147318d47f6db5cebc927
-#: ../../source/mm1.rst:455
+#: ../../source/mm1.rst:454
 msgid "https://ultimaker.com/en/products/cura-software/list"
 msgstr "https://ultimaker.com/en/products/cura-software/list"
 
 # 2dc1502ede81408fb3fb1a18c85cdad5
-#: ../../source/mm1.rst:457
+#: ../../source/mm1.rst:456
 msgid "-Software pronterface"
 msgstr "-Pronterface Software"
 
 # 2a46a35b68c84c00aea71d91e50989f7
 # cb657737b75e4a149cfd5138354ff55d
-#: ../../source/mm1.rst:462 ../../source/mm1.rst:471
+#: ../../source/mm1.rst:461 ../../source/mm1.rst:470
 msgid "te dejamos el link donde lo puedes descargar"
 msgstr "Here you have the download link"
 
 # 738d67304e9644c0a015dbab206a763c
-#: ../../source/mm1.rst:464
+#: ../../source/mm1.rst:463
 msgid "http://koti.kapsi.fi/~kliment/printrun/"
 msgstr "http://koti.kapsi.fi/~kliment/printrun/"
 
 # a0bfa20e5a0247a79d2158c14a7c8abd
-#: ../../source/mm1.rst:466
+#: ../../source/mm1.rst:465
 msgid "-Software Blender"
 msgstr "Blender -Software"
 
 # 676a9d3207974db8a132d85f21ee3786
-#: ../../source/mm1.rst:473
+#: ../../source/mm1.rst:472
 msgid "https://www.blender.org/download/"
 msgstr "https://www.blender.org/download/"
 
 # 5b9899e7494e4f3bac6d20819e0d3089
-#: ../../source/mm1.rst:476
+#: ../../source/mm1.rst:475
 msgid "instalación de cura para la impresora MM1"
 msgstr "Cura installation and setup for the MM1"
 
 # 6b0051ff352f4b288532a6757d6c2874
-#: ../../source/mm1.rst:480
+#: ../../source/mm1.rst:479
 msgid ""
 "Te recomendamos que entres a nuestra pagina y descargues cura. "
 "Encontraras un link de descarga y la versión que se recomiendo usar."
@@ -961,7 +933,7 @@ msgstr ""
 " to the recomended version."
 
 # 8c741c19dd1349d889bc3e64be251e37
-#: ../../source/mm1.rst:484
+#: ../../source/mm1.rst:483
 msgid ""
 "EL link lo podrás encontrar en la sección de ayuda, manuales, ingresas a "
 "cualquier manual y te vas a descargas de softwares."
@@ -970,12 +942,12 @@ msgstr ""
 "go to software downloads."
 
 # 22e1f2b0dfcc48a584f6a1ae0d897101
-#: ../../source/mm1.rst:487
+#: ../../source/mm1.rst:486
 msgid "Comienza a instalar cura"
 msgstr "Start the Cura instllation"
 
 # 8f84d70053fa4bdeb28881ed3a50b137
-#: ../../source/mm1.rst:493
+#: ../../source/mm1.rst:492
 msgid ""
 "Selecciona los archivos que deseas abrir y da clic en instalar. Se "
 "recomienda tener las opciones como se muestran en la imagen."
@@ -984,7 +956,7 @@ msgstr ""
 " the options shown in the image."
 
 # 8536199cb001450a82cfb322e41a92cb
-#: ../../source/mm1.rst:501
+#: ../../source/mm1.rst:500
 msgid ""
 "Una vez que los archivos del software se instalen te aparecerá una "
 "ventana, seleccionas siguiente y finalizar"
@@ -993,12 +965,12 @@ msgstr ""
 "window and then \"Finish\""
 
 # 96a80b4d7eaf4b93b1d36887d94a9bee
-#: ../../source/mm1.rst:509
+#: ../../source/mm1.rst:508
 msgid "Después te aparecerá esta ventana le das siguiente y terminar."
 msgstr "In the window, click on \"next\" and then \"finish\"."
 
 # dcdb75638a614683a0cc6600b5727ba7
-#: ../../source/mm1.rst:516
+#: ../../source/mm1.rst:515
 msgid ""
 "Te aparecerá una ventana para seleccionar el idioma selecciona ingles y "
 "das clic siguiente. Posteriormente te aparecerá esta ventana selecciona "
@@ -1010,14 +982,14 @@ msgstr ""
 "printer configuration. "
 
 # d0ca4ba90bb048328a525f77cd84acab
-#: ../../source/mm1.rst:524
+#: ../../source/mm1.rst:523
 msgid ""
 "Después de haber da en siguiente te mostrara esta ventana selecciona "
 "custom y da clic en siguiente."
 msgstr "On the next window select the option \"custom\", then click next."
 
 # 2c8c6cec953e41178d44cc7ac6a2ea0a
-#: ../../source/mm1.rst:531
+#: ../../source/mm1.rst:530
 msgid ""
 "Te aparecerá esta ventana coloca la siguiente información, una vez que lo"
 " hagas das clic en terminar. Esta es la parte donde colocas las "
@@ -1032,12 +1004,12 @@ msgstr ""
 "0,0,0. After that, click \"finish\"."
 
 # 6d466b7dead745ab94cdba7e19e00a05
-#: ../../source/mm1.rst:541
+#: ../../source/mm1.rst:540
 msgid "Te aparecerá esta ventana"
 msgstr "You will see this window"
 
 # 7f4f3e0e4cfa41f5be0e5c19edf968ee
-#: ../../source/mm1.rst:545
+#: ../../source/mm1.rst:544
 msgid ""
 "Las opciones para poder colocar los parámetros de impresión se colocaran "
 "en estas ventanas, usualmente solo se cambian, los parámetros de la "
@@ -1047,39 +1019,39 @@ msgstr ""
 "modify the \"basic\" and \"advanced\" tabs."
 
 # d91282df04db4e1fac6bcf60e433477f
-#: ../../source/mm1.rst:553
+#: ../../source/mm1.rst:552
 msgid ""
 "Coloca los parámetros que te recomendamos de utilizar en la pestaña de "
 "basic"
 msgstr "Configure the basic tab as follows:"
 
 # 31865a48bce74622b7488ea73b7c2a42
-#: ../../source/mm1.rst:556
+#: ../../source/mm1.rst:555
 msgid "-Temperatura para PLA 200°C a 212°C"
 msgstr "PLA temperature 200°C to 212°"
 
 # 7c5ebc2e15d445caae9207f15d0e5c78
-#: ../../source/mm1.rst:558
+#: ../../source/mm1.rst:557
 msgid "-Cama caliente 40°C a 60°C"
 msgstr "Hot bed 40°C to 60°C"
 
 # 0144ee4b4f8a44a6a323e784ebf8be71
-#: ../../source/mm1.rst:560
+#: ../../source/mm1.rst:559
 msgid "-Temperatura ABS 225°C"
 msgstr "Temperature for ABS 225°C"
 
 # 7b5f9cf1f2bf4ad18bee51f6c6759728
-#: ../../source/mm1.rst:562
+#: ../../source/mm1.rst:561
 msgid "-Cama caliente 97°C"
 msgstr "Hot bed 97°C"
 
 # 721f9331b1924b77b3103a1cb0d29492
-#: ../../source/mm1.rst:565
+#: ../../source/mm1.rst:564
 msgid "En Fill Density"
 msgstr "Fill Density"
 
 # 42eaaabb2b9340ef9565a1737b0af2c8
-#: ../../source/mm1.rst:567
+#: ../../source/mm1.rst:566
 msgid ""
 "El valor es variable dependiendo de la pieza que vas a realizar si la "
 "quieres frágil debe detener un relleno de entre 0 a 20%"
@@ -1088,25 +1060,25 @@ msgstr ""
 "piece."
 
 # 251df04fdc1f42ef80d6e647cf0b5597
-#: ../../source/mm1.rst:571
+#: ../../source/mm1.rst:570
 msgid "Frágil pero para piezas visuales se recomienda un relleno del 25% a 40%"
 msgstr "The recomended density is between 25% to 40%"
 
 # 65a606d7ba9447c0b335e1d9ec047183
-#: ../../source/mm1.rst:574
+#: ../../source/mm1.rst:573
 #, python-format
 msgid "Piezas resistentes de 45 a 60% de relleno"
 msgstr "Use 45 to 60% infill density for strong pieces"
 
 # c3bd6904ce36433795a2222c31707186
-#: ../../source/mm1.rst:579
+#: ../../source/mm1.rst:578
 msgid ""
 "En estas dos casillas se pueden seleccionar los tipos de material de "
 "soporte y de plataforma de adhesión"
 msgstr "This boxes are used to select adhesion platform and support type"
 
 # c01b8baea9834df3b4fcfacabe1da449
-#: ../../source/mm1.rst:587
+#: ../../source/mm1.rst:586
 msgid ""
 "Coloca los parámetros que te recomendamos de Advanced como tip en la "
 "distancia de la retracción se puede utilizar : 6 y 8"
@@ -1115,7 +1087,7 @@ msgstr ""
 "Configure the other options as shown in the image."
 
 # 783b01044ac845f7b3e2a265a658da80
-#: ../../source/mm1.rst:594
+#: ../../source/mm1.rst:593
 msgid ""
 "Por ultimo en end gcode vas copiar el punto y coma y lo colocaras antes "
 "de G90 para que se quede comentado este paso."
@@ -1124,12 +1096,12 @@ msgstr ""
 "to comment that line."
 
 # 6fe866e68fd047b4a20d75b189a9c753
-#: ../../source/mm1.rst:602
+#: ../../source/mm1.rst:601
 msgid "Conexiones de la Impresora"
 msgstr "Printer connections"
 
 # f5ece12075df40d7ace9aee2610d3953
-#: ../../source/mm1.rst:604
+#: ../../source/mm1.rst:603
 msgid ""
 "En este manual podemos observar como se debe conectar correctamente "
 "nuestra impresora 3D, es muy importante que llevemos acabo las "
@@ -1141,7 +1113,7 @@ msgstr ""
 " of the plastic box."
 
 # 5dc9ee1abe704a19bf16e3889f9492f2
-#: ../../source/mm1.rst:612
+#: ../../source/mm1.rst:611
 msgid ""
 "Conectar el Módulo Sencillo al tablero de conexiones. Del módulo sale un "
 "conector macho con 6 pines el cual se conecta en el apartado que dice 1, "
@@ -1152,7 +1124,7 @@ msgstr ""
 " 1 as shown in the image."
 
 # 453989f8ed714395a9736edf014f39d5
-#: ../../source/mm1.rst:619
+#: ../../source/mm1.rst:618
 msgid ""
 "Conectar el Sensor inductivo para el \"Home de Z\" del mismo módulo sale "
 "un conector de 3 pines el cual se conecta en el apartado que dice Z,asi "
@@ -1163,12 +1135,12 @@ msgstr ""
 " image."
 
 # ac3840b568914f7097069a83e4d74d48
-#: ../../source/mm1.rst:628
+#: ../../source/mm1.rst:627
 msgid "Colocar el Seguro de doble Extrusora."
 msgstr "Plug the dual extrusion clock"
 
 # 56dc17d666754b389fc202a06ab6423f
-#: ../../source/mm1.rst:630
+#: ../../source/mm1.rst:629
 msgid ""
 "Vamos a conectar el seguro de doble extrusor en la parte indicada con un "
 "2, este seguro solo se coloca cuando se utiliza el módulo sencillo, "
@@ -1177,35 +1149,21 @@ msgstr ""
 "Lets plug the dual etrusion clock in the input with number 2, if you use "
 "dual extrusion module you must remove this clock."
 
-# 2d97f256c4f3469f8af4ec6387c52131
-#: ../../source/mm1.rst:635
+# 91026581b12a47ffab30b0c91d5556d7
+#: ../../source/mm1.rst:634
 msgid ""
 "Si solo esta conectado el módulo sencillo y el seguro  no esta conectado,"
 " al encender la impresora te marcara Error minitemp (impresoras "
-"anteriores a la 198). A partir de la impresora con número de serie 198, "
-"el seguro de doble extrusor ya no es necesario ni se incluye en el equipo"
-" ni en ninguno de los     módulos, ya que se ha logrado incluir esta "
-"característica en el firmware de la tarjeta controladora; si el número de"
-" tu equipo es anterior al mencionado y deseas actualizar el firmware, "
-"puedes ponerte en contacto con el equipo de soporte a traves de nuestro "
-"`foro <http://makermex.com/forum>`_ ."
+"anteriores a la 198)."
 msgstr ""
-"If the single module is connected and the dual extrusion tumbler is "
-"unplugged, a mintemp error will appear. (printers before serial number "
-"198). From the 3D printer with serial number 198 and above, dual "
-"extrusion tumbler is not necessary for the machine or any module, and is "
-"not included, this feature is now included in the controller firmware; if"
-" the serial number of your machine is lower than 198 and you want to "
-"update the firmware please contact our support team via the `forum "
-"<http://makermex.com/forum>`_ ."
 
 # 88780899cd3243009167c2fa5e7174ad
-#: ../../source/mm1.rst:644
+#: ../../source/mm1.rst:645
 msgid "Colocar la guía de cables"
 msgstr "Mount cable guide"
 
 # 5a3cbf7e72344a4a9cb39d247c14f43d
-#: ../../source/mm1.rst:646
+#: ../../source/mm1.rst:647
 msgid ""
 "la piéza plástica que va en el interior de la caja trasparente se coloca "
 "de la siguiente forma como se aprecia en la imagen. Sirve para poder "
@@ -1216,12 +1174,12 @@ msgstr ""
 "image, it is ued to mantain the wires in place when printing."
 
 # 95ca81c0fb5e4fda897256d86554d2a0
-#: ../../source/mm1.rst:654
+#: ../../source/mm1.rst:655
 msgid "Como colocar los Clams y el cristal."
 msgstr "How to put the clamps and the glass"
 
 # 804f7eca4c7f4e559692169f997dfa1c
-#: ../../source/mm1.rst:656
+#: ../../source/mm1.rst:657
 msgid ""
 "Los clams son los sujetadores del cristal y de la cama de metal, su "
 "posición se muestra en la imagen."
@@ -1230,12 +1188,12 @@ msgstr ""
 "shown in the image."
 
 # e16fea700a0d4ced92dd119b2310dbed
-#: ../../source/mm1.rst:662
+#: ../../source/mm1.rst:663
 msgid "Conexiones de la impresora MM1 V1.5"
 msgstr "MM1 V1.5 3D printer connections"
 
 # 895e97c098cb4d8d901a1a3080e7d7c7
-#: ../../source/mm1.rst:664
+#: ../../source/mm1.rst:665
 msgid ""
 "En este punto podemos observar como se debe conectar correctamente "
 "nuestra impresora 3D, es muy importante que llevemos acabo las "
@@ -1245,47 +1203,47 @@ msgstr ""
 "follow the indications."
 
 # c17ba26f5679481a95f567683c1f41ad
-#: ../../source/mm1.rst:667
+#: ../../source/mm1.rst:668
 msgid "Primero tenemos que identificar nuestros conectores."
 msgstr "First identfy the conectors"
 
 # 818e1ccad27f47278326228b7c995a58
-#: ../../source/mm1.rst:670
+#: ../../source/mm1.rst:671
 msgid "Conectores"
 msgstr "Connectors"
 
 # 38051a513e264c8d9458975566ad5914
-#: ../../source/mm1.rst:672
+#: ../../source/mm1.rst:673
 msgid "1.- Extrusora 1"
 msgstr "1.- Extruder #1"
 
 # ca37515f12b34370bae101c2e70dc30b
-#: ../../source/mm1.rst:674
+#: ../../source/mm1.rst:675
 msgid "2.- Extrusora 2"
 msgstr "2.- Extruder #2"
 
 # 169d8a0c3f4a4e6fbc4231915d686d8b
-#: ../../source/mm1.rst:676
+#: ../../source/mm1.rst:677
 msgid "3.- Ventilador"
 msgstr "3.- Cooling fan"
 
 # 78f0e6a1053144039c33082430e79045
-#: ../../source/mm1.rst:678
+#: ../../source/mm1.rst:679
 msgid "4.- Modulo CNC"
 msgstr "4.-CNC Module"
 
 # afd6113a823048c4939711480b2a06ce
-#: ../../source/mm1.rst:680
+#: ../../source/mm1.rst:681
 msgid "5.- Sensor Z"
 msgstr "5.- Z sens"
 
 # 3cb6e1f99316483ebd4d6d93a79d860b
-#: ../../source/mm1.rst:686
+#: ../../source/mm1.rst:687
 msgid "Conexión del modulo sencillo."
 msgstr "Single module connection."
 
 # 38e9da355c02438fa996ed5a7edad8f5
-#: ../../source/mm1.rst:688
+#: ../../source/mm1.rst:689
 msgid ""
 "Para poder imprimir con modulo sencillo(modulo que viene de fabrica), es "
 "necesario conectarlo de esta forma."
@@ -1293,37 +1251,22 @@ msgstr ""
 "To be able to print with the single module (included by default), you "
 "need to connect it this way."
 
-# 76b7483a8f864e57b73ec79fa839ef61
-#: ../../source/mm1.rst:692
-#, fuzzy
+# 7616e743950c43aa9324c0b86340b1ba
+#: ../../source/mm1.rst:693
 msgid ""
 "Cuando imprimimos con este modulo es muy importante tener conectado el "
 "seguro de doble extrusora, si este seguro no se conecta es imposible "
-"realizar la impresión (impresoras anteriores a la 198). A partir de la "
-"impresora con número de serie 198, el seguro de doble extrusor ya no es "
-"necesario ni se incluye en el equipo ni en ninguno de los     módulos, ya"
-" que se ha logrado incluir esta característica en el firmware de la "
-"tarjeta controladora; si el número de tu equipo es anterior al mencionado"
-" y deseas actualizar el firmware, puedes ponerte en contacto con el "
-"equipo de soporte a traves de nuestro `foro <http://makermex.com/forum>`_"
-" ."
-msgstr ""
-"When we print with this module is important to plug the dual extrusion "
-"tumbler, if the tumbler is not connected it won't be impossible to print "
-"(printers with serial number lower than 198). From the 3D printer with "
-"serial number 198 and above, dual extrusion tumbler is not necessary for "
-"the machine or any module, and is not included, this feature is now "
-"included in the controller firmware; if the serial number of your machine"
-" is lower than 198 and you want to update the firmware please contact our"
-" support team via the `forum <http://makermex.com/forum>`_ ."
+"realizar la impresión (impresoras anteriores a la 198)."
+msgstr "When printing with this module is very important to have the dual extrusion tumbler connected, "
+"if this tumbler is not plugged in is impossible to print (printers with serial number later than 198)"
 
 # f9aa5268aae5417f84883444c71398aa
-#: ../../source/mm1.rst:700
+#: ../../source/mm1.rst:703
 msgid "Uso de la pantalla"
 msgstr "Usage of the screen"
 
 # 0fc4a424532b4ed6bf3151efbbf87e93
-#: ../../source/mm1.rst:702
+#: ../../source/mm1.rst:705
 msgid ""
 "al momento de encender nuestra impresora nos aparecerá la pantalla "
 "principal en esta se puede encontrar toda la información del transcurso "
@@ -1333,54 +1276,54 @@ msgstr ""
 "where you can find all the printing information."
 
 # fc52c6efb2214888a816c96710905a73
-#: ../../source/mm1.rst:707
+#: ../../source/mm1.rst:710
 msgid "Información de la pantalla"
 msgstr "Information of the screen"
 
 # 313ab261407a41fdacc421cf3a449ed4
-#: ../../source/mm1.rst:709
+#: ../../source/mm1.rst:712
 msgid "-La temperatura actual de la boquilla"
 msgstr "Noozle temperature"
 
 # c47020b7d9c14ac28f14b096a5a9bb21
-#: ../../source/mm1.rst:711
+#: ../../source/mm1.rst:714
 msgid "-La temperatura de un doble extrusor"
 msgstr "Noozle of the second extruder (if installed)"
 
 # f694fbf7e91d49759b4285411f3b9e28
-#: ../../source/mm1.rst:713
+#: ../../source/mm1.rst:716
 msgid "-La temperatura actual de la cama"
 msgstr "Hotbed temperature"
 
 # f21d90632040443d974eb873271a5fad
-#: ../../source/mm1.rst:715
+#: ../../source/mm1.rst:718
 msgid "-El tiempo trascurrido de impresion"
 msgstr "Printing time"
 
 # 2d9dbedcaace4f1fb6e90fbc826b43f3
-#: ../../source/mm1.rst:717
+#: ../../source/mm1.rst:720
 msgid "-El porcentaje de avance en la impresion"
 msgstr "Printing progress percentage"
 
 # 5030eccf402a4d5fb2c25a06ecfabdf3
-#: ../../source/mm1.rst:719
+#: ../../source/mm1.rst:722
 msgid "-La velocidad de la impresion dada en porcentaje"
 msgstr "The printing seed in percentage"
 
 # 21bfb76a366847b8a06ae2c01bdd60a2
-#: ../../source/mm1.rst:721
+#: ../../source/mm1.rst:724
 msgid "-Un mensaje pre-programado"
 msgstr "A pre-configured message"
 
 # bd1faeb24fa141de8328de749f55457d
-#: ../../source/mm1.rst:725
+#: ../../source/mm1.rst:728
 msgid ""
 "La pantalla tiene una perilla multifuncional que puede girar y a su vez "
 "seleccionar"
 msgstr "The LCD screen has a multifunction knob that you can turn and press."
 
 # babbc8c7ec744f74a73c29482dd753e1
-#: ../../source/mm1.rst:725
+#: ../../source/mm1.rst:728
 msgid ""
 "los menús de la pantalla, para acceder a algún menú solo giras y oprimes "
 "la perilla."
@@ -1389,85 +1332,81 @@ msgstr ""
 "then press it."
 
 # c079da562f0b4387b3a81d19295b7b22
-#: ../../source/mm1.rst:729
+#: ../../source/mm1.rst:732
 msgid ""
 "Ahora al dar clic en la perilla nos aparecerá el menú principal, este "
 "esta conformado por:"
 msgstr "The main menu incudes:"
 
 # f08a912db07a497dbe171c709c2e47be
-#: ../../source/mm1.rst:733
+#: ../../source/mm1.rst:736
 msgid "-PREPARE"
 msgstr "-PREPARE"
 
 # 90e20a9d774145b1806945350a991798
-#: ../../source/mm1.rst:735
+#: ../../source/mm1.rst:738
 msgid "-CONTROL"
 msgstr "-CONTROL"
 
 # 795f927428ba41a39930236d8168cdb1
-#: ../../source/mm1.rst:737
+#: ../../source/mm1.rst:740
 msgid "-PRINT FROM SD."
 msgstr "-PRINT FROM SD."
 
 # ffa96b4bd588409db76aeabef5808d01
-#: ../../source/mm1.rst:742
+#: ../../source/mm1.rst:745
 msgid "Identifiquemos la opcin de PREPARE. giremos la perilla y oprimámosla."
 msgstr "Turn the knob t select the PREPARE option, and then press t select it"
 
 # da3068964cd946c883bfea7fcb881c08
-#: ../../source/mm1.rst:746
+#: ../../source/mm1.rst:749
 msgid ""
 "Al oprimir en la opción de prepare nos aparecerá un menú nuevo, este esta"
 " formado por:"
 msgstr "A new menu will appear, that includes:"
 
 # 61812cca94834bd9b7e21c9d47b1dba0
-#: ../../source/mm1.rst:750
+#: ../../source/mm1.rst:753
 msgid "-Disable steppers"
 msgstr "-Disable steppers"
 
 # 32399a8c07564c2880a6bbdf42187ffb
-#: ../../source/mm1.rst:752
+#: ../../source/mm1.rst:755
 msgid "-Auto home"
 msgstr "-Auto home"
 
 # 66b790a4a4ca40129729b467763f5dba
-# 72468a9c35d34b5c80c81410dd34bd02
-#: ../../source/mm1.rst:754 ../../source/mm1.rst:784
+#: ../../source/mm1.rst:757 ../../source/mm1.rst:787
 msgid "-Preheat PLA"
 msgstr "-Preheat PLA"
 
 # 6c50fba12f784bf0a7c066d11c902976
-# 3a172b104e5b4a80b8db51426010861a
-#: ../../source/mm1.rst:756 ../../source/mm1.rst:806
+#: ../../source/mm1.rst:759 ../../source/mm1.rst:809
 msgid "-Preaheat ABS"
 msgstr "-Preaheat ABS"
 
 # c40bfe4d729141e4af437a1ce4cde651
-#: ../../source/mm1.rst:758
+#: ../../source/mm1.rst:761
 msgid "-CoolDown"
 msgstr "-CoolDown"
 
 # 7e9070ee971643ba91b87e1edbe17092
-# d68cc2542f564f919c7706291458d682
-#: ../../source/mm1.rst:760 ../../source/mm1.rst:831
+#: ../../source/mm1.rst:763 ../../source/mm1.rst:834
 msgid "-Switch power off"
 msgstr "-Switch power off"
 
 # 94a42bf4f9b548828f5adafe929b107a
-# 40d7a5d9027a4461ac0a8440ce4ab634
-#: ../../source/mm1.rst:762 ../../source/mm1.rst:836
+#: ../../source/mm1.rst:765 ../../source/mm1.rst:839
 msgid "-Move axis"
 msgstr "-Move axis"
 
 # 0b762e8d7b8a42a7bf2a490a4128cf86
-#: ../../source/mm1.rst:768
+#: ../../source/mm1.rst:771
 msgid "-Disable stepper"
 msgstr "-Disable stepper"
 
 # 08b2956e425f4879a9fb1d0370fb7b9f
-#: ../../source/mm1.rst:770
+#: ../../source/mm1.rst:773
 msgid ""
 "1.- Sirve para purgar la corriente que hay en los motores, es decir "
 "cuando encendemos la impresora, los motores los podemos mover con "
@@ -1483,12 +1422,12 @@ msgstr ""
 " them by handuntil yu use this option or turn of the printer."
 
 # ab74a10fb91149a193bd171d77489e3c
-#: ../../source/mm1.rst:777
+#: ../../source/mm1.rst:780
 msgid "-Auto Home"
 msgstr "-Auto Home"
 
 # 673c51bacd83448abca8fa6dda8ed623
-#: ../../source/mm1.rst:779
+#: ../../source/mm1.rst:782
 msgid ""
 "2.- Esta opción nos permite mandar los ejes a su posición de origen o "
 "cero, al activarlo, la impresora moverá sus ejes en secuencia, primero el"
@@ -1500,7 +1439,7 @@ msgstr ""
 " axis will move backwards and Z axis will move to top."
 
 # 01591399c20d4379b8733bcae1d19641
-#: ../../source/mm1.rst:786
+#: ../../source/mm1.rst:789
 msgid ""
 "3.- Esta opción nos permite calentar la boquilla y la cama caliente para "
 "usar PLA las temperaturas son adecuadas cuando se desea tener lista la "
@@ -1511,17 +1450,17 @@ msgstr ""
 "printing"
 
 # 13a44fbf2d6d4fecbc2a32940b5b08b4
-#: ../../source/mm1.rst:790
+#: ../../source/mm1.rst:793
 msgid "Preheat PLA esta formado por:"
 msgstr "Preheat PLA has the following options:"
 
 # 08f5f6e4a581422d8f7b22c848bbd454
-#: ../../source/mm1.rst:793
+#: ../../source/mm1.rst:796
 msgid "-Preheat PLA 1 -Preheat PLA 2 -Preheat PLA A11 -Preheat PLA bed"
 msgstr "A.- Preheat PLA 1 2.-Preheat PLA 2 3.-Preheat PLA A11 4.-Preheat PLA bed"
 
 # a2d99732ef7a48b7b133b1c3c479fa4f
-#: ../../source/mm1.rst:801
+#: ../../source/mm1.rst:804
 msgid ""
 "A.- Al activarlo enciende la primer boquilla y cama caliente. B.- Al "
 "activarlo encienden la segunda boquillas y cama caliente. C.- Al "
@@ -1534,7 +1473,7 @@ msgstr ""
 "heat the bed"
 
 # c1e25c05a3fa4af08531453e5ea2f04f
-#: ../../source/mm1.rst:808
+#: ../../source/mm1.rst:811
 msgid ""
 "4.- Esta opción nos permite calentar la boquilla y la cama caliente para "
 "usar ABS las temperaturas son adecuadas cuando se desea tener lista la "
@@ -1545,44 +1484,44 @@ msgstr ""
 "prepare for printing."
 
 # 11c656cb924547fb927c7524ff35a8e3
-#: ../../source/mm1.rst:813
+#: ../../source/mm1.rst:816
 msgid "Preheat PLA"
 msgstr "Preheat ABS"
 
 # 997b7106dbbb49fea464cd17a7d4ed83
-#: ../../source/mm1.rst:815
+#: ../../source/mm1.rst:818
 msgid "-Preheat ABS 1"
 msgstr "-Preheat ABS 1"
 
 # 80f61ea14b17454d954eee40bd0df1d3
-#: ../../source/mm1.rst:817
+#: ../../source/mm1.rst:820
 msgid "-Preheat ABS 2"
 msgstr "-Preheat ABS 2"
 
 # 6920654cff1a4e9791656e1455519687
-#: ../../source/mm1.rst:819
+#: ../../source/mm1.rst:822
 msgid "-Preheat ABS A11"
 msgstr "-Preheat ABS A11"
 
 # 30ff629a2b394e2aa631a2f475849b4b
-#: ../../source/mm1.rst:821
+#: ../../source/mm1.rst:824
 msgid "-Preheat ABS Bed"
 msgstr "-Preheat ABS Bed"
 
 # aaed20cfa7084badb81677d3ca45533d
-#: ../../source/mm1.rst:826
+#: ../../source/mm1.rst:829
 msgid "-Cooldown"
 msgstr "-Cooldown"
 
 # c39c8770f22f4947b57a6c6b74ab5e77
-#: ../../source/mm1.rst:828
+#: ../../source/mm1.rst:831
 msgid ""
 "5.- Esta opción nos permite apagar las indicaciones de los preheat damos "
 "clic y se resetea la indicación de calentar. Es decir se cancela."
 msgstr "5.- This option will deactivate or cancel the heating of noozle and bed."
 
 # 2bcf7be6ac984f3ea710e4783f4b4dda
-#: ../../source/mm1.rst:833
+#: ../../source/mm1.rst:836
 msgid ""
 "6.- Esta opción es un interruptor, como un paro de emergencia pero no lo "
 "usamos preferimos usar el que energiza la impresora."
@@ -1591,7 +1530,7 @@ msgstr ""
 "source "
 
 # 6e55d41acecb4bd6af26b06282574c05
-#: ../../source/mm1.rst:838
+#: ../../source/mm1.rst:841
 msgid ""
 "7.- Esta opción nos permite interactuar con los ejes y la extrusora es "
 "decir que los podemos mover con diferentes velocidades, con esta opción "
@@ -1601,7 +1540,7 @@ msgstr ""
 "them t diferent velocities to calibrate the bed."
 
 # 2e67bf0c68444ff88d94f31f26319472
-#: ../../source/mm1.rst:844
+#: ../../source/mm1.rst:847
 msgid ""
 "Al dar clic en Move Axis nos abre la siguiente ventana, en ella podemos "
 "seleccionar la distancia que deseamos recorrer por cada giro que demos en"
@@ -1613,7 +1552,7 @@ msgstr ""
 "have 3 option:"
 
 # 510ed296de264359bac1968df4a1465b
-#: ../../source/mm1.rst:850
+#: ../../source/mm1.rst:853
 msgid ""
 "Cuando seleccionamos la opción de 10mm solo nos dejara mover los ejes "
 "X,Y. Cuando seleccionamos la opción de 1mm o 0.1mm nos permite mover "
@@ -1623,41 +1562,41 @@ msgstr ""
 "option or 0.1mm we will be able to move every axis or the extruder."
 
 # 509c9179825b4c78991d48a8678f4abd
-#: ../../source/mm1.rst:854
+#: ../../source/mm1.rst:857
 msgid ""
 "Ya que seleccionaste una distancia puedes ver las siguientes opciones, "
 "das clic a la opción que deseas mover. Y te aparecerá una nueva opción."
 msgstr "After you select the distance, you can se a new screen with options."
 
 # 955858ebc9ee42b3aecbd7277ad14ea6
-#: ../../source/mm1.rst:859
+#: ../../source/mm1.rst:862
 msgid ""
 "Al momento de seleccionar la opción deseada, tendrá que aparecer para "
 "ambas distancias."
 msgstr "After selecting the desired option it will show the 3 axis."
 
 # 691530f69b35488c8eb066403df9a521
-#: ../../source/mm1.rst:864
+#: ../../source/mm1.rst:867
 msgid "-Eje X"
 msgstr "X axis"
 
 # 5561ec32cc5c48b0acc71173202ca887
-#: ../../source/mm1.rst:869
+#: ../../source/mm1.rst:872
 msgid "-Eje Z"
 msgstr "Y axis"
 
 # cea0c6992de74acdbe5f448c172e5032
-#: ../../source/mm1.rst:874
+#: ../../source/mm1.rst:877
 msgid "-Eje Y"
 msgstr "Z axis"
 
 # d0579efecefa4815a666157dcda06cb5
-#: ../../source/mm1.rst:879
+#: ../../source/mm1.rst:882
 msgid "-Extrusora"
 msgstr "Extruder"
 
 # 5bc6a69146a04eb49e1d1f37e8522528
-#: ../../source/mm1.rst:882
+#: ../../source/mm1.rst:885
 msgid ""
 "Para poder darle movimiento al eje que seleccionemos,se gira la perilla "
 "ya sea en sentido positivo o en sentido negativo."
@@ -1666,7 +1605,7 @@ msgstr ""
 "positive or to the negative."
 
 # 93714c2416c046bab2c8f9bd5115618c
-#: ../../source/mm1.rst:885
+#: ../../source/mm1.rst:888
 msgid ""
 "En la opción de CONTROL se encuentran mas opciones estos ya fueron "
 "predeterminados por la programación, es necesario que se respeten estos "
@@ -1674,36 +1613,36 @@ msgid ""
 msgstr "The CONTROL menu contains the following options:"
 
 # 5d63a7c33ab14b3d9788867b84ad55ff
-#: ../../source/mm1.rst:890
+#: ../../source/mm1.rst:893
 msgid "-Temperatura"
 msgstr "Temperature"
 
 # fc8b10f22a3544458e95e285b0d2fa65
-#: ../../source/mm1.rst:892
+#: ../../source/mm1.rst:895
 msgid "-Motion"
 msgstr "-Motion"
 
 # 0d3816a5ff6f405ea8ac20153c1fc8ff
-#: ../../source/mm1.rst:894
+#: ../../source/mm1.rst:897
 msgid "-Restore failsafe"
 msgstr "-Restore failsafe"
 
 # 0edfdeb4d2aa48018ca88fa3158fd719
-#: ../../source/mm1.rst:899
+#: ../../source/mm1.rst:902
 msgid ""
 "En CONTROL podemos encontrar las siguientes opciones. de las cuales solo "
 "vamos a seleccionar una que es la de TEMPERATURE"
 msgstr "Usually we only need the TEMPERATURE option"
 
 # af47f0b2498a45169f9da8940f20b9b8
-#: ../../source/mm1.rst:904
+#: ../../source/mm1.rst:907
 msgid ""
 "En TEMPERATURE encontraremos las siguientes opciones las cuales son las "
 "que nos interesan."
 msgstr "The TEMPERATURE menu has the following options"
 
 # 9134f7b21d1847809e8772b8cba20100
-#: ../../source/mm1.rst:910
+#: ../../source/mm1.rst:913
 msgid ""
 "1.- Al darle clic se activa, y girando la perilla podemos colocar una "
 "temperatura en la primer boquilla, para que esa temperatura sea procesada"
@@ -1713,7 +1652,7 @@ msgstr ""
 "noozle 1, click again."
 
 # a2cd170b6bcb46b9b914475b7f7e5a13
-#: ../../source/mm1.rst:914
+#: ../../source/mm1.rst:917
 msgid ""
 "2.- Al darle clic se activa, y girando la perilla podemos colocar una "
 "temperatura en la segunda boquilla, para que esta temperatura sea "
@@ -1723,7 +1662,7 @@ msgstr ""
 "noozle 2, click again."
 
 # 210f4b4b18df4192b136dd01d3b76c54
-#: ../../source/mm1.rst:918
+#: ../../source/mm1.rst:921
 msgid ""
 "3.- Al darle clic se activa, y girando la perilla podemos colocar una "
 "temperatura en la cama caliente para que esta temperatura sea procesada "
@@ -1733,7 +1672,7 @@ msgstr ""
 " hotbed, click again."
 
 # 33223e51a9e444e2943d14985d3eb6ba
-#: ../../source/mm1.rst:922
+#: ../../source/mm1.rst:925
 msgid ""
 "4.- Al darle clic se activa, y girando la perilla podemos colocar una "
 "velocidad en el ventilador 40x40mm esta opción puede servir para bajar la"
@@ -1744,7 +1683,7 @@ msgstr ""
 "noozle 1, click again."
 
 # 57710cce9126416ba6a9599109d022c6
-#: ../../source/mm1.rst:927
+#: ../../source/mm1.rst:930
 msgid ""
 "La pantalla seria nuestro control remoto de la impresora. Pero es de suma"
 " importancia hacer caso de usar solo las opciones que se mencionan."
@@ -1753,7 +1692,7 @@ msgstr ""
 "only the options detailed in this manual"
 
 # 596a5407fe604138a8fa61703d31ec91
-#: ../../source/mm1.rst:930
+#: ../../source/mm1.rst:933
 msgid ""
 "La opción de PRINT FROM SD es la mas sencilla es donde seleccionamos "
 "nuestro código G."
@@ -1762,12 +1701,12 @@ msgstr ""
 "print"
 
 # c9f32538ccd5411e97014eb00d5af195
-#: ../../source/mm1.rst:932
+#: ../../source/mm1.rst:935
 msgid "TIPS PARA EL USO DE LA PANTALLA"
 msgstr "TIPS FOR SSCREEN USAGE"
 
 # e4d21214d28e47569c543a6faa831b13
-#: ../../source/mm1.rst:934
+#: ../../source/mm1.rst:937
 msgid ""
 "Recordemos que la perilla de la pantalla es multifuncional que nos sirve "
 "para seleccionar y activar la acción de cada opción de nuestra pantalla."
@@ -1776,7 +1715,7 @@ msgstr ""
 "activate each option on the screen."
 
 # 0027da1c770348dcb071446753d4d883
-#: ../../source/mm1.rst:937
+#: ../../source/mm1.rst:940
 msgid ""
 "Cunado la impresora esta imprimiendo podemos hacer uso de algunas "
 "opciones en especial las de control, que seria subir o bajar la "
@@ -1788,7 +1727,7 @@ msgstr ""
 "cooling fan"
 
 # 44890beccbfe49b7b7e45aba9b5e0212
-#: ../../source/mm1.rst:941
+#: ../../source/mm1.rst:944
 msgid ""
 "También con la pantalla podemos controlar la velocidad de impresión, esta"
 " opción es muy simple, cuando la impresora se encuentra en "
@@ -1801,7 +1740,7 @@ msgstr ""
 "increase, if you turn counterclock it will decrease. "
 
 # f79846fed9e74782b501823b3a037d22
-#: ../../source/mm1.rst:947
+#: ../../source/mm1.rst:950
 msgid ""
 "Para saber que velocidad tenemos es importante saber que en los "
 "parámetros de cura seleccionamos la opción que nos indique 50 mm/s, y en "
@@ -1813,27 +1752,27 @@ msgstr ""
 " that we are printing at the speed configured in cura (usually 50 mm/s)."
 
 # e546ca983b1f4880bfb2613f3fe930ba
-#: ../../source/mm1.rst:952
+#: ../../source/mm1.rst:955
 msgid "Ejemplo."
 msgstr "Example"
 
 # 13b6162599bd4c23bdbc49201587000c
-#: ../../source/mm1.rst:955
+#: ../../source/mm1.rst:958
 msgid "Velocidad"
 msgstr "Speed"
 
 # 6884cac99f264e9fb16a81f11062d1b9
-#: ../../source/mm1.rst:957
+#: ../../source/mm1.rst:960
 msgid "50mm/s = 100% 100mm/s = 200% 150mm/s = 300%"
 msgstr "50mm/s = 100% 100mm/s = 200% 150mm/s = 300%"
 
 # 8707c3202cab48a6a0915ba41aa54481
-#: ../../source/mm1.rst:965
+#: ../../source/mm1.rst:968
 msgid "Calibración de la impresora \"Distancia cama boquilla\""
 msgstr "Printer calibration (distance between the noozle and the hotbed)"
 
 # 3960677a37f5484cb0af19296fe8484c
-#: ../../source/mm1.rst:969
+#: ../../source/mm1.rst:972
 msgid ""
 "Aflojar el sensor inductivo con una llave Allen de 2.5mm y subirlo como "
 "se muestra."
@@ -1842,7 +1781,7 @@ msgstr ""
 "upwards as shown in the image"
 
 # ae12e8e490f94d08a5773e4c1c7d2279
-#: ../../source/mm1.rst:983
+#: ../../source/mm1.rst:986
 msgid ""
 "Gira con cuidado el eje z hasta subirlo, logrando que entre la cama y la "
 "boquilla quede una separación de una tarjeta de presentación."
@@ -1852,7 +1791,7 @@ msgstr ""
 "business card"
 
 # a1145e515e0241a6bbc7981c893cb864
-#: ../../source/mm1.rst:987
+#: ../../source/mm1.rst:990
 msgid ""
 "la tarjeta debe de quedar rozando entre la boquilla y la cama para que "
 "haya una ligera separación entre estas dos."
@@ -1861,7 +1800,7 @@ msgstr ""
 "the distance is correct"
 
 # 59fdc28c43be41fbbdd3299013ecbfd7
-#: ../../source/mm1.rst:999
+#: ../../source/mm1.rst:1002
 msgid ""
 "Una vez que ya tienes la separación de una tarjeta entre la cama y la "
 "boquilla, con mucho cuidamos que el eje z se mueva ya que es muy fino y "
@@ -1874,14 +1813,14 @@ msgstr ""
 "doesn't move downwards."
 
 # e4436c102f2643a3a156611135e2ca7a
-#: ../../source/mm1.rst:1004
+#: ../../source/mm1.rst:1007
 msgid ""
 "En esta el sensor hasta su punto aproximado de detección, para que la "
 "distancia que esta definida no sea afectada."
 msgstr "We need to djust the sensor to the detection point."
 
 # 3e0738d70e8248068e478878b2676ea7
-#: ../../source/mm1.rst:1007
+#: ../../source/mm1.rst:1010
 msgid ""
 "1.-Encienda la fuente 2.-Sostén el eje z a la distancia que ya definiste "
 "con la tarjeta. 3.-Ahora como el sensor se encuentra flojo lo vas a bajar"
@@ -1896,7 +1835,7 @@ msgstr ""
 "sure the LED is on."
 
 # 8543daaee8a64eedb3901624160bbcaf
-#: ../../source/mm1.rst:1015
+#: ../../source/mm1.rst:1018
 msgid ""
 "Recuerda que nuestra principal importancia es dejar el sensor en la "
 "posición adecuada, esto quiere decir justo cuando comience a encender el "
@@ -1906,7 +1845,7 @@ msgstr ""
 "position, it s just when the led turns on."
 
 # c6bb4ac866454a919b182f29bdfa5da9
-#: ../../source/mm1.rst:1029
+#: ../../source/mm1.rst:1032
 msgid ""
 "Una vez que se haya colocado correctamente el sensor vamos a seleccionar "
 "la opción de Auto Home en nuestra impresora esto para poder visualizar si"
@@ -1916,7 +1855,7 @@ msgstr ""
 " to ensure the calibration went fine."
 
 # 36f87767a35c4934ae3de6b091e57bd6
-#: ../../source/mm1.rst:1040
+#: ../../source/mm1.rst:1043
 msgid ""
 "Cuando selecciones en Auto Home se ira a su origen 0,0,0. Podrás observar"
 " que el sensor quedo ligeramente separado de la cama al igual que la "
@@ -1926,14 +1865,14 @@ msgstr ""
 "noozle and bed."
 
 # bbdf47ae5efb4a03b3fe56c959eff965
-#: ../../source/mm1.rst:1047
+#: ../../source/mm1.rst:1050
 msgid ""
 "Después de a ver dando la opción de Auto Home vamos a realizar algunos "
 "movimientos de los ejes X,Y con la pantalla."
 msgstr "Now we will move the X, and Y axis using the screen."
 
 # bcbaa8e6c23d478bb64d2162a49d2ea3
-#: ../../source/mm1.rst:1059
+#: ../../source/mm1.rst:1062
 msgid ""
 "Ahora aseguremosno de lo siguiente, vamos a mover el eje Y, esto con la "
 "finalidad de que la boquilla quede calibrada con las cuatro esquinas de "
@@ -1943,7 +1882,7 @@ msgstr ""
 "corners."
 
 # 22f5229c2d5149698379af797ae97122
-#: ../../source/mm1.rst:1067
+#: ../../source/mm1.rst:1070
 msgid ""
 "Cuando des la indicación la boquilla se moverá a esta posición, aquí "
 "podrás hacer el ajuste de la distancia entre la boquilla y la cama, "
@@ -1951,7 +1890,7 @@ msgid ""
 msgstr "Always use the business card to compare the correct distance."
 
 # 42df300e2cd746ed83e5c70cecd0b8ed
-#: ../../source/mm1.rst:1071
+#: ../../source/mm1.rst:1074
 msgid ""
 "Si por alguna razón el sensor de proximidad no se enciende, tendremos que"
 " nivelar la cama en la esquina donde nos encontramos, para poder realizar"
@@ -1963,7 +1902,7 @@ msgstr ""
 " to adjust the nut.  "
 
 # 3dd9a5ae84304115ba48c7173d855a74
-#: ../../source/mm1.rst:1076
+#: ../../source/mm1.rst:1079
 msgid ""
 "Dependiendo del caso si al momento de mover hacia la esquina tenemos una "
 "distancia muy alta tenemos que liberarlo, en cambio si la boquilla esta "
@@ -1973,7 +1912,7 @@ msgstr ""
 "unscrew, if the distance is to short we have to screw."
 
 # c5de428ff82f49acaa569909126739f1
-#: ../../source/mm1.rst:1082
+#: ../../source/mm1.rst:1085
 msgid ""
 "En este paso tienes solo algunos segundos para realizar cada ajuste "
 "porque cuando los motores dejan de moverse vuelven a su estado natural y "
@@ -1984,12 +1923,12 @@ msgstr ""
 "calibrating."
 
 # 8a75849f36ec4464b3535c67523c5be2
-#: ../../source/mm1.rst:1087
+#: ../../source/mm1.rst:1090
 msgid "Calibración de impresora \"distancia cama-boquilla\" MM1 V1.5"
 msgstr "Printer Calibration (noozle-bed distance) MM1 V1.5"
 
 # db0410d394c244d6a6d61e0ae38e2a65
-#: ../../source/mm1.rst:1091
+#: ../../source/mm1.rst:1094
 msgid ""
 "Identificar el sensor Z. En la parte superior se encuentra un LED que al "
 "detectar la cama enciende y genera el posicionamiento del eje Z. Por la "
@@ -2002,7 +1941,7 @@ msgstr ""
 "release the sensor to adjust the distance. "
 
 # 5e6269c1a08c4ed1adca12b6bbdf9ca0
-#: ../../source/mm1.rst:1098
+#: ../../source/mm1.rst:1101
 msgid ""
 "Una vez identificado el sensor (es la pequeña pieza metálica en la "
 "boquilla), hacemos un Auto Home para que se posicione en las coordenadas "
@@ -2019,7 +1958,7 @@ msgstr ""
 "object between the noozle and the bed."
 
 # d473c0851c1f44c0999e9f51f814b90f
-#: ../../source/mm1.rst:1108
+#: ../../source/mm1.rst:1111
 msgid ""
 "Ahora después de haber obtenido la distancia adecuada aflojamos la tuerca"
 " y giramos el sensor subiendo o bajando dependiendo donde estaba colocado"
@@ -2029,7 +1968,7 @@ msgstr ""
 "make the LED turn ON"
 
 # 732331d70337425c80ab5b523e4236c9
-#: ../../source/mm1.rst:1115
+#: ../../source/mm1.rst:1118
 msgid ""
 "Una vez prendido el LED del sensor aseguramos la tuerca que lo compone y "
 "listo ya tenemos el auto home calibrado. Posteriormente tendremos que "
@@ -2040,7 +1979,7 @@ msgstr ""
 " we will check the four corners of the bed to see if it is well leveled."
 
 # 4013052e99224b1bab5f02775da25cdf
-#: ../../source/mm1.rst:1123
+#: ../../source/mm1.rst:1126
 msgid ""
 "Para calibrar el resto de la cama tendremos que ir a las opciones de la "
 "pantalla vamos identificar la opción de move axis esto para poder "
@@ -2050,7 +1989,7 @@ msgstr ""
 " option to move on X and Y separately."
 
 # 78a54b71adfd40358b4337a446ab4fec
-#: ../../source/mm1.rst:1129
+#: ../../source/mm1.rst:1132
 msgid ""
 "Primero moveremos el eje Y hasta la posición que indica la imagen, si el "
 "LED se apaga quiere decir que no detecta la cama y tenemos que subirla "
@@ -2068,7 +2007,7 @@ msgstr ""
 "give more distance. The distance must be the same on each corner."
 
 # 4418a1c949184c4382c12fc61f409d16
-#: ../../source/mm1.rst:1138
+#: ../../source/mm1.rst:1141
 msgid ""
 "Para subir o bajar la cama nos apoyamos con unas pinzas de punta y una "
 "llave Allen M3, deteniendo la tuerca de seguridad con las pinzas y "
@@ -2079,31 +2018,31 @@ msgstr ""
 "wrench"
 
 # 39f5fda31e354b91801714f7d63c6262
-#: ../../source/mm1.rst:1144
+#: ../../source/mm1.rst:1147
 msgid ""
 "Una vez calibrando este extremo de la cama nos movemos hacia el otro "
 "extremo sobre el eje X y repetimos el paso anterior."
 msgstr "Repeat the steps on the X axis."
 
 # 1ef2b3a35d074496a1e57ff434144524
-#: ../../source/mm1.rst:1149
+#: ../../source/mm1.rst:1152
 msgid "Repetimos los mismos pasos para el otro extremo."
 msgstr "Repeat to the other side"
 
 # f025e404f77d4addaade70d1321c60a3
-#: ../../source/mm1.rst:1153
+#: ../../source/mm1.rst:1156
 msgid ""
 "Y listo ya tienes tu cama calibrada y tu impresora lista para imprimir "
 "tus diseños."
 msgstr "Ready, you have your bed clibrated to print your designs!"
 
 # 0cbf832231964f2fb9b30306b2347d25
-#: ../../source/mm1.rst:1156
+#: ../../source/mm1.rst:1159
 msgid "¡ Ya desempacaste tu impresora ahora vamos a ponerla a imprimir !"
 msgstr "You hav already unpacked your 3D printer, now, lets make it to print!"
 
 # b058369f39904f07bc334195961840ab
-#: ../../source/mm1.rst:1160
+#: ../../source/mm1.rst:1163
 msgid ""
 "En esta parte del manual colocaremos el modulo de la impresora, esto solo"
 " si tu módulo esta suelto, cuando decimos la palabra modulo nos referimos"
@@ -2117,7 +2056,7 @@ msgstr ""
 "wires."
 
 # d5b6448b318d4e6587cc78b2edac6797
-#: ../../source/mm1.rst:1184
+#: ../../source/mm1.rst:1187
 msgid ""
 "Después de haber coloca con éxito tu modulo ahora colocaremos el Tubo "
 "Bowden (es la pequeña manguera blanca) en el conector del sistema "
@@ -2128,7 +2067,7 @@ msgstr ""
 "connector, now we need to sharp the filament to get it into the noozle."
 
 # 438df18284c442a3a45941924b4f15b7
-#: ../../source/mm1.rst:1192
+#: ../../source/mm1.rst:1195
 msgid ""
 "La punta que le sacaremos al filamento es para que sea una guía al "
 "momento de introducirlo en el tubo, lo hacemos de dos maneras: utilizando"
@@ -2138,7 +2077,7 @@ msgstr ""
 "sharpe it using a pencil sharpener or jaw pliers."
 
 # cc8e93f5ae894b9681ad717c210181e8
-#: ../../source/mm1.rst:1213
+#: ../../source/mm1.rst:1216
 msgid ""
 "Encendemos la impresora y calentamos la boquilla recordemos que la "
 "temperatura a utilizarse en PLA es de 204°C y si se llegara a utilizar "
@@ -2146,7 +2085,7 @@ msgid ""
 msgstr "Turn on the printer, heat the noozle to 204°C for PLA or 230°C for ABS"
 
 # 3f932e20956a4e32a1ae6ee5a5cb3480
-#: ../../source/mm1.rst:1226
+#: ../../source/mm1.rst:1229
 msgid ""
 "Una vez que ya subió la temperatura daremos unas vueltas al engrane "
 "Grande ubicado en la parte donde se encuentra colocado el filamento, esto"
@@ -2159,7 +2098,7 @@ msgstr ""
 "material comes out of the noozle then we are sure that is well loaded."
 
 # cb1063f0aff64abab9816573fed3f15a
-#: ../../source/mm1.rst:1234
+#: ../../source/mm1.rst:1237
 msgid ""
 "Este proceso es el mismo para poder retirar el material, se calienta la "
 "boquilla y se retira el filamento girando los engranes en sentido normal "
@@ -2170,7 +2109,7 @@ msgstr ""
 "turn the engine clockwise until all the filament is unloaded."
 
 # aab7df717f274754af268481d638f220
-#: ../../source/mm1.rst:1245
+#: ../../source/mm1.rst:1248
 msgid ""
 "Mandamos a imprimir desde la tarjeta SD se hace lo siguiente, la tarjeta "
 "llevará un código G, puedes utilizar este código precargado o puedes "
@@ -2181,7 +2120,7 @@ msgstr ""
 " GCode with the following steps:"
 
 # 8c41bd9b06d842898a5d3c8cd41f5cb8
-#: ../../source/mm1.rst:1250
+#: ../../source/mm1.rst:1253
 msgid ""
 "1.- Abrimos cura y damos clic en Load, se abrirá una ventana en la cual "
 "buscaras y seleccionaras el archivo STL que previamente has modelado o "
@@ -2191,14 +2130,14 @@ msgstr ""
 "find an STL."
 
 # 247767ab604d40c39dad7f960e082471
-#: ../../source/mm1.rst:1253
+#: ../../source/mm1.rst:1256
 msgid ""
 "Ya seleccionado le damos en la opción abrir. Inmediatamente en cuanto des"
 " clic en abrir el archivo STL se cargara en cura"
 msgstr "Select an STL and click on \"open\", it will load the model on Cura"
 
 # 3e61d8d5cb934643ba45a1f4282b689e
-#: ../../source/mm1.rst:1260
+#: ../../source/mm1.rst:1263
 msgid ""
 "2.- Retira la memoria SD de la impresora, e inserta en tu computadora, "
 "observa bien como cambian los iconos al momento de insertar la memoria, "
@@ -2210,7 +2149,7 @@ msgstr ""
 "icon to save the GCode on the SD card."
 
 # 9a61760eeb174982a6c6a92b4234b2e8
-#: ../../source/mm1.rst:1269
+#: ../../source/mm1.rst:1272
 msgid ""
 "Una vez que das clic en el icono de la tarjeta SD se ha guardado tu "
 "código en la tarjeta y deberás sacarla hasta que te aparezca la leyenda "
@@ -2220,7 +2159,7 @@ msgstr ""
 "from the computer."
 
 # 8e238c880e7641dc892da6544f5b1c15
-#: ../../source/mm1.rst:1277
+#: ../../source/mm1.rst:1280
 msgid ""
 "Listo puede retirar su tajeta SD y volverla a colocar en la impresora, "
 "encender la misma y mandar a imprimir."
@@ -2229,7 +2168,7 @@ msgstr ""
 "from SD\" on the sccreen, and select the model you want to print."
 
 # cc19d64165cd4c498ea811eb88969a9e
-#: ../../source/mm1.rst:1285
+#: ../../source/mm1.rst:1288
 msgid ""
 "Listo la impresora comenzará a calentar la cama caliente y después la "
 "boquilla, o solo comenzará a calentar ambas partes, esto se debe a la "
@@ -2241,7 +2180,7 @@ msgstr ""
 "to the parameters configuring in cura."
 
 # 572be7a2935c4e33847fd3224487f971
-#: ../../source/mm1.rst:1295
+#: ../../source/mm1.rst:1298
 msgid ""
 "En cuanto la temperatura que colocamos en el Código G llegue en la "
 "pantalla comenzará a imprimir, lo primero que hará es irse a su origen de"
@@ -2253,7 +2192,7 @@ msgstr ""
 "some material, then will go to the enter of the bed to beging the print."
 
 # 19ab9ac42dfb43e392b17ba53e76cf17
-#: ../../source/mm1.rst:1299
+#: ../../source/mm1.rst:1302
 msgid ""
 "La primer capa siempre es la mas importante debe de quedar un poco "
 "aplastada hacia la cama caliente, para ser mas exactos así como se "
@@ -2263,7 +2202,7 @@ msgstr ""
 "bed, see the image as a reference."
 
 # 8f21aed938fc415f8bb18c74ba8a0269
-#: ../../source/mm1.rst:1309
+#: ../../source/mm1.rst:1312
 msgid ""
 "Ya que termino la impresión solo retiramos la pieza con ayuda de un "
 "cutter o una espátula tratamos de levantar la pieza por una esquina y "
@@ -2274,17 +2213,17 @@ msgstr ""
 "from the bed."
 
 # c7761887549649eebb0a6970fd39f425
-#: ../../source/mm1.rst:1316
+#: ../../source/mm1.rst:1319
 msgid "Módulos"
 msgstr "Modules"
 
 # 9f0e7149525c42e1a58f4875af9592d2
-#: ../../source/mm1.rst:1319
+#: ../../source/mm1.rst:1322
 msgid "Módulo Flexy"
 msgstr "Flexy Module"
 
 # d0fde6d9c65145cda6a4dbc6d7bfead0
-#: ../../source/mm1.rst:1321
+#: ../../source/mm1.rst:1324
 msgid ""
 "Este módulo te sirve para poder imprimir con materiales flexibles, como "
 "el Ninjaflex, el TPE, PLA Soft entre otros más. Te invitamos a que "
@@ -2296,7 +2235,7 @@ msgstr ""
 "flexy module."
 
 # 1f82ae81dd4440038351ce5fba22f9aa
-#: ../../source/mm1.rst:1325
+#: ../../source/mm1.rst:1328
 msgid ""
 "En este manual vamos a colocar nuestro módulo Flexy e imprimir lo primero"
 " que tenemos que hacer es tener bien identifiquemos los componentes de "
@@ -2304,32 +2243,32 @@ msgid ""
 msgstr "We will identify the componets of the module to install it correctly,"
 
 # 35b22cdfef1448959dd78bcae4ba89e3
-#: ../../source/mm1.rst:1331
+#: ../../source/mm1.rst:1334
 msgid "1.- Módulo inferior  (boquilla )"
 msgstr "1.- Lower module (noozle)"
 
 # 31026c24cd1c4ff48ea6e0bba6b29938
-#: ../../source/mm1.rst:1333
+#: ../../source/mm1.rst:1336
 msgid "2.- Módulo superior (Extrusor)"
 msgstr "2.- Superior Module (Extruder)"
 
 # 94ac56816e334bb3a15de5961070ce0f
-#: ../../source/mm1.rst:1335
+#: ../../source/mm1.rst:1338
 msgid "3.- Guía de filamento"
 msgstr "3.- Filament Guide"
 
 # b447c97a73c844a990f2969c17e51f20
-#: ../../source/mm1.rst:1337
+#: ../../source/mm1.rst:1340
 msgid "4.- Cable de motor para extrusor"
 msgstr "4.- Extruder motor Wire"
 
 # 6b587921763744e1aa2e6bccbd7a7f48
-#: ../../source/mm1.rst:1339
+#: ../../source/mm1.rst:1342
 msgid "5.- Tres tornillos M3x16mm"
 msgstr "5.- Three M3x16mm screws"
 
 # 71bed26a90f642d3bc6459308967c83b
-#: ../../source/mm1.rst:1344
+#: ../../source/mm1.rst:1347
 msgid ""
 "Estas piezas son indispensables y únicas para poder montar y usar tu "
 "Módulo Flexyble."
@@ -2338,26 +2277,26 @@ msgstr ""
 "module."
 
 # c9994e9c1a0b4d66a6394bc3b495f056
-#: ../../source/mm1.rst:1349
+#: ../../source/mm1.rst:1352
 msgid ""
 "Colocaremos el Módulo 1 por debajo de la cruz hasta que llegue a su "
 "limite."
 msgstr "Put the Lower Module under the cross until it reaches to the limit."
 
 # 2a28ee48b3374cd998ed6a21d61f54d3
-#: ../../source/mm1.rst:1359
+#: ../../source/mm1.rst:1362
 msgid ""
 "Ahora colocamos nuestro clip de sujeción, este es un paso importante ya "
 "que es legal parte de apoyo entre la cruz y el modulo."
 msgstr "Insert the clip to hold the module on the cross."
 
 # 1093d33faa43483ba360941473a8f74c
-#: ../../source/mm1.rst:1369
+#: ../../source/mm1.rst:1372
 msgid "hasta este punto el módulo 1 esta anclado a la cruz central."
 msgstr "At this point the lower module is attached to the cross."
 
 # 41353745fb4849708fcabbb358e905bf
-#: ../../source/mm1.rst:1373
+#: ../../source/mm1.rst:1376
 msgid ""
 "Colocamos el módulo 2 en la parte superior del módulo 1. Es de suma "
 "importancia ya que esta es la parte en donde se distribuye el filamento a"
@@ -2367,12 +2306,12 @@ msgstr ""
 "because is the part that provides the filament to the noozle."
 
 # 1fb1409c33324036be02b4480b2feabb
-#: ../../source/mm1.rst:1378
+#: ../../source/mm1.rst:1381
 msgid "El Módulo 2  debe de embonar bien con el Módulo 1"
 msgstr "Higher module must fix perfectly on lower module."
 
 # c092a1c8352b452abca722f15ce94206
-#: ../../source/mm1.rst:1382
+#: ../../source/mm1.rst:1385
 msgid ""
 "Ahora colocaremos los tornillos M3x16mm para unir y fijar ambas partes "
 "del Módulo Flexy. Para poder colocarlos necesitaremos la ayuda de una "
@@ -2382,7 +2321,7 @@ msgstr ""
 "use an \"L\" 2.5mm Allen wrench."
 
 # a24778002e51493393d48f1d6874e293
-#: ../../source/mm1.rst:1388
+#: ../../source/mm1.rst:1391
 msgid ""
 "Gira un poco el engrane grande para poder colocar los dos tornillos que "
 "van en la parte que señala la flecha."
@@ -2391,14 +2330,14 @@ msgstr ""
 "on the picture."
 
 # 4bfed573247d4f5980778ceadca861dd
-#: ../../source/mm1.rst:1401
+#: ../../source/mm1.rst:1404
 msgid ""
 "Colocamos la guía de filamento en el perfil superior trasero como se ve "
 "en las imágenes."
 msgstr "Put the filment guide on the top back profile as shown in the images."
 
 # 2f73892b312549fba3f1a4b5d17f3c90
-#: ../../source/mm1.rst:1410
+#: ../../source/mm1.rst:1413
 msgid ""
 "Vamos a conectar los cables del módulo, pasamos los cables por encima del"
 " perfil superior izquierdo y  conectamos los cables."
@@ -2407,14 +2346,14 @@ msgstr ""
 "and plug them."
 
 # 4ffc856fe56b4bc4ba10e762d635369a
-#: ../../source/mm1.rst:1418
+#: ../../source/mm1.rst:1421
 msgid ""
 "Ya que conectamos todos los conectores pasamos a conectar el motor con su"
 " cable."
 msgstr "Now conect the motor with its cable"
 
 # dbde2e09eba14278af5187f80e4594de
-#: ../../source/mm1.rst:1421
+#: ../../source/mm1.rst:1424
 msgid ""
 "recuerda que este cable es diferente al que ya tienes conectado es igual "
 "de sus conectores pero tiene algo exclusivo para el motor del flexy."
@@ -2423,12 +2362,12 @@ msgstr ""
 "motor cable but has a paticular feature for the flexy module."
 
 # 2a738852458444069a06b94300f442db
-#: ../../source/mm1.rst:1424
+#: ../../source/mm1.rst:1427
 msgid "Primero conectamos el motor"
 msgstr "First we connect the motor"
 
 # 273998226d06426f88561ce60020e086
-#: ../../source/mm1.rst:1428
+#: ../../source/mm1.rst:1431
 msgid ""
 "Después conectamos este cable en la parte que dice M1 de la parte trasera"
 " de la impresora, si ya cuentas con un cable conectado en esta sección, "
@@ -2439,7 +2378,7 @@ msgstr ""
 "cable that comes with the module."
 
 # fadd78c57da34bb082df9df09f6e99d1
-#: ../../source/mm1.rst:1436
+#: ../../source/mm1.rst:1439
 msgid ""
 "Por último vamos a colocar el filamento y sacar un código G, de cura para"
 " poder imprimir, para poder meter el filamento a la boquilla usamos los "
@@ -2449,49 +2388,49 @@ msgstr ""
 " to oad the filament in the noozle."
 
 # 599422d1912f445a94c3453a8708049a
-#: ../../source/mm1.rst:1440
+#: ../../source/mm1.rst:1443
 msgid "Como comenzar a imprimir"
 msgstr "How to start to print"
 
 # b7ff671e62ba4b20b8b7e96457ca1592
-#: ../../source/mm1.rst:1442
+#: ../../source/mm1.rst:1445
 msgid "Enciende la impresora"
 msgstr "Turn on the printer"
 
 # 7824ee16729f4447bcb63c1da900c56c
-#: ../../source/mm1.rst:1444
+#: ../../source/mm1.rst:1447
 msgid "Da un clic a la perilla, gira la perilla y selecciona control da clic"
 msgstr "Click on the knob, turn it, select CONTROL and click again."
 
 # 8d74dc61ace5469abdae1f34172c90ff
-#: ../../source/mm1.rst:1446
+#: ../../source/mm1.rst:1449
 msgid "Una vez dentro del menú de control selecciona temperature y da clic"
 msgstr "Once you are in CONTROL menu select TEMPERATURE and click"
 
 # 54f2e268a99848e88f1da09a5c941641
-#: ../../source/mm1.rst:1448
+#: ../../source/mm1.rst:1451
 msgid "Selecciona Nozzle y da clic"
 msgstr "Select NOOZLE and click"
 
 # 19cfe6e5804c49e0a5439539bc9c43f3
-#: ../../source/mm1.rst:1450
+#: ../../source/mm1.rst:1453
 msgid ""
 "Sebe la temperatura según el material que vayas a usar  y da clic para "
 "que comience a calentar."
 msgstr "Set he temperature to the material to use and click to start heating"
 
 # 164cd24cfb67450da93ca91fd57bdc19
-#: ../../source/mm1.rst:1456
+#: ../../source/mm1.rst:1459
 msgid "Ninjaflex y TPE  225°C"
 msgstr "Ninjaflex and TPE  225°C"
 
 # a0baf1ae5e154220bb5119f6db70bcd0
-#: ../../source/mm1.rst:1457
+#: ../../source/mm1.rst:1460
 msgid "PLA soft 208°C"
 msgstr "PLA soft 208°C"
 
 # 6f1d4751051a47cd92ae909d23eef624
-#: ../../source/mm1.rst:1459
+#: ../../source/mm1.rst:1462
 msgid ""
 "Una vez que este caliente la boquilla introducimos el filamento por la "
 "guía de filamento lo llevamos hasta el orificio que esta en el módulo 2 y"
@@ -2503,7 +2442,7 @@ msgstr ""
 "clockwise until the filament reaches the noozle."
 
 # 4cdebc23289d480d97b84727232cb7f8
-#: ../../source/mm1.rst:1463
+#: ../../source/mm1.rst:1466
 msgid ""
 "Cuando esto pase se vera que sale como un hilo pequeño de la boquilla y "
 "el filamento estará listo para usarse."
@@ -2512,7 +2451,7 @@ msgstr ""
 "ready to use."
 
 # eba2e4326be145308eb44d24839b565b
-#: ../../source/mm1.rst:1466
+#: ../../source/mm1.rst:1469
 msgid ""
 "Ahora apagamos la impresora y la volvemos a encender, esto se hace para "
 "que de un rest la tarjeta madre y deje de calentar al volverla a encender"
@@ -2526,7 +2465,7 @@ msgstr ""
 "filament jam."
 
 # 5b73ca5960e74dd7be081dd208ad8b3e
-#: ../../source/mm1.rst:1478
+#: ../../source/mm1.rst:1481
 msgid ""
 "Colocaremos los parámetros para poder imprimir en esta parte es muy "
 "importante que coloquemos la temperatura según el material que vayamos a "
@@ -2536,29 +2475,29 @@ msgstr ""
 "temperature depend on the material to use."
 
 # 02ec783857944aff9c6e4fa6991a6203
-#: ../../source/mm1.rst:1483
+#: ../../source/mm1.rst:1486
 msgid ""
 "Para Ninjaflex y TPE te recomendamos usar la temperatura de impresión de "
 "228°C"
 msgstr "For Ninjaflex and TPE the recommended temperaature is 228°C"
 
 # 3c33e36cbd4644abb9d9cdc5b1775141
-#: ../../source/mm1.rst:1486
+#: ../../source/mm1.rst:1489
 msgid "Para el PLA soft te recomendamos usar la temperatura de impresión de 208°C"
 msgstr "For PLA soft the recommended temperature is 208°C"
 
 # 48edece30f6a4419b717b33abb1a1af3
-#: ../../source/mm1.rst:1490
+#: ../../source/mm1.rst:1493
 msgid "Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE."
 msgstr "Here you are the rest of the parameters"
 
 # 80b8384ecc5f46dc9c4328fa9799bdd8
-#: ../../source/mm1.rst:1493
+#: ../../source/mm1.rst:1496
 msgid "solo para el filamento PLA soft se usaran los siguientes parámetros"
 msgstr "For PLA soft we use these parameters."
 
 # 1d291e7cb06849f58f4e11e7782e18a2
-#: ../../source/mm1.rst:1509
+#: ../../source/mm1.rst:1512
 msgid ""
 "Listo amigos una vez que tenemos estos parámetros en nuestro cura podemos"
 " sacar nuestro código G en la tarjeta SD y mandar a imprimir como lo "
@@ -2568,32 +2507,32 @@ msgstr ""
 "from itas we did in the First print section."
 
 # d69216bfd76a4a86a1cfeb23fe6b07cf
-#: ../../source/mm1.rst:1514
+#: ../../source/mm1.rst:1517
 msgid "Módulo Doble"
 msgstr "Dual Extrusion Module"
 
 # ca3ae565f3a74e22b288d34b370a51a2
-#: ../../source/mm1.rst:1516
+#: ../../source/mm1.rst:1519
 msgid "GENERAL"
 msgstr "GENERAL"
 
 # 2c5144e126a846ad86f114851c37e2b5
-#: ../../source/mm1.rst:1519
+#: ../../source/mm1.rst:1522
 msgid "Características técnicas"
 msgstr "Thecnical features"
 
 # 4b9fb3caa37d4e2a821bfde3c6c71a69
-#: ../../source/mm1.rst:1521
+#: ../../source/mm1.rst:1524
 msgid "Dimensiones físicas:  80mm x 74mm x  96mm"
 msgstr "Physical dimentions:  80mm x 74mm x  96mm"
 
 # 3f4a3116967c47a68ede12b76227462f
-#: ../../source/mm1.rst:1522
+#: ../../source/mm1.rst:1525
 msgid "Temperatura máxima: 300°C"
 msgstr "Maximum temperature: 300°C"
 
 # 1cf64c541eed4168b876de9f358b1489
-#: ../../source/mm1.rst:1523
+#: ../../source/mm1.rst:1526
 msgid ""
 "Materiales en filamentos:  Nailon(618,645), Policarbonato (PC), ABS, PLA,"
 " Filamento flexible (TPE, PLA Soft), Lay Wood, PVA, en sí es compatible "
@@ -2604,12 +2543,12 @@ msgstr ""
 "con la mayoría de los filamentos que existen en el mercado."
 
 # ed7be73101ba42159c1b315e98f08214
-#: ../../source/mm1.rst:1530
+#: ../../source/mm1.rst:1533
 msgid "Características generales"
 msgstr "General features"
 
 # 26940c6bcebd407d9736b7836ba949bf
-#: ../../source/mm1.rst:1532
+#: ../../source/mm1.rst:1535
 msgid ""
 "Dos boquillas Hexagon de 0.4mm que permite extruir 2 materiales distintos"
 " o colores diferentes."
@@ -2618,14 +2557,14 @@ msgstr ""
 "two colors."
 
 # 405a15e6fd5f46a095cf7ec793c6e6e6
-#: ../../source/mm1.rst:1534
+#: ../../source/mm1.rst:1537
 msgid ""
 "Se puede utilizar una boquilla para material de soporte, para lograr "
 "mejores acabados superficiales."
 msgstr "You can use one noozle for support, to get best results"
 
 # ea59c409945944b5bbf3680afe053fe0
-#: ../../source/mm1.rst:1536
+#: ../../source/mm1.rst:1539
 msgid ""
 "Cada boquilla extrusora cuenta con su ducto de ventilación para el "
 "material depositado propio, por lo que pueden manejarse de manera "
@@ -2636,12 +2575,12 @@ msgstr ""
 "seprately in case that cooling is not needed for one of the materials."
 
 # 6cc21fa02b184c508e4f0d4f62fd6c98
-#: ../../source/mm1.rst:1542
+#: ../../source/mm1.rst:1545
 msgid "INSTALACIÓN DEL MÓDULO"
 msgstr "MODULE INSTALLATION"
 
 # 5f17694ed2d041d194eb6c4980f641c0
-#: ../../source/mm1.rst:1544
+#: ../../source/mm1.rst:1547
 msgid ""
 "Con el fin de empezar a imprimir de una manera doble material debe poner "
 "el módulo en el apoyo universal transversal de los módulos por su MM1."
@@ -2650,7 +2589,7 @@ msgstr ""
 "module in the module support of the MM1"
 
 # fe6529456045401b8c3caa43acdc68d1
-#: ../../source/mm1.rst:1550
+#: ../../source/mm1.rst:1553
 msgid ""
 "Vamos a colocar nuestro segundo extrusor como colocamos el primero solo "
 "que este va colocado en la parte derecha."
@@ -2659,7 +2598,7 @@ msgstr ""
 "one, the difference is that this one goes to the right."
 
 # 09f6c29cbd8640fda5df4abe9511f879
-#: ../../source/mm1.rst:1555
+#: ../../source/mm1.rst:1558
 msgid ""
 "Debe conectar el segundo extrusor en el cable de 6 pines con la etiqueta "
 "\"2\". La primera máquina de extrusión y el sensor inductivo se conectan "
@@ -2670,12 +2609,12 @@ msgstr ""
 "same way than the single module."
 
 # 2c68e407793a4d39a656f9f28c9ba091
-#: ../../source/mm1.rst:1562
+#: ../../source/mm1.rst:1565
 msgid "CONFIGURACIÓN DE CURA"
 msgstr "CURA CONFIGURATION"
 
 # d99a9bc365174465b515625ca66a7fcc
-#: ../../source/mm1.rst:1564
+#: ../../source/mm1.rst:1567
 msgid ""
 "Usted tendrá que ajustar los parámetros de Cura para el módulo de doble "
 "extrusión. puede hacer esto mediante la modificación de la configuración "
@@ -2685,17 +2624,17 @@ msgstr ""
 "dual extrusion module"
 
 # 7e0d6941760246a2805ac4618e192ea6
-#: ../../source/mm1.rst:1567
+#: ../../source/mm1.rst:1570
 msgid "1.- Diríjase a la etiqueta machine"
 msgstr "1.- Go to de \"Machine\" menu."
 
 # bd6d25a82e284e38b0623f423539667b
-#: ../../source/mm1.rst:1571
+#: ../../source/mm1.rst:1574
 msgid "2.- Una vez en machine diríjase a machine settings y de clic."
 msgstr "2.- Once in \"Machine\", go to \"Machine settings\" and click."
 
 # 34700615d2ee42c0ac61b74f2b8ceac6
-#: ../../source/mm1.rst:1575
+#: ../../source/mm1.rst:1578
 msgid ""
 "3.- Diríjase a Extruder count, damos clic en la pestaña de un lado y "
 "selecciona el número 2 y seleccionamos OK."
@@ -2704,7 +2643,7 @@ msgstr ""
 "OK."
 
 # 0bde7f4917ae45a7bcb9300144d969e6
-#: ../../source/mm1.rst:1580
+#: ../../source/mm1.rst:1583
 msgid ""
 "4.- Misma página a ent ahora volvemos a la rar a machine > machine "
 "settings > y ahora verificamos que los offset se encuentren en cero."
@@ -2713,7 +2652,7 @@ msgstr ""
 "offset is zero."
 
 # 70cac1833d824bcaa870c0ff51f414c0
-#: ../../source/mm1.rst:1585
+#: ../../source/mm1.rst:1588
 msgid ""
 "5.- Ahora modificaremos lo datos de impresión según el material utilizado"
 " y los parámetros del filamento."
@@ -2722,7 +2661,7 @@ msgstr ""
 "to use"
 
 # 41d93866f48e485198e1d7a44ab250d8
-#: ../../source/mm1.rst:1590
+#: ../../source/mm1.rst:1593
 msgid ""
 "5.1.- Ahora se modificaran los parámetros de cura con los datos de "
 "filamento las capas las paredes el leyendo y la retracción que se desea "
@@ -2732,7 +2671,7 @@ msgstr ""
 "and the printing speed."
 
 # 964df55c7be74d6b8114f188a3ec2eff
-#: ../../source/mm1.rst:1594
+#: ../../source/mm1.rst:1597
 msgid ""
 "En layer height  se selecciona la altura de cada capa y con Shell "
 "thickness el grosor de cada capa"
@@ -2741,7 +2680,7 @@ msgstr ""
 "the thicknes of the wall."
 
 # cdb834d7fac6405f92d10de451221527
-#: ../../source/mm1.rst:1596
+#: ../../source/mm1.rst:1599
 #, python-format
 msgid ""
 "En fill Density se selecciona la densidad de relleno de la figura que "
@@ -2752,12 +2691,12 @@ msgstr ""
 "put 40% for functional parts; and 15% to 20% for visual prototypes."
 
 # 688cb2cd01424bc1bc550e242a32c406
-#: ../../source/mm1.rst:1600
+#: ../../source/mm1.rst:1603
 msgid "Ahora en print Speed seleccionamos la velocidad de impresión en mm/s."
 msgstr "Now we configure the printing Speed in mm/s."
 
 # a417a2a1df2547a280d3f0beb59be5cc
-#: ../../source/mm1.rst:1602
+#: ../../source/mm1.rst:1605
 msgid ""
 "Y seleccionamos la temperatura con la que trabajara cada boquilla o "
 "nozzle esto de acuerdo al material de impresión así como de la cama "
@@ -2767,7 +2706,7 @@ msgstr ""
 "as well as the bed temperature."
 
 # 09dab5de543449cba48049fe2c6c6a37
-#: ../../source/mm1.rst:1606
+#: ../../source/mm1.rst:1609
 msgid ""
 "Ahora se definirá si la figura necesita algún soporte este soporte por "
 "primera impresión lo aremos con la segunda boquilla  así que moveremos en"
@@ -2777,7 +2716,7 @@ msgstr ""
 "the support with the second noozle, go to \"support type\"."
 
 # a9ee7a460367478d9c62ac0eb0d771e9
-#: ../../source/mm1.rst:1610
+#: ../../source/mm1.rst:1613
 msgid ""
 "Si se pondrá unas capas en las cuales se adherirá el material y en lo que"
 " nos enfocaremos nosotros será en Support dual extrusión en esa parte "
@@ -2787,7 +2726,7 @@ msgstr ""
 "extruder\"."
 
 # a9050c5486ee4704916ac1fdc6034677
-#: ../../source/mm1.rst:1614
+#: ../../source/mm1.rst:1617
 msgid ""
 "Ahora bien por primera impresión ocuparemos colocar una palomita en wipe "
 "& prime tower que es una torre que generara con cada capa para verificar "
@@ -2797,7 +2736,7 @@ msgstr ""
 " support tower used to verify that we dont have layer shifting "
 
 # f5dad1638cc14daa87dd4ea5373824cf
-#: ../../source/mm1.rst:1618
+#: ../../source/mm1.rst:1621
 msgid ""
 "Ahora bien para el diámetro del filamento se modifica el diameter2 (mm) "
 "utilizaremos el mismo que para diameter (mm).que por lo regular se "
@@ -2807,7 +2746,7 @@ msgstr ""
 " same diameter than the used in noozle 1 (2.89mm or 3mm)"
 
 # 96136ca0846643dcb8452bb26af0665b
-#: ../../source/mm1.rst:1621
+#: ../../source/mm1.rst:1624
 msgid ""
 "5.2.- Ahora en advanced modificaremos la retracción del material que por "
 "lo común se modificara solo “speed (mm/s)” que normalmente es de 15 a 20 "
@@ -2818,12 +2757,12 @@ msgstr ""
 "should be 15 or 20mm,  the distance hould be between 5mm to 8mm. "
 
 # 5f23858173f145f28f47cdd37198f9b9
-#: ../../source/mm1.rst:1629
+#: ../../source/mm1.rst:1632
 msgid "Estableciendo el perfil de materiales"
 msgstr "Setting mterial profiles"
 
 # c9a6ca45cc114e2e92d3e0915cf54afe
-#: ../../source/mm1.rst:1631
+#: ../../source/mm1.rst:1634
 msgid ""
 "Usted necesitará un modelo que se corta en dos partes, dejando Cura para "
 "saber qué parte va a asignar a cada extrusora. Hay varios ejemplos ya "
@@ -2836,7 +2775,7 @@ msgstr ""
 " Blender."
 
 # c886c01c3d3a432c8e2182071404bfea
-#: ../../source/mm1.rst:1635
+#: ../../source/mm1.rst:1638
 msgid ""
 "En Cura debe importar la primera parte del modelo que se va a imprimir "
 "con la primera extrusora."
@@ -2845,7 +2784,7 @@ msgstr ""
 "first extruder."
 
 # e85a85de6e27469da6f6a089926c47b3
-#: ../../source/mm1.rst:1640
+#: ../../source/mm1.rst:1643
 msgid ""
 "Posteriormente se debe importar la parte del modelo que se va a imprimir "
 "con la segunda extrusora."
@@ -2854,7 +2793,7 @@ msgstr ""
 "second extruder."
 
 # db5befb5155a41e58b51bba619eed879
-#: ../../source/mm1.rst:1646
+#: ../../source/mm1.rst:1649
 msgid ""
 "Por último, debe unirlos haciendo clic derecho en el espacio de trabajo "
 "en Cura y seleccionando la opción \"Dual fusión de extrusión\"."
@@ -2863,12 +2802,12 @@ msgstr ""
 "fusion de extrusión\", this will join the two parts in a single model."
 
 # 40f9dc394fa2460fa2f88cb5b0f55c53
-#: ../../source/mm1.rst:1651
+#: ../../source/mm1.rst:1654
 msgid "Así queda la figura. la segunda extrusora imprimirá las partes en rojo"
 msgstr "The piece must look like the image, the second extruder will print in red."
 
 # 5bb49f6939224782830b3ed1967f5980
-#: ../../source/mm1.rst:1655
+#: ../../source/mm1.rst:1658
 msgid ""
 "Ya que esta unida la pieza en el software cura, para poder mandar a "
 "imprimir, es necesario sacar nuestro código en la Tarjeta SD, así como lo"
@@ -2881,27 +2820,27 @@ msgstr ""
 "it."
 
 # 2ce3655ec1f5460d8bef35d8fd1fc3b9
-#: ../../source/mm1.rst:1661
+#: ../../source/mm1.rst:1664
 msgid "Módulo CNC"
 msgstr "CNC Module"
 
 # a764c0bfb57e4db1939301b79b3fb3f6
-#: ../../source/mm1.rst:1663
+#: ../../source/mm1.rst:1666
 msgid "MANUAL DE GRAVADO CON EL MÓDULO CNC con BlenderCAM"
 msgstr "MANUAL FOR MACHINING WITH CNC MODULE using BlenderCAM"
 
 # 240aa8cf6cac48f9910080faf59f53f4
-#: ../../source/mm1.rst:1665
+#: ../../source/mm1.rst:1668
 msgid "DESCRPCIÓN DEL SOFTWARE"
 msgstr "SOFTWARE DESCRIPTION"
 
 # 85a5c13ece7d426998fe3fe07dd660be
-#: ../../source/mm1.rst:1667
+#: ../../source/mm1.rst:1670
 msgid "¿Que es BlenderCAM?"
 msgstr "What is BlenderCAM?"
 
 # 9b2ea34eb69942ce820044944f3992a8
-#: ../../source/mm1.rst:1669
+#: ../../source/mm1.rst:1672
 msgid ""
 "BlenderCAM es una solución de código abierto para la CAM artístico - "
 "Informática mecanizado asistido - una herramienta de generación de código"
@@ -2921,110 +2860,110 @@ msgstr ""
 "project and start generating pull requests."
 
 # 68e7fa912df74f0fb9b9b08b3ca91be0
-#: ../../source/mm1.rst:1680
+#: ../../source/mm1.rst:1683
 msgid "CARACTERÍSTICAS"
 msgstr "FEATURES"
 
 # 43fedd5a5ec54abd8c40289e8686b2a5
-#: ../../source/mm1.rst:1682
+#: ../../source/mm1.rst:1685
 msgid "Varias estrategias de fresado para 2D y 3D"
 msgstr "Milling strategies for 2D and 3D projects"
 
 # 1f9df7964ac1433b9974a5997beba1c1
-#: ../../source/mm1.rst:1683
+#: ../../source/mm1.rst:1686
 msgid ""
 "Tipos cortador de bola, plana, v-tallar con varios ángulos, definibles "
 "por el usuario"
 msgstr "Ball-carving, V-carving to various uer defined angles"
 
 # 5a1ad4023a4c4bbf8b4756aa63dc328d
-#: ../../source/mm1.rst:1685
+#: ../../source/mm1.rst:1688
 msgid "Trabajar con datos en 3D o imágenes de profundidad"
 msgstr "Works with 3D data or depth images"
 
 # 025bebbd1f0048c1986c05d9f852b364
-#: ../../source/mm1.rst:1686
+#: ../../source/mm1.rst:1689
 msgid "Capas de la piel y para el desbaste."
 msgstr "skin layers for the roughing"
 
 # 328dd2cc9c1a4135af0a66210403f921
-#: ../../source/mm1.rst:1687
+#: ../../source/mm1.rst:1690
 msgid "Fresado inversa"
 msgstr "Inverse miling"
 
 # 434e51021bd74879b8ff19542481dac5
-#: ../../source/mm1.rst:1688
+#: ../../source/mm1.rst:1691
 msgid "Varias opciones para ambiente alrededor modelo"
 msgstr "Various environment options around model"
 
 # c5bce9747bc84459895da123f4a394bd
-#: ../../source/mm1.rst:1689
+#: ../../source/mm1.rst:1692
 msgid "Protección de superficies verticales"
 msgstr "Vertical surfaces protection"
 
 # 8db97b9eeb4d49fb9a95402ba4dbbf15
-#: ../../source/mm1.rst:1690
+#: ../../source/mm1.rst:1693
 msgid "Mantenerse bajo - opción para el movimiento"
 msgstr "keep low-option movement."
 
 # 1d182da27a4740999414b7778a55bbf2
-#: ../../source/mm1.rst:1691
+#: ../../source/mm1.rst:1694
 msgid "Configuración de tamaño del material"
 msgstr "Material size configuration"
 
 # 92ee8cd428ff42b59c7253b41d258870
-#: ../../source/mm1.rst:1692
+#: ../../source/mm1.rst:1695
 msgid "Simulación de operaciones 3d"
 msgstr "3D operations simulation"
 
 # fed1ee1ec36c48caab33f791831e7c01
-#: ../../source/mm1.rst:1693
+#: ../../source/mm1.rst:1696
 msgid ""
 "Antecedentes de computación de las operaciones, por lo que puede seguir "
 "trabajando"
 msgstr "Background Computing, gving you the posibility to continue working"
 
 # 9bb07f00bffd4daca35aa95fcb02c76f
-#: ../../source/mm1.rst:1695
+#: ../../source/mm1.rst:1698
 msgid ""
 "Entrada hélice, retracción de arco, rampa de bajada para algunas de las "
 "estrategias."
 msgstr "propeller input, arc retraction, descending ramp for some strategies"
 
 # 648fef81eb5c439c829a453dd9899eac
-#: ../../source/mm1.rst:1697
+#: ../../source/mm1.rst:1700
 msgid "Puentes automáticas para la operación de recorte"
 msgstr "Automatic bridges with a group of curves"
 
 # 5de6e1e638b948999f0623179a78596c
-#: ../../source/mm1.rst:1698
+#: ../../source/mm1.rst:1701
 msgid "La exportación de la cadena y de simulación"
 msgstr "Exporting of the chain and simulation"
 
 # 3f273386680b41659f98f69c009acf39
-#: ../../source/mm1.rst:1699
+#: ../../source/mm1.rst:1702
 msgid "Molienda 3 a 5 ejes"
 msgstr "3 to 5 axis miling"
 
 # 5b8d4ed5bf044b00a8978552bbbdc79b
-#: ../../source/mm1.rst:1704
+#: ../../source/mm1.rst:1707
 msgid "Más información: http://blendercam.blogspot.mx"
 msgstr "More information in http://blendercam.blogspot.mx"
 
 # d608b410f30d422eafcc923c5b6f665b
-#: ../../source/mm1.rst:1707
+#: ../../source/mm1.rst:1710
 msgid "INSTALACIÓN DE BLENDER-CAM"
 msgstr "BLENDER-CAM INSTALLATION"
 
 # e1ac7b15e66f46808d0ac0207f548558
-#: ../../source/mm1.rst:1710
+#: ../../source/mm1.rst:1713
 msgid ""
 "Para instalar BlenderCAM hacemos clic en el link que nos envía a la "
 "página oficial del software."
 msgstr "To install BlenderCAM, clic on the link to de software official website"
 
 # 77b712c218f743aebb2f6616539c21ac
-#: ../../source/mm1.rst:1714
+#: ../../source/mm1.rst:1717
 msgid ""
 "Link  de descarga http://blendercam.blogspot.mx/p/download-and-"
 "installation.html"
@@ -3033,7 +2972,7 @@ msgstr ""
 "installation.html"
 
 # 9e3b8dd0fd68411e944048ab24613bab
-#: ../../source/mm1.rst:1718
+#: ../../source/mm1.rst:1721
 msgid ""
 "Abrimos la pestaña: Download and installation Damos clic en: Google Drive"
 " repository"
@@ -3042,19 +2981,19 @@ msgstr ""
 "repository\"."
 
 # 292699fdfeef468da18d656abd0df181
-#: ../../source/mm1.rst:1723
+#: ../../source/mm1.rst:1726
 msgid ""
 "En la pestaña siguiente seleccionamos el BlenderCAM de acuerdo a nuestro "
 "sistema operativo."
 msgstr "In the next tab we select BlenderCam for our Operating System"
 
 # 358026d9d32d44dc93666be84df7025e
-#: ../../source/mm1.rst:1728
+#: ../../source/mm1.rst:1731
 msgid "DESCRIPCIÓN DEL ÁREA DE TRABAJO"
 msgstr "WORK AREA DESCRIPTION"
 
 # 5b77ef16734e42ed909f7a4112f4b7a0
-#: ../../source/mm1.rst:1732
+#: ../../source/mm1.rst:1735
 msgid ""
 "En la imagen 1, se muestra la pantalla de inicio de BlenderCAM versión "
 "2.70 a. a continuación se describirá las áreas de trabajo de una forma "
@@ -3064,7 +3003,7 @@ msgstr ""
 "describe the working area in a basic way."
 
 # 7f3af728c4764bc0898d1321791c4925
-#: ../../source/mm1.rst:1735
+#: ../../source/mm1.rst:1738
 msgid ""
 "1.- Es el panel de herramientas y su atajo es la tecla [T], en el cual "
 "podremos crear una figura primaria, mover, escalar, rotar entre otras, "
@@ -3082,7 +3021,7 @@ msgstr ""
 "the area."
 
 # effefd87d66147079caa49ebcc5709ec
-#: ../../source/mm1.rst:1743
+#: ../../source/mm1.rst:1746
 msgid ""
 "Con clic derecho podemos seleccionar los objetos además de moverlos de "
 "una forma libre. Podemos hacer zoom moviendo el scroll."
@@ -3091,7 +3030,7 @@ msgstr ""
 "zoom  with the mouse scroll."
 
 # f90ba5b0464049a0a2421e4e0422ff68
-#: ../../source/mm1.rst:1746
+#: ../../source/mm1.rst:1749
 msgid ""
 "3.- Es el panel de propiedades y su atajo es la letra [N], en donde "
 "encontramos y podemos modificar la posición del objeto y el cursor  en el"
@@ -3125,7 +3064,7 @@ msgstr ""
 "exploitation of the software. "
 
 # 1d9db426005943ba99a20da5c83cff11
-#: ../../source/mm1.rst:1765
+#: ../../source/mm1.rst:1768
 msgid ""
 "8.- Ir a al panel User Preference , seleccionar File y abrir la carpeta "
 "User Preferences. También se puede llegar con el siguiente comando "
@@ -3143,7 +3082,7 @@ msgstr ""
 "the image."
 
 # a09b879804c44eb298dce2da5084a29a
-#: ../../source/mm1.rst:1774
+#: ../../source/mm1.rst:1777
 msgid ""
 "El segundo paso es guiar a BlenderCAM a buscar una ruta alternativa, para"
 " los complementos. Cuando BlenderCAM se ejecute, buscara la ruta para "
@@ -3156,7 +3095,7 @@ msgstr ""
 " Blender."
 
 # 2310ce3f211744b9b15ecb1a4c7d83b3
-#: ../../source/mm1.rst:1780
+#: ../../source/mm1.rst:1783
 msgid ""
 "13.- Ir a al panel User Preference , seleccionar File y abrir la carpeta "
 "User Preferences. También se puede llegar con el siguiente comando "
@@ -3174,27 +3113,27 @@ msgstr ""
 "configuration. 17.- Finay restart Bender."
 
 # 1ee0c061d40a4fb8a66c4a9b1e771afb
-#: ../../source/mm1.rst:1789
+#: ../../source/mm1.rst:1792
 msgid "Entrar al modo CAM"
 msgstr "Enter CAM mode"
 
 # 1804d480ca2548d7813eee4d61cef0ba
-#: ../../source/mm1.rst:1794
+#: ../../source/mm1.rst:1797
 msgid "Ir a la barra superior (User Preference), desplegar la ventana Engine"
 msgstr "Go to the top bar (User preferences), open the \"Engine\" window"
 
 # b4786d361f0e46e28494241588a17844
-#: ../../source/mm1.rst:1795
+#: ../../source/mm1.rst:1798
 msgid "Seleccionar el modo Blender CAM"
 msgstr "Select Blender CAM mode"
 
 # 71385194575e48a38809dad907d1b0fe
-#: ../../source/mm1.rst:1796
+#: ../../source/mm1.rst:1799
 msgid "Ir al panel de operaciones y seleccionar el Render"
 msgstr "Go to the operations paneland select the render."
 
 # e90b0b35965c4b64adc4595c61673403
-#: ../../source/mm1.rst:1799
+#: ../../source/mm1.rst:1802
 msgid ""
 "Con el modo BlenderCAM podemos empezar a trabajar, en esta ocasión solo "
 "se llevara a cabo el proceso de gravado."
@@ -3203,17 +3142,17 @@ msgstr ""
 "the graving process."
 
 # 8f7cd8323054402889840651a1ce3bb5
-#: ../../source/mm1.rst:1806
+#: ../../source/mm1.rst:1809
 msgid "Descripción de los parámetros CAM"
 msgstr "CAM parameters description"
 
 # 8621f6c69a4e43558b1074f6099ca114
-#: ../../source/mm1.rst:1808
+#: ../../source/mm1.rst:1811
 msgid "CAM operations"
 msgstr "CM operations"
 
 # 96bbdefa76804401990d70a1b127be84
-#: ../../source/mm1.rst:1812
+#: ../../source/mm1.rst:1815
 msgid ""
 "Calculate path: Calcula la operación que se realizará, además nos muestra"
 " una Simulación gráfica del recorrido que llevara nuestro CNC. Para ello "
@@ -3225,7 +3164,7 @@ msgstr ""
 " selectig the object. hold the button pressed and wait a few seconds."
 
 # 9e7cff7b88aa41bbbd6093de53a02f8f
-#: ../../source/mm1.rst:1817
+#: ../../source/mm1.rst:1820
 msgid ""
 "Calculate path in background: Esta función calcula la ruta, mientras se "
 "puede seguir trabajando en la creación de otras operaciones, es "
@@ -3236,7 +3175,7 @@ msgstr ""
 "the document before you realice any calculation."
 
 # 7ba05056353a47bf978afcd4fc1a0419
-#: ../../source/mm1.rst:1821
+#: ../../source/mm1.rst:1824
 msgid ""
 "Simulate this operation: Al generar esta simulación se nos crea un objeto"
 " encima de nuestro modelo, el cual lo podemos mover en cualquier eje "
@@ -3249,7 +3188,7 @@ msgstr ""
 "optimiztion panel."
 
 # f17b08c512824780ac7a8af9080962db
-#: ../../source/mm1.rst:1825
+#: ../../source/mm1.rst:1828
 msgid ""
 "Operation name: En este campo se puede cambiar el nombre de la operación "
 "seleccionada"
@@ -3258,7 +3197,7 @@ msgstr ""
 "operation."
 
 # 5dba37b21f394b068c91b3ce9ae4d72c
-#: ../../source/mm1.rst:1828
+#: ../../source/mm1.rst:1831
 msgid ""
 "File name: Es el nombre del archivo gcode generado, la extensión de "
 "archivo utilizado será determinado por el porstprocesador g-código "
@@ -3268,7 +3207,7 @@ msgstr ""
 "will be determined for the selected g-code postprocessor."
 
 # bea53adbdfda4d5ebad336daa17e263e
-#: ../../source/mm1.rst:1831
+#: ../../source/mm1.rst:1834
 msgid ""
 "Auto export: Si esta activada la opción, el G-codigo se generará "
 "automáticamente y se guardara en el archivo después del cálculo de"
@@ -3277,14 +3216,14 @@ msgstr ""
 "automatically generated and the file will be saved fter the calculations"
 
 # 00ea18b2a16743619163c37eae4da7dd
-#: ../../source/mm1.rst:1834
+#: ../../source/mm1.rst:1837
 msgid ""
 "La operación, en la misma carpeta donde se ejecutó el BlenderCAM antes de"
 " instalarlo"
 msgstr "of the operation in the same folder where BlenderCAM is saved."
 
 # 693318835db84fe8afd164bdd48f433d
-#: ../../source/mm1.rst:1836
+#: ../../source/mm1.rst:1839
 msgid ""
 "Source of dates: Aquí se selecciona el conjunto y tipo de objetos, puede "
 "ser una imagen, un grupo de objetos o un objeto"
@@ -3293,22 +3232,22 @@ msgstr ""
 "aan image or an objects group or a single object."
 
 # 1399bfef99ea42cd8a3ae51cd4287d38
-#: ../../source/mm1.rst:1839
+#: ../../source/mm1.rst:1842
 msgid "Objet: Aparece la malla o curva que se está trabajando"
 msgstr "Object, here appears the  mesh or curve you are workig on"
 
 # 47ed24d19e1b43d7bdc9a9f1aab79851
-#: ../../source/mm1.rst:1841
+#: ../../source/mm1.rst:1844
 msgid "CAM info & warnings"
 msgstr "CAM info & warnings"
 
 # c3da6cef8322421f885c590b5856b7b5
-#: ../../source/mm1.rst:1845
+#: ../../source/mm1.rst:1848
 msgid "CAM operation setup"
 msgstr "CAM operation setup"
 
 # 7b25526fb7d544f693357e4c709e5c03
-#: ../../source/mm1.rst:1847
+#: ../../source/mm1.rst:1850
 msgid ""
 "Strategy: En esta opción elegimos el proceso    que se realizará en "
 "nuestro objeto, a continuación mostraremos las siguientes estrategias o "
@@ -3318,60 +3257,60 @@ msgstr ""
 "our object, next we will show the following stratgies or processes."
 
 # 6a5a9090f4f04e37b0f8acd1b2ea09a9
-#: ../../source/mm1.rst:1850
+#: ../../source/mm1.rst:1853
 msgid "PARALLEL: trayectorias paralelas en cualquier ángulo"
 msgstr "PARALLEL: paralel paths in any angle."
 
 # 88f9ff186f274cf896c383a0af3b0c00
-#: ../../source/mm1.rst:1854
+#: ../../source/mm1.rst:1857
 msgid "CROSS"
 msgstr "CROSS"
 
 # 4d0d3b482a6b431fb6b1de7606489306
-#: ../../source/mm1.rst:1858
+#: ../../source/mm1.rst:1861
 msgid "BLOCK"
 msgstr "BLOCK"
 
 # 98139af54db24bc68ae767ee200bb254
-#: ../../source/mm1.rst:1862
+#: ../../source/mm1.rst:1865
 msgid "SPIRAL"
 msgstr "SPIRAL"
 
-# 48f7062ef4064834a68b4c26f0c7088a
 # 33acc903fde64fdaad4451bfb82ed0af
-#: ../../source/mm1.rst:1864 ../../source/mm1.rst:1870
+# 48f7062ef4064834a68b4c26f0c7088a
+#: ../../source/mm1.rst:1867 ../../source/mm1.rst:1873
 msgid "Adecuado para objetos curvos"
 msgstr "Right for curve objects"
 
 # a38c8bd40d5e4183ace4924d44872942
-#: ../../source/mm1.rst:1868
+#: ../../source/mm1.rst:1871
 msgid "CIRCLES"
 msgstr "CIRCLES"
 
 # e18fc600bb764d7182ffe2634e2ef294
-#: ../../source/mm1.rst:1874
+#: ../../source/mm1.rst:1877
 msgid "WATERLINE EXPER."
 msgstr "WATERLINE EXPER."
 
 # 439587ca38334aad9fda938dd662f62d
-#: ../../source/mm1.rst:1876
+#: ../../source/mm1.rst:1879
 msgid ""
 "Realiza mejores acabados, pero se define como un proceso experimental "
 "para el usuario."
 msgstr "Perform better finishes, is an experimental user process."
 
 # 797e9980ec2b43db9697b96c8e9a3648
-#: ../../source/mm1.rst:1880
+#: ../../source/mm1.rst:1883
 msgid "OUTLINE FILL"
 msgstr "OUTLINE FILL"
 
 # 3d65f4879a7749958d024b544a6b3533
-#: ../../source/mm1.rst:1884
+#: ../../source/mm1.rst:1887
 msgid "CUTOUT"
 msgstr "CUTOUT"
 
 # 5462ddd8e8b84e37820e4ee88ab88aa0
-#: ../../source/mm1.rst:1886
+#: ../../source/mm1.rst:1889
 msgid ""
 "Este proceso se utilizará para gravado, ya que marca el contorno dentro, "
 "sobre o fuera de la línea de nuestro objeto o curva"
@@ -3380,17 +3319,17 @@ msgstr ""
 "over or outside the line of our object or curve"
 
 # 5b78365272b843ba979181575755a184
-#: ../../source/mm1.rst:1891
+#: ../../source/mm1.rst:1894
 msgid "POCKET"
 msgstr "POCKET"
 
 # 9783e8bb9b5e47e884a9b8b9a53103f5
-#: ../../source/mm1.rst:1895
+#: ../../source/mm1.rst:1898
 msgid "DRILL"
 msgstr "DRILL"
 
 # dcaefbb586e148fa8384f38e6bcb2474
-#: ../../source/mm1.rst:1897
+#: ../../source/mm1.rst:1900
 msgid ""
 "Detecta círculos o cuatros en cualquier curva 2D y los convierte en una "
 "operación de perforación"
@@ -3399,17 +3338,17 @@ msgstr ""
 "drilling operation"
 
 # 0eeb293b1c0f46a9a5f85a68cbc0bec2
-#: ../../source/mm1.rst:1902
+#: ../../source/mm1.rst:1905
 msgid "CARVE"
 msgstr "CARVE"
 
 # 1841deb0fe604aed934905592dac51cf
-#: ../../source/mm1.rst:1904
+#: ../../source/mm1.rst:1907
 msgid "Proyecta curvas 2D y 3D en la superficie"
 msgstr "Proyects 2D or 3D curves in the surface."
 
 # 6ef789585e9b4fb78036967a3a208371
-#: ../../source/mm1.rst:1908
+#: ../../source/mm1.rst:1911
 msgid ""
 "Algunas de las operaciones o estrategias combinarán los siguientes "
 "parámetros."
@@ -3418,14 +3357,14 @@ msgstr ""
 "parameters."
 
 # 150928be02f44fd0b51429dc0fa5839c
-#: ../../source/mm1.rst:1911
+#: ../../source/mm1.rst:1914
 msgid ""
 "Distance between toolpaths: Es la distancia que tendrán las trayectorias "
 "o los sobrepasos"
 msgstr "Distance between toolpaths: Is the distance that will hve the paths."
 
 # 789388304de34fa18c92568b7e2378af
-#: ../../source/mm1.rst:1914
+#: ../../source/mm1.rst:1917
 msgid ""
 "Distance along toolpaths: Influye en la precisión del mecanizado, es lo "
 "denso que será la ruta de operación"
@@ -3434,7 +3373,7 @@ msgstr ""
 "density of the path of the operation."
 
 # 2be5de47201c4167921ccbe73ef9e3ed
-#: ../../source/mm1.rst:1917
+#: ../../source/mm1.rst:1920
 msgid ""
 "Angle of paths: Este parámetro gira las estrategias paralelas y "
 "transversales a la cantidad que se le especifique"
@@ -3443,7 +3382,7 @@ msgstr ""
 "strategiesto the specified amount."
 
 # d98fca647a2f4fc2b4a06853fdac62e7
-#: ../../source/mm1.rst:1920
+#: ../../source/mm1.rst:1923
 msgid ""
 "Parallel step back: Esto utiliza el movimiento posterior de la máquina "
 "para el acabado de la superficie. Tenga en cuenta que esto también  "
@@ -3457,12 +3396,12 @@ msgstr ""
 "this means, don't use this option."
 
 # cadfcd9d56804a4a9e50cc625c5285a7
-#: ../../source/mm1.rst:1926
+#: ../../source/mm1.rst:1929
 msgid "Skin: Genera una capa en la superficie para el acabado"
 msgstr "Skin: Generates a layer in the surface for the finishing"
 
 # 0adf54fc7ee14798a3808ad35663181c
-#: ../../source/mm1.rst:1928
+#: ../../source/mm1.rst:1931
 msgid ""
 "Inverse milling: Invierte el giro de molienda, en el caso de la impresora"
 " MM1 se tendrá que hacer un ajuste manual"
@@ -3471,7 +3410,7 @@ msgstr ""
 " need a manual adjustment for this."
 
 # 6dca05333d3f428da7d43557f8fb901d
-#: ../../source/mm1.rst:1931
+#: ../../source/mm1.rst:1934
 msgid ""
 "Direction: Para el proceso block y spiral decide comenzar desde dentro o "
 "fuera del objeto"
@@ -3480,7 +3419,7 @@ msgstr ""
 "outside f the object."
 
 # c06fcf0e87d54697ae778fb7dd18a1e5
-#: ../../source/mm1.rst:1934
+#: ../../source/mm1.rst:1937
 msgid ""
 "Carve depth: Decide que profuncidad debajo de la superficie se destinara "
 "la operación tallar"
@@ -3489,7 +3428,7 @@ msgstr ""
 "operation."
 
 # de4afd89eda14556aadf59155e446ef9
-#: ../../source/mm1.rst:1937
+#: ../../source/mm1.rst:1940
 msgid ""
 "Don’t merge outlines when cutting: Para la estrategia de cutout genera el"
 " no fusionar contornos, es muy útil para PCB ya que no se desea que las "
@@ -3500,7 +3439,7 @@ msgstr ""
 "lines."
 
 # 48ed6c36c3084da59617efbef672b8f5
-#: ../../source/mm1.rst:1940
+#: ../../source/mm1.rst:1943
 msgid ""
 "Use bridges: Para la estrategia de cutout, ya que crea puentes "
 "automáticamente por unos parametros que aparecerán cocmo: anchura, altura"
@@ -3510,12 +3449,12 @@ msgstr ""
 "parameters tht appear as: width,minimum height for the curve, etc."
 
 # 9b0811c9db1a4edd9a1cfb45d14b0bd2
-#: ../../source/mm1.rst:1943
+#: ../../source/mm1.rst:1946
 msgid "CAM optimization"
 msgstr "CAM optimization"
 
 # 0bf2345092624ba9ac6b7c5bcf6b96bf
-#: ../../source/mm1.rst:1948
+#: ../../source/mm1.rst:1951
 msgid ""
 "Reduce path points: Ayuda a reducir el número de comandos en el código g,"
 " por lo que el código es más corto y fácil de procesar por la maquina"
@@ -3524,7 +3463,7 @@ msgstr ""
 " the code shrter and easer to process for the machine."
 
 # 8467bd3db02d40219137f10b2ae56f47
-#: ../../source/mm1.rst:1951
+#: ../../source/mm1.rst:1954
 msgid ""
 "Reduction threshold in un: La dirección de la trayectoria se reducirá a "
 "micrómetros"
@@ -3533,7 +3472,7 @@ msgstr ""
 "micrometers."
 
 # b57a77053a7c43b698ce3371ec348f65
-#: ../../source/mm1.rst:1953
+#: ../../source/mm1.rst:1956
 msgid ""
 "Sampling raster detail: Este parámetro es muy necesario para el uso de la"
 " memoria y sobre todo la velocidad del software. BlenderCAM utiliza "
@@ -3549,7 +3488,7 @@ msgstr ""
 " your computer. verify the dimentions of the object before any operation."
 
 # 7322f4f79d7148f9a7ca28362782a1da
-#: ../../source/mm1.rst:1959
+#: ../../source/mm1.rst:1962
 msgid ""
 "Simulation sampling raster detail: Prácticamente es igual que la opción "
 "anterior pero aplicado a la simulación"
@@ -3558,19 +3497,19 @@ msgstr ""
 "operation but applied to simulation."
 
 # adab9a5df8ae4553afccebe2aca84582
-#: ../../source/mm1.rst:1962
+#: ../../source/mm1.rst:1965
 msgid ""
 "Detail of circles used for curve offsets: Es el detalle de los circulos "
 "utilizados para desplazamientos de la curva"
 msgstr "Detail of circles used for curve offsets."
 
 # bd86fc1b340a4f8385d6a3bb90bb35d2
-#: ../../source/mm1.rst:1965
+#: ../../source/mm1.rst:1968
 msgid "CAM Material size and position"
 msgstr "CAM Material size and position"
 
 # 008796ca7a05411797a172106c793627
-#: ../../source/mm1.rst:1967
+#: ../../source/mm1.rst:1970
 msgid ""
 "Estimate from model: Asumirá que las dimensiones que tiene el objeto, son"
 " las mismas que el área de trabajo, si esta opción no está activada  se "
@@ -3581,7 +3520,7 @@ msgstr ""
 "window opens tho set the dimentions."
 
 # 9740f97fa83842a6a6a27013c961135e
-#: ../../source/mm1.rst:1974
+#: ../../source/mm1.rst:1977
 msgid ""
 "Position object: Esta opcion es muy útil, ya que automáticamente  envía "
 "al objeto al origen del material que hemos definido"
@@ -3590,12 +3529,12 @@ msgstr ""
 "object to the origin of the defined material."
 
 # 52af9c499cb44462a5c94a299c4b64ae
-#: ../../source/mm1.rst:1981
+#: ../../source/mm1.rst:1984
 msgid "CAM Movement"
 msgstr "CAM Movement"
 
 # 0d6f0470903946a49064eac4f64244e8
-#: ../../source/mm1.rst:1985
+#: ../../source/mm1.rst:1988
 msgid ""
 "Movement type: Aplica para algunas estrategias, establece como se mueve "
 "la cuchilla en el material"
@@ -3604,7 +3543,7 @@ msgstr ""
 "to the material."
 
 # 2b2717fe2fbb4c05905f4b2b3e660e77
-#: ../../source/mm1.rst:1988
+#: ../../source/mm1.rst:1991
 msgid ""
 "1.- Meander: Nos genera un movimiento zigzag no importando la dirección "
 "2.- Climb: El cortador gira en dirección de la alimentación, puede "
@@ -3621,12 +3560,12 @@ msgstr ""
 "this is the best option."
 
 # 17ed8d46885d4bc78806d9c410affb69
-#: ../../source/mm1.rst:1995
+#: ../../source/mm1.rst:1998
 msgid "Spindle rotation: Esta operación define la rotación del husillo"
 msgstr "Spindle rotation: thisperation defines the rotation of the spindle."
 
 # d264f0cfb6e445708281009440223236
-#: ../../source/mm1.rst:1997
+#: ../../source/mm1.rst:2000
 msgid ""
 "Free movement height: Es la altura de desplazamiento cuando no se está "
 "maquinando. Si tenemos una altura muy alta, como resultado es una "
@@ -3638,7 +3577,7 @@ msgstr ""
 "more time to move at height."
 
 # a6893025f7684350918f026577f0a5ae
-#: ../../source/mm1.rst:2001
+#: ../../source/mm1.rst:2004
 msgid ""
 "Stay low if possible: No intenta levantar la cuchilla cuando se pasa de "
 "un camino a otro, hay ocasiones que la herramienta va a pasar por caminos"
@@ -3652,7 +3591,7 @@ msgstr ""
 "opion will not damage the walls of the paths."
 
 # ee91ea60791e41e8b5b865d0f704083e
-#: ../../source/mm1.rst:2006
+#: ../../source/mm1.rst:2009
 msgid ""
 "Protect vertical: Cuando el ángulo de la trayectoria es superior al "
 "límite de la verticalidad, el desplazamiento se realizará vertical. de "
@@ -3665,29 +3604,29 @@ msgstr ""
 "points of the path."
 
 # 0cb5b8cd77f6464b9998c0f078a0824d
-#: ../../source/mm1.rst:2011
+#: ../../source/mm1.rst:2014
 msgid "CAM operation area"
 msgstr "CAM operation area"
 
 # 59faeeb82dec498aba4355cdab12ea20
-#: ../../source/mm1.rst:2015
+#: ../../source/mm1.rst:2018
 msgid "Use layers: utiliza capas para la operación"
 msgstr "Use layers: it uses layer for the operation"
 
 # 9b69456a66d2430aa76512662da1a4a3
-#: ../../source/mm1.rst:2017
+#: ../../source/mm1.rst:2020
 msgid "Step down: Es el grosor de las capas de desbaste"
 msgstr "Step down: this is the thicknes o the roughing layers."
 
 # 33c09d70569f4731a197ea26712587be
-#: ../../source/mm1.rst:2019
+#: ../../source/mm1.rst:2022
 msgid "Ambient: Es el proceso determinado al material que rodea al objeto"
 msgstr ""
 "Ambient: is the process accordding to the material that surrounds the "
 "object"
 
 # d68536003a2943058085a2221535240d
-#: ../../source/mm1.rst:2022
+#: ../../source/mm1.rst:2025
 msgid ""
 "1.- Around: Se genera una silueta al objeto 2.- ALL: Se genera un "
 "rectángulo al objeto/material"
@@ -3696,7 +3635,7 @@ msgstr ""
 " a rectangle to the object/material"
 
 # df1ceed44cc6423c814d4060362e087e
-#: ../../source/mm1.rst:2026
+#: ../../source/mm1.rst:2029
 msgid ""
 "Depth from objet: Se lleva a profundidad objeto y establece la "
 "profundidad total de la operación de la misma. De lo contrario, puede "
@@ -3707,17 +3646,17 @@ msgstr ""
 "the ame manually"
 
 # e031d96fcb344207addf3a981a4017c3
-#: ../../source/mm1.rst:2030
+#: ../../source/mm1.rst:2033
 msgid "CAM federate"
 msgstr "CAM federate"
 
 # 16ca8870e9254330853682468e661218
-#: ../../source/mm1.rst:2034
+#: ../../source/mm1.rst:2037
 msgid "Feedrate/minute: Velocidad de avance en un minute"
 msgstr "Feedrate/minute: Speed of advance in a minute"
 
 # c8032f641884498c865a3c47440baa95
-#: ../../source/mm1.rst:2036
+#: ../../source/mm1.rst:2039
 msgid ""
 "Plunge speed: La velocidad se reduce a la cantidad especificada, cuando "
 "la pendiente de la trayectoria está por encima del ángulo de "
@@ -3727,7 +3666,7 @@ msgstr ""
 "inclination of the path is over the depth angle."
 
 # 676128d7dd26429097d3c9e1a435dda8
-#: ../../source/mm1.rst:2039
+#: ../../source/mm1.rst:2042
 msgid ""
 "Plunge angle: Cualquier ángulo mayor  que el angulo de inmersión se "
 "activara la velocidad de inmersión"
@@ -3736,22 +3675,22 @@ msgstr ""
 "inmersion speed"
 
 # b9a2ec4e6ba04e6b856aeec75a95075c
-#: ../../source/mm1.rst:2042
+#: ../../source/mm1.rst:2045
 msgid "Spindle rpm: Revoluciones por minuto del husillo"
 msgstr "Spindle RPM: revolutions per minute of the spindle"
 
 # 7f9489c631ba40afa43ce38ad812a02c
-#: ../../source/mm1.rst:2044
+#: ../../source/mm1.rst:2047
 msgid "CAM cutter"
 msgstr "CAM cutter"
 
 # 415e7df6adc44c23b38fd59383e50075
-#: ../../source/mm1.rst:2048
+#: ../../source/mm1.rst:2051
 msgid "Tool number: Define el número de la herramienta"
 msgstr "Total number: Define the number of the tool"
 
 # f3557d7f130141b4a7e6614944fb2773
-#: ../../source/mm1.rst:2050
+#: ../../source/mm1.rst:2053
 msgid ""
 "Cutter diametrer: Define el diámetro de la herramienta, utilizado para el"
 " cálculo de la trayectorias"
@@ -3760,17 +3699,17 @@ msgstr ""
 "calculus"
 
 # b335ac4cf3b1405c93e021836a5d87e6
-#: ../../source/mm1.rst:2052
+#: ../../source/mm1.rst:2055
 msgid "Cutter flutes: Este parámetro solo se utiliza para el cálculo del chipload"
 msgstr "Cutter Fluttes: this parameter only is used for the chipload calculation"
 
 # db7578ffd7c74e4692c901026db273fc
-#: ../../source/mm1.rst:2055
+#: ../../source/mm1.rst:2058
 msgid "CAM Machine"
 msgstr "CAM Machine"
 
 # e87dc8ec5362484bb40d30121a772424
-#: ../../source/mm1.rst:2061
+#: ../../source/mm1.rst:2064
 msgid ""
 "Postprocesador: Define el formateo del archive de salida. Si la maquina "
 "no está lista los códigos que generan código-g sin problemas son MACH3, "
@@ -3780,29 +3719,29 @@ msgstr ""
 "not eady, the codes tht generate gcode are MACH3, ISO."
 
 # 6857cca3627544a2a776f19465743ab9
-#: ../../source/mm1.rst:2064
+#: ../../source/mm1.rst:2067
 msgid "Unit system: Sistema de unidad métrico o imperial."
 msgstr "Unit System. Metric or Imperial units system."
 
 # 8c84820a88074990bd38a2be255faa16
-#: ../../source/mm1.rst:2066
+#: ../../source/mm1.rst:2069
 msgid "Work area: Aquí se define las dimensiones del material que se desbastará"
 msgstr ""
 "Work area: here are defined the dimentions of the material that wil be "
 "roughed"
 
 # e1f8225c836d4a14a16f89f3c6007d2e
-#: ../../source/mm1.rst:2068
+#: ../../source/mm1.rst:2071
 msgid "Feedrate min/max: Limitará velocidades dadas en el panel de avance"
 msgstr "Feedrate min/max: It wil limit the given speed onthe advane panel."
 
 # 37e8632988a54a23b9ffa02dd8edf077
-#: ../../source/mm1.rst:2071
+#: ../../source/mm1.rst:2074
 msgid "CAM chains"
 msgstr "CAM chains"
 
 # ea193435812f4da3bb7be29d132f73c4
-#: ../../source/mm1.rst:2076
+#: ../../source/mm1.rst:2079
 msgid ""
 "Es una herramienta que permite encadenar operaciones como simulaciones, "
 "es decir, tener un conjunto de operaciones y realizarlas de una manera "
@@ -3814,7 +3753,7 @@ msgstr ""
 "practical tool for code if you have automatic tool swapping."
 
 # 373d912e4bd14e068956d5cc8b0c4783
-#: ../../source/mm1.rst:2081
+#: ../../source/mm1.rst:2084
 msgid ""
 "A continuación se desarrollará un proceso cutout que nos genera un "
 "gravado en la superficie del material"
@@ -3823,14 +3762,14 @@ msgstr ""
 "the surfaceof the material"
 
 # 51861b2a07a24434b4ec3ef2c9ea3a8f
-#: ../../source/mm1.rst:2084
+#: ../../source/mm1.rst:2087
 msgid ""
 "1.-     Ejecutamos BlenderaCAM 2.-     En este ocasión importaremos un "
 "archivo .svg"
 msgstr "1.- Excecute BlenderCAM 2.- This time we import an .svg file"
 
 # 7511e5bca3ef482c92bb092ceac1c6ab
-#: ../../source/mm1.rst:2090
+#: ../../source/mm1.rst:2093
 msgid ""
 "3.- En el panel CAM operations, seleccionamos el objeto, en este caso "
 "curva y agregaremos una operación. Como siguiente le daremos nombre a la "
@@ -3842,7 +3781,7 @@ msgstr ""
 " parameters to use are the following"
 
 # 7fb824cd9e704a18a79f74a0908d6206
-#: ../../source/mm1.rst:2097
+#: ../../source/mm1.rst:2100
 msgid ""
 "El nombre de la operación es cutout, esta parte es opcional al igual que "
 "el nombre del archivo. Al terminar los parámetros para el proceso, se "
@@ -3856,7 +3795,7 @@ msgstr ""
 "calculate path."
 
 # cf639c1e3a1c4272bbdb7b853cabd945
-#: ../../source/mm1.rst:2104
+#: ../../source/mm1.rst:2107
 msgid ""
 "La accion como se mencionaba es Cutout, en esta ocasión la trayectoria "
 "será sobre la línea. No es recomendable utilizar la opcion de Don’t merge"
@@ -3876,7 +3815,7 @@ msgstr ""
 " problem because  we will rough a soft material. "
 
 # 9310e59ea1844ab29ac2e9e7d43edc2b
-#: ../../source/mm1.rst:2115
+#: ../../source/mm1.rst:2118
 msgid ""
 "El tipo de movimiento que se utilizo fue Meander por la cantidad de "
 "trayectorias Uno de los datos más importantes es la altura de movimiento "
@@ -3889,7 +3828,7 @@ msgstr ""
 " the reult will be optimal"
 
 # af4d4676720d48718208c9874eda374a
-#: ../../source/mm1.rst:2121
+#: ../../source/mm1.rst:2124
 msgid ""
 "Es importante definir el área del material en nuestro caso es: 20 x 20 x "
 "3 (cm), después de definir el área es importante situar el objeto en el "
@@ -3900,7 +3839,7 @@ msgstr ""
 "\"Position object\""
 
 # 8faa468d489c40c281d3a9bdcce558b4
-#: ../../source/mm1.rst:2127
+#: ../../source/mm1.rst:2130
 msgid ""
 "Para obtener el código G damos clic en exportar g code, que se encuentra "
 "en el panel de operaciones. El código g se nos genera dentro de la "
@@ -3913,12 +3852,12 @@ msgstr ""
 "(or any plain text editor) and modify the following:"
 
 # ffac279cdc1b4bd093d1c145b978bcf0
-#: ../../source/mm1.rst:2132
+#: ../../source/mm1.rst:2135
 msgid "Esta es la parte principal del código g de nuestro colibrí"
 msgstr "This is the main part of the g code of our hummingbird"
 
 # 3472fdc64d574faea7df60a217bff41b
-#: ../../source/mm1.rst:2135
+#: ../../source/mm1.rst:2138
 msgid ""
 "(GCode created using the HeeksCNC Mach3 post processor) "
 "(grabadocolibri.tap) (G-code generated with BlenderCAM and NC library) "
@@ -3935,7 +3874,7 @@ msgstr ""
 " Y44.302 N110G01 X67.606 Y44.829 N120G01 X67.435 Y45.303"
 
 # d2f66c78bc5d4e70a17ecacbf41c68be
-#: ../../source/mm1.rst:2153
+#: ../../source/mm1.rst:2156
 msgid ""
 "Checar la numeración de línea (N100). Cuando vamos a agregar una "
 "instrucción, esta debe tener la numeración correspondiente, en este "
@@ -3946,12 +3885,12 @@ msgstr ""
 " number have increase by ten."
 
 # d219c204724247ada76449a1198d13ca
-#: ../../source/mm1.rst:2157
+#: ../../source/mm1.rst:2160
 msgid "Ejemplo 1:"
 msgstr "Example 1:"
 
 # f90dad9fe0714e549ae75c74f034e74e
-#: ../../source/mm1.rst:2160
+#: ../../source/mm1.rst:2163
 msgid ""
 "N100 (código generado por BlenderCAM) N101 (código agregado) N102 (código"
 " agregado 2)"
@@ -3960,24 +3899,24 @@ msgstr ""
 "2)"
 
 # 815339ce2e8740ecbef7f58c53bf9c59
-#: ../../source/mm1.rst:2165
+#: ../../source/mm1.rst:2168
 msgid "Ejemplo 2:"
 msgstr "Example 2"
 
 # d0bac2eefb654d4ca3d91e0eeffee705
-#: ../../source/mm1.rst:2168
+#: ../../source/mm1.rst:2171
 msgid ""
 "N98 (código agregado) N99 (código agregado 2) N100 (código generado por "
 "BlenderCAM)"
 msgstr "N98 (added code) N99 (added code 2) N100 (code generted by BlenderCAM)"
 
 # 3dc1681f70784950bd52599684c80593
-#: ../../source/mm1.rst:2173
+#: ../../source/mm1.rst:2176
 msgid "Después de la instrucción (N30T1 M06) se agregara lo siguiente:"
 msgstr "After the instruction (N30T1 M06) add  the following:"
 
 # d06b3148d4074355935b00300cc1fa75
-#: ../../source/mm1.rst:2176
+#: ../../source/mm1.rst:2179
 msgid ""
 "N31 G28 (Esta instrucción manda a HOME a todos los ejes) N32 G4 S3 (esta "
 "instrucción espera 3 segundos, para habilitar la comunicación) N33 M280 "
@@ -3994,12 +3933,12 @@ msgstr ""
 "S3"
 
 # d5d254ec1b6746308409baa4da8df039
-#: ../../source/mm1.rst:2186
+#: ../../source/mm1.rst:2189
 msgid "Esta es la parte final del código G de nuestro colibrí"
 msgstr "This is the final part of our hummingbird"
 
 # 172a7cbbfef44100a6d06bd598d6a999
-#: ../../source/mm1.rst:2189
+#: ../../source/mm1.rst:2192
 msgid ""
 "N100940G01 X62.35 Y135.168 N100950G01 X62.303 Y135.147 N100960G01 X62.259"
 " Y135.122 N100970G01 X62.218 Y135.095 N100980 G00 Z4.999 N100990 M02"
@@ -4008,12 +3947,12 @@ msgstr ""
 " Y135.122 N100970G01 X62.218 Y135.095 N100980 G00 Z4.999 N100990 M02"
 
 # 1b2cda2673fe450db97c3faf77ec944a
-#: ../../source/mm1.rst:2197
+#: ../../source/mm1.rst:2200
 msgid "Antes de la instrucción M02 se agregara lo siguiente:"
 msgstr "Before the M02 instruction the following wil be added:"
 
 # 016e277b29d04f39a2432025228ad496
-#: ../../source/mm1.rst:2200
+#: ../../source/mm1.rst:2203
 msgid ""
 "N1009801 G4 S3 N1009802 M280 P2 S80 N1009803 G4 S3 N1009804 M280 P2 S60 "
 "N1009805 G4 S3"
@@ -4022,12 +3961,12 @@ msgstr ""
 "N1009805 G4 S3"
 
 # d339aaf105e14672ad3cb6ee35e8f939
-#: ../../source/mm1.rst:2207
+#: ../../source/mm1.rst:2210
 msgid "El código modificado final será el siguiente:"
 msgstr "The modified cde is as follows:"
 
 # c5dc2fe261d7467fbae9e0ac459d8dea
-#: ../../source/mm1.rst:2210
+#: ../../source/mm1.rst:2213
 msgid ""
 "Inicio (GCode created using the HeeksCNC Mach3 post processor) "
 "(grabadocolibri.tap) (G-code generated with BlenderCAM and NC library) "
@@ -4042,12 +3981,12 @@ msgstr ""
 "S12000 M03 N50 G00 X69.103 Y41.967 N60G01 Z-4.999 F500"
 
 # a861f3899dd84986a18c315b4c7a0fe7
-#: ../../source/mm1.rst:2229
+#: ../../source/mm1.rst:2232
 msgid "Final"
 msgstr "Final"
 
 # bb68a583a61f4eb8aed01312735e0477
-#: ../../source/mm1.rst:2232
+#: ../../source/mm1.rst:2235
 msgid ""
 "N100960G01 X62.259 Y135.122 N100970G01 X62.218 Y135.095 N100980 G00 "
 "Z4.999 N1009801 G4 S3 N1009802 M280 P2 S80 N1009803 G4 S3 N1009804 M280 "
@@ -4058,7 +3997,7 @@ msgstr ""
 "P2 S60 N1009805 G4 S3 N100990 M02"
 
 # 4fea53306bb343249922b3aab79e8fce
-#: ../../source/mm1.rst:2243
+#: ../../source/mm1.rst:2246
 msgid ""
 "Al modificar el código G, guardamos como .gcode/ todos los archivos para "
 "que la impresora lo pueda reconocer. Si queremos  cargar el código g "
@@ -4073,12 +4012,12 @@ msgstr ""
 "the SD card and load it to the MM1"
 
 # 49961a43e3bf4a4aa969c31af08b162e
-#: ../../source/mm1.rst:2249
+#: ../../source/mm1.rst:2252
 msgid "Módulo de Pastas"
 msgstr "PASTE MODULE"
 
 # a6d429eb78334706bca7e51d947a3063
-#: ../../source/mm1.rst:2251
+#: ../../source/mm1.rst:2254
 msgid ""
 "En esta parte del manual  se tomara el punto acerca del módulo de pastas "
 "este modulo es muy divertido al usarlo ya que es experimental, y puedes "
@@ -4090,12 +4029,12 @@ msgstr ""
 "material,; from clay, to chocolate."
 
 # 9df8aec70d9246e7a6573fa6dd36d16e
-#: ../../source/mm1.rst:2257
+#: ../../source/mm1.rst:2260
 msgid "Un dato importante de este moculo es que solo trabaja con pastas frias."
 msgstr "An important thing is that this module only works with cold paste."
 
 # 8e5ff55ff6dd428d8ac693020e1dce1b
-#: ../../source/mm1.rst:2261
+#: ../../source/mm1.rst:2264
 msgid ""
 "Vamos a comenzar a identificar los componentes de nuestro Módulo de "
 "Pastas, este se divide en dos partes la estación de bombeo y cabezal, "
@@ -4107,12 +4046,12 @@ msgstr ""
 "accesories for the pasta injection."
 
 # 37200dfce9894376a4a23c74400a6dc6
-#: ../../source/mm1.rst:2265
+#: ../../source/mm1.rst:2268
 msgid "El módulo de pastas se compone de lo siguiente:"
 msgstr "The paste module contains the following"
 
 # 5a39c9ef37d447f6b82ea399dc4f6daf
-#: ../../source/mm1.rst:2268
+#: ../../source/mm1.rst:2271
 msgid ""
 "1  estación de bombeo + cable de motor. 1 cabezal de impresión 2 jeringas"
 " 2 mangueras de nivel de 1/4 x100cm 2 luer lock rosca hembra 2 luer lok "
@@ -4121,17 +4060,17 @@ msgid ""
 msgstr "1 Pumping station + motor cable"
 
 # 35a339a1023d444dae2073344a9ce6ce
-#: ../../source/mm1.rst:2278
+#: ../../source/mm1.rst:2281
 msgid "Estación de bombeo y accesorios."
 msgstr "Pumping staton and accesories"
 
 # 1819b8c2af2c4e1abb8561e791f930b4
-#: ../../source/mm1.rst:2282
+#: ../../source/mm1.rst:2285
 msgid "Cabezal de impresión."
 msgstr "Printing header"
 
 # d666d3fce432472696a85ebcb876bf5d
-#: ../../source/mm1.rst:2286
+#: ../../source/mm1.rst:2289
 msgid ""
 "Bien ahora vamos a comenzar, antes de realizar la mezcla de alguna pasta "
 "preparemos los componentes que nos ayudaran a realizar la impresión."
@@ -4140,36 +4079,36 @@ msgstr ""
 "will hel us to print."
 
 # 30834f4cfa844d088534577c690ae609
-#: ../../source/mm1.rst:2291
+#: ../../source/mm1.rst:2294
 msgid "Cortamos una manguera de nivel, a la medida de 50cm de largo"
 msgstr "Cut a level tube of 50 cm long"
 
 # fa97de4c6a424d57855035dd0c7e69a3
-#: ../../source/mm1.rst:2297
+#: ../../source/mm1.rst:2300
 msgid ""
 "Ahora vamos a colocar un luer lock  hebra en un extremo y un luer lock "
 "macho al otro extremo."
 msgstr "Put a female leuer clock in one edge and a male luer clock in the other. "
 
 # aa1ac95cc1da4b63af8e27fcf503885e
-#: ../../source/mm1.rst:2300
+#: ../../source/mm1.rst:2303
 msgid "Luer lock hembra"
 msgstr "Female luer clock"
 
 # db5ee4298f5e422aa6e48ad0dc73ad12
-#: ../../source/mm1.rst:2304
+#: ../../source/mm1.rst:2307
 msgid "Luer lock macho"
 msgstr "Male uer clock"
 
 # c676f97859684ba59f9816577ae602ce
-#: ../../source/mm1.rst:2308
+#: ../../source/mm1.rst:2311
 msgid ""
 "debe de quedar de la siguiente forma, esto nos serira ya que es la "
 "manguera de nivel de nuestro modulo."
 msgstr "Must result this way, it will be the leveling tube of our module."
 
 # 78928e4aaba84fdf81579f6812bc957d
-#: ../../source/mm1.rst:2315
+#: ../../source/mm1.rst:2318
 msgid ""
 "Para poder realizar este paso vamos a necesitar una jeringa y esta la "
 "tendremos que montar en la estación de bombeo, también se colocara la "
@@ -4179,7 +4118,7 @@ msgstr ""
 "the tub in the syringe and the noozle"
 
 # f6c7d97dfc87451a8f32b4ee13492324
-#: ../../source/mm1.rst:2322
+#: ../../source/mm1.rst:2325
 msgid ""
 "Abra el empaque de la jeringa y observe bien como se debe de colocar el "
 "luer lock macho en la jeringa. Como tienen esta ceunta con una rosca se "
@@ -4189,7 +4128,7 @@ msgstr ""
 " to screw the luer clock or the noozle to hold them."
 
 # dcd31fc6f3ab4dcc80cf7d24e316500f
-#: ../../source/mm1.rst:2330
+#: ../../source/mm1.rst:2333
 msgid ""
 "Una vez que ya has colocado la puntilla y la manguera en la jeringa, ya "
 "podras retirar o colocar una puntilla u otra cuando se requiera un "
@@ -4203,12 +4142,12 @@ msgstr ""
 " central part to the plunger."
 
 # f6540e76bcc64ecfb9a00120027b84c6
-#: ../../source/mm1.rst:2340
+#: ../../source/mm1.rst:2343
 msgid "De esta forma es como se coloca la jeringa en la estación de bombeo."
 msgstr "This is how the syringe must be installed in the pumping station"
 
 # acd98354f6a14ac594a7d820b10f85f4
-#: ../../source/mm1.rst:2345
+#: ../../source/mm1.rst:2348
 msgid ""
 "Si la base que esta unida a la varilla roscada, se encuentra muy arriba "
 "deberás bajarla para que puedas colocar la jeringa, es muy simple solo "
@@ -4222,14 +4161,14 @@ msgstr ""
 "in the hole of the plastic base."
 
 # 0256c2a0f20d4822a864348d318b175e
-#: ../../source/mm1.rst:2353
+#: ../../source/mm1.rst:2356
 msgid ""
 "Para terminar con este paso solo deberás conectar el motor de la estación"
 " de bombeo."
 msgstr "To end this steo you have to conecct the motor of the pumping station."
 
 # 5ab2d9ba42874ef88b0dfeacd8db8872
-#: ../../source/mm1.rst:2360
+#: ../../source/mm1.rst:2363
 msgid ""
 "Vamos a colocar el cabezal de pastas en la impresora, para realizar este "
 "paso primero retiramos el modulo que esta puesto en la impresora, para "
@@ -4241,14 +4180,14 @@ msgstr ""
 "remove the holding clip."
 
 # 7dcf40a3a8134c93b246c2e72b5c0b1a
-#: ../../source/mm1.rst:2365
+#: ../../source/mm1.rst:2368
 msgid ""
 "Después se coloca el cabezal como se muestras en las imágenes y se "
 "asegura con el clip de sujeción."
 msgstr "Mount the header as shown in the images and put the holding clip."
 
 # aa0ffd7f27884736aadb9c68f08a3383
-#: ../../source/mm1.rst:2375
+#: ../../source/mm1.rst:2378
 msgid ""
 "Una vez que el cabezal esta asegurado vamos a conectar sus conectores en "
 "este cabezal solo se conectan 2 cables y el seguro de la doble extrusora,"
@@ -4259,8 +4198,27 @@ msgstr ""
 "wires and the dua etrusion clock, remeber that the wire must pass over "
 "the top profiles."
 
+# 18bcc541f9994086817b9a340f16a766
+#: ../../source/mm1.rst:2385
+#, fuzzy
+msgid ""
+"A partir de la impresora con número de serie 198, el seguro de doble "
+"extrusor ya no es necesario ni se incluye en el equipo ni en ninguno de "
+"los  módulos, ya que se ha logrado incluir esta característica en el "
+"firmware de la tarjeta controladora; si el número de tu equipo es "
+"anterior al mencionado y deseas actualizar el firmware, puedes ponerte en"
+" contacto con el equipo de soporte a traves de nuestro `foro "
+"<http://makermex.com/forum>`_ ."
+msgstr ""
+"From the 3D printer with serial number 198 and above, dual extrusion "
+"tumbler is not necessary for the machine or any module, and is not "
+"included, this feature is now included in the controller firmware; if the"
+" serial number of your machine is lower than 198 and you want to update "
+"the firmware please contact our support team via the `forum "
+"<http://makermex.com/forum>`_ ."
+
 # 8cee1d0d201540329e8c83ce2bc34a1d
-#: ../../source/mm1.rst:2387
+#: ../../source/mm1.rst:2389
 msgid ""
 "Después de tener todo conectado correctamente procedemos en colocar las "
 "puntillas, cada ranura es para poder colocar un tipo de puntilla ya que "
@@ -4270,12 +4228,12 @@ msgstr ""
 "noozle, it is posible to use two types of noozle."
 
 # b2ea851d568a40bb9c9600ce03f79fb0
-#: ../../source/mm1.rst:2391
+#: ../../source/mm1.rst:2393
 msgid "Vamos a colocar una puntilla de plástico."
 msgstr "Lets  install the plastic noozle."
 
 # d90a0bbb1253409b94d176161a212875
-#: ../../source/mm1.rst:2395
+#: ../../source/mm1.rst:2397
 msgid ""
 "Se coloca en la parte derecha del modulo viendo el modulo de frente. Y "
 "con ayuda de unas pinzas de punta empujamos la puntilla junto con la "
@@ -4283,14 +4241,14 @@ msgid ""
 msgstr "It must be installed in the right side of the module, looking it front. "
 
 # 8be4a19be5954b8cba64cf47a46ea820
-#: ../../source/mm1.rst:2402
+#: ../../source/mm1.rst:2404
 msgid ""
 "Debemos empujar hasta que la puntilla este colocada en el fondo del "
 "espacio como se ve en la imagen"
 msgstr "Push until the noozle reaches the bottom of the sace as shown in the image"
 
 # cfe7b536f5ed426888011c2900bd8af7
-#: ../../source/mm1.rst:2407
+#: ../../source/mm1.rst:2409
 msgid ""
 "Ahora vamos a colocar la puntilla que tiene la punta de metal, esta "
 "puntilla se va a colocar en el espacio izquierdo del cabezal como se "
@@ -4302,19 +4260,19 @@ msgstr ""
 "push it to the bottom."
 
 # 3a2a922c32d844ae8c2354ab112fc7d5
-#: ../../source/mm1.rst:2414
+#: ../../source/mm1.rst:2416
 msgid "Al igual que la otra puntilla debe de entrar en la ranura disponible."
 msgstr ""
 "The same as with the other noozle, thi one has to enter in the available "
 "slot."
 
 # cdb790ea5d894814a9ca19921e25a55d
-#: ../../source/mm1.rst:2418
+#: ../../source/mm1.rst:2420
 msgid "Entonces nuestro modulo de pastas así tendra que ver."
 msgstr "Our paste module must look as in the picture."
 
 # eac6044a0313404d816494f9059d417a
-#: ../../source/mm1.rst:2424
+#: ../../source/mm1.rst:2426
 msgid ""
 "En este paso mostraremos algunas parámetros de cura con los cuales pueden"
 " realizar sus pruebas. En este paso indicamos como realizar una mezcla "
@@ -4324,7 +4282,7 @@ msgstr ""
 "example we will tell you how to mix nutella to print with chocolate."
 
 # 20d4fc2684d7453683de25fca9ead180
-#: ../../source/mm1.rst:2428
+#: ../../source/mm1.rst:2430
 msgid ""
 "Ingredientes a utilizar Nutella Glucosa ( se consigue en lugares de "
 "repostería o donde venden materias primas, como azúcar glas,cobertura de "
@@ -4334,29 +4292,29 @@ msgstr ""
 " shops)."
 
 # 4a9deda29017458c948538d269529b40
-#: ../../source/mm1.rst:2435
+#: ../../source/mm1.rst:2437
 msgid ""
 "Se recomienda tener utensilios de medición para gramos y mililitros "
 "(bascula, jeringas,tazas medidoras)"
 msgstr "Have in hand mesauring instruments for grames and mililitres."
 
 # 8bee7d8b81884e979fa364b736a26276
-#: ../../source/mm1.rst:2438
+#: ../../source/mm1.rst:2440
 msgid "Preparación de pasta"
 msgstr "Paste prearation;"
 
 # 4ba1b57a06704bff91a03f1d200bf90e
-#: ../../source/mm1.rst:2440
+#: ../../source/mm1.rst:2442
 msgid "Ingredientes:"
 msgstr "Ingredients:"
 
 # 124bd4e98d2f4e3a8282a70a1e301bd2
-#: ../../source/mm1.rst:2443
+#: ../../source/mm1.rst:2445
 msgid "-120gr de nutella. -10.6gr de glucosa"
 msgstr "-120gr of nutella. -10.6gr of glucose"
 
 # cfbef3801a344bfa8f08d9d6b9b93318
-#: ../../source/mm1.rst:2447
+#: ../../source/mm1.rst:2449
 msgid ""
 "En un recipiente se colocan las dos cantidades de materia prima y se "
 "mezcla muy bien hasta tener una consistencia  mas densa que la de la "
@@ -4366,7 +4324,7 @@ msgstr ""
 "consistency than nutella, ensure the correct disolution of the glucose."
 
 # 64c6de4b0d754bbb97fb9d23ad543ed6
-#: ../../source/mm1.rst:2451
+#: ../../source/mm1.rst:2453
 msgid ""
 "Una vez que este lista la pasta, puedes depositar en la jeringa, para "
 "realizar esto te recomiendo que primero quites el embolo de la jeringa y "
@@ -4383,7 +4341,7 @@ msgstr ""
 " the buuble twisting the syringe with your hands s if t was a roller."
 
 # de13b077f2a944b0aced3690009455c0
-#: ../../source/mm1.rst:2459
+#: ../../source/mm1.rst:2461
 msgid ""
 "Este movimiento lo podemos repetir una y otra vez hasta que salgan las "
 "burbujas, también podemos dar golpes al cuerpo de la jeringa con alguna "
@@ -4394,7 +4352,7 @@ msgstr ""
 "also you can hit the body of the syringe with a spoon to get the air out."
 
 # 6c03bec12fa14abfb1e4bd6378d7ec81
-#: ../../source/mm1.rst:2464
+#: ../../source/mm1.rst:2466
 msgid ""
 "Ya que no hay burbujas de aire entonces colocamos la manguera y "
 "presionamos para que la pasta comienza a recorrer en el interior de la "
@@ -4407,7 +4365,7 @@ msgstr ""
 "correct parameters and noozle sizes."
 
 # cef173f85e88448ebbb92167de08876b
-#: ../../source/mm1.rst:2470
+#: ../../source/mm1.rst:2472
 msgid ""
 "La velocidad es muy importante depende de la viscosidad de la pasta para "
 "un buen resultado se recomienda usar velocidades bajas desde 10mm/s hasta"
@@ -4417,7 +4375,7 @@ msgstr ""
 "recomended, between 10mm/s to 25mm/s"
 
 # d1dde684026847f9ba63d0b985ddd6d9
-#: ../../source/mm1.rst:2473
+#: ../../source/mm1.rst:2475
 msgid ""
 "Podemos experimentar con diferentes tipos de pastas frías que es con lo "
 "que podemos trabajar, Ejemplos nutella y glucosa, azúcar glass y limón "
@@ -4437,17 +4395,17 @@ msgstr ""
 "bottom one must support the other"
 
 # cb31731770b741bab11d3e66f6dad7f3
-#: ../../source/mm1.rst:2483
+#: ../../source/mm1.rst:2485
 msgid "Parámetros que se usaron para la impresión."
 msgstr "Paraeters used to print"
 
 # 1819a900f3dd420fb48432f5a28f442a
-#: ../../source/mm1.rst:2485
+#: ../../source/mm1.rst:2487
 msgid "Basic"
 msgstr "Basic"
 
 # c9931be4d95e4879964ef386d3bcb79d
-#: ../../source/mm1.rst:2488
+#: ../../source/mm1.rst:2490
 msgid ""
 "Layer heigh               .8 Shell thickness          2.4 Retracción"
 "                no Bottom/top thickness       2 Fill density"
@@ -4463,12 +4421,12 @@ msgstr ""
 "Diameter                    3 Flow                       7"
 
 # 3fee61a13ad44fe7a9214d374b190002
-#: ../../source/mm1.rst:2502
+#: ../../source/mm1.rst:2504
 msgid "Advanced"
 msgstr "Advanced"
 
 # d4e70d175fe54b6e8043bd3af978f7ca
-#: ../../source/mm1.rst:2505
+#: ../../source/mm1.rst:2507
 msgid ""
 "Nozzle size               1.2 Intal layer thickness      .8 Intal layer "
 "line width    100 Cut of object bottom        0 Dual extrusion overlap"
@@ -4483,22 +4441,22 @@ msgstr ""
 "speed           0 Enable cooling fan.        Si"
 
 # d27c36be2dda403fb413a03bda1da0cc
-#: ../../source/mm1.rst:2522
+#: ../../source/mm1.rst:2524
 msgid "Tiene que resultar esto"
 msgstr "Thi must be the result"
 
 # 92ac7d9f970c4b16b1f34d8c228a7020
-#: ../../source/mm1.rst:2528
+#: ../../source/mm1.rst:2530
 msgid "Problemas Frecuentes"
 msgstr "Frequent problems"
 
 # ffd36dcb45bb4c779cb5c9c6b43fad27
-#: ../../source/mm1.rst:2531
+#: ../../source/mm1.rst:2533
 msgid "Como destapar la boquilla"
 msgstr "How to clear a noozle jam"
 
 # 3d4962b07a8d4b3db4d5d92882256be7
-#: ../../source/mm1.rst:2535
+#: ../../source/mm1.rst:2537
 msgid ""
 "Vamos a retirar el filamento que este en la boquilla, recuerda que debes "
 "calentar la boquilla para poder retirarlo, dependiendo de el tipo de "
@@ -4512,7 +4470,7 @@ msgstr ""
 "material can be unloaded."
 
 # 888e7fa91fee47b7af14966b891219a4
-#: ../../source/mm1.rst:2540
+#: ../../source/mm1.rst:2542
 msgid ""
 "Bien calentamos con la pantalla recuerda da clic a la perilla elige "
 "control-> temperatura-> nozzle y sube a 210°C da clic y listo comenzara a"
@@ -4522,12 +4480,12 @@ msgstr ""
 "it up to 210°C and click."
 
 # 722594841f7d46deae47db1bbea9cf2b
-#: ../../source/mm1.rst:2545
+#: ../../source/mm1.rst:2547
 msgid "cuando la temperatura llegue podemos sacar el filamento que tiene."
 msgstr "When the noozle reaches the temperature we can remove the filament."
 
 # d2e949be653d484f82703155010304f3
-#: ../../source/mm1.rst:2551
+#: ../../source/mm1.rst:2553
 msgid ""
 "Vamos a retirar el tubo Bowden para retirarlo es necesario unas pinzas de"
 " punta, se colocan las pinzas en la cavidad de la pieza plástica, y solo "
@@ -4541,7 +4499,7 @@ msgstr ""
 "connector."
 
 # 9f6048601680417cab37541a548e7f8d
-#: ../../source/mm1.rst:2556
+#: ../../source/mm1.rst:2558
 msgid ""
 "Recuerda cuando presiones el plástico del conector neumático debes de "
 "jalar el tubo hacia arriba para que salga."
@@ -4550,7 +4508,7 @@ msgstr ""
 "the Bowden tube to unplug it."
 
 # e4d1825380de467eb794e415db1954e9
-#: ../../source/mm1.rst:2564
+#: ../../source/mm1.rst:2566
 msgid ""
 "Cuando la boquilla se caliente vamos a introducir un trozo de filamento "
 "para tratar de purgar la boquilla manualmente y asi poder ver si se "
@@ -4560,7 +4518,7 @@ msgstr ""
 "filament to purge the noozle manually, and check if the problem solves."
 
 # 9c8c9be54c0e4a02b79737f154b20ffa
-#: ../../source/mm1.rst:2567
+#: ../../source/mm1.rst:2569
 msgid ""
 "Al meter el filamento en la boquilla vamos a presionar para ver si sale "
 "si no lo hace entonces lo vamos a sacar rápidamente hacia arriba"
@@ -4570,7 +4528,7 @@ msgstr ""
 " piece of filament."
 
 # 454465727aad499a80009525c6141b2a
-#: ../../source/mm1.rst:2572
+#: ../../source/mm1.rst:2574
 msgid ""
 "Cuando el material esta atascado en la punta de la boquilla comenzara a "
 "pegarse a el filamento nuevo. Esta operación la puedes repetir varias "
@@ -4581,7 +4539,7 @@ msgstr ""
 " filament comes out."
 
 # 233c71ae70594a499a5618937d0615ef
-#: ../../source/mm1.rst:2576
+#: ../../source/mm1.rst:2578
 msgid ""
 "Si esto te funciona y vez que sale material por la parte de la punta de "
 "la boquilla, puedes volver a colocar el tubo y filamento para volver a "
@@ -4591,7 +4549,7 @@ msgstr ""
 "can plug the bowden tube again and print."
 
 # 92ce4a375e0f400199cc1e2e996fd33f
-#: ../../source/mm1.rst:2581
+#: ../../source/mm1.rst:2583
 msgid ""
 "Si aun no sale material por la punta de la boquilla, entonces puede ser "
 "que esta siga tapada y para destaparla hay que seguir los siguientes "
@@ -4601,7 +4559,7 @@ msgstr ""
 "have t follow these steps:"
 
 # 2d43bf81b4334793bc3d6dceed9f8184
-#: ../../source/mm1.rst:2586
+#: ../../source/mm1.rst:2588
 msgid ""
 "Apaga la impresora, retira el clip de sujeción del modulo y desconecta "
 "los conectores de la impresora para poder retirar el modulo completo y "
@@ -4611,27 +4569,27 @@ msgstr ""
 "remove the whole module and disasemble."
 
 # ac6c977de3444af69cca630ee9ac1936
-#: ../../source/mm1.rst:2591
+#: ../../source/mm1.rst:2593
 msgid "Desconecta los siguientes conectores"
 msgstr "Unplug the following connectors"
 
 # b2044372e0ad4f46bfaccb1a2dc19a89
-#: ../../source/mm1.rst:2597
+#: ../../source/mm1.rst:2599
 msgid "Solo se dejara conectado el seguro de doble extrusora."
 msgstr "Only leave the double extrusion clock"
 
 # 8cd994c8f53d47c8acfdd5cb5f8bf7b8
-#: ../../source/mm1.rst:2605
+#: ../../source/mm1.rst:2607
 msgid "Desmontamos el modulo de la cruz"
 msgstr "Dismount the module of the cross."
 
 # fd3b0e2630cb4c21880e0b905c7c469c
-#: ../../source/mm1.rst:2611
+#: ../../source/mm1.rst:2613
 msgid "Vamos a desarmar el Módulo, para poder llegar a la boquilla."
 msgstr "Lets disasemble the módule, to get access to the noozle."
 
 # 864bffb01c444a0a90aadd212fe4e338
-#: ../../source/mm1.rst:2615
+#: ../../source/mm1.rst:2617
 msgid ""
 "Primero debemos retirar los tornillos que sujetan la pieza plástica del "
 "sensor inductivo, estos tornillos se retiran con ayuda de una llave allen"
@@ -4641,7 +4599,7 @@ msgstr ""
 " sensor, these screws must be removed using a 2.5mm allen wrench "
 
 # 17f393f12da747a9ac8cb67c49e8491e
-#: ../../source/mm1.rst:2621
+#: ../../source/mm1.rst:2623
 msgid ""
 "Después vamos a retirar los tornillos que sujetan el MDF al módulo, son "
 "los que se muestran en círculos rojos, son 3 de la parte inferior y 2 de "
@@ -4652,7 +4610,7 @@ msgstr ""
 "the top part. use a 2.5mm allen wrench"
 
 # 64a17f24ea3d4e91bdf1b5da58365d93
-#: ../../source/mm1.rst:2630
+#: ../../source/mm1.rst:2632
 msgid ""
 "Vamos a remover el MDF para poder liberar la boquilla se retira  "
 "girándolo hacia afuera. Esto para poder llegar a ala parte donde se "
@@ -4662,7 +4620,7 @@ msgstr ""
 " hold the MDF with the tumb and index finger."
 
 # bdc33fc8e135469d980aa532e4dd375f
-#: ../../source/mm1.rst:2637
+#: ../../source/mm1.rst:2639
 msgid ""
 "Ya que tenemos el MDF en la posición que se muestra solo resta empujarlo "
 "como indica la flecha esto para que pueda liberarse la boquilla y así "
@@ -4672,14 +4630,14 @@ msgstr ""
 "the row to release the nozzle and make easier to clean it up."
 
 # 3316e58f58624616a9cd71f5ae53a026
-#: ../../source/mm1.rst:2644
+#: ../../source/mm1.rst:2646
 msgid ""
 "Cuando este libre el MDF con mucho cuidado vamos a retirar la boquilla "
 "por el orificio mas grande del MDF."
 msgstr "Be very careful to remove the noozle trough the biggest hole of the MDF."
 
 # 2ce17504057c4b2c8938f52c98bacce3
-#: ../../source/mm1.rst:2652
+#: ../../source/mm1.rst:2654
 msgid ""
 "Vamos a retirar el Conector Neumático de la boquilla, en  este paso vamos"
 " a sujetar la boquilla con mucho cuidado, con unas pinzas mecánicas, "
@@ -4690,7 +4648,7 @@ msgstr ""
 "unscrew the connector."
 
 # 90b22423d1e745478767e4fb138b22a2
-#: ../../source/mm1.rst:2661
+#: ../../source/mm1.rst:2663
 msgid ""
 "Vamos a conectar el ventilador pequeño a la impresora y también el "
 "conector de 6 pines para poder calentar la boquilla."
@@ -4699,14 +4657,14 @@ msgstr ""
 "up the noozle."
 
 # afa27ca468674702b78315fed8d16af6
-#: ../../source/mm1.rst:2666
+#: ../../source/mm1.rst:2668
 msgid ""
 "Después de conectar el módulo encendemos la impresora para mandar a "
 "calentar la boquilla"
 msgstr "After we connevt gthe module, turn on the printer."
 
 # 35309905770741c9ada6f17e16672d5e
-#: ../../source/mm1.rst:2672
+#: ../../source/mm1.rst:2674
 msgid ""
 "Pues bien utilizando la pantalla vamos a mandar a calentar la boquilla, "
 "según el material que este atascado  es decir si es PLA podemos colocar a"
@@ -4718,7 +4676,7 @@ msgstr ""
 "temperature is 220°C to 230°C."
 
 # aa21316070d34c46ad0b729cafea8c55
-#: ../../source/mm1.rst:2677
+#: ../../source/mm1.rst:2679
 msgid ""
 "En el ejemplo es PLA y para este caso utilizamos una temperatura de "
 "207°C. Una vez que esta caliente la boquilla la sujetaremos de la parte "
@@ -4728,7 +4686,7 @@ msgstr ""
 " hold the noozle with the pliers."
 
 # c862e6d8a24c4651bc01d5c9101bfbdb
-#: ../../source/mm1.rst:2683
+#: ../../source/mm1.rst:2685
 msgid ""
 "Ya que esta caliente con ayuda de una broca de 3mm la vamos a introducir "
 "dentro de la boquilla y con nuestras manos vamos a girar la broca, sin "
@@ -4740,7 +4698,7 @@ msgstr ""
 "the drill tip."
 
 # 41dcf766a9044af2b7e59824b92bf40e
-#: ../../source/mm1.rst:2692
+#: ../../source/mm1.rst:2694
 msgid ""
 "Esta parte podemos realizar la tecnica las veces que sean necesarias "
 "hasta que ya no tengan residuos la boquilla ."
@@ -4749,14 +4707,14 @@ msgstr ""
 "noozle."
 
 # d28105df19ff4d9c8ffde533ac693196
-#: ../../source/mm1.rst:2695
+#: ../../source/mm1.rst:2697
 msgid ""
 "Después de haber hecho esto con la broca procedemos a limpiar la punta de"
 " la boquilla con un cabello de cobre de un cable calibre 14 o 12."
 msgstr "Now we clean the end of the noozle with a thead of a 12 or 14 cupper wire."
 
 # a4ad8ba9ea044043979cbfcb70bac430
-#: ../../source/mm1.rst:2700
+#: ../../source/mm1.rst:2702
 msgid ""
 "En esta parte también podemos introducir varias veces el cable dentro de "
 "la punta."
@@ -4765,7 +4723,7 @@ msgstr ""
 "noozle."
 
 # 9349477ad6c6482099c425b52488934f
-#: ../../source/mm1.rst:2706
+#: ../../source/mm1.rst:2708
 msgid ""
 "Después de limpiar y remover los residuos con la broca y el cable de "
 "cobre, haremos una purga con el filamento así como lo hicimos en el paso "
@@ -4782,7 +4740,7 @@ msgstr ""
 " not black dots of carbonized filament in the piece."
 
 # c80ecac58d2b42de81e83b3dc0ebae00
-#: ../../source/mm1.rst:2715
+#: ../../source/mm1.rst:2717
 msgid ""
 "Después de hacer esta purga podemos observar que nuestra boquilla esta "
 "limpia y que tiene un escape de material libre."
@@ -4791,7 +4749,7 @@ msgstr ""
 " out freely."
 
 # 18377a7368074a318afb1fd260d9ea98
-#: ../../source/mm1.rst:2722
+#: ../../source/mm1.rst:2724
 msgid ""
 "Una vez que esta destapada la boquilla apagamos sacamos el trozo de "
 "filamento, apagamos la impresora durante unos tres segundos y volvemos a "
@@ -4804,12 +4762,12 @@ msgstr ""
 " reached room temperature assemble the module as originally."
 
 # 6e9ea68174584aba8aacdd4e9f6cdf58
-#: ../../source/mm1.rst:2727
+#: ../../source/mm1.rst:2729
 msgid "Colocamos el conector neumático"
 msgstr "Screw the neumatic connector"
 
 # 3d76446e8e9a4e0bbc62b6b41cf5fe8c
-#: ../../source/mm1.rst:2731
+#: ../../source/mm1.rst:2733
 msgid ""
 "Colocamos el MDF en la boquilla, asegurate de que entre en la ranura mas "
 "pequeña para que se mantenga fija la boquilla."
@@ -4818,7 +4776,7 @@ msgstr ""
 "the noozle"
 
 # 6910b0ddda99400891b5788a0cb25b58
-#: ../../source/mm1.rst:2736
+#: ../../source/mm1.rst:2738
 msgid ""
 "Colocamos la boquilla en el orificio de la pieza plástica y giramos el "
 "MDF como estaba al principio."
@@ -4827,7 +4785,7 @@ msgstr ""
 "original position."
 
 # 6f1388c77e134c6bb8d6b8f52f455f17
-#: ../../source/mm1.rst:2742
+#: ../../source/mm1.rst:2744
 msgid ""
 "Por ultimo colocamos los 5 tornillos que retiramos  para poder fijar el "
 "MDF con la pieza plástica. El sensor inductivo y listo nuestro modulo "
@@ -4837,17 +4795,17 @@ msgstr ""
 "inductive sensor ans then the mdule will be ready. to use"
 
 # e44adcc85302449185cb5ddcbf8bf269
-#: ../../source/mm1.rst:2748
+#: ../../source/mm1.rst:2750
 msgid "Calibración de la cama automático"
 msgstr "Automatic bed calibration"
 
 # f8bf5c0a194c47569f2e5fe013acf0af
-#: ../../source/mm1.rst:2750
+#: ../../source/mm1.rst:2752
 msgid "¿Has tenido problemas de calibración en su plataforma de impresión?"
 msgstr "Have you had calibration problems with your printing plate?"
 
 # 9e0114fc9a7143319a19021e074d0b8d
-#: ../../source/mm1.rst:2752
+#: ../../source/mm1.rst:2754
 msgid ""
 "Uno de los problemas más tediosos al tener una impresora 3D es la "
 "calibración o nivelación de la plataforma de impresión, que generalmente,"
@@ -4860,7 +4818,7 @@ msgstr ""
 "of all the springs to get it well calibrated."
 
 # 23cb3fbcd45645e8a361f45ad04a62e7
-#: ../../source/mm1.rst:2759
+#: ../../source/mm1.rst:2761
 msgid ""
 "La solución para este problema es que la impresora 3D se auto nivele de "
 "manera automática durante la impresión, esto se logra modificando el "
@@ -4870,7 +4828,7 @@ msgstr ""
 " get this you have to modify the Gcode of the model to print."
 
 # 22e189e934c1407983ebdd478c8f87d1
-#: ../../source/mm1.rst:2763
+#: ../../source/mm1.rst:2765
 msgid ""
 "Lo primero es conocer su equipo de impresión 3D, conocer el área de "
 "trabajo, ya que auto nivelación se da en algunos puntos que están por "
@@ -4881,12 +4839,12 @@ msgstr ""
 "firmware."
 
 # 5db90ac25f6f4e0f98d831fb05c1588e
-#: ../../source/mm1.rst:2766
+#: ../../source/mm1.rst:2768
 msgid "Firmware Marlin"
 msgstr "Marlin Firmware"
 
 # bac7c883cfa743c4b211219bcfd7be22
-#: ../../source/mm1.rst:2768
+#: ../../source/mm1.rst:2770
 msgid ""
 "El Firmware Marlin es el programa informático que establece la lógica de "
 "más bajo nivel que controla los circuitos electrónicos de la impresora "
@@ -4902,7 +4860,7 @@ msgstr ""
 "printer."
 
 # 5b0cbdd697ca4021b50df1aaab74f7b6
-#: ../../source/mm1.rst:2774
+#: ../../source/mm1.rst:2776
 msgid ""
 "Todos los Firmware Marlin están divididos en casi 50 secciones o "
 "pestañas, la pestaña que se modificará será la configuration.h. Esta "
@@ -4920,21 +4878,21 @@ msgstr ""
 "dimentions, these are defined in the Mechanical Settings section"
 
 # 22a7fc81c761446c9dc9f054ef2b4415
-#: ../../source/mm1.rst:2782
+#: ../../source/mm1.rst:2784
 msgid ""
 "En este ejemplo la impresora a usar tiene un área de trabajo de "
 "400x400x350 milímetros."
 msgstr "In this example the printer has a working area of 400x400x350 milímeters."
 
 # 14b2d893003e4358a0529fa9514a840e
-#: ../../source/mm1.rst:2787
+#: ../../source/mm1.rst:2789
 msgid ""
 "Una vez definida el área de trabajo se procede a definir los puntos de "
 "nivelación."
 msgstr "Once you define the working area you have t define the leveling points"
 
 # a392c21a150a4d27a093a31fcab00073
-#: ../../source/mm1.rst:2790
+#: ../../source/mm1.rst:2792
 msgid ""
 "En el firmware Marlin se tiene por defecto que son tres puntos para la "
 "nivelación, como ya se mencionó está modificación se hará en la sección "
@@ -4950,7 +4908,7 @@ msgstr ""
 "for the 3 points:"
 
 # 38b383284f654b8daf0d0bd6fcf97a02
-#: ../../source/mm1.rst:2800
+#: ../../source/mm1.rst:2802
 msgid ""
 "Las coordenadas de los puntos no deben exceder el área de trabajo, ya que"
 " se puede tener accidentes."
@@ -4959,7 +4917,7 @@ msgstr ""
 "are to avoid accidents."
 
 # e354a5b61dfa4448b07e42bc26f48d70
-#: ../../source/mm1.rst:2803
+#: ../../source/mm1.rst:2805
 msgid ""
 "Por último se configura la velocidad de auto nivelación, una velocidad "
 "moderada es de 1500 mm/min la cual se obtuvo mediante varias pruebas, la "
@@ -4969,12 +4927,12 @@ msgstr ""
 "1500 mm/min. this is defined under the coordinates config."
 
 # de1598c53a804dd086ea8f5b091c1a17
-#: ../../source/mm1.rst:2809
+#: ../../source/mm1.rst:2811
 msgid "Ahora sólo se carga este Marlin a la impresora 3D."
 msgstr "Now just load the modified Marlin to the 3D printer."
 
 # e269f7d3718a404a98fd94697e00f794
-#: ../../source/mm1.rst:2811
+#: ../../source/mm1.rst:2813
 msgid ""
 "Una vez configurado el Marlin se procede a configurar el código G, esto "
 "se hace mediante un software libre, en este ejemplo el software CURA."
@@ -4983,12 +4941,12 @@ msgstr ""
 "use the free software CURA."
 
 # b5e0828d2ab74f4db8e5770113e35042
-#: ../../source/mm1.rst:2814
+#: ../../source/mm1.rst:2816
 msgid "Configuración en el Software CURA"
 msgstr "Configuration of Cura software"
 
 # b7f9f67285124b63a5ce5050f2eea8a9
-#: ../../source/mm1.rst:2818
+#: ../../source/mm1.rst:2820
 msgid ""
 "Para la auto calibración es necesario hacer una modificación en el "
 "Software CURA (software que genera código G mediante modelos 3D)."
@@ -4997,7 +4955,7 @@ msgstr ""
 "leveling feature (The software to converts a 3D model to Gcode)."
 
 # eae8182dec89487f93f76372efb90e57
-#: ../../source/mm1.rst:2821
+#: ../../source/mm1.rst:2823
 msgid ""
 "1.- Una vez que haya iniciado el programa, asegúrese de tener "
 "seleccionada la impresora con la que va a trabajar. Para seleccionar su "
@@ -5010,7 +4968,7 @@ msgstr ""
 "added your printer press \"Add new machine\" and configure it."
 
 # 7e517e4630884166a67e378feb5d29bb
-#: ../../source/mm1.rst:2829
+#: ../../source/mm1.rst:2831
 msgid ""
 "2.- Lo siguiente es seleccionar su pieza a imprimir y acomodar los "
 "parámetros de impresión a sus necesidades (los parámetros de impresión "
@@ -5023,7 +4981,7 @@ msgstr ""
 "GCode\" tab and select \"start.gcode\"."
 
 # 88520b9b49bc4c519ccd087f5b3081ff
-#: ../../source/mm1.rst:2836
+#: ../../source/mm1.rst:2838
 msgid ""
 "3.- Al haber realizado el paso anterior, se encontrará con la primera "
 "parte del código G de su pieza en la parte media inferior izquierda de su"
@@ -5036,7 +4994,7 @@ msgstr ""
 "thaat says “G1 Z15.0 F” the new line must say \"G29\"."
 
 # 426e7201397c4906b52977685603bf5c
-#: ../../source/mm1.rst:2843
+#: ../../source/mm1.rst:2845
 msgid ""
 "4.- Ahora simplemente se guarda el código en la memoria SD presionando el"
 " botón de Save Toolpath y ya se tendrá el código G con auto nivelación en"
@@ -5068,4 +5026,80 @@ msgstr ""
 #~ "dual extrusion tumber, if it is "
 #~ "unplugged it will be impossible to "
 #~ "print."
+
+# 2d97f256c4f3469f8af4ec6387c52131
+#~ msgid ""
+#~ "Si solo esta conectado el módulo "
+#~ "sencillo y el seguro  no esta "
+#~ "conectado, al encender la impresora te"
+#~ " marcara Error minitemp (impresoras "
+#~ "anteriores a la 198). A partir de"
+#~ " la impresora con número de serie "
+#~ "198, el seguro de doble extrusor "
+#~ "ya no es necesario ni se incluye"
+#~ " en el equipo ni en ninguno de"
+#~ " los     módulos, ya que se ha "
+#~ "logrado incluir esta característica en "
+#~ "el firmware de la tarjeta controladora;"
+#~ " si el número de tu equipo es"
+#~ " anterior al mencionado y deseas "
+#~ "actualizar el firmware, puedes ponerte "
+#~ "en contacto con el equipo de "
+#~ "soporte a traves de nuestro `foro "
+#~ "<http://makermex.com/forum>`_ ."
+#~ msgstr ""
+#~ "If the single module is connected "
+#~ "and the dual extrusion tumbler is "
+#~ "unplugged, a mintemp error will appear."
+#~ " (printers before serial number 198). "
+#~ "From the 3D printer with serial "
+#~ "number 198 and above, dual extrusion "
+#~ "tumbler is not necessary for the "
+#~ "machine or any module, and is not"
+#~ " included, this feature is now "
+#~ "included in the controller firmware; if"
+#~ " the serial number of your machine"
+#~ " is lower than 198 and you want"
+#~ " to update the firmware please "
+#~ "contact our support team via the "
+#~ "`forum <http://makermex.com/forum>`_ ."
+
+# 76b7483a8f864e57b73ec79fa839ef61
+#~ msgid ""
+#~ "Cuando imprimimos con este modulo es "
+#~ "muy importante tener conectado el seguro"
+#~ " de doble extrusora, si este seguro"
+#~ " no se conecta es imposible realizar"
+#~ " la impresión (impresoras anteriores a "
+#~ "la 198). A partir de la impresora"
+#~ " con número de serie 198, el "
+#~ "seguro de doble extrusor ya no es"
+#~ " necesario ni se incluye en el "
+#~ "equipo ni en ninguno de los     "
+#~ "módulos, ya que se ha logrado "
+#~ "incluir esta característica en el "
+#~ "firmware de la tarjeta controladora; si"
+#~ " el número de tu equipo es "
+#~ "anterior al mencionado y deseas "
+#~ "actualizar el firmware, puedes ponerte "
+#~ "en contacto con el equipo de "
+#~ "soporte a traves de nuestro `foro "
+#~ "<http://makermex.com/forum>`_ ."
+#~ msgstr ""
+#~ "When we print with this module is"
+#~ " important to plug the dual extrusion"
+#~ " tumbler, if the tumbler is not "
+#~ "connected it won't be impossible to "
+#~ "print (printers with serial number lower"
+#~ " than 198). From the 3D printer "
+#~ "with serial number 198 and above, "
+#~ "dual extrusion tumbler is not necessary"
+#~ " for the machine or any module, "
+#~ "and is not included, this feature "
+#~ "is now included in the controller "
+#~ "firmware; if the serial number of "
+#~ "your machine is lower than 198 and"
+#~ " you want to update the firmware "
+#~ "please contact our support team via "
+#~ "the `forum <http://makermex.com/forum>`_ ."
 
