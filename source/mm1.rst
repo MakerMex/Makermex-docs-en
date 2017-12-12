@@ -55,7 +55,13 @@ General
     f) Guía de cables V
 
 .. Note::
-    A partir de la impresora con número de serie 198, el seguro de doble extrusor ya no es necesario ni se incluye en el equipo ni en ninguno de los módulos, ya que se ha logrado incluir esta característica en el firmware de la tarjeta controladora; si el número de tu equipo es anterior al mencionado y deseas actualizar el firmware, puedes ponerte en contacto con el equipo de soporte a traves de nuestro `foro <http://makermex.com/forum>`_ .
+
+    From the 3D printer with serial number 198 and above, dual extrusion 
+    tumbler is not necessary for the machine or any module, and is not 
+    included, this feature is now included in the controller firmware; if the
+    serial number of your machine is lower than 198 and you want to update
+    the firmware please contact our support team via the `forum <http://makermex.com/forum>`_ .
+
 
 .. figure:: /imagenes/mm3.png
 
@@ -635,8 +641,12 @@ doble se retira.
       al encender la impresora te marcara Error minitemp (impresoras anteriores a la 198).
 
 .. Note::
-      A partir de la impresora con número de serie 198, el seguro de doble extrusor ya no es necesario ni se incluye en el equipo ni en ninguno de los módulos, ya que se ha logrado incluir esta característica en el firmware de la tarjeta controladora; si el número de tu equipo es anterior al mencionado y deseas actualizar el firmware, puedes ponerte en contacto con el equipo de soporte a traves de nuestro `foro <http://makermex.com/forum>`_ .
 
+From the 3D printer with serial number 198 and above, dual extrusion 
+tumbler is not necessary for the machine or any module, and is not 
+included, this feature is now included in the controller firmware; if the
+ serial number of your machine is lower than 198 and you want to update 
+the firmware please contact our support team via the `forum <http://makermex.com/forum>`_ .
 
 .. figure:: /imagenes/D.JPG
 
@@ -695,7 +705,12 @@ necesario conectarlo de esta forma.
     la impresión (impresoras anteriores a la 198).
 
 .. Note::
-    A partir de la impresora con número de serie 198, el seguro de doble extrusor ya no es necesario ni se incluye en el equipo ni en ninguno de los módulos, ya que se ha logrado incluir esta característica en el firmware de la tarjeta controladora; si el número de tu equipo es anterior al mencionado y deseas actualizar el firmware, puedes ponerte en contacto con el equipo de soporte a traves de nuestro `foro <http://makermex.com/forum>`_ .
+
+    From the 3D printer with serial number 198 and above, dual extrusion 
+    tumbler is not necessary for the machine or any module, and is not 
+    included, this feature is now included in the controller firmware; if the
+    serial number of your machine is lower than 198 and you want to update
+    the firmware please contact our support team via the `forum <http://makermex.com/forum>`_ .
 
     .. figure:: /imagenes/mm5.png
 
@@ -2382,7 +2397,12 @@ que los cables deben de pasar por encima de los perfiles superiores.
                         .. figure:: /imagenes/m1p25.jpg
 
 .. Note::
-    A partir de la impresora con número de serie 198, el seguro de doble extrusor ya no es necesario ni se incluye en el equipo ni en ninguno de los  módulos, ya que se ha logrado incluir esta característica en el firmware de la tarjeta controladora; si el número de tu equipo es anterior al mencionado y deseas actualizar el firmware, puedes ponerte en contacto con el equipo de soporte a traves de nuestro `foro <http://makermex.com/forum>`_ .
+
+    From the 3D printer with serial number 198 and above, dual extrusion 
+    tumbler is not necessary for the machine or any module, and is not 
+    included, this feature is now included in the controller firmware; if the
+    serial number of your machine is lower than 198 and you want to update
+    the firmware please contact our support team via the `forum <http://makermex.com/forum>`_ .
 
 Paso 6
 
@@ -2602,7 +2622,11 @@ Solo se dejara conectado el seguro de doble extrusora.
 
 .. Note::
 
-    A partir de la impresora con número de serie 198, el seguro de doble extrusor ya no es necesario ni se incluye en el equipo ni en ninguno de los módulos, ya que se ha logrado incluir esta característica en el firmware de la tarjeta controladora; si el número de tu equipo es anterior al mencionado y deseas actualizar el firmware, puedes ponerte en contacto con el equipo de soporte a traves de nuestro `foro <http://makermex.com/forum>`_ .
+    From the 3D printer with serial number 198 and above, dual extrusion 
+    tumbler is not necessary for the machine or any module, and is not 
+    included, this feature is now included in the controller firmware; if the
+    serial number of your machine is lower than 198 and you want to update
+    the firmware please contact our support team via the `forum <http://makermex.com/forum>`_ .
 
 Desmontamos el modulo de la cruz
 
